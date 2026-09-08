@@ -486,28 +486,6 @@
   "company": "TikTok",
   "company_url": null,
   "date_posted": null,
-  "experience": null,
-  "first_seen": 1788825600,
-  "id": "345ab591ccf9",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "LLM Agents Platform R&D Graduate (AI Innovation Center) - 2027 Start (PhD)",
-  "url": "https://lifeattiktok.com/search/7677848679684655413"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
   "experience": 2,
   "first_seen": 1788825600,
   "id": "bf6bf3aeb7c7",
@@ -924,6 +902,95 @@
  {
   "active": true,
   "category": "AI/ML/Data",
+  "company": "OneMain Financial",
+  "company_url": "https://simplify.jobs/c/OneMain-Financial",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "4e9036a943ee",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Charlotte, NC",
+   "Wilmington, DE"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Science Analyst",
+  "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405"
+ },
+ {
+  "active": true,
+  "category": "Software",
+  "company": "Accora",
+  "company_url": "https://simplify.jobs/c/Accora",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "77c4eb65ece1",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Orwell, Royston, UK"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Graduate Technology & AI Engineer",
+  "url": "https://apply.workable.com/accora/j/4A8BA0A44E/apply"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Jobgether",
+  "company_url": "https://jobgether.com/home",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "38d5fe4e44b5",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist Talent Network",
+  "url": "https://jobs.lever.co/jobgether/fa798486-a9a6-46cc-9eeb-c13c41c36294"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "TD Bank",
+  "company_url": "https://td.com/",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "df16b98dea57",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI2 Applied Machine Learning Scientist - Graduate",
+  "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
   "company": "Arcadis",
   "company_url": "https://simplify.jobs/c/Arcadis",
   "date_posted": 1788739200,
@@ -982,11 +1049,13 @@
    "Peoria, IL",
    "Chicago, IL",
    "Mossville, IL",
-   "Irving, TX"
+   "Irving, TX",
+   "Chicago, IL +3"
   ],
   "salary": null,
   "sources": [
-   "simplify"
+   "simplify",
+   "speedyapply"
   ],
   "tier": "other",
   "title": "Data Scientist / Technical Analyst",
@@ -995,9 +1064,119 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "Bosch",
+  "company_url": "https://www.bosch.com/",
+  "date_posted": 1788739200,
+  "experience": null,
+  "first_seen": 1788739200,
+  "id": "b0ff75a153fa",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Telengana, IN"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Engineer_MS",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147834699-ai-ml-engineer-ms?oga=true"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "OMERS",
+  "company_url": "https://www.omers.com/",
+  "date_posted": 1788739200,
+  "experience": null,
+  "first_seen": 1788739200,
+  "id": "89ac96314fbf",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Student - AI/ML Engineer - Winter 2027 - 8 Months",
+  "url": "https://omers.wd3.myworkdayjobs.com/en-US/omers_external/job/Toronto-Ontario/Student--AI-ML-Engineer--Winter-2027--8-Months-_JR-8403"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "SIXT",
+  "company_url": "https://www.sixt.com/",
+  "date_posted": 1788739200,
+  "experience": null,
+  "first_seen": 1788739200,
+  "id": "70e67622d3fe",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Lisbon, Portugal"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - OR - Revenue Management & Fleet Optimization - m/f/d",
+  "url": "https://jobs.smartrecruiters.com/SIXT/744000147863000-data-scientist-or-revenue-management-fleet-optimization-m-f-d-?oga=true"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "TransUnion",
+  "company_url": "https://www.transunion.com",
+  "date_posted": 1788739200,
+  "experience": null,
+  "first_seen": 1788739200,
+  "id": "db68e8135039",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - Heredia, Costa Rica"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Analyst - Data Science and Analytics",
+  "url": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19042156-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Walt Disney",
+  "company_url": "https://www.disneycareers.com/",
+  "date_posted": 1788739200,
+  "experience": null,
+  "first_seen": 1788739200,
+  "id": "8c9cdf33b7b6",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Z\u00fcrich, Switzerland"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Research Scientist",
+  "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Zrich-Switzerland/Associate-Research-Scientist_10158229"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "OmegaHires",
   "company_url": "http://omegahires.com/",
-  "date_posted": 1788652800,
+  "date_posted": 1788566400,
   "experience": null,
   "first_seen": 1788652800,
   "id": "6d23b6ae49f1",
@@ -1019,7 +1198,7 @@
   "category": "AI/ML",
   "company": "Syneos Health",
   "company_url": "https://www.syneoshealth.com/",
-  "date_posted": 1788652800,
+  "date_posted": 1788566400,
   "experience": null,
   "first_seen": 1788652800,
   "id": "104fd8565bfc",
@@ -1033,227 +1212,6 @@
   "tier": "other",
   "title": "Data Scientist I- Hyderabad - Hybrid- Second Shift",
   "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/syneos_health_external_site/job/IND-Hyderabad-Hybrid/Data-Scientist-I--Hyderabad--Hybrid---Second-Shift_25110422"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Snowflake",
-  "company_url": "https://simplify.jobs/c/Snowflake",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "328e35b89b83",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
-  "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Booz Allen",
-  "company_url": "https://www.boozallen.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "195b5026ba35",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Fort Meade, MD +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0248785"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "PayPal",
-  "company_url": "https://www.paypal.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "1fa7ccb7b85b",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "PayPal",
-  "company_url": "https://www.paypal.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "8babfbc9fa4a",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer",
-  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Rocket Companies",
-  "company_url": "https://rocketcompanies.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "bd3ceeed97d1",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Detroit, MI"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "MLOps Engineer",
-  "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Machine-Learning-Engineer_R-081566"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "SpaceX",
-  "company_url": "https://www.spacex.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "26571142efae",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - Starlink",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Voya Financial",
-  "company_url": "https://www.voya.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "81fdf6f0a636",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "New York City, NY"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Quantitative Research Analyst",
-  "url": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/AVP-Quantitative-Research-Analyst_JR0031863"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Akuna Capital",
-  "company_url": "https://akunacapital.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "0f9d437a0751",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Shanghai, China"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Junior Quantitative Researcher - Deep Learning - Time Series",
-  "url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "BBVA",
-  "company_url": "https://www.bbva.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "abf30c4a8a4c",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Lima, Peru"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "DATA SCIENTIST ASSOCIATE I",
-  "url": "https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00114046-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "IQVIA",
-  "company_url": "https://www.iqvia.com",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "191b2fc2b688",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Warsaw, Poland"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior Machine Learning Engineer",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Warsaw-Poland/Junior-Machine-Learning-Engineer_R1556633"
  },
  {
   "active": true,
@@ -1279,10 +1237,231 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Snowflake",
+  "company_url": "https://simplify.jobs/c/Snowflake",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "328e35b89b83",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
+  "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Booz Allen",
+  "company_url": "https://www.boozallen.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "195b5026ba35",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Fort Meade, MD +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0248785"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "PayPal",
+  "company_url": "https://www.paypal.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "1fa7ccb7b85b",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "PayPal",
+  "company_url": "https://www.paypal.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "8babfbc9fa4a",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Rocket Companies",
+  "company_url": "https://rocketcompanies.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "bd3ceeed97d1",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Detroit, MI"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "MLOps Engineer",
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Machine-Learning-Engineer_R-081566"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "SpaceX",
+  "company_url": "https://www.spacex.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "26571142efae",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - Starlink",
+  "url": "https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Voya Financial",
+  "company_url": "https://www.voya.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "81fdf6f0a636",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "New York City, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Research Analyst",
+  "url": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/AVP-Quantitative-Research-Analyst_JR0031863"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Akuna Capital",
+  "company_url": "https://akunacapital.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "0f9d437a0751",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Shanghai, China"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Junior Quantitative Researcher - Deep Learning - Time Series",
+  "url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "BBVA",
+  "company_url": "https://www.bbva.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "abf30c4a8a4c",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Lima, Peru"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "DATA SCIENTIST ASSOCIATE I",
+  "url": "https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00114046-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "IQVIA",
+  "company_url": "https://www.iqvia.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "first_seen": 1788566400,
+  "id": "191b2fc2b688",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Warsaw, Poland"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Junior Machine Learning Engineer",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Warsaw-Poland/Junior-Machine-Learning-Engineer_R1556633"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "VF Corporation",
   "company_url": "https://www.vfc.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "first_seen": 1788566400,
   "id": "0897d9cd0899",
@@ -1387,72 +1566,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Caterpillar",
-  "company_url": "https://www.caterpillar.com",
-  "date_posted": 1788480000,
-  "experience": null,
-  "first_seen": 1788480000,
-  "id": "0492f7d75643",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Illinois, USA +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Autonomy and Robotics Engineer",
-  "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Mossville-Illinois/Autonomy-and-Robotics-Engineer_R0000392427"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Handshake",
-  "company_url": "https://joinhandshake.com/",
-  "date_posted": 1788480000,
-  "experience": null,
-  "first_seen": 1788480000,
-  "id": "df2ff0927b46",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Forward Deployed Engineer - Handshake AI Enterprise",
-  "url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Harman",
-  "company_url": "https://www.harman.com",
-  "date_posted": 1788480000,
-  "experience": null,
-  "first_seen": 1788480000,
-  "id": "19f56a5b6fdf",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bengaluru, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Engineer - AI/ML",
-  "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate---Agentic-AI--_R-54476-2026"
- },
- {
-  "active": true,
   "category": null,
   "company": "Decagon",
   "company_url": null,
@@ -1494,6 +1607,72 @@
   "tier": "other",
   "title": "Research Engineer, Audio and Speech",
   "url": "https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4/application"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Caterpillar",
+  "company_url": "https://www.caterpillar.com",
+  "date_posted": 1788393600,
+  "experience": null,
+  "first_seen": 1788480000,
+  "id": "0492f7d75643",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Illinois, USA +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Autonomy and Robotics Engineer",
+  "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Mossville-Illinois/Autonomy-and-Robotics-Engineer_R0000392427"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Handshake",
+  "company_url": "https://joinhandshake.com/",
+  "date_posted": 1788393600,
+  "experience": null,
+  "first_seen": 1788480000,
+  "id": "df2ff0927b46",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Forward Deployed Engineer - Handshake AI Enterprise",
+  "url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Harman",
+  "company_url": "https://www.harman.com",
+  "date_posted": 1788393600,
+  "experience": null,
+  "first_seen": 1788480000,
+  "id": "19f56a5b6fdf",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Bengaluru, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Engineer - AI/ML",
+  "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate---Agentic-AI--_R-54476-2026"
  },
  {
   "active": true,
@@ -1614,116 +1793,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "Horizon Media",
-  "company_url": "https://www.horizonmedia.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "7a766f3adb9c",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "New York City, NY"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate - Data Science",
-  "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/careeropportunities/job/New-York-New-York/Associate--Data-Science_R0017491"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Huron",
-  "company_url": "https://www.huronconsultinggroup.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "6658996ac3ed",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Chicago, IL +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Forward Deployed Engineer Associate - AI Capability Center - 2 Openings",
-  "url": "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "M9 Solutions",
-  "company_url": "https://m9solutions.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "0001dd148a31",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ft. Belvoir, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Jr. Federal AI Engineer",
-  "url": "https://job-boards.greenhouse.io/m9solutions/jobs/5227236007"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Pfizer",
-  "company_url": "https://www.pfizer.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "c0e9e9a64ca2",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Massachusetts, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Translational AI Engineer",
-  "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/pfizercareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Schreiber Foods",
-  "company_url": "https://www.schreiberfoods.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "9beda0e2e9b7",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Green Bay, WI"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist",
-  "url": "https://schreiberfoods.wd115.myworkdayjobs.com/en-US/schreiber_careers/job/Green-Bay-WI/Research-Scientist_R0037413-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "Simple AI",
   "company_url": "https://www.usesimple.ai/",
   "date_posted": 1788393600,
@@ -1746,9 +1815,119 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "Horizon Media",
+  "company_url": "https://www.horizonmedia.com",
+  "date_posted": 1788307200,
+  "experience": null,
+  "first_seen": 1788393600,
+  "id": "7a766f3adb9c",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "New York City, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate - Data Science",
+  "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/careeropportunities/job/New-York-New-York/Associate--Data-Science_R0017491"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Huron",
+  "company_url": "https://www.huronconsultinggroup.com",
+  "date_posted": 1788307200,
+  "experience": null,
+  "first_seen": 1788393600,
+  "id": "6658996ac3ed",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Chicago, IL +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Forward Deployed Engineer Associate - AI Capability Center - 2 Openings",
+  "url": "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "M9 Solutions",
+  "company_url": "https://m9solutions.com",
+  "date_posted": 1788307200,
+  "experience": null,
+  "first_seen": 1788393600,
+  "id": "0001dd148a31",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Ft. Belvoir, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Jr. Federal AI Engineer",
+  "url": "https://job-boards.greenhouse.io/m9solutions/jobs/5227236007"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Pfizer",
+  "company_url": "https://www.pfizer.com",
+  "date_posted": 1788307200,
+  "experience": null,
+  "first_seen": 1788393600,
+  "id": "c0e9e9a64ca2",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Massachusetts, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Translational AI Engineer",
+  "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/pfizercareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Schreiber Foods",
+  "company_url": "https://www.schreiberfoods.com",
+  "date_posted": 1788307200,
+  "experience": null,
+  "first_seen": 1788393600,
+  "id": "9beda0e2e9b7",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Green Bay, WI"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist",
+  "url": "https://schreiberfoods.wd115.myworkdayjobs.com/en-US/schreiber_careers/job/Green-Bay-WI/Research-Scientist_R0037413-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "Insurify",
   "company_url": "https://www.insurify.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "first_seen": 1788393600,
   "id": "0f2c01317d43",
@@ -1770,7 +1949,7 @@
   "category": "AI/ML",
   "company": "MSD",
   "company_url": "https://www.msd.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "first_seen": 1788393600,
   "id": "27ecda5fbdbd",
@@ -1792,7 +1971,7 @@
   "category": "AI/ML",
   "company": "Williams Racing",
   "company_url": "https://www.williamsf1.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "first_seen": 1788393600,
   "id": "cfd4b33bb41d",
@@ -1924,7 +2103,7 @@
   "category": "AI/ML",
   "company": "Creative Artists Agency",
   "company_url": "https://www.caa.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "38f1bf37ed3c",
@@ -1946,7 +2125,7 @@
   "category": "AI/ML",
   "company": "Jerry",
   "company_url": "https://www.jerry.ai/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "587356cc6414",
@@ -1968,7 +2147,7 @@
   "category": "AI/ML",
   "company": "Kaizen Analytix",
   "company_url": "https://www.kaizenanalytix.com/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "75496a1c925e",
@@ -1990,7 +2169,7 @@
   "category": "AI/ML",
   "company": "Leidos",
   "company_url": "https://www.leidos.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "05ec24f912ea",
@@ -2012,7 +2191,7 @@
   "category": "AI/ML",
   "company": "MyFunded Futures",
   "company_url": "https://myfundedfutures.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "e69651f66d50",
@@ -2034,7 +2213,7 @@
   "category": "AI/ML",
   "company": "Airbus",
   "company_url": "https://www.airbus.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "7d3d4c2b8136",
@@ -2054,7 +2233,7 @@
   "category": "AI/ML",
   "company": "American International Group",
   "company_url": "https://www.aig.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "7b4db436a5fc",
@@ -2074,7 +2253,7 @@
   "category": "AI/ML",
   "company": "BBVA",
   "company_url": "https://www.bbva.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "3228cedc49b6",
@@ -2096,7 +2275,7 @@
   "category": "AI/ML",
   "company": "Morgan Stanley",
   "company_url": "https://www.morganstanley.com/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "48f859cacdad",
@@ -2118,7 +2297,7 @@
   "category": "AI/ML",
   "company": "Sportradar",
   "company_url": "https://sportradar.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "5e6a4557eab1",
@@ -2140,7 +2319,7 @@
   "category": "AI/ML",
   "company": "Sportradar",
   "company_url": "https://sportradar.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788307200,
   "id": "659a95267f3c",
@@ -2383,9 +2562,31 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "TensorOps",
+  "company_url": "https://media.licdn.com",
+  "date_posted": 1788220800,
+  "experience": null,
+  "first_seen": 1788220800,
+  "id": "dd20dc2f6ddd",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - Portugal"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Junior - Data Scientist",
+  "url": "https://job-boards.eu.greenhouse.io/tensorops/jobs/4963806101"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "Vertex",
   "company_url": "https://www.vrtx.com",
-  "date_posted": 1788220800,
+  "date_posted": 1788134400,
   "experience": null,
   "first_seen": 1788220800,
   "id": "4ca72f718268",
@@ -2407,7 +2608,7 @@
   "category": "AI/ML",
   "company": "Medline",
   "company_url": "https://www.medline.com",
-  "date_posted": 1788220800,
+  "date_posted": 1788134400,
   "experience": null,
   "first_seen": 1788220800,
   "id": "b108e8bb1d0c",
@@ -2429,7 +2630,7 @@
   "category": "AI/ML",
   "company": "Sanofi",
   "company_url": "https://www.sanofi.com",
-  "date_posted": 1788220800,
+  "date_posted": 1788134400,
   "experience": null,
   "first_seen": 1788220800,
   "id": "b44d9e9f6c13",
@@ -2451,7 +2652,7 @@
   "category": "AI/ML",
   "company": "Sanofi",
   "company_url": "https://www.sanofi.com",
-  "date_posted": 1788220800,
+  "date_posted": 1788134400,
   "experience": null,
   "first_seen": 1788220800,
   "id": "ddce5b93f50e",
@@ -2467,28 +2668,6 @@
   "tier": "other",
   "title": "Pharmaziepraktikantin im Bereich FBC FF NLP Production November 2026",
   "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-FF-NLP-Production-November-2026_R2867448"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TensorOps",
-  "company_url": "https://media.licdn.com",
-  "date_posted": 1788220800,
-  "experience": null,
-  "first_seen": 1788220800,
-  "id": "dd20dc2f6ddd",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - Portugal"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior - Data Scientist",
-  "url": "https://job-boards.eu.greenhouse.io/tensorops/jobs/4963806101"
  },
  {
   "active": true,
@@ -2566,7 +2745,7 @@
   "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1788048000,
+  "date_posted": 1787961600,
   "experience": null,
   "first_seen": 1788048000,
   "id": "a026f865f947",
@@ -2585,52 +2764,6 @@
   "tier": "bigtech",
   "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
   "url": "https://lifeattiktok.com/search/7679156878833682693"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "KLA Corporation",
-  "company_url": "https://simplify.jobs/c/KLA-Corporation",
-  "date_posted": 1787961600,
-  "experience": null,
-  "first_seen": 1787961600,
-  "id": "b619ff2a6ae8",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Milpitas, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Algorithm Engineer",
-  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer_2640167-1"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Solace Health",
-  "company_url": "https://simplify.jobs/c/Solace-Health",
-  "date_posted": 1787961600,
-  "experience": null,
-  "first_seen": 1787961600,
-  "id": "c15f4701ccf8",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Redwood City, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443/application?embed=true"
  },
  {
   "active": true,
@@ -2659,10 +2792,56 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "KLA Corporation",
+  "company_url": "https://simplify.jobs/c/KLA-Corporation",
+  "date_posted": 1787875200,
+  "experience": null,
+  "first_seen": 1787961600,
+  "id": "b619ff2a6ae8",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Milpitas, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Algorithm Engineer",
+  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer_2640167-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Solace Health",
+  "company_url": "https://simplify.jobs/c/Solace-Health",
+  "date_posted": 1787875200,
+  "experience": null,
+  "first_seen": 1787961600,
+  "id": "c15f4701ccf8",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Redwood City, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443/application?embed=true"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Hewlett Packard Enterprise",
   "company_url": "https://hpe.com/",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "first_seen": 1787961600,
   "id": "d5e9b309994e",
@@ -2684,7 +2863,7 @@
   "category": "AI/ML",
   "company": "Vertex",
   "company_url": "https://www.vrtx.com",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "first_seen": 1787961600,
   "id": "8bb409e25888",
@@ -2706,7 +2885,7 @@
   "category": "AI/ML",
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "first_seen": 1787961600,
   "id": "a1a65cd14a32",
@@ -2728,7 +2907,7 @@
   "category": "AI/ML",
   "company": "NXP Semiconductors",
   "company_url": "https://www.nxp.com",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "first_seen": 1787961600,
   "id": "76646ff6dbc9",
@@ -2744,54 +2923,6 @@
   "tier": "other",
   "title": "ML/AI Junior Compiler Engineer",
   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/ML-AI-Junior-Compiler-Engineer_R-10066030"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Gartner",
-  "company_url": "https://simplify.jobs/c/Gartner",
-  "date_posted": 1787875200,
-  "experience": null,
-  "first_seen": 1787875200,
-  "id": "2c71804497d4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Stamford, CT",
-   "Irving, TX",
-   "Stamford, CT +3"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Global Lending Services",
-  "company_url": "https://simplify.jobs/c/Global-Lending-Services",
-  "date_posted": 1787875200,
-  "experience": null,
-  "first_seen": 1787875200,
-  "id": "afb6b5c5d7bd",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Greenville, SC"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - December 2026",
-  "url": "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply"
  },
  {
   "active": true,
@@ -2848,10 +2979,58 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Gartner",
+  "company_url": "https://simplify.jobs/c/Gartner",
+  "date_posted": 1787788800,
+  "experience": null,
+  "first_seen": 1787875200,
+  "id": "2c71804497d4",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Stamford, CT",
+   "Irving, TX",
+   "Stamford, CT +3"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Global Lending Services",
+  "company_url": "https://simplify.jobs/c/Global-Lending-Services",
+  "date_posted": 1787788800,
+  "experience": null,
+  "first_seen": 1787875200,
+  "id": "afb6b5c5d7bd",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Greenville, SC"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - December 2026",
+  "url": "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Idler",
   "company_url": "https://idler.ai/",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "f9b70322b1aa",
@@ -2873,7 +3052,7 @@
   "category": "AI/ML",
   "company": "ING",
   "company_url": "https://www.ing.com/",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "4de4380fa5c3",
@@ -2895,7 +3074,7 @@
   "category": "AI/ML",
   "company": "Republic Services",
   "company_url": "https://www.republicservices.com",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "022efc2c908e",
@@ -2917,7 +3096,7 @@
   "category": "AI/ML",
   "company": "Vertex",
   "company_url": "https://www.vrtx.com",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "45466d8a87b1",
@@ -2939,7 +3118,7 @@
   "category": "AI/ML",
   "company": "dentsu",
   "company_url": "https://www.dentsu.com",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "a3ac0d987505",
@@ -2961,7 +3140,7 @@
   "category": "AI/ML",
   "company": "Roche",
   "company_url": "https://roche.com/",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "first_seen": 1787875200,
   "id": "85451dcc4311",
@@ -2977,54 +3156,6 @@
   "tier": "other",
   "title": "Machine Learning Engineer",
   "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Machine-Learning-Engineer_202608-121795-2"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Embedding VC",
-  "company_url": "https://simplify.jobs/c/Embedding-VC",
-  "date_posted": 1787788800,
-  "experience": null,
-  "first_seen": 1787788800,
-  "id": "4ab2e9a32609",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF",
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Engineer - Early Career",
-  "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Torc Robotics",
-  "company_url": "https://simplify.jobs/c/Torc-Robotics",
-  "date_posted": 1787788800,
-  "experience": null,
-  "first_seen": 1787788800,
-  "id": "ed2b85e06140",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote in USA",
-   "Remote - USA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer - MLOps Framework",
-  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002"
  },
  {
   "active": true,
@@ -3229,10 +3360,58 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Embedding VC",
+  "company_url": "https://simplify.jobs/c/Embedding-VC",
+  "date_posted": 1787702400,
+  "experience": null,
+  "first_seen": 1787788800,
+  "id": "4ab2e9a32609",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "SF",
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI Engineer - Early Career",
+  "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Torc Robotics",
+  "company_url": "https://simplify.jobs/c/Torc-Robotics",
+  "date_posted": 1787702400,
+  "experience": null,
+  "first_seen": 1787788800,
+  "id": "ed2b85e06140",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote in USA",
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer - MLOps Framework",
+  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Equifax",
   "company_url": "https://www.equifax.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "2bf5729feb2c",
@@ -3254,7 +3433,7 @@
   "category": "AI/ML",
   "company": "Exelixis",
   "company_url": "https://www.exelixis.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "34be2ba49b90",
@@ -3276,7 +3455,7 @@
   "category": "AI/ML",
   "company": "GDIT",
   "company_url": "https://www.gdit.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "dc0179f771e0",
@@ -3298,7 +3477,7 @@
   "category": "AI/ML",
   "company": "Lilly",
   "company_url": "https://www.lilly.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "c6e27c19271c",
@@ -3320,7 +3499,7 @@
   "category": "AI/ML",
   "company": "State of Wisconsin Investment Board",
   "company_url": "https://www.swib.state.wi.us/",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "ed838bb3e685",
@@ -3342,7 +3521,7 @@
   "category": "AI/ML",
   "company": "Almedia",
   "company_url": "https://www.almedia.co/",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "first_seen": 1787788800,
   "id": "ca6ca48c3da1",
@@ -3528,9 +3707,33 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1787616000,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "345ab591ccf9",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Singapore",
+   "Singapore, Singapore, Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "ats",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7677848679684655413"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "Astera Institute",
   "company_url": "https://astera.org/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "86041337ea8f",
@@ -3552,7 +3755,7 @@
   "category": "AI/ML",
   "company": "Booz Allen",
   "company_url": "https://www.boozallen.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "42c50c9138c2",
@@ -3574,7 +3777,7 @@
   "category": "AI/ML",
   "company": "Deeter Analytics",
   "company_url": "https://deeteranalytics.com/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "4ea3e90baa10",
@@ -3596,7 +3799,7 @@
   "category": "AI/ML",
   "company": "Flow Traders",
   "company_url": "http://www.flowtraders.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "6e00cd392f05",
@@ -3618,7 +3821,7 @@
   "category": "AI/ML",
   "company": "P&G - Procter & Gamble",
   "company_url": "https://us.pg.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "13a9a8814f83",
@@ -3640,7 +3843,7 @@
   "category": "AI/ML",
   "company": "Bracco",
   "company_url": "https://www.bracco.com/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "a58504950b97",
@@ -3662,7 +3865,7 @@
   "category": "AI/ML",
   "company": "GE HealthCare",
   "company_url": "https://gehealthcare.com/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "first_seen": 1787702400,
   "id": "0f46e821ed74",
@@ -3846,9 +4049,31 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "Emory Healthcare",
+  "company_url": "https://www.emoryhealthcare.org",
+  "date_posted": 1787616000,
+  "experience": null,
+  "first_seen": 1787616000,
+  "id": "7219d6005a1e",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Atlanta, GA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate AI Engineer",
+  "url": "https://non-clinical-emory.icims.com/jobs/170743/associate-ai-engineer/job"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "Carrier",
   "company_url": "https://www.carrier.com",
-  "date_posted": 1787616000,
+  "date_posted": 1787529600,
   "experience": null,
   "first_seen": 1787616000,
   "id": "f6a167d61d2a",
@@ -3870,7 +4095,7 @@
   "category": "AI/ML",
   "company": "Yelp",
   "company_url": "https://www.yelp.careers",
-  "date_posted": 1787616000,
+  "date_posted": 1787529600,
   "experience": null,
   "first_seen": 1787616000,
   "id": "512efcb95406",
@@ -3995,7 +4220,7 @@
   "category": "AI/ML",
   "company": "Applied Intuition",
   "company_url": "https://appliedintuition.com",
-  "date_posted": 1787443200,
+  "date_posted": 1787356800,
   "experience": null,
   "first_seen": 1787443200,
   "id": "1ed5b2d61877",
@@ -4017,7 +4242,7 @@
   "category": "AI/ML/Data",
   "company": "Avalore",
   "company_url": "https://simplify.jobs/c/Avalore",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "first_seen": 1787356800,
   "id": "223578733142",
@@ -4041,7 +4266,7 @@
   "category": "AI/ML",
   "company": "Blackstone",
   "company_url": "https://www.blackstone.com",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "first_seen": 1787356800,
   "id": "e79cb34563c4",
@@ -4063,7 +4288,7 @@
   "category": "AI/ML",
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "first_seen": 1787356800,
   "id": "baf39b48c9f8",
@@ -4085,7 +4310,7 @@
   "category": "AI/ML",
   "company": "The University of Texas at Austin",
   "company_url": "https://www.utexas.edu",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "first_seen": 1787356800,
   "id": "26b1b261b472",
@@ -4105,7 +4330,7 @@
   "category": "AI/ML",
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "first_seen": 1787270400,
   "id": "ddd6fd1dfb22",
@@ -4127,7 +4352,7 @@
   "category": "AI/ML",
   "company": "Accenture",
   "company_url": "https://www.accenture.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "first_seen": 1787270400,
   "id": "6d3f6ac823b4",
@@ -4149,7 +4374,7 @@
   "category": "AI/ML",
   "company": "RELX",
   "company_url": "https://www.relx.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "first_seen": 1787270400,
   "id": "87f6ef19a581",
@@ -4191,30 +4416,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "Seeq",
-  "company_url": "https://simplify.jobs/c/Seeq",
-  "date_posted": 1787184000,
-  "experience": null,
-  "first_seen": 1787184000,
-  "id": "dd7d0d18ec50",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote in USA",
-   "USA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Customer Insights Engineer",
-  "url": "https://apply.workable.com/seeq/j/6F40FF632B/apply"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "Boston Consulting Group",
   "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
   "date_posted": 1787184000,
@@ -4244,29 +4445,6 @@
   "tier": "other",
   "title": "Forward Deployed AI Scientist - Campus",
   "url": "https://careers.bcg.com/global/en/job/59068"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Moderna",
-  "company_url": "https://simplify.jobs/c/Moderna",
-  "date_posted": 1787184000,
-  "experience": null,
-  "first_seen": 1787184000,
-  "id": "5350c2cf5baf",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Cambridge, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - Research",
-  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
  },
  {
   "active": true,
@@ -4382,10 +4560,57 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Seeq",
+  "company_url": "https://simplify.jobs/c/Seeq",
+  "date_posted": 1787097600,
+  "experience": null,
+  "first_seen": 1787184000,
+  "id": "dd7d0d18ec50",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote in USA",
+   "USA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI Customer Insights Engineer",
+  "url": "https://apply.workable.com/seeq/j/6F40FF632B/apply"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Moderna",
+  "company_url": "https://simplify.jobs/c/Moderna",
+  "date_posted": 1787097600,
+  "experience": null,
+  "first_seen": 1787184000,
+  "id": "5350c2cf5baf",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - Research",
+  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Great American Insurance Group",
   "company_url": "https://www.greatamericaninsurancegroup.com",
-  "date_posted": 1787184000,
+  "date_posted": 1787097600,
   "experience": null,
   "first_seen": 1787184000,
   "id": "4d70d2dcb25c",
@@ -4407,7 +4632,7 @@
   "category": "AI/ML",
   "company": "eBay",
   "company_url": "https://www.ebay.com",
-  "date_posted": 1787184000,
+  "date_posted": 1787097600,
   "experience": null,
   "first_seen": 1787184000,
   "id": "07033a10274a",
@@ -4429,7 +4654,7 @@
   "category": "AI/ML",
   "company": "GE Vernova",
   "company_url": "https://www.gevernova.com/",
-  "date_posted": 1787184000,
+  "date_posted": 1787097600,
   "experience": null,
   "first_seen": 1787184000,
   "id": "435f54257a0a",
@@ -4451,7 +4676,7 @@
   "category": "AI/ML",
   "company": "GE Vernova",
   "company_url": "https://www.gevernova.com/",
-  "date_posted": 1787184000,
+  "date_posted": 1787097600,
   "experience": null,
   "first_seen": 1787184000,
   "id": "135020694543",
@@ -4471,7 +4696,7 @@
   "category": "AI/ML",
   "company": "P&G - Procter & Gamble",
   "company_url": "https://us.pg.com",
-  "date_posted": 1787184000,
+  "date_posted": 1787097600,
   "experience": null,
   "first_seen": 1787184000,
   "id": "d3d8163f621f",
@@ -4601,180 +4826,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "Astera Institute",
-  "company_url": "https://astera.org/",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "27aec4fbd6e6",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Alameda, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist/Engineer - Deep Brain Two Photon Imaging and Optogenetics",
-  "url": "https://jobs.ashbyhq.com/astera/464a974c-3c1a-41eb-94d0-480c9946ff35"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Lilly",
-  "company_url": "https://www.lilly.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "3d6e5bd154c5",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Indianapolis, IN"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Advisor - Data Scientist - CMC Data Products",
-  "url": "https://lilly.wd115.myworkdayjobs.com/en-US/lly/job/US-Indianapolis-IN/Advisory---Data-Scientist---CMC-Data-Products_R-96186-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Northeastern University",
-  "company_url": "https://www.northeastern.edu",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "15a7fba60aa5",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Boston, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Research Scientist",
-  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R141382-2"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Pangram Labs",
-  "company_url": "https://www.pangram.com/",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "c3ffc40bc245",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "New York City, NY"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer - Junior",
-  "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Wells Fargo",
-  "company_url": "https://www.wellsfargo.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "3cdb698873d2",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Charlotte, NC"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "2027 Quantitative Analytics Program - Risk Analytics and Decision Science - RADS Masters - Early Careers",
-  "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-Masters----Early-Careers_R-569399"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "8fe8543018c7",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Data Scientist Graduate - Global E-Commerce - Platform Governance - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7675270779895449861"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Asurion",
-  "company_url": "https://asurion.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "bcb2a02c0599",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - Virtual Agents",
-  "url": "https://asurion.wd5.myworkdayjobs.com/en-US/asurioncareers_us/job/US-Headquarters/Data-Scientist-_ASU0020218-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Binance",
-  "company_url": "https://www.binance.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "0bcc0e08a0ae",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Taipei, Taiwan"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Agent Engineer",
-  "url": "https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "Bosch",
   "company_url": "https://www.bosch.com/",
   "date_posted": 1787097600,
@@ -4793,28 +4844,6 @@
   "tier": "other",
   "title": "Applied AI Engineer - f/m/div.",
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144027727-applied-ai-engineer-f-m-div-?oga=true"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Novartis",
-  "company_url": "https://www.novartis.com",
-  "date_posted": 1787097600,
-  "experience": null,
-  "first_seen": 1787097600,
-  "id": "d3cebdfaccbd",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ljubljana, Slovenia"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Specialist za podatkovno znanost in UI / Specialist Data Science & AI",
-  "url": "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Ljubljana/Specialist-za-podatkovno-znanost-in-UI---Specialist-Data-Science---AI_REQ-10078595"
  },
  {
   "active": true,
@@ -4862,50 +4891,221 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Generac",
-  "company_url": "https://simplify.jobs/c/Generac",
-  "date_posted": 1787011200,
+  "category": "AI/ML",
+  "company": "Booz Allen",
+  "company_url": "https://www.boozallen.com",
+  "date_posted": 1787097600,
   "experience": null,
-  "first_seen": 1787011200,
-  "id": "995bb204d232",
+  "first_seen": 1787097600,
+  "id": "be163c6ec23d",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "Waukesha, WI"
+   "San Antonio, TX"
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Data Science Analyst",
-  "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Analyst_JR15318"
+  "title": "Data Scientist - Junior",
+  "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Antonio-TX/Data-Scientist--Junior_R0247418"
  },
  {
   "active": true,
-  "category": "Quant",
-  "company": "Optiver",
-  "company_url": "https://simplify.jobs/c/Optiver",
+  "category": "AI/ML",
+  "company": "Astera Institute",
+  "company_url": "https://astera.org/",
   "date_posted": 1787011200,
   "experience": null,
-  "first_seen": 1787011200,
-  "id": "248678c2844c",
-  "is_usa": false,
+  "first_seen": 1787097600,
+  "id": "27aec4fbd6e6",
+  "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "London, UK",
-   "Amsterdam, The Netherlands +1"
+   "Alameda, CA"
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
-  "tier": "quant",
-  "title": "Quantitative Researcher Graduate - 2027 Start",
-  "url": "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002"
+  "tier": "other",
+  "title": "Research Scientist/Engineer - Deep Brain Two Photon Imaging and Optogenetics",
+  "url": "https://jobs.ashbyhq.com/astera/464a974c-3c1a-41eb-94d0-480c9946ff35"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Lilly",
+  "company_url": "https://www.lilly.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "3d6e5bd154c5",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Indianapolis, IN"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Advisor - Data Scientist - CMC Data Products",
+  "url": "https://lilly.wd115.myworkdayjobs.com/en-US/lly/job/US-Indianapolis-IN/Advisory---Data-Scientist---CMC-Data-Products_R-96186-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Northeastern University",
+  "company_url": "https://www.northeastern.edu",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "15a7fba60aa5",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Boston, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Research Scientist",
+  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R141382-2"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Pangram Labs",
+  "company_url": "https://www.pangram.com/",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "c3ffc40bc245",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "New York City, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer - Junior",
+  "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Wells Fargo",
+  "company_url": "https://www.wellsfargo.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "3cdb698873d2",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Charlotte, NC"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "2027 Quantitative Analytics Program - Risk Analytics and Decision Science - RADS Masters - Early Careers",
+  "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-Masters----Early-Careers_R-569399"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "8fe8543018c7",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist Graduate - Global E-Commerce - Platform Governance - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7675270779895449861"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Asurion",
+  "company_url": "https://asurion.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "bcb2a02c0599",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - Virtual Agents",
+  "url": "https://asurion.wd5.myworkdayjobs.com/en-US/asurioncareers_us/job/US-Headquarters/Data-Scientist-_ASU0020218-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Binance",
+  "company_url": "https://www.binance.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "0bcc0e08a0ae",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Taipei, Taiwan"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI Agent Engineer",
+  "url": "https://jobs.lever.co/binance/3a2ca7e0-e2c9-4248-b8fe-0de5d05dee1c"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Novartis",
+  "company_url": "https://www.novartis.com",
+  "date_posted": 1787011200,
+  "experience": null,
+  "first_seen": 1787097600,
+  "id": "d3cebdfaccbd",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Ljubljana, Slovenia"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Specialist za podatkovno znanost in UI / Specialist Data Science & AI",
+  "url": "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Ljubljana/Specialist-za-podatkovno-znanost-in-UI---Specialist-Data-Science---AI_REQ-10078595"
  },
  {
   "active": true,
@@ -5042,160 +5242,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "CACI",
-  "company_url": "https://www.caci.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "de350cbb72a4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bethesda, MD"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Data-Scientist_330691"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Fresenius Kabi",
-  "company_url": "https://www.fresenius-kabi.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "c6f08c96f8b5",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Lake Zurich, IL"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Research Scientist - Cell & Gene Therapy",
-  "url": "https://freseniusglobal.wd3.myworkdayjobs.com/en-US/fk_careers/job/Lake-Zurich-IL/Associate-Research-Scientist--Cell---Gene-Therapy-_R-01025944"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Novartis",
-  "company_url": "https://www.novartis.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "9cc34fb3cf0c",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist - Lentiviral Vector Purification and Analytics",
-  "url": "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Cambridge-USA/Research-Scientist--Lentiviral-Vector-Purification-and-Analytics_REQ-10082523-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Precision AQ",
-  "company_url": "https://www.precisionaq.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "44e1ebe98f38",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Research Scientist - Real World Evidence",
-  "url": "https://job-boards.greenhouse.io/precisionaq/jobs/6128944004"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Precision Medicine Group",
-  "company_url": "http://www.precisionmedicinegrp.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "8022b793e3dd",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Research Scientist - Real World Evidence",
-  "url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6128935004"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Xfinity",
-  "company_url": "https://www.xfinity.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "f9e5fe92c516",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Washington, DC"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Engineer 3 - Machine Learning-5125",
-  "url": "https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/DC---Washington-1325-G-ST-NW-STE-300/Engineer-3--Machine-Learning-5125_R440926"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "NVIDIA",
-  "company_url": "https://www.nvidia.com",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "48dc112586c3",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Taipei, Taiwan +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "Suncor",
   "company_url": "https://www.suncor.com",
   "date_posted": 1787011200,
@@ -5236,6 +5282,207 @@
   "tier": "bigtech",
   "title": "Applied Scientist (2026-27 Campus, International Technology Team), Shanghai",
   "url": "https://account.amazon.jobs/jobs/10504493/apply"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Generac",
+  "company_url": "https://simplify.jobs/c/Generac",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "995bb204d232",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Waukesha, WI"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Science Analyst",
+  "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Analyst_JR15318"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Optiver",
+  "company_url": "https://simplify.jobs/c/Optiver",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "248678c2844c",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, UK",
+   "Amsterdam, The Netherlands +1"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher Graduate - 2027 Start",
+  "url": "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "CACI",
+  "company_url": "https://www.caci.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "de350cbb72a4",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Bethesda, MD"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Data-Scientist_330691"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Fresenius Kabi",
+  "company_url": "https://www.fresenius-kabi.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "c6f08c96f8b5",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Lake Zurich, IL"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Research Scientist - Cell & Gene Therapy",
+  "url": "https://freseniusglobal.wd3.myworkdayjobs.com/en-US/fk_careers/job/Lake-Zurich-IL/Associate-Research-Scientist--Cell---Gene-Therapy-_R-01025944"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Novartis",
+  "company_url": "https://www.novartis.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "9cc34fb3cf0c",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Lentiviral Vector Purification and Analytics",
+  "url": "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Cambridge-USA/Research-Scientist--Lentiviral-Vector-Purification-and-Analytics_REQ-10082523-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Precision AQ",
+  "company_url": "https://www.precisionaq.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "44e1ebe98f38",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Research Scientist - Real World Evidence",
+  "url": "https://job-boards.greenhouse.io/precisionaq/jobs/6128944004"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Precision Medicine Group",
+  "company_url": "http://www.precisionmedicinegrp.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "8022b793e3dd",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Research Scientist - Real World Evidence",
+  "url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6128935004"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Xfinity",
+  "company_url": "https://www.xfinity.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "f9e5fe92c516",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Washington, DC"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Engineer 3 - Machine Learning-5125",
+  "url": "https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/DC---Washington-1325-G-ST-NW-STE-300/Engineer-3--Machine-Learning-5125_R440926"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "NVIDIA",
+  "company_url": "https://www.nvidia.com",
+  "date_posted": 1786924800,
+  "experience": null,
+  "first_seen": 1787011200,
+  "id": "48dc112586c3",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Taipei, Taiwan +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370"
  },
  {
   "active": true,
@@ -5469,31 +5716,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786752000,
-  "experience": null,
-  "first_seen": 1786752000,
-  "id": "0e04913a56c4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "LLM Post-Training Engineer Graduate - Research & Product",
-  "url": "https://lifeattiktok.com/search/7673672141012093189"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "Applied Intuition",
   "company_url": "https://simplify.jobs/c/Applied-Intuition",
   "date_posted": 1786752000,
@@ -5538,50 +5760,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Micron Technology",
-  "company_url": "https://www.micron.com/",
-  "date_posted": 1786752000,
-  "experience": null,
-  "first_seen": 1786752000,
-  "id": "a9c99cc9bbe9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "New College Grad - AI Innovation Research Engineer",
-  "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Jump Trading",
-  "company_url": "https://www.jumptrading.com",
-  "date_posted": 1786752000,
-  "experience": null,
-  "first_seen": 1786752000,
-  "id": "27070fac8941",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, United Kingdom +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Fixed Income Quantitative Researcher - Trading Team",
-  "url": "https://www.jumptrading.com/hr/job?gh_jid=7457888"
- },
- {
-  "active": true,
   "category": null,
   "company": "Photoroom",
   "company_url": null,
@@ -5609,44 +5787,67 @@
   "company_url": "https://simplify.jobs/c/TikTok",
   "date_posted": 1786665600,
   "experience": null,
-  "first_seen": 1786665600,
-  "id": "0e51182b81a2",
+  "first_seen": 1786752000,
+  "id": "0e04913a56c4",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "LLM Post-Training Engineer Graduate - Research & Product",
+  "url": "https://lifeattiktok.com/search/7673672141012093189"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Micron Technology",
+  "company_url": "https://www.micron.com/",
+  "date_posted": 1786665600,
+  "experience": null,
+  "first_seen": 1786752000,
+  "id": "a9c99cc9bbe9",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
    "San Jose, CA"
   ],
-  "salary": "$202k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Data Science Graduate - Advertisement Team",
-  "url": "https://lifeattiktok.com/search/7673232905797880069"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Kyndryl",
-  "company_url": "https://simplify.jobs/c/Kyndryl",
-  "date_posted": 1786665600,
-  "experience": null,
-  "first_seen": 1786665600,
-  "id": "10459e46c14e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Dallas, TX"
-  ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Associate AI Engineer",
-  "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2"
+  "title": "New College Grad - AI Innovation Research Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Jump Trading",
+  "company_url": "https://www.jumptrading.com",
+  "date_posted": 1786665600,
+  "experience": null,
+  "first_seen": 1786752000,
+  "id": "27070fac8941",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, United Kingdom +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Fixed Income Quantitative Researcher - Trading Team",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7457888"
  },
  {
   "active": true,
@@ -5804,94 +6005,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1786665600,
-  "experience": null,
-  "first_seen": 1786665600,
-  "id": "6a2740381d59",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Data Scientist - PGC - TikTok",
-  "url": "https://lifeattiktok.com/search/7673215338318367029"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Amazon",
-  "company_url": "https://www.amazon.com",
-  "date_posted": 1786665600,
-  "experience": null,
-  "first_seen": 1786665600,
-  "id": "d7a23c4d13e9",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bengaluru, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer - Amazon Music - Catalog Quality",
-  "url": "https://www.amazon.jobs/jobs/10510881/apply"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "LSEG",
-  "company_url": "https://www.lseg.com",
-  "date_posted": 1786665600,
-  "experience": null,
-  "first_seen": 1786665600,
-  "id": "1ad475a4de04",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Beijing, China"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Data-Scientist_R0122086"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Rockwell Automation",
-  "company_url": "https://www.rockwellautomation.com",
-  "date_posted": 1786665600,
-  "experience": null,
-  "first_seen": 1786665600,
-  "id": "96ad4fa4fc77",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Medell\u00edn, Colombia"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Engineer",
-  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Medellin-Antioquia-Colombia/AI-Engineer_R26-5378"
- },
- {
-  "active": true,
   "category": null,
   "company": "Amazon",
   "company_url": null,
@@ -5919,138 +6032,35 @@
   "company_url": "https://simplify.jobs/c/TikTok",
   "date_posted": 1786579200,
   "experience": null,
-  "first_seen": 1786579200,
-  "id": "d5011b956601",
+  "first_seen": 1786665600,
+  "id": "0e51182b81a2",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
   "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD",
-  "url": "https://lifeattiktok.com/search/7672883737036654853"
+  "title": "Data Science Graduate - Advertisement Team",
+  "url": "https://lifeattiktok.com/search/7673232905797880069"
  },
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
+  "company": "Kyndryl",
+  "company_url": "https://simplify.jobs/c/Kyndryl",
   "date_posted": 1786579200,
   "experience": null,
-  "first_seen": 1786579200,
-  "id": "a42d9b648a9f",
+  "first_seen": 1786665600,
+  "id": "10459e46c14e",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
-  "url": "https://lifeattiktok.com/search/7672882500030138629"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "first_seen": 1786579200,
-  "id": "a97905cfc1a3",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
-  "url": "https://lifeattiktok.com/search/7672877778696407301"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "first_seen": 1786579200,
-  "id": "26d121b4eae9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
-  "url": "https://lifeattiktok.com/search/7672879948538284341"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "first_seen": 1786579200,
-  "id": "8b8c3bbf98c1",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
-  "url": "https://lifeattiktok.com/search/7672880386574338309"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "KnowBe4",
-  "company_url": "https://simplify.jobs/c/KnowBe4",
-  "date_posted": 1786579200,
-  "experience": null,
-  "first_seen": 1786579200,
-  "id": "fe992beb7980",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Cheltenham, UK",
-   "Cheltenham, United Kingdom"
+   "Dallas, TX"
   ],
   "salary": null,
   "sources": [
@@ -6058,83 +6068,96 @@
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Graduate Data Scientist - Cyber Analytics",
-  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002"
+  "title": "Associate AI Engineer",
+  "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2"
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
+  "category": "AI/ML",
   "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
+  "company_url": "https://www.tiktok.com",
   "date_posted": 1786579200,
   "experience": null,
-  "first_seen": 1786579200,
-  "id": "4440700bc931",
+  "first_seen": 1786665600,
+  "id": "6a2740381d59",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
-   "simplify",
    "speedyapply"
   ],
   "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
-  "url": "https://lifeattiktok.com/search/7672911151560296709"
+  "title": "Data Scientist - PGC - TikTok",
+  "url": "https://lifeattiktok.com/search/7673215338318367029"
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
+  "category": "AI/ML",
+  "company": "Amazon",
+  "company_url": "https://www.amazon.com",
   "date_posted": 1786579200,
   "experience": null,
-  "first_seen": 1786579200,
-  "id": "eeffdf20eba9",
-  "is_usa": true,
+  "first_seen": 1786665600,
+  "id": "d7a23c4d13e9",
+  "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "Bengaluru, India"
   ],
-  "salary": "$202k/yr",
+  "salary": null,
   "sources": [
-   "ats",
-   "simplify",
    "speedyapply"
   ],
   "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
-  "url": "https://lifeattiktok.com/search/7672915427278457141"
+  "title": "Machine Learning Engineer - Amazon Music - Catalog Quality",
+  "url": "https://www.amazon.jobs/jobs/10510881/apply"
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
+  "category": "AI/ML",
+  "company": "LSEG",
+  "company_url": "https://www.lseg.com",
   "date_posted": 1786579200,
   "experience": null,
-  "first_seen": 1786579200,
-  "id": "7ec9835d6ca8",
-  "is_usa": true,
+  "first_seen": 1786665600,
+  "id": "1ad475a4de04",
+  "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Beijing, China"
   ],
-  "salary": "$202k/yr",
+  "salary": null,
   "sources": [
-   "ats",
-   "simplify",
    "speedyapply"
   ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD",
-  "url": "https://lifeattiktok.com/search/7672928557537954053"
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Data-Scientist_R0122086"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Rockwell Automation",
+  "company_url": "https://www.rockwellautomation.com",
+  "date_posted": 1786579200,
+  "experience": null,
+  "first_seen": 1786665600,
+  "id": "96ad4fa4fc77",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Medell\u00edn, Colombia"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI Engineer",
+  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Medellin-Antioquia-Colombia/AI-Engineer_R26-5378"
  },
  {
   "active": true,
@@ -6157,29 +6180,6 @@
   "tier": "bigtech",
   "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure",
   "url": "https://jobs.bytedance.com/en/position/7673268418623293749/detail"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Exelixis",
-  "company_url": "https://simplify.jobs/c/Exelixis",
-  "date_posted": 1786579200,
-  "experience": null,
-  "first_seen": 1786579200,
-  "id": "a7fe8bc04dd3",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Alameda, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Engineer - AI and Agentic",
-  "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031"
  },
  {
   "active": true,
@@ -6319,10 +6319,257 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "d5011b956601",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD",
+  "url": "https://lifeattiktok.com/search/7672883737036654853"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "a42d9b648a9f",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "url": "https://lifeattiktok.com/search/7672882500030138629"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "a97905cfc1a3",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+  "url": "https://lifeattiktok.com/search/7672877778696407301"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "26d121b4eae9",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+  "url": "https://lifeattiktok.com/search/7672879948538284341"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "8b8c3bbf98c1",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "url": "https://lifeattiktok.com/search/7672880386574338309"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "KnowBe4",
+  "company_url": "https://simplify.jobs/c/KnowBe4",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "fe992beb7980",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Cheltenham, UK",
+   "Cheltenham, United Kingdom"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Graduate Data Scientist - Cyber Analytics",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "4440700bc931",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "url": "https://lifeattiktok.com/search/7672911151560296709"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "eeffdf20eba9",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "url": "https://lifeattiktok.com/search/7672915427278457141"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "7ec9835d6ca8",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "ats",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD",
+  "url": "https://lifeattiktok.com/search/7672928557537954053"
+ },
+ {
+  "active": true,
+  "category": "Software",
+  "company": "Exelixis",
+  "company_url": "https://simplify.jobs/c/Exelixis",
+  "date_posted": 1786492800,
+  "experience": null,
+  "first_seen": 1786579200,
+  "id": "a7fe8bc04dd3",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Alameda, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Engineer - AI and Agentic",
+  "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Steampunk",
   "company_url": "https://steampunk.com",
-  "date_posted": 1786579200,
+  "date_posted": 1786492800,
   "experience": null,
   "first_seen": 1786579200,
   "id": "78ace166e593",
@@ -6344,7 +6591,7 @@
   "category": "AI/ML",
   "company": "TensorOps",
   "company_url": "https://media.licdn.com",
-  "date_posted": 1786579200,
+  "date_posted": 1786492800,
   "experience": null,
   "first_seen": 1786579200,
   "id": "094ce77437e2",
@@ -6644,7 +6891,7 @@
   "category": "AI/ML",
   "company": "Fanduel",
   "company_url": "https://www.fanduel.com",
-  "date_posted": 1786492800,
+  "date_posted": 1786406400,
   "experience": null,
   "first_seen": 1786492800,
   "id": "10d1022cd266",
@@ -6666,7 +6913,7 @@
   "category": "AI/ML",
   "company": "Raymond James",
   "company_url": "https://www.raymondjames.com",
-  "date_posted": 1786492800,
+  "date_posted": 1786406400,
   "experience": null,
   "first_seen": 1786492800,
   "id": "d6b8a039ff20",
@@ -6842,7 +7089,7 @@
   "category": "AI/ML",
   "company": "Versiti",
   "company_url": "https://versiti.org",
-  "date_posted": 1786406400,
+  "date_posted": 1786320000,
   "experience": null,
   "first_seen": 1786406400,
   "id": "4ef796bdb34e",
@@ -6864,7 +7111,7 @@
   "category": "AI/ML",
   "company": "PDI Technologies",
   "company_url": "https://pditechnologies.com/",
-  "date_posted": 1786406400,
+  "date_posted": 1786320000,
   "experience": null,
   "first_seen": 1786406400,
   "id": "53a4c5198c4a",
@@ -6974,7 +7221,7 @@
   "category": "AI/ML/Data",
   "company": "SentiLink",
   "company_url": "https://simplify.jobs/c/SentiLink",
-  "date_posted": 1786233600,
+  "date_posted": 1786147200,
   "experience": null,
   "first_seen": 1786233600,
   "id": "e799a1123fe6",
@@ -6998,7 +7245,7 @@
   "category": "AI/ML/Data",
   "company": "SentiLink",
   "company_url": "https://simplify.jobs/c/SentiLink",
-  "date_posted": 1786233600,
+  "date_posted": 1786147200,
   "experience": null,
   "first_seen": 1786233600,
   "id": "294d780c761a",
@@ -7022,7 +7269,7 @@
   "category": "AI/ML",
   "company": "SentiLink",
   "company_url": "https://www.sentilink.com/",
-  "date_posted": 1786233600,
+  "date_posted": 1786147200,
   "experience": null,
   "first_seen": 1786233600,
   "id": "d4e1efb34069",
@@ -7289,7 +7536,7 @@
   "category": "AI/ML",
   "company": "CrowdStrike",
   "company_url": "https://www.crowdstrike.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "0814105f385d",
@@ -7311,7 +7558,7 @@
   "category": "AI/ML",
   "company": "Elanco",
   "company_url": "https://www.elanco.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "6756073aa6c8",
@@ -7333,7 +7580,7 @@
   "category": "AI/ML",
   "company": "Mastercard",
   "company_url": "https://www.mastercard.us",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "139c3549aeb3",
@@ -7355,7 +7602,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "69802c99105f",
@@ -7377,7 +7624,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "6b5ed6f4bfaa",
@@ -7399,7 +7646,7 @@
   "category": "AI/ML",
   "company": "Penn State",
   "company_url": "https://psu.edu",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "first_seen": 1786060800,
   "id": "a2507fed0b89",
@@ -7413,31 +7660,6 @@
   "tier": "other",
   "title": "Part Time - Student - Graduate - AI Research Assistant",
   "url": "https://psu.wd1.myworkdayjobs.com/en-US/psu_staff/job/Penn-State-Harrisburg/Part-Time---Student--Graduate----AI-Research-Assistant_REQ_0000081095-1"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Deluxe",
-  "company_url": "https://simplify.jobs/c/Deluxe",
-  "date_posted": 1785974400,
-  "experience": null,
-  "first_seen": 1785974400,
-  "id": "a5cd0e85dccc",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "NYC",
-   "Atlanta, GA",
-   "New York City, NY +1"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist 1",
-  "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/New-York-NY-USA/Data-Scientist-1_260475WD-1"
  },
  {
   "active": true,
@@ -7652,10 +7874,35 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Deluxe",
+  "company_url": "https://simplify.jobs/c/Deluxe",
+  "date_posted": 1785888000,
+  "experience": null,
+  "first_seen": 1785974400,
+  "id": "a5cd0e85dccc",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "NYC",
+   "Atlanta, GA",
+   "New York City, NY +1"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist 1",
+  "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/New-York-NY-USA/Data-Scientist-1_260475WD-1"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "DataVisor",
   "company_url": "https://www.datavisor.com",
-  "date_posted": 1785974400,
+  "date_posted": 1785888000,
   "experience": null,
   "first_seen": 1785974400,
   "id": "bdd1f4ee1391",
@@ -7671,30 +7918,6 @@
   "tier": "other",
   "title": "Data Scientist - AI Solutions",
   "url": "https://apply.workable.com/datavisor-jobs/j/FC5ABB4A50/"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Upstart",
-  "company_url": "https://simplify.jobs/c/Upstart",
-  "date_posted": 1785888000,
-  "experience": null,
-  "first_seen": 1785888000,
-  "id": "1f9c47103c54",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote in USA",
-   "Remote - USA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Applied Scientist - Unsecured Underwriting Machine Learning",
-  "url": "https://careers.upstart.com/jobs?gh_jid=7293116"
  },
  {
   "active": true,
@@ -7832,10 +8055,34 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Upstart",
+  "company_url": "https://simplify.jobs/c/Upstart",
+  "date_posted": 1785801600,
+  "experience": null,
+  "first_seen": 1785888000,
+  "id": "1f9c47103c54",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote in USA",
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Applied Scientist - Unsecured Underwriting Machine Learning",
+  "url": "https://careers.upstart.com/jobs?gh_jid=7293116"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Adobe",
   "company_url": "https://www.adobe.com",
-  "date_posted": 1785888000,
+  "date_posted": 1785801600,
   "experience": null,
   "first_seen": 1785888000,
   "id": "e9233dac6451",
@@ -7857,7 +8104,7 @@
   "category": "AI/ML",
   "company": "Pano",
   "company_url": "https://www.pano.ai",
-  "date_posted": 1785888000,
+  "date_posted": 1785801600,
   "experience": null,
   "first_seen": 1785888000,
   "id": "85f8621c156c",
@@ -8250,7 +8497,7 @@
   "category": "AI/ML",
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "first_seen": 1785801600,
   "id": "efca8d3dc82d",
@@ -8272,7 +8519,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "first_seen": 1785801600,
   "id": "d359fcfc5829",
@@ -8296,7 +8543,7 @@
   "category": "AI/ML",
   "company": "Jane Street",
   "company_url": "https://www.janestreet.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "first_seen": 1785801600,
   "id": "4c2ad9d68124",
@@ -8318,7 +8565,7 @@
   "category": "AI/ML",
   "company": "Entrust",
   "company_url": "https://www.entrust.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "first_seen": 1785801600,
   "id": "89b97bbd0794",
@@ -8340,7 +8587,7 @@
   "category": "AI/ML",
   "company": "Preply",
   "company_url": "https://preply.com/",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "first_seen": 1785801600,
   "id": "0f9ff1b4fe09",
@@ -9245,7 +9492,7 @@
   "category": "AI/ML",
   "company": "Airbus",
   "company_url": "https://www.airbus.com",
-  "date_posted": 1785628800,
+  "date_posted": 1785542400,
   "experience": null,
   "first_seen": 1785628800,
   "id": "ac67b76b1aa5",
@@ -9264,10 +9511,35 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Quora",
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
+  "first_seen": 1785542400,
+  "id": "137a3dbd3d31",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote in USA",
+   "Remote in Canada",
+   "Remote - Multiple Locations"
+  ],
+  "salary": null,
+  "sources": [
+   "ats",
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Elanco",
   "company_url": "https://www.elanco.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "aa166d9c8977",
@@ -9289,7 +9561,7 @@
   "category": "AI/ML",
   "company": "LiteLLM",
   "company_url": "https://www.litellm.ai/",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "8e9def2cfa45",
@@ -9311,7 +9583,7 @@
   "category": "AI/ML",
   "company": "SRI International",
   "company_url": "https://www.sri.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "975df93856ff",
@@ -9333,7 +9605,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "ee41f372700e",
@@ -9357,7 +9629,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "fd77702497fb",
@@ -9381,7 +9653,7 @@
   "category": "AI/ML",
   "company": "Entrust",
   "company_url": "https://www.entrust.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "a7ac4509683a",
@@ -9403,7 +9675,7 @@
   "category": "AI/ML",
   "company": "Two95 International",
   "company_url": "http://two95intl.com/",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "first_seen": 1785542400,
   "id": "a1953b26d00e",
@@ -9419,51 +9691,6 @@
   "tier": "other",
   "title": "GenAI / AI-ML Engineer",
   "url": "https://apply.workable.com/two95-international-inc-3/j/2FB1670E86/"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
-  "first_seen": 1785542400,
-  "id": "137a3dbd3d31",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - Multiple Locations"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Old Mission",
-  "company_url": "https://simplify.jobs/c/Old-Mission",
-  "date_posted": 1785456000,
-  "experience": null,
-  "first_seen": 1785456000,
-  "id": "fea561799eb4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Junior Quantitative Researcher",
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003"
  },
  {
   "active": true,
@@ -9490,9 +9717,54 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "DV Trading",
+  "company_url": "https://www.dvtrading.co",
+  "date_posted": 1785456000,
+  "experience": null,
+  "first_seen": 1785456000,
+  "id": "a2c0692771ef",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Dubai, United Arab Emirates +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Researcher",
+  "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719984005"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Old Mission",
+  "company_url": "https://simplify.jobs/c/Old-Mission",
+  "date_posted": 1785369600,
+  "experience": null,
+  "first_seen": 1785456000,
+  "id": "fea561799eb4",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Junior Quantitative Researcher",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "Weekday",
   "company_url": "https://www.weekday.works/",
-  "date_posted": 1785456000,
+  "date_posted": 1785369600,
   "experience": null,
   "first_seen": 1785456000,
   "id": "980d1f285faa",
@@ -9514,7 +9786,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785456000,
+  "date_posted": 1785369600,
   "experience": null,
   "first_seen": 1785456000,
   "id": "037c64ca0fb6",
@@ -9538,7 +9810,7 @@
   "category": "AI/ML",
   "company": "Accenture",
   "company_url": "https://www.accenture.com",
-  "date_posted": 1785456000,
+  "date_posted": 1785369600,
   "experience": null,
   "first_seen": 1785456000,
   "id": "cd7b527fa1be",
@@ -9560,7 +9832,7 @@
   "category": "AI/ML",
   "company": "Capital",
   "company_url": "https://capital.com",
-  "date_posted": 1785456000,
+  "date_posted": 1785369600,
   "experience": null,
   "first_seen": 1785456000,
   "id": "c8671cb1bc73",
@@ -9576,28 +9848,6 @@
   "tier": "other",
   "title": "Junior AI Engineer",
   "url": "https://jobs.lever.co/capital/371d503f-1eaf-4c83-a2d8-d312e44bca4d"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "DV Trading",
-  "company_url": "https://www.dvtrading.co",
-  "date_posted": 1785456000,
-  "experience": null,
-  "first_seen": 1785456000,
-  "id": "a2c0692771ef",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Dubai, United Arab Emirates +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Quantitative Researcher",
-  "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719984005"
  },
  {
   "active": true,
@@ -9648,7 +9898,7 @@
   "category": "AI/ML",
   "company": "Weekday",
   "company_url": "https://www.weekday.works/",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "2846f6fb92bb",
@@ -9670,7 +9920,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "27c0ce5d3ed6",
@@ -9694,7 +9944,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "d90592400884",
@@ -9718,7 +9968,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "de4bea9ba35d",
@@ -9742,7 +9992,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "ab7c5cecd581",
@@ -9766,7 +10016,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "021a410fb3a8",
@@ -9790,7 +10040,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "b357f84ef0dc",
@@ -9814,7 +10064,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "bec5e4d41778",
@@ -9838,7 +10088,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "7cc2d6a85ffd",
@@ -9862,7 +10112,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "52329ac430e9",
@@ -9886,7 +10136,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "b51514506e5a",
@@ -9910,7 +10160,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "55b28bf4db18",
@@ -9934,7 +10184,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "3d330097b638",
@@ -9958,7 +10208,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "6c4d3dc9306f",
@@ -9982,7 +10232,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "29a0d3add43e",
@@ -10006,7 +10256,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "19f0beb74e4f",
@@ -10030,7 +10280,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "0217af934648",
@@ -10054,7 +10304,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "ef6c7e4a5bcc",
@@ -10078,7 +10328,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "6d06d76c5b52",
@@ -10102,7 +10352,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "2cb9334f67a4",
@@ -10126,7 +10376,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "7450c780aa94",
@@ -10150,7 +10400,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "7d034cea3cc8",
@@ -10174,7 +10424,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "75d6119de294",
@@ -10198,7 +10448,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "8567a3ba7d67",
@@ -10222,7 +10472,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "3735c1f656c9",
@@ -10246,7 +10496,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "1d23ceb21933",
@@ -10270,7 +10520,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "06cc51566cf1",
@@ -10294,7 +10544,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "d3699028e634",
@@ -10318,7 +10568,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "d29d1f89f888",
@@ -10342,7 +10592,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "8fcc6e4ce74e",
@@ -10366,7 +10616,7 @@
   "category": "AI/ML",
   "company": "Nanyang Technological University",
   "company_url": "https://www.ntu.edu.sg",
-  "date_posted": 1785369600,
+  "date_posted": 1785283200,
   "experience": null,
   "first_seen": 1785369600,
   "id": "245de78344f1",
@@ -10382,75 +10632,6 @@
   "tier": "other",
   "title": "AI Engineer - Platforms",
   "url": "https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/AI-Engineer--Platforms_R00025364"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "NewsBreak",
-  "company_url": "https://simplify.jobs/c/NewsBreak",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "a53706512145",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Applied AI Engineer New Grad - Advertising Agents",
-  "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "LexisNexis Risk Solutions",
-  "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "468d2e22a919",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Alpharetta, GA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist 1 - Dsap",
-  "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "RELX",
-  "company_url": "https://simplify.jobs/c/RELX",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "39d70dcfcc33",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Alpharetta, GA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist 1 - Dsap",
-  "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014-1"
  },
  {
   "active": true,
@@ -10474,50 +10655,6 @@
   "tier": "other",
   "title": "Robotics Software Developer",
   "url": "https://jobs.lever.co/promiserobotics/120b526a-2491-4df5-a77a-6ca0ccb7e35a/apply"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Amira Learning",
-  "company_url": "https://www.amiralearning.com",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "30e67953c08c",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - Texas, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer / AI Systems Engineer",
-  "url": "https://job-boards.greenhouse.io/amiralearning/jobs/4333066009"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "EQL Tech",
-  "company_url": "https://eqltech.ai/",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "65f423899b03",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Founding AI Engineer - Computer Vision",
-  "url": "https://apply.workable.com/eqltech/j/82B0C510DF/"
  },
  {
   "active": true,
@@ -10563,6 +10700,119 @@
   "tier": "bigtech",
   "title": "ML Data Associate, Artificial General Intelligence",
   "url": "https://account.amazon.jobs/jobs/10487194/apply"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "NewsBreak",
+  "company_url": "https://simplify.jobs/c/NewsBreak",
+  "date_posted": 1785196800,
+  "experience": null,
+  "first_seen": 1785283200,
+  "id": "a53706512145",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Applied AI Engineer New Grad - Advertising Agents",
+  "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "LexisNexis Risk Solutions",
+  "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+  "date_posted": 1785196800,
+  "experience": null,
+  "first_seen": 1785283200,
+  "id": "468d2e22a919",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Alpharetta, GA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist 1 - Dsap",
+  "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "RELX",
+  "company_url": "https://simplify.jobs/c/RELX",
+  "date_posted": 1785196800,
+  "experience": null,
+  "first_seen": 1785283200,
+  "id": "39d70dcfcc33",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Alpharetta, GA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist 1 - Dsap",
+  "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Amira Learning",
+  "company_url": "https://www.amiralearning.com",
+  "date_posted": 1785196800,
+  "experience": null,
+  "first_seen": 1785283200,
+  "id": "30e67953c08c",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - Texas, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer / AI Systems Engineer",
+  "url": "https://job-boards.greenhouse.io/amiralearning/jobs/4333066009"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "EQL Tech",
+  "company_url": "https://eqltech.ai/",
+  "date_posted": 1785196800,
+  "experience": null,
+  "first_seen": 1785283200,
+  "id": "65f423899b03",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Founding AI Engineer - Computer Vision",
+  "url": "https://apply.workable.com/eqltech/j/82B0C510DF/"
  },
  {
   "active": true,
@@ -10615,7 +10865,7 @@
   "category": "AI/ML",
   "company": "Lynker Corporation",
   "company_url": "https://lynker.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "first_seen": 1785196800,
   "id": "bca0794bfae6",
@@ -10637,7 +10887,7 @@
   "category": "AI/ML",
   "company": "S&P Global",
   "company_url": "https://spglobal.com/",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "first_seen": 1785196800,
   "id": "d4813455bf9c",
@@ -10659,7 +10909,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "first_seen": 1785196800,
   "id": "c1b6fab8c543",
@@ -10683,7 +10933,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "first_seen": 1785196800,
   "id": "4068f97381ad",
@@ -10707,7 +10957,7 @@
   "category": "AI/ML",
   "company": "Abnormal Security",
   "company_url": "https://www.abnormalsecurity.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "first_seen": 1785196800,
   "id": "275e50a29806",
@@ -10794,30 +11044,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "IQVIA",
-  "company_url": "https://simplify.jobs/c/IQVIA",
-  "date_posted": 1784937600,
-  "experience": null,
-  "first_seen": 1784937600,
-  "id": "d5ff106ec321",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ottawa, ON, Canada",
-   "Ottawa, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist - Associate Data Scientist - Privacy and De-identification",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Ottawa-Ontario-Canada/Associate-Data-Scientist--Privacy-and-De-identification---Scientifique-des-donnes-associ--confidentialit-et-dsidentification_R1553526"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "NVIDIA",
   "company_url": "https://simplify.jobs/c/NVIDIA",
   "date_posted": 1784937600,
@@ -10839,10 +11065,34 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "IQVIA",
+  "company_url": "https://simplify.jobs/c/IQVIA",
+  "date_posted": 1784851200,
+  "experience": null,
+  "first_seen": 1784937600,
+  "id": "d5ff106ec321",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Ottawa, ON, Canada",
+   "Ottawa, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist - Associate Data Scientist - Privacy and De-identification",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Ottawa-Ontario-Canada/Associate-Data-Scientist--Privacy-and-De-identification---Scientifique-des-donnes-associ--confidentialit-et-dsidentification_R1553526"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "6b491d573000",
@@ -10864,7 +11114,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "2cb5fc47afdd",
@@ -10888,7 +11138,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "ffe735090867",
@@ -10912,7 +11162,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "0d9f764803fd",
@@ -10936,7 +11186,7 @@
   "category": "AI/ML",
   "company": "Agilent",
   "company_url": "https://agilent.com/",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "d09dd366e4fe",
@@ -10956,7 +11206,7 @@
   "category": "AI/ML",
   "company": "Grab",
   "company_url": "http://www.grab.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "cea2e10256b3",
@@ -10978,7 +11228,7 @@
   "category": "AI/ML",
   "company": "Harman",
   "company_url": "https://www.harman.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "809c607e6afc",
@@ -11000,7 +11250,7 @@
   "category": "AI/ML",
   "company": "ING",
   "company_url": "https://www.ing.com/",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "first_seen": 1784937600,
   "id": "68e2d1740da9",
@@ -11022,7 +11272,7 @@
   "category": "AI/ML/Data",
   "company": "Tapcart",
   "company_url": "https://simplify.jobs/c/Tapcart",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "6072ad061cd8",
@@ -11045,7 +11295,7 @@
   "category": "AI/ML",
   "company": "Huckberry",
   "company_url": "https://huckberry.com",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "1035b0f70fa9",
@@ -11067,7 +11317,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "ce3a6745976b",
@@ -11091,7 +11341,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "d827674a6ab8",
@@ -11115,7 +11365,7 @@
   "category": "AI/ML",
   "company": "Arondite",
   "company_url": "https://www.arondite.com/",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "e185435953ab",
@@ -11137,7 +11387,7 @@
   "category": "AI/ML",
   "company": "Plaud",
   "company_url": "http://plaud.ai/",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "first_seen": 1784851200,
   "id": "a5bbbc3dc936",
@@ -11159,7 +11409,7 @@
   "category": "AI/ML",
   "company": "Embry-Riddle Aeronautical University",
   "company_url": "https://erau.edu",
-  "date_posted": 1784764800,
+  "date_posted": 1784678400,
   "experience": null,
   "first_seen": 1784764800,
   "id": "4c18823cebb8",
@@ -11175,72 +11425,6 @@
   "tier": "other",
   "title": "Research Scientist - College of Aviation - Daytona Beach Campus",
   "url": "https://embryriddle.wd1.myworkdayjobs.com/en-US/external/job/Daytona-Beach-FL/Research-Scientist--College-of-Aviation--Daytona-Beach-Campus_R311837"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Hayden AI",
-  "company_url": "https://www.hayden.ai/",
-  "date_posted": 1784678400,
-  "experience": null,
-  "first_seen": 1784678400,
-  "id": "4c9c94e9d9bb",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://jobs.ashbyhq.com/haydenai/6951fb04-478b-46f5-b918-123a69a28925"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Mercedes-Benz Tech Innovation",
-  "company_url": "https://www.mercedes-benz-techinnovation.com/de/jobs/",
-  "date_posted": 1784678400,
-  "experience": null,
-  "first_seen": 1784678400,
-  "id": "7ec0616e384b",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ulm, Germany +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Duales Studium Informatik Schwerpunkt Data Science / K\u00fcnstliche Intelligenz in Kooperation mit der Dualen Hochschule Baden-W\u00fcrttemberg 2027 - m/w/d/x",
-  "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Mercedes-Benz Tech Innovation",
-  "company_url": "https://www.mercedes-benz-techinnovation.com/de/jobs/",
-  "date_posted": 1784678400,
-  "experience": null,
-  "first_seen": 1784678400,
-  "id": "617d2aa3b346",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ulm, Germany +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Duales Studium Wirtschaftsinformatik Schwerpunkt Data Science / K\u00fcnstliche Intelligenz in Kooperation mit der Dualen Hochschule Baden-W\u00fcrttemberg 2027 - m/w/d/x",
-  "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Wirtschaftsinformatik-Schwerpunkt-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006810"
  },
  {
   "active": true,
@@ -11285,6 +11469,72 @@
   "tier": "ai_lab",
   "title": "ML Infrastructure Engineer",
   "url": "https://job-boards.greenhouse.io/xai/jobs/5193037007"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Hayden AI",
+  "company_url": "https://www.hayden.ai/",
+  "date_posted": 1784592000,
+  "experience": null,
+  "first_seen": 1784678400,
+  "id": "4c9c94e9d9bb",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://jobs.ashbyhq.com/haydenai/6951fb04-478b-46f5-b918-123a69a28925"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Mercedes-Benz Tech Innovation",
+  "company_url": "https://www.mercedes-benz-techinnovation.com/de/jobs/",
+  "date_posted": 1784592000,
+  "experience": null,
+  "first_seen": 1784678400,
+  "id": "7ec0616e384b",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Ulm, Germany +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Duales Studium Informatik Schwerpunkt Data Science / K\u00fcnstliche Intelligenz in Kooperation mit der Dualen Hochschule Baden-W\u00fcrttemberg 2027 - m/w/d/x",
+  "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Mercedes-Benz Tech Innovation",
+  "company_url": "https://www.mercedes-benz-techinnovation.com/de/jobs/",
+  "date_posted": 1784592000,
+  "experience": null,
+  "first_seen": 1784678400,
+  "id": "617d2aa3b346",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Ulm, Germany +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Duales Studium Wirtschaftsinformatik Schwerpunkt Data Science / K\u00fcnstliche Intelligenz in Kooperation mit der Dualen Hochschule Baden-W\u00fcrttemberg 2027 - m/w/d/x",
+  "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Wirtschaftsinformatik-Schwerpunkt-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006810"
  },
  {
   "active": true,
@@ -11356,28 +11606,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Teledyne",
-  "company_url": "https://www.teledyne.com",
-  "date_posted": 1784592000,
-  "experience": null,
-  "first_seen": 1784592000,
-  "id": "0d40a88cf085",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Thousand Oaks, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist",
-  "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Thousand-Oaks-CA-TDY/Research-Scientist_REQ35429-1"
- },
- {
-  "active": true,
   "category": null,
   "company": "SpaceX",
   "company_url": null,
@@ -11397,6 +11625,28 @@
   "tier": "other",
   "title": "Environmental Engineer (AI Supercomputer) - Memphis",
   "url": "https://boards.greenhouse.io/spacex/jobs/8639498002?gh_jid=8639498002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Teledyne",
+  "company_url": "https://www.teledyne.com",
+  "date_posted": 1784505600,
+  "experience": null,
+  "first_seen": 1784592000,
+  "id": "0d40a88cf085",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Thousand Oaks, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist",
+  "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Thousand-Oaks-CA-TDY/Research-Scientist_REQ35429-1"
  },
  {
   "active": true,
@@ -11425,7 +11675,7 @@
   "category": "AI/ML",
   "company": "Arizent",
   "company_url": "https://www.arizent.com/",
-  "date_posted": 1784419200,
+  "date_posted": 1784332800,
   "experience": null,
   "first_seen": 1784419200,
   "id": "166ba01e7a00",
@@ -11474,7 +11724,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "first_seen": 1784332800,
   "id": "6076f993370a",
@@ -11498,7 +11748,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "first_seen": 1784332800,
   "id": "5dc88bec6dbf",
@@ -11520,7 +11770,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "first_seen": 1784332800,
   "id": "2c57865e9706",
@@ -11558,76 +11808,6 @@
   "tier": "other",
   "title": "Generative AI Associate",
   "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266654009"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Citadel",
-  "company_url": "https://simplify.jobs/c/Citadel",
-  "date_posted": 1784246400,
-  "experience": null,
-  "first_seen": 1784246400,
-  "id": "74cb1e58422a",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, UK",
-   "London, United Kingdom +1"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Graduate Quantitative Research Analyst",
-  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1784246400,
-  "experience": null,
-  "first_seen": 1784246400,
-  "id": "5505e0e4ea6a",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7663091612935293189"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel",
-  "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784246400,
-  "experience": null,
-  "first_seen": 1784246400,
-  "id": "bab119c82d1e",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Research Analyst - University Graduate - Asia",
-  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/"
  },
  {
   "active": true,
@@ -11676,170 +11856,17 @@
  {
   "active": true,
   "category": "Quant",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "5ddd585ada18",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Paris, France",
-   "London, UK",
-   "Dublin, Ireland +2"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "55c64be704e2",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, UK",
-   "Dublin, Ireland",
-   "Dublin, Ireland +2"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Machine Learning Researcher \u2013 PhD Graduate",
-  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "d92e35e3e418",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Miami, FL",
-   "NYC",
-   "Miami, FL +1"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Research Engineer",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "893b76c9f681",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Miami, FL",
-   "NYC",
-   "Miami, FL +1"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Machine Learning Researcher \u2013 PhD Graduate",
-  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "94556419ea7f",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Miami, FL",
-   "NYC",
-   "Miami, FL +1"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher \u2013 PhD Graduate",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/"
- },
- {
-  "active": true,
-  "category": "Quant",
   "company": "Citadel",
   "company_url": "https://simplify.jobs/c/Citadel",
   "date_posted": 1784160000,
   "experience": null,
-  "first_seen": 1784160000,
-  "id": "0024442320ce",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Greenwich, CT",
-   "Houston, TX",
-   "Miami, FL",
-   "NYC",
-   "Houston, TX +2"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher",
-  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Citadel",
-  "company_url": "https://simplify.jobs/c/Citadel",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "80f080f5927a",
+  "first_seen": 1784246400,
+  "id": "74cb1e58422a",
   "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
    "London, UK",
-   "Dublin, Ireland",
-   "Dublin, Ireland +2"
+   "London, United Kingdom +1"
   ],
   "salary": null,
   "sources": [
@@ -11847,106 +11874,54 @@
    "speedyapply"
   ],
   "tier": "quant",
-  "title": "Quantitative Researcher \u2013 PhD Graduate",
-  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/"
+  "title": "Graduate Quantitative Research Analyst",
+  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/"
  },
  {
   "active": true,
-  "category": "Quant",
-  "company": "Citadel",
-  "company_url": "https://simplify.jobs/c/Citadel",
+  "category": "AI/ML",
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
   "date_posted": 1784160000,
   "experience": null,
-  "first_seen": 1784160000,
-  "id": "bda37c962f3e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Greenwich, CT",
-   "Miami, FL",
-   "NYC",
-   "Miami, FL +1"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Research Analyst University Graduate",
-  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/"
- },
- {
-  "active": true,
-  "category": "Quant",
-  "company": "Citadel",
-  "company_url": "https://simplify.jobs/c/Citadel",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "4ce7e094d1d6",
+  "first_seen": 1784246400,
+  "id": "5505e0e4ea6a",
   "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
-   "NYC",
-   "New York City, NY"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
-  "salary": "$338k/yr",
+  "salary": null,
   "sources": [
-   "simplify",
+   "ats",
    "speedyapply"
   ],
-  "tier": "quant",
-  "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
-  "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/"
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7663091612935293189"
  },
  {
   "active": true,
-  "category": "Quant",
-  "company": "Citadel Securities",
-  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "category": "AI/ML",
+  "company": "Citadel",
+  "company_url": "https://www.citadel.com/careers",
   "date_posted": 1784160000,
   "experience": null,
-  "first_seen": 1784160000,
-  "id": "845f85702bc0",
+  "first_seen": 1784246400,
+  "id": "bab119c82d1e",
   "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
-   "London, UK",
-   "Dublin, Ireland",
-   "Dublin, Ireland +2"
+   "Hong Kong +1"
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "quant",
-  "title": "Quantitative Research Analyst \u2013 University Graduate",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Bracebridge Capital",
-  "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "52c6baa2ec00",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Boston, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Analyst",
-  "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005"
+  "title": "Quantitative Research Analyst - University Graduate - Asia",
+  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/"
  },
  {
   "active": true,
@@ -11970,138 +11945,6 @@
   "tier": "other",
   "title": "Data and AI Engineer",
   "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel",
-  "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "e303e39cac75",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Houston, TX +2"
-  ],
-  "salary": "$338k/yr",
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Research Engineer - PhD Graduate - US",
-  "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel",
-  "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "8de0385a8a6e",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher - PhD Graduate - Asia",
-  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel",
-  "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "cf74ceb8b40b",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Machine Learning Researcher - PhD Graduate - Asia",
-  "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel Securities",
-  "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "bf47e8e8fcd2",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Research Analyst - University Graduate - Asia",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel Securities",
-  "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "df1e9ca4f2c6",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher - PhD Graduate - Asia",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Citadel Securities",
-  "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "d7d085db875a",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Machine Learning Researcher - PhD Graduate - Asia",
-  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/"
  },
  {
   "active": true,
@@ -12171,10 +12014,417 @@
  },
  {
   "active": true,
+  "category": "Quant",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "5ddd585ada18",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Paris, France",
+   "London, UK",
+   "Dublin, Ireland +2"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "55c64be704e2",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, UK",
+   "Dublin, Ireland",
+   "Dublin, Ireland +2"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Machine Learning Researcher \u2013 PhD Graduate",
+  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "d92e35e3e418",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Miami, FL",
+   "NYC",
+   "Miami, FL +1"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Research Engineer",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "893b76c9f681",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Miami, FL",
+   "NYC",
+   "Miami, FL +1"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Machine Learning Researcher \u2013 PhD Graduate",
+  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "94556419ea7f",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Miami, FL",
+   "NYC",
+   "Miami, FL +1"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher \u2013 PhD Graduate",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel",
+  "company_url": "https://simplify.jobs/c/Citadel",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "0024442320ce",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Greenwich, CT",
+   "Houston, TX",
+   "Miami, FL",
+   "NYC",
+   "Houston, TX +2"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher",
+  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel",
+  "company_url": "https://simplify.jobs/c/Citadel",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "80f080f5927a",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, UK",
+   "Dublin, Ireland",
+   "Dublin, Ireland +2"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher \u2013 PhD Graduate",
+  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel",
+  "company_url": "https://simplify.jobs/c/Citadel",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "bda37c962f3e",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Greenwich, CT",
+   "Miami, FL",
+   "NYC",
+   "Miami, FL +1"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Research Analyst University Graduate",
+  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel",
+  "company_url": "https://simplify.jobs/c/Citadel",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "4ce7e094d1d6",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "NYC",
+   "New York City, NY"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
+  "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "Quant",
+  "company": "Citadel Securities",
+  "company_url": "https://simplify.jobs/c/Citadel-Securities",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "845f85702bc0",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, UK",
+   "Dublin, Ireland",
+   "Dublin, Ireland +2"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Research Analyst \u2013 University Graduate",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Bracebridge Capital",
+  "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "52c6baa2ec00",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Boston, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Analyst",
+  "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel",
+  "company_url": "https://www.citadel.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "e303e39cac75",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Houston, TX +2"
+  ],
+  "salary": "$338k/yr",
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Research Engineer - PhD Graduate - US",
+  "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel",
+  "company_url": "https://www.citadel.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "8de0385a8a6e",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher - PhD Graduate - Asia",
+  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel",
+  "company_url": "https://www.citadel.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "cf74ceb8b40b",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Machine Learning Researcher - PhD Graduate - Asia",
+  "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel Securities",
+  "company_url": "https://www.citadelsecurities.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "bf47e8e8fcd2",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Research Analyst - University Graduate - Asia",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel Securities",
+  "company_url": "https://www.citadelsecurities.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "df1e9ca4f2c6",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher - PhD Graduate - Asia",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Citadel Securities",
+  "company_url": "https://www.citadelsecurities.com/careers",
+  "date_posted": 1784073600,
+  "experience": null,
+  "first_seen": 1784160000,
+  "id": "d7d085db875a",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Machine Learning Researcher - PhD Graduate - Asia",
+  "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Accenture Federal Services",
   "company_url": "https://www.accenture.com/us-en/industries/afs-index",
-  "date_posted": 1784073600,
+  "date_posted": 1783987200,
   "experience": null,
   "first_seen": 1784073600,
   "id": "9ddaf984ca3a",
@@ -12219,7 +12469,7 @@
   "category": "AI/ML",
   "company": "Milwaukee Tool",
   "company_url": "https://www.milwaukeetool.com/",
-  "date_posted": 1783987200,
+  "date_posted": 1783900800,
   "experience": null,
   "first_seen": 1783987200,
   "id": "7dce82baef5a",
@@ -12241,7 +12491,7 @@
   "category": "AI/ML",
   "company": "Trexquant",
   "company_url": "http://trexquant.com/",
-  "date_posted": 1783987200,
+  "date_posted": 1783900800,
   "experience": null,
   "first_seen": 1783987200,
   "id": "d0d2da97f24a",
@@ -12358,7 +12608,7 @@
   "category": "AI/ML",
   "company": "Penn State",
   "company_url": "https://psu.edu",
-  "date_posted": 1783728000,
+  "date_posted": 1783641600,
   "experience": null,
   "first_seen": 1783728000,
   "id": "6c67e7ac7b87",
@@ -12380,7 +12630,7 @@
   "category": "AI/ML",
   "company": "Culture Amp",
   "company_url": "https://www.cultureamp.com",
-  "date_posted": 1783728000,
+  "date_posted": 1783641600,
   "experience": null,
   "first_seen": 1783728000,
   "id": "e322d3fe3bd1",
@@ -12403,7 +12653,7 @@
   "category": "AI/ML",
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1783641600,
+  "date_posted": 1783555200,
   "experience": null,
   "first_seen": 1783641600,
   "id": "af59c72a9f33",
@@ -12425,7 +12675,7 @@
   "category": "AI/ML",
   "company": "Arrowstreet Capital",
   "company_url": "https://www.arrowstreetcapital.com",
-  "date_posted": 1783641600,
+  "date_posted": 1783555200,
   "experience": null,
   "first_seen": 1783641600,
   "id": "556d0d91ee6b",
@@ -12447,7 +12697,7 @@
   "category": "AI/ML",
   "company": "Red Ventures",
   "company_url": "http://redventures.com",
-  "date_posted": 1783641600,
+  "date_posted": 1783555200,
   "experience": null,
   "first_seen": 1783641600,
   "id": "a725e299960c",
@@ -12463,30 +12713,6 @@
   "tier": "other",
   "title": "Associate Data Scientist - Home Client Services",
   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8043811"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Abound",
-  "company_url": "https://simplify.jobs/c/Abound",
-  "date_posted": 1783555200,
-  "experience": null,
-  "first_seen": 1783555200,
-  "id": "1cbbe5e21f70",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, UK",
-   "London, United Kingdom"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Graduate AI Engineer",
-  "url": "https://jobs.ashbyhq.com/Abound/066b6933-ea2d-4a1a-a1a4-2a80d5d3a57f/application"
  },
  {
   "active": true,
@@ -12512,10 +12738,34 @@
  },
  {
   "active": true,
+  "category": "Software",
+  "company": "Abound",
+  "company_url": "https://simplify.jobs/c/Abound",
+  "date_posted": 1783468800,
+  "experience": null,
+  "first_seen": 1783555200,
+  "id": "1cbbe5e21f70",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "London, UK",
+   "London, United Kingdom"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Graduate AI Engineer",
+  "url": "https://jobs.ashbyhq.com/Abound/066b6933-ea2d-4a1a-a1a4-2a80d5d3a57f/application"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Anteriad",
   "company_url": "https://anteriad.com",
-  "date_posted": 1783555200,
+  "date_posted": 1783468800,
   "experience": null,
   "first_seen": 1783555200,
   "id": "ac856c6aec41",
@@ -12801,7 +13051,7 @@
   "category": "AI/ML",
   "company": "Abound",
   "company_url": "https://www.getabound.com/",
-  "date_posted": 1783468800,
+  "date_posted": 1783382400,
   "experience": null,
   "first_seen": 1783468800,
   "id": "237ea9fbf0ee",
@@ -12868,7 +13118,7 @@
   "category": "AI/ML",
   "company": "KSB",
   "company_url": "https://www.ksb.com/",
-  "date_posted": 1783382400,
+  "date_posted": 1783296000,
   "experience": null,
   "first_seen": 1783382400,
   "id": "6a1315ad0804",
@@ -12890,7 +13140,7 @@
   "category": "AI/ML",
   "company": "V4C.ai",
   "company_url": "https://www.v4c.ai/",
-  "date_posted": 1783382400,
+  "date_posted": 1783296000,
   "experience": null,
   "first_seen": 1783382400,
   "id": "0b864b472adf",
@@ -12912,7 +13162,7 @@
   "category": "AI/ML",
   "company": "ZEISS",
   "company_url": "https://www.zeiss.com",
-  "date_posted": 1783382400,
+  "date_posted": 1783296000,
   "experience": null,
   "first_seen": 1783382400,
   "id": "954d6163ff83",
@@ -13132,32 +13382,6 @@
  },
  {
   "active": true,
-  "category": "Quant",
-  "company": "Optiver",
-  "company_url": "https://simplify.jobs/c/Optiver",
-  "date_posted": 1783036800,
-  "experience": null,
-  "first_seen": 1783036800,
-  "id": "468d31c567f0",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Austin, TX",
-   "Chicago, IL",
-   "Austin, TX +1"
-  ],
-  "salary": "$201k/yr",
-  "sources": [
-   "simplify",
-   "speedyapply",
-   "vanshb03"
-  ],
-  "tier": "quant",
-  "title": "Graduate Quantitative Researcher",
-  "url": "https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Hewlett Packard Enterprise",
   "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
@@ -13180,27 +13404,29 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Billtrust",
-  "company_url": "https://simplify.jobs/c/Billtrust",
+  "category": "Quant",
+  "company": "Optiver",
+  "company_url": "https://simplify.jobs/c/Optiver",
   "date_posted": 1782950400,
   "experience": null,
-  "first_seen": 1782950400,
-  "id": "fe611b443b12",
+  "first_seen": 1783036800,
+  "id": "468d31c567f0",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "Hamilton Township, NJ",
-   "USA +1"
+   "Austin, TX",
+   "Chicago, IL",
+   "Austin, TX +1"
   ],
-  "salary": null,
+  "salary": "$201k/yr",
   "sources": [
    "simplify",
-   "speedyapply"
+   "speedyapply",
+   "vanshb03"
   ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://www.billtrust.com/careers/job-openings/?gh_jid=7790504003"
+  "tier": "quant",
+  "title": "Graduate Quantitative Researcher",
+  "url": "https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002"
  },
  {
   "active": true,
@@ -13245,6 +13471,30 @@
   "tier": "other",
   "title": "Robotics Engineer - Motion Planning",
   "url": "https://jobs.ashbyhq.com/contoro/0f41e38e-ee2b-4abb-b232-7ee72e37509f/application?embed=true"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Billtrust",
+  "company_url": "https://simplify.jobs/c/Billtrust",
+  "date_posted": 1782864000,
+  "experience": null,
+  "first_seen": 1782950400,
+  "id": "fe611b443b12",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hamilton Township, NJ",
+   "USA +1"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://www.billtrust.com/careers/job-openings/?gh_jid=7790504003"
  },
  {
   "active": true,
@@ -13317,7 +13567,7 @@
   "category": "AI/ML",
   "company": "Mollie",
   "company_url": "https://mollie.com/",
-  "date_posted": 1782864000,
+  "date_posted": 1782777600,
   "experience": null,
   "first_seen": 1782864000,
   "id": "ecf756b9056a",
@@ -13339,7 +13589,7 @@
   "category": "AI/ML",
   "company": "Susquehanna International Group",
   "company_url": "https://sig.com",
-  "date_posted": 1782777600,
+  "date_posted": 1782691200,
   "experience": null,
   "first_seen": 1782777600,
   "id": "8e4d2f598b46",
@@ -13361,7 +13611,7 @@
   "category": "AI/ML",
   "company": "Susquehanna International Group",
   "company_url": "https://sig.com",
-  "date_posted": 1782777600,
+  "date_posted": 1782691200,
   "experience": null,
   "first_seen": 1782777600,
   "id": "4a625fb34c4f",
@@ -13383,7 +13633,7 @@
   "category": "AI/ML",
   "company": "Susquehanna International Group",
   "company_url": "https://sig.com",
-  "date_posted": 1782777600,
+  "date_posted": 1782691200,
   "experience": null,
   "first_seen": 1782777600,
   "id": "476823a95ebb",
@@ -13405,7 +13655,7 @@
   "category": "AI/ML",
   "company": "Susquehanna International Group",
   "company_url": "https://sig.com",
-  "date_posted": 1782777600,
+  "date_posted": 1782691200,
   "experience": null,
   "first_seen": 1782777600,
   "id": "1ff846df6bd0",
@@ -13449,7 +13699,7 @@
   "category": "AI/ML/Data",
   "company": "Jumio",
   "company_url": "https://simplify.jobs/c/Jumio",
-  "date_posted": 1782604800,
+  "date_posted": 1782518400,
   "experience": null,
   "first_seen": 1782604800,
   "id": "a66a8ecb269f",
@@ -13472,7 +13722,7 @@
   "category": "AI/ML",
   "company": "LSEG",
   "company_url": "https://www.lseg.com",
-  "date_posted": 1782518400,
+  "date_posted": 1782432000,
   "experience": null,
   "first_seen": 1782518400,
   "id": "4cabb737531e",
@@ -13540,7 +13790,7 @@
   "category": "AI/ML",
   "company": "Esri",
   "company_url": "https://www.esri.com",
-  "date_posted": 1782432000,
+  "date_posted": 1782345600,
   "experience": null,
   "first_seen": 1782432000,
   "id": "6a56e33191d0",
@@ -13562,7 +13812,7 @@
   "category": "AI/ML",
   "company": "Clario",
   "company_url": "https://clario.com",
-  "date_posted": 1782432000,
+  "date_posted": 1782345600,
   "experience": null,
   "first_seen": 1782432000,
   "id": "b7d727566d29",
@@ -13578,28 +13828,6 @@
   "tier": "other",
   "title": "Associate Data Scientist",
   "url": "https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Bangalore-India/Associate-Data-Scientist_R17201-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Zillow",
-  "company_url": "https://www.zillow.com",
-  "date_posted": 1782345600,
-  "experience": null,
-  "first_seen": 1782345600,
-  "id": "f1a61beb0e99",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote - Germany"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer",
-  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/zillow_group_external/job/Remote-Germany/Machine-Learning-Engineer_P750556-1"
  },
  {
   "active": true,
@@ -13622,6 +13850,72 @@
   "tier": "other",
   "title": "Software Engineer, AI/ML",
   "url": "https://jobs.ashbyhq.com/tabs/4e120777-a87d-477f-9c7b-4b8449b659c2/application"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "University of Washington",
+  "company_url": "https://www.washington.edu/",
+  "date_posted": 1782345600,
+  "experience": null,
+  "first_seen": 1782345600,
+  "id": "f3b6a326f36b",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist/Engr 1",
+  "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/uwhires/job/Seattle-WA/Research-Scientist-Engr-1_REQ-0000131537"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "University of Washington",
+  "company_url": "https://www.washington.edu/",
+  "date_posted": 1782345600,
+  "experience": null,
+  "first_seen": 1782345600,
+  "id": "1eba5ed43201",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist/Engineer 1",
+  "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/uwhires/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000128046"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Zillow",
+  "company_url": "https://www.zillow.com",
+  "date_posted": 1782259200,
+  "experience": null,
+  "first_seen": 1782345600,
+  "id": "f1a61beb0e99",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Remote - Germany"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/zillow_group_external/job/Remote-Germany/Machine-Learning-Engineer_P750556-1"
  },
  {
   "active": true,
@@ -13672,7 +13966,7 @@
   "category": "AI/ML",
   "company": "PIMCO",
   "company_url": "https://www.pimco.com",
-  "date_posted": 1782172800,
+  "date_posted": 1782086400,
   "experience": null,
   "first_seen": 1782172800,
   "id": "213a1eb06116",
@@ -13716,7 +14010,7 @@
   "category": "AI/ML",
   "company": "Hayden AI",
   "company_url": "https://www.hayden.ai/",
-  "date_posted": 1781913600,
+  "date_posted": 1781827200,
   "experience": null,
   "first_seen": 1781913600,
   "id": "20f7cd312725",
@@ -13738,7 +14032,7 @@
   "category": "AI/ML",
   "company": "PIMCO",
   "company_url": "https://www.pimco.com",
-  "date_posted": 1781913600,
+  "date_posted": 1781827200,
   "experience": null,
   "first_seen": 1781913600,
   "id": "fc05f09230bb",
@@ -13760,7 +14054,7 @@
   "category": "AI/ML",
   "company": "MyAdvice",
   "company_url": "https://myadvice.com/",
-  "date_posted": 1781827200,
+  "date_posted": 1781740800,
   "experience": null,
   "first_seen": 1781827200,
   "id": "ef3838f86361",
@@ -13914,7 +14208,7 @@
   "category": "AI/ML",
   "company": "ALTEN",
   "company_url": "https://www.alten.com/",
-  "date_posted": 1781568000,
+  "date_posted": 1781481600,
   "experience": null,
   "first_seen": 1781568000,
   "id": "254d33ccd160",
@@ -14168,7 +14462,7 @@
   "category": "AI/ML",
   "company": "Inversion Space",
   "company_url": "https://www.inversionspace.com",
-  "date_posted": 1781395200,
+  "date_posted": 1781308800,
   "experience": null,
   "first_seen": 1781395200,
   "id": "c97e3220f17f",
@@ -14212,7 +14506,7 @@
   "category": "AI/ML",
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1781308800,
+  "date_posted": 1781222400,
   "experience": null,
   "first_seen": 1781308800,
   "id": "ee2395231a28",
@@ -14234,7 +14528,7 @@
   "category": "AI/ML",
   "company": "GSK",
   "company_url": "https://www.gsk.com",
-  "date_posted": 1781308800,
+  "date_posted": 1781222400,
   "experience": null,
   "first_seen": 1781308800,
   "id": "ebd7508d7233",
@@ -14254,7 +14548,7 @@
   "category": "AI/ML",
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1781308800,
+  "date_posted": 1781222400,
   "experience": null,
   "first_seen": 1781308800,
   "id": "dfdfa986562c",
@@ -14298,7 +14592,7 @@
   "category": "AI/ML",
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "first_seen": 1781222400,
   "id": "1118db55e270",
@@ -14320,7 +14614,7 @@
   "category": "AI/ML",
   "company": "Board International",
   "company_url": "http://board.com/",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "first_seen": 1781222400,
   "id": "334c6801ca85",
@@ -14342,7 +14636,7 @@
   "category": "AI/ML",
   "company": "LSEG",
   "company_url": "https://www.lseg.com",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "first_seen": 1781222400,
   "id": "e53482b28d1a",
@@ -14362,7 +14656,7 @@
   "category": "AI/ML",
   "company": "PROS Holdings",
   "company_url": "https://pros.com/",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "first_seen": 1781222400,
   "id": "b8e4d0077cb9",
@@ -14871,7 +15165,7 @@
   "category": "AI/ML",
   "company": "ZOLL",
   "company_url": "https://zoll.com",
-  "date_posted": 1781136000,
+  "date_posted": 1781049600,
   "experience": null,
   "first_seen": 1781136000,
   "id": "51b272391ac5",
@@ -14913,9 +15207,31 @@
  {
   "active": true,
   "category": "AI/ML",
+  "company": "Hewlett Packard Enterprise",
+  "company_url": "https://hpe.com/",
+  "date_posted": 1781049600,
+  "experience": null,
+  "first_seen": 1781049600,
+  "id": "f952c731c6e8",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Graduate",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Singapore-Central-Singapore-Singapore/Machine-Learning-Graduate_1194590-2"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
   "company": "TENEX",
   "company_url": "https://tenex.ai/",
-  "date_posted": 1781049600,
+  "date_posted": 1780963200,
   "experience": null,
   "first_seen": 1781049600,
   "id": "12a4f6396501",
@@ -14937,7 +15253,7 @@
   "category": "AI/ML",
   "company": "PepsiCo",
   "company_url": "https://www.pepsicojobs.com",
-  "date_posted": 1781049600,
+  "date_posted": 1780963200,
   "experience": null,
   "first_seen": 1781049600,
   "id": "510d80db6191",
@@ -15028,28 +15344,6 @@
   "date_posted": 1780617600,
   "experience": null,
   "first_seen": 1780617600,
-  "id": "27f6dd6b250e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "New York City, NY"
-  ],
-  "salary": "$398k/yr",
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Machine Learning Researcher Full-Time: New Grad",
-  "url": "https://www.janestreet.com/join-jane-street/position/8576928002"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Jane Street",
-  "company_url": "https://www.janestreet.com",
-  "date_posted": 1780617600,
-  "experience": null,
-  "first_seen": 1780617600,
   "id": "532d532ce367",
   "is_usa": false,
   "last_seen": 1788825600,
@@ -15085,6 +15379,28 @@
   "tier": "quant",
   "title": "Machine Learning Researcher Full-Time: New Grad",
   "url": "https://www.janestreet.com/join-jane-street/position/8576931002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Jane Street",
+  "company_url": "https://www.janestreet.com",
+  "date_posted": 1780531200,
+  "experience": null,
+  "first_seen": 1780617600,
+  "id": "27f6dd6b250e",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "New York City, NY"
+  ],
+  "salary": "$398k/yr",
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Machine Learning Researcher Full-Time: New Grad",
+  "url": "https://www.janestreet.com/join-jane-street/position/8576928002"
  },
  {
   "active": true,
@@ -15289,7 +15605,7 @@
   "category": "AI/ML",
   "company": "Board International",
   "company_url": "http://board.com/",
-  "date_posted": 1780531200,
+  "date_posted": 1780444800,
   "experience": null,
   "first_seen": 1780531200,
   "id": "2b71c864985b",
@@ -15311,7 +15627,7 @@
   "category": "AI/ML",
   "company": "PIMCO",
   "company_url": "https://www.pimco.com",
-  "date_posted": 1780531200,
+  "date_posted": 1780444800,
   "experience": null,
   "first_seen": 1780531200,
   "id": "32991e00d50f",
@@ -15333,7 +15649,7 @@
   "category": "AI/ML",
   "company": "Board International",
   "company_url": "http://board.com/",
-  "date_posted": 1780531200,
+  "date_posted": 1780444800,
   "experience": null,
   "first_seen": 1780531200,
   "id": "84dd6703e920",
@@ -15445,7 +15761,7 @@
   "category": "AI/ML",
   "company": "Jane Street",
   "company_url": "https://www.janestreet.com",
-  "date_posted": 1780444800,
+  "date_posted": 1780358400,
   "experience": null,
   "first_seen": 1780444800,
   "id": "f9b7a4a79af4",
@@ -15599,7 +15915,7 @@
   "category": "AI/ML",
   "company": "TD SYNNEX",
   "company_url": "https://www.tdsynnex.com",
-  "date_posted": 1780358400,
+  "date_posted": 1780272000,
   "experience": null,
   "first_seen": 1780358400,
   "id": "4a7e32e63781",
@@ -15643,7 +15959,7 @@
   "category": "AI/ML",
   "company": "Lentech",
   "company_url": "https://www.lentechinc.com/",
-  "date_posted": 1780099200,
+  "date_posted": 1780012800,
   "experience": null,
   "first_seen": 1780099200,
   "id": "437c88ff2341",
@@ -15665,7 +15981,7 @@
   "category": "AI/ML",
   "company": "Everwatch",
   "company_url": "https://everwatchsolutions.com",
-  "date_posted": 1780012800,
+  "date_posted": 1779926400,
   "experience": null,
   "first_seen": 1780012800,
   "id": "48de997445cd",
@@ -15687,7 +16003,7 @@
   "category": "AI/ML",
   "company": "Silvus Technologies",
   "company_url": "http://www.silvustechnologies.com",
-  "date_posted": 1780012800,
+  "date_posted": 1779926400,
   "experience": null,
   "first_seen": 1780012800,
   "id": "5274cc704932",
@@ -15709,7 +16025,7 @@
   "category": "AI/ML",
   "company": "HackerRank",
   "company_url": "https://www.hackerrank.com",
-  "date_posted": 1779926400,
+  "date_posted": 1779840000,
   "experience": null,
   "first_seen": 1779926400,
   "id": "67b583597c62",
@@ -15731,7 +16047,7 @@
   "category": "AI/ML",
   "company": "AITHERAS",
   "company_url": "http://aitheras.com/about/who-we-are/",
-  "date_posted": 1779580800,
+  "date_posted": 1779494400,
   "experience": null,
   "first_seen": 1779580800,
   "id": "5a3b70572a6f",
@@ -15753,7 +16069,7 @@
   "category": "AI/ML",
   "company": "Axon",
   "company_url": "https://www.axon.com",
-  "date_posted": 1779494400,
+  "date_posted": 1779408000,
   "experience": null,
   "first_seen": 1779494400,
   "id": "926dec644d26",
@@ -15775,7 +16091,7 @@
   "category": "AI/ML",
   "company": "Pear VC",
   "company_url": "https://pear.vc/",
-  "date_posted": 1779408000,
+  "date_posted": 1779321600,
   "experience": null,
   "first_seen": 1779408000,
   "id": "2bc4ae84616c",
@@ -15791,50 +16107,6 @@
   "tier": "other",
   "title": "Founding AI Engineer - Manhattan Labs",
   "url": "https://jobs.ashbyhq.com/pear-vc/f48cecb3-841e-4e38-87db-0ad1115a7a46"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Axtria - Ingenious Insights",
-  "company_url": "https://www.axtria.com",
-  "date_posted": 1779321600,
-  "experience": null,
-  "first_seen": 1779321600,
-  "id": "02d41039bb47",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Tokyo, Japan"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior AI Engineer - GenAI & Agentic AI Platform",
-  "url": "http://axtriainc.applytojob.com/apply/XdoKY1dHJc/Junior-AI-Engineer-GenAI-Agentic-AI-Platform"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Engineers Gate",
-  "company_url": "http://www.eglp.com",
-  "date_posted": 1779321600,
-  "experience": null,
-  "first_seen": 1779321600,
-  "id": "72ddf35326a8",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hong Kong"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Quantitative Researcher",
-  "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7946534"
  },
  {
   "active": true,
@@ -15904,27 +16176,47 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "ShyftLabs",
-  "company_url": "https://simplify.jobs/c/ShyftLabs",
-  "date_posted": 1778803200,
+  "category": "AI/ML",
+  "company": "Axtria - Ingenious Insights",
+  "company_url": "https://www.axtria.com",
+  "date_posted": 1779235200,
   "experience": null,
-  "first_seen": 1778803200,
-  "id": "1e18289e5fad",
+  "first_seen": 1779321600,
+  "id": "02d41039bb47",
   "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
-   "Toronto, ON, Canada",
-   "Toronto, Canada"
+   "Tokyo, Japan"
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Associate AI Engineer",
-  "url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675/apply"
+  "title": "Junior AI Engineer - GenAI & Agentic AI Platform",
+  "url": "http://axtriainc.applytojob.com/apply/XdoKY1dHJc/Junior-AI-Engineer-GenAI-Agentic-AI-Platform"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Engineers Gate",
+  "company_url": "http://www.eglp.com",
+  "date_posted": 1779235200,
+  "experience": null,
+  "first_seen": 1779321600,
+  "id": "72ddf35326a8",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Hong Kong"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Researcher",
+  "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7946534"
  },
  {
   "active": true,
@@ -15954,10 +16246,34 @@
  },
  {
   "active": true,
+  "category": "Software",
+  "company": "ShyftLabs",
+  "company_url": "https://simplify.jobs/c/ShyftLabs",
+  "date_posted": 1778716800,
+  "experience": null,
+  "first_seen": 1778803200,
+  "id": "1e18289e5fad",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, ON, Canada",
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate AI Engineer",
+  "url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675/apply"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "Valnet",
   "company_url": "https://www.valnetinc.com/en/",
-  "date_posted": 1778716800,
+  "date_posted": 1778630400,
   "experience": null,
   "first_seen": 1778716800,
   "id": "73a412df7bc9",
