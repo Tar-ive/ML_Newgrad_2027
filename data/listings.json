@@ -24,6 +24,51 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "Applied Materials",
+  "company_url": "https://simplify.jobs/c/Applied-Materials",
+  "date_posted": 1788739200,
+  "first_seen": 1788739200,
+  "id": "f079663ff039",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Caterpillar",
+  "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+  "date_posted": 1788739200,
+  "first_seen": 1788739200,
+  "id": "6547607d86a9",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Peoria, IL",
+   "Chicago, IL",
+   "Mossville, IL",
+   "Irving, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist / Technical Analyst",
+  "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872"
+ },
+ {
+  "active": true,
   "category": "AI/ML",
   "company": "OmegaHires",
   "company_url": "http://omegahires.com/",

@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**594** open roles
+**596** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · refreshed 4× daily
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 01:35 UTC_
+_Last refreshed: 2026-09-08 01:36 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -25,6 +25,8 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist | Santa Clara, CA | **1d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1) |
+| **[Caterpillar](https://simplify.jobs/c/Caterpillar-Inc)** | Data Scientist / Technical Analyst | Peoria, IL +3 | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872) |
 | **[OmegaHires](http://omegahires.com/)** | AI Engineer | Irving, TX | **2d** | [Apply](http://omegahires.applytojob.com/apply/DyzLqajYUl/AI-Engineer) |
 | **[Snowflake](https://simplify.jobs/c/Snowflake)** | AI Research Scientist New Grad - Agents & Reinforcement Learning | Bellevue, WA | **3d** | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application) |
 | **[Rocket Companies](https://rocketcompanies.com)** | MLOps Engineer | Detroit, MI | **3d** | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Machine-Learning-Engineer_R-081566) |
@@ -387,6 +389,8 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist | Santa Clara, CA | **1d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1) |
+| **[Caterpillar](https://simplify.jobs/c/Caterpillar-Inc)** | Data Scientist / Technical Analyst | Peoria, IL +3 | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872) |
 | **[OmegaHires](http://omegahires.com/)** | AI Engineer | Irving, TX | **2d** | [Apply](http://omegahires.applytojob.com/apply/DyzLqajYUl/AI-Engineer) |
 | **[Rocket Companies](https://rocketcompanies.com)** | MLOps Engineer | Detroit, MI | **3d** | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Machine-Learning-Engineer_R-081566) |
 | **[SpaceX](https://www.spacex.com)** | Data Scientist - Starlink | Redmond, WA | **3d** | [Apply](https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002) |
