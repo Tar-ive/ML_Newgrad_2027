@@ -2,14 +2,7 @@
 
 **Your one stop shop to land an ML new grad role in 2027.**
 
-Machine learning, AI research, and applied science roles for new graduates — filtered
-down from the general new-grad lists so you are not scrolling past 3,000 backend jobs
-to find the twelve that train models.
-
-<!-- COUNT_START -->
-**524** open roles
-<!-- COUNT_END -->
-in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
+Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
 _Last refreshed: 2026-09-08 02:27 UTC_
@@ -19,8 +12,6 @@ _Last refreshed: 2026-09-08 02:27 UTC_
 
 ## 🆕 New this week
 
-Roles that appeared in the last 7 days. Apply here first — response rates fall off a
-cliff after the first few days of a posting being live.
 
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
