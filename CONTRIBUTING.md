@@ -65,3 +65,13 @@ recs, err = scrape_company({'company':'Anthropic','ats':'greenhouse','slug':'ant
 print(err or f'{len(recs)} postings')
 "
 ```
+
+## Run the classifier tests
+
+```bash
+python3 tests/test_classify.py
+```
+
+Any change to `scripts/classify.py` must keep these passing — CI runs them
+before every refresh. If you are fixing a misfiled role, add it to `KEEP` or
+`DROP` in that file as part of the fix, so it cannot regress later.

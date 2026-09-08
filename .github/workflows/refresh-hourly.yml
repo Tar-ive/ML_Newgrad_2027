@@ -37,6 +37,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Classifier regression tests
+        run: python3 tests/test_classify.py
+
       - name: Scrape ATS boards
         id: aggregate
         run: |

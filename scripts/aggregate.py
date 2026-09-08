@@ -162,6 +162,15 @@ def main(ats_tier="fast", trackers=True):
         rec["active"] = True
         store[rid] = rec
 
+    # Tightening the classifier must take effect now, not in STALE_DAYS. Any
+    # stored role that no longer passes even the lenient gate is dropped
+    # outright rather than left to age out.
+    pruned = [rid for rid, rec in store.items()
+              if rid not in kept and not classify(rec["title"], rec.get("category"),
+                                                  rec["company"])[0]]
+    for rid in pruned:
+        del store[rid]
+
     closed = 0
     for rid, rec in store.items():
         if rid in kept:
@@ -179,7 +188,7 @@ def main(ats_tier="fast", trackers=True):
     for name, n, err in report:
         print(f"  {name:18} {n:6}" + (f"  FAILED: {err}" if err else ""))
     print(f"raw={len(raw)} ml_new_grad={len(kept)} filtered_out={dropped} "
-          f"new={new_today} closed={closed} store={len(store)}")
+          f"new={new_today} closed={closed} pruned={len(pruned)} store={len(store)}")
     return f"{len(kept)} roles, {new_today} new"
 
 

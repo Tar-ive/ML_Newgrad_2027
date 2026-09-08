@@ -56,6 +56,15 @@ NEGATIVE = _rx(
     r"manufacturing engineer", r"facilities", r"\btest engineer\b",
     # Front-of-stack roles on an AI product are not ML roles.
     r"front[- ]?end", r"\bfullstack\b", r"\bfull[- ]stack\b", r"\bui engineer\b",
+    # "AI Engineer" flavors that are IT, delivery, or tooling work rather than
+    # modelling. These come overwhelmingly from enterprises and consultancies
+    # integrating an LLM API, not from teams building models.
+    r"prompt engineer", r"vibe coder", r"solutions engineer", r"sales engineer",
+    r"\bqe\b", r"it infrastructure", r"information technology",
+    r"enterprise technology", r"automation engineer", r"\bautomation\b",
+    r"application security", r"offensive", r"\bsupply chain\b",
+    r"manufacturing", r"\bclinical\b", r"data analytics", r"\bhelpdesk\b",
+    r"\bimplementation\b", r"\bintegration engineer\b",
 )
 
 # Explicit new-grad markers. Curated trackers do not need these — every role on
@@ -125,6 +134,41 @@ QUANT = {
     "man group", "aqr", "balyasny", "verition", "xtx markets", "headlands",
 }
 
+# Titles whose core role is software engineering. "AI" next to one of these
+# usually names the product, the team, or the tooling the engineer uses -- not
+# the work. "AI-Augmented Software Engineer" writes code with an AI assistant;
+# "AI Security Software Engineer" secures an AI product. Neither trains models.
+SWE_CORE = _rx(
+    r"software (development )?engineer", r"software developer", r"\bsde\b",
+    r"\bprogrammer\b", r"web developer", r"application engineer",
+    r"\b(backend|back[- ]end|frontend|front[- ]end|fullstack|full[- ]stack)\b",
+    r"platform engineer", r"security engineer", r"infrastructure engineer",
+    r"devops", r"site reliability", r"\bsre\b", r"systems engineer",
+)
+
+# A genuine ML specialization. One of these has to appear alongside a software
+# engineering title for the role to count as ML work. Bare "AI" does not
+# qualify -- that is the whole point of the distinction.
+ML_SPECIALIZATION = _rx(
+    r"machine learning", r"\bml\b", r"\bmle\b", r"deep learning", r"neural",
+    r"computer vision", r"\bnlp\b", r"natural language", r"\bllm\b",
+    r"large language model", r"foundation model", r"generative", r"diffusion",
+    r"multimodal", r"multi[- ]modal", r"reinforcement learning", r"\brl\b",
+    r"recommendation", r"\brecsys\b", r"\branking\b", r"search relevance",
+    r"perception", r"autonomy", r"autonomous", r"speech", r"\basr\b", r"\btts\b",
+    r"research (scientist|engineer)", r"applied scien", r"data scien",
+    r"model (training|serving|inference|optimization)", r"\binference\b",
+    r"\bmlops\b", r"ml (infra|infrastructure|platform|systems|compiler|ops)",
+    r"robotics", r"\bcuda\b", r"\btriton\b", r"\bgpu\b",
+)
+
+
+def is_software_engineering(title):
+    """True when a title is a software engineering role with no ML specialty."""
+    t = title or ""
+    return bool(SWE_CORE.search(t)) and not ML_SPECIALIZATION.search(t)
+
+
 def normalize_company(name):
     n = (name or "").lower().strip()
     n = re.sub(r"[.,]", "", n)
@@ -185,7 +229,7 @@ def classify(title, category=None, company=None, experience=None, strict=False):
 
     `experience` is years required, when the source reports it.
     """
-    if is_intern(title):
+    if is_intern(title) or is_software_engineering(title):
         return False, None
     score = ml_score(title, category, company)
     if score < 2 or not is_new_grad(title):

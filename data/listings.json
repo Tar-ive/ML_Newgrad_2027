@@ -177,28 +177,6 @@
   "company": "TikTok",
   "company_url": null,
   "date_posted": null,
-  "experience": 2,
-  "first_seen": 1788825600,
-  "id": "e85cf76ef802",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency",
-  "url": "https://lifeattiktok.com/search/7325559906483996978"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
   "experience": 1,
   "first_seen": 1788825600,
   "id": "e2b8d4363d71",
@@ -237,28 +215,6 @@
   "tier": "bigtech",
   "title": "AI Infra Engineer - Large Model Inference Systems (Multimodal / LLM / VLM)",
   "url": "https://lifeattiktok.com/search/7651899647627807029"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": null,
-  "first_seen": 1788825600,
-  "id": "6d519ab8ec58",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (AI Agent & Global Revenue Platform) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668566347702569269"
  },
  {
   "active": true,
@@ -325,51 +281,6 @@
   "tier": "bigtech",
   "title": "Machine Learning Engineer - LIVE Recommendation - Singapore",
   "url": "https://lifeattiktok.com/search/7520493270868019463"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 1,
-  "first_seen": 1788825600,
-  "id": "faa17f31e130",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Agent",
-  "url": "https://lifeattiktok.com/search/7626968373985429765"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "first_seen": 1788825600,
-  "id": "e5d274d6f03e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, California, United States of America",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Operation Research Engineer- TikTok E-commerce Global Supply Chain and Logistics",
-  "url": "https://lifeattiktok.com/search/7112676583475022093"
  },
  {
   "active": true,
@@ -1236,49 +1147,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "Mars",
-  "company_url": "https://mars.com/",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "c7f091ce548a",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Supply Chain and Manufacturing AI Product Engineer",
-  "url": "https://mars.wd3.myworkdayjobs.com/en-US/external/job/GSW-Mars-Global-Services/Supply-Chain-and-Manufacturing-AI-Product-Engineer_R165787-2"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "NTT",
-  "company_url": "https://www.global.ntt",
-  "date_posted": 1788566400,
-  "experience": null,
-  "first_seen": 1788566400,
-  "id": "a43331e7494e",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hyderabad, India",
-   "Bengaluru, India +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Graduate Engineer - AI - Offensive - Application Security",
-  "url": "https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/hyderabad/Graduate-Engineer---AI--Offensive--Application-Security_R-149477"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "The Cigna Group",
   "company_url": "https://www.cigna.com",
   "date_posted": 1788566400,
@@ -1408,28 +1276,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Credence",
-  "company_url": "https://simplify.jobs/c/Credence",
-  "date_posted": 1788480000,
-  "experience": null,
-  "first_seen": 1788480000,
-  "id": "ef761216d584",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "McLean, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Entry-Level AI Software Engineer",
-  "url": "https://apply.workable.com/credence/j/BAD39E80E0/apply"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "Caterpillar",
   "company_url": "https://www.caterpillar.com",
@@ -1493,28 +1339,6 @@
   "tier": "other",
   "title": "Associate Engineer - AI/ML",
   "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate---Agentic-AI--_R-54476-2026"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Hewlett Packard Enterprise",
-  "company_url": "https://hpe.com/",
-  "date_posted": 1788480000,
-  "experience": null,
-  "first_seen": 1788480000,
-  "id": "c95f8c619eb6",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Mexico City, Mexico"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior IT Infrastructure & AI Engineer",
-  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Mexico-City-Distrito-Federal-Mexico/Junior-IT-Infrastructure---AI-Engineer_1213032"
  },
  {
   "active": true,
@@ -1586,28 +1410,6 @@
   "tier": "other",
   "title": "Associate Data Scientist",
   "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "PQ",
-  "company_url": "https://simplify.jobs/c/PQ",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "a440b3d64a20",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Malvern, PA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI-Augmented Software Engineer",
-  "url": "https://jobs.smartrecruiters.com/PQ/744000147064769"
  },
  {
   "active": true,
@@ -1700,50 +1502,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Applied Materials",
-  "company_url": "https://simplify.jobs/c/Applied-Materials",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "dfca018f3197",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Data Scientist 2 - Supply Chain Analytics",
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2627771"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Blackstone",
-  "company_url": "https://www.blackstone.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "9c3c37988fd9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "New York City, NY"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Engineer - Associate - Data Analytics & AI",
-  "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/blackstone_careers/job/New-York/AI-Engineer--Associate---Data-Analytics---AI_45237-1"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "Horizon Media",
   "company_url": "https://www.horizonmedia.com",
@@ -1829,28 +1587,6 @@
   "tier": "other",
   "title": "Translational AI Engineer",
   "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/pfizercareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Pfizer",
-  "company_url": "https://www.pfizer.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "7c08f17b1244",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Massachusetts, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Applied AI Workflow Clinical Scientist",
-  "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/pfizercareers/job/United-States---Massachusetts---Cambridge/Applied-AI-Workflow-Clinical-Scientist_4962397-1"
  },
  {
   "active": true,
@@ -1943,28 +1679,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "PwC",
-  "company_url": "https://www.pwc.com",
-  "date_posted": 1788393600,
-  "experience": null,
-  "first_seen": 1788393600,
-  "id": "bd449ed6bff4",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bengaluru, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI QE Engineer - Associate",
-  "url": "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore/AI-QE-Engineer---Associate_757955WD-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "Williams Racing",
   "company_url": "https://www.williamsf1.com",
   "date_posted": 1788393600,
@@ -1983,50 +1697,6 @@
   "tier": "other",
   "title": "Graduate AI Machine Learning Engineer",
   "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146957079-graduate-ai-machine-learning-engineer?oga=true"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1788393600,
-  "experience": 2,
-  "first_seen": 1788393600,
-  "id": "d773e569b5c1",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hawthorne, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "AI Security Software Engineer (Starshield)",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1788393600,
-  "experience": 2,
-  "first_seen": 1788393600,
-  "id": "0971848fec5a",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Washington, DC"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "AI Security Software Engineer (Starshield)",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8782424002?gh_jid=8782424002"
  },
  {
   "active": true,
@@ -2071,50 +1741,6 @@
   "tier": "other",
   "title": "Associate Data Scientist - Decision Analytics",
   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req190547"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "American Express",
-  "company_url": "https://simplify.jobs/c/American-Express",
-  "date_posted": 1788307200,
-  "experience": null,
-  "first_seen": 1788307200,
-  "id": "e93a259265cd",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "NYC"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Engineer 1 - Enterprise Technology Services",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "American Express",
-  "company_url": "https://simplify.jobs/c/American-Express",
-  "date_posted": 1788307200,
-  "experience": null,
-  "first_seen": 1788307200,
-  "id": "4193aa1ecdde",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Sunrise, FL"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Engineer 1 - Enterprise Technology Services",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985"
  },
  {
   "active": true,
@@ -2273,28 +1899,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "Motorola Solutions",
-  "company_url": "https://www.motorolasolutions.com",
-  "date_posted": 1788307200,
-  "experience": null,
-  "first_seen": 1788307200,
-  "id": "02295cca09ee",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Applied AI Engineer I - Supply Chain",
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "MyFunded Futures",
   "company_url": "https://myfundedfutures.com",
   "date_posted": 1788307200,
@@ -2375,28 +1979,6 @@
   "tier": "other",
   "title": "AI Adoption Data Scientist Associate - BEI",
   "url": "https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Ciudad-de-Mexico-Cuauhtmoc-06600/AI-Adoption-Data-Scientist-Associate--BEI-_JR00113644"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Jobgether",
-  "company_url": "https://jobgether.com/home",
-  "date_posted": 1788307200,
-  "experience": null,
-  "first_seen": 1788307200,
-  "id": "14601a9dcc4b",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Brazil"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Automation Engineer - FitMe",
-  "url": "https://jobs.lever.co/jobgether/c653500a-37e0-4180-a5f7-620128d31795"
  },
  {
   "active": true,
@@ -2628,50 +2210,6 @@
   "date_posted": 1788220800,
   "experience": null,
   "first_seen": 1788220800,
-  "id": "d6ac38b94fd7",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Engineer 1 - Enterprise Technology Services",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "American Express",
-  "company_url": "https://simplify.jobs/c/American-Express",
-  "date_posted": 1788220800,
-  "experience": null,
-  "first_seen": 1788220800,
-  "id": "8e21652c6a92",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Engineer 1 - Enterprise Technology Services",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "American Express",
-  "company_url": "https://simplify.jobs/c/American-Express",
-  "date_posted": 1788220800,
-  "experience": null,
-  "first_seen": 1788220800,
   "id": "56b03bd4ee30",
   "is_usa": true,
   "last_seen": 1788825600,
@@ -2685,28 +2223,6 @@
   "tier": "other",
   "title": "AI Engineer 1 - Graduate",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Synack",
-  "company_url": "https://simplify.jobs/c/Synack",
-  "date_posted": 1788220800,
-  "experience": null,
-  "first_seen": 1788220800,
-  "id": "2f027c085df9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote in UK"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Graduate Software Engineer - AI",
-  "url": "https://job-boards.greenhouse.io/synack/jobs/8165010"
  },
  {
   "active": true,
@@ -2730,28 +2246,6 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500/?ats=successfactors"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Motorola",
-  "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-  "date_posted": 1788220800,
-  "experience": null,
-  "first_seen": 1788220800,
-  "id": "6b78d611dc8f",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Applied AI Engineer 1 - Supply Chain",
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371"
  },
  {
   "active": true,
@@ -2906,28 +2400,6 @@
   "tier": "bigtech",
   "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
   "url": "https://careers.amd.com/jobs/91544?icims=1"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Proofpoint",
-  "company_url": "https://simplify.jobs/c/Proofpoint",
-  "date_posted": 1788134400,
-  "experience": null,
-  "first_seen": 1788134400,
-  "id": "1fb9f0580992",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Belfast, UK"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Associate Software Engineer - AI Agents - Satori",
-  "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Associate-Software-Engineer---AI-Agents--Satori-_R14682"
  },
  {
   "active": true,
@@ -3143,28 +2615,6 @@
  {
   "active": true,
   "category": "AI/ML",
-  "company": "Micron Technology",
-  "company_url": "https://www.micron.com/",
-  "date_posted": 1787961600,
-  "experience": null,
-  "first_seen": 1787961600,
-  "id": "3cb0f362cd52",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Engineer/Associate Engineer - AI & Automation Engineer",
-  "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692"
- },
- {
-  "active": true,
-  "category": "AI/ML",
   "company": "NXP Semiconductors",
   "company_url": "https://www.nxp.com",
   "date_posted": 1787961600,
@@ -3183,29 +2633,6 @@
   "tier": "other",
   "title": "ML/AI Junior Compiler Engineer",
   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/ML-AI-Junior-Compiler-Engineer_R-10066030"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "CACI",
-  "company_url": "https://simplify.jobs/c/CACI",
-  "date_posted": 1787875200,
-  "experience": null,
-  "first_seen": 1787875200,
-  "id": "bbed7623ae8e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ashburn, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Prompt Engineer",
-  "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_324104"
  },
  {
   "active": true,
@@ -3442,28 +2869,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Talan",
-  "company_url": "https://www.talan.com/",
-  "date_posted": 1787875200,
-  "experience": null,
-  "first_seen": 1787875200,
-  "id": "9fde5ee2d8d5",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Paris, France"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Prompt Engineer / Vibe Coder Junior - H/F",
-  "url": "https://jobs.smartrecruiters.com/Talan/744000145943120-ai-prompt-engineer-vibe-coder-junior-h-f?oga=true"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Embedding VC",
   "company_url": "https://simplify.jobs/c/Embedding-VC",
@@ -3509,29 +2914,6 @@
   "tier": "other",
   "title": "Machine Learning Engineer - MLOps Framework",
   "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Anduril",
-  "company_url": "https://simplify.jobs/c/Anduril",
-  "date_posted": 1787788800,
-  "experience": null,
-  "first_seen": 1787788800,
-  "id": "04b1725f9a31",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Costa Mesa, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Agentic AI Engineer - Automation",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007"
  },
  {
   "active": true,
@@ -3868,28 +3250,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "CompuGroup Medical SE & Co. KGaA",
-  "company_url": "https://www.cgm.com",
-  "date_posted": 1787788800,
-  "experience": null,
-  "first_seen": 1787788800,
-  "id": "9dcfd4ff689e",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ia\u015fi, Romania"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior Infrastructure & Ops Automation Engineer - AI",
-  "url": "https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Iasi/Junior-Infrastructure---Ops-Automation-Engineer--AI-_JR110129"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Emory Healthcare",
   "company_url": "https://simplify.jobs/c/Emory-Healthcare",
@@ -4207,28 +3567,6 @@
   "tier": "other",
   "title": "AI/ML Engineer",
   "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Seongnam/AI-ML-Engineer_R4042507-1"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "LUXASIA",
-  "company_url": "https://www.luxasia.com/",
-  "date_posted": 1787702400,
-  "experience": null,
-  "first_seen": 1787702400,
-  "id": "985842873f20",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Delhi, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Engineer - Agentic AI & Automation",
-  "url": "https://apply.workable.com/luxasia/j/CFF16F4372/"
  },
  {
   "active": true,
@@ -4565,28 +3903,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Minted",
-  "company_url": "https://www.minted.com",
-  "date_posted": 1787443200,
-  "experience": null,
-  "first_seen": 1787443200,
-  "id": "d99bbd2df707",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Remote"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI & Automation Engineer",
-  "url": "https://jobs.lever.co/minted/b8d10bb5-b8f4-4d3c-95d7-34342ea01df5"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Avalore",
   "company_url": "https://simplify.jobs/c/Avalore",
@@ -4675,106 +3991,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1787270400,
-  "experience": null,
-  "first_seen": 1787270400,
-  "id": "3803a3222af3",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
-  "url": "https://lifeattiktok.com/search/7675842865566222597"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1787270400,
-  "experience": null,
-  "first_seen": 1787270400,
-  "id": "51402497f6e0",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "url": "https://lifeattiktok.com/search/7675844938504702213"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1787270400,
-  "experience": null,
-  "first_seen": 1787270400,
-  "id": "2e35123eac85",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "url": "https://lifeattiktok.com/search/7675843332462872885"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1787270400,
-  "experience": null,
-  "first_seen": 1787270400,
-  "id": "0e44ff0c5121",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Multiple Teams",
-  "url": "https://lifeattiktok.com/search/7675841339440941317"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "KLA",
   "company_url": "https://www.kla.com",
@@ -4838,6 +4054,28 @@
   "tier": "other",
   "title": "Data Science/Business Intel Analyst I",
   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Manila/Data-Science-Business-Intel-Analyst-I_R117207"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1787184000,
+  "experience": null,
+  "first_seen": 1787270400,
+  "id": "0e44ff0c5121",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Multiple Teams",
+  "url": "https://lifeattiktok.com/search/7675841339440941317"
  },
  {
   "active": true,
@@ -5689,95 +4927,6 @@
   "tier": "other",
   "title": "Machine Learning Engineer - Associate",
   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Relativity Space",
-  "company_url": "https://simplify.jobs/c/Relativity-Space",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "94852910cfd5",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Long Beach, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering",
-  "url": "https://boards.greenhouse.io/relativity/jobs/8726261002"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Dark Wolf Solutions",
-  "company_url": "https://simplify.jobs/c/Dark-Wolf-Solutions",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "6189d4c2e547",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Chantilly, VA",
-   "Herndon, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Junior AI Software Engineer",
-  "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Ema",
-  "company_url": "https://simplify.jobs/c/Ema",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "45bad9726663",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Application Engineer",
-  "url": "https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Xaira Therapeutics",
-  "company_url": "https://simplify.jobs/c/Xaira-Therapeutics",
-  "date_posted": 1787011200,
-  "experience": null,
-  "first_seen": 1787011200,
-  "id": "1b611ad61ced",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "South SF"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Robotics Engineer, Lab Automation",
-  "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007"
  },
  {
   "active": true,
@@ -7248,12 +6397,10 @@
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -7380,28 +6527,6 @@
   "tier": "bigtech",
   "title": "Research Scientist Graduate - Foundation Model-Speech-Interaction & Learning",
   "url": "https://jobs.bytedance.com/en/position/7671032227920431413/detail"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "ASM International",
-  "company_url": "https://simplify.jobs/c/ASM-International",
-  "date_posted": 1786492800,
-  "experience": null,
-  "first_seen": 1786492800,
-  "id": "eb51939009f4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Phoenix, AZ"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Systems Engineer 1 - Software, Robotics & Semiconductor Automation",
-  "url": "https://www.asm.com/open-vacancies/?gh_jid=4948195101"
  },
  {
   "active": true,
@@ -7565,28 +6690,6 @@
   "date_posted": 1786406400,
   "experience": null,
   "first_seen": 1786406400,
-  "id": "c71df8a668d6",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
-  "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1786406400,
-  "experience": null,
-  "first_seen": 1786406400,
   "id": "0e2d6d69e8d8",
   "is_usa": true,
   "last_seen": 1788825600,
@@ -7736,28 +6839,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1786320000,
-  "experience": null,
-  "first_seen": 1786320000,
-  "id": "e68ef17a909e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-  "url": "https://jobs.bytedance.com/en/position/7671107540954777861/detail"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "PAM Health",
   "company_url": "https://simplify.jobs/c/PAM-Health",
   "date_posted": 1786320000,
@@ -7776,28 +6857,6 @@
   "tier": "other",
   "title": "AI Engineer",
   "url": "https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "The Home Depot",
-  "company_url": "https://simplify.jobs/c/The-Home-Depot",
-  "date_posted": 1786320000,
-  "experience": null,
-  "first_seen": 1786320000,
-  "id": "f1067990606a",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist - Tools & Automation",
-  "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Tools---Automation_Req189666"
  },
  {
   "active": true,
@@ -7868,28 +6927,6 @@
   "tier": "other",
   "title": "Quantitative Researcher - PhD New Grad",
   "url": "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Homey",
-  "company_url": "https://simplify.jobs/c/485f0091-e368-4fec-88b5-ef728b653aea",
-  "date_posted": 1786147200,
-  "experience": null,
-  "first_seen": 1786147200,
-  "id": "d5cd04c1ffb1",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, UK"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Junior Software Engineer - AI-Native",
-  "url": "https://apply.workable.com/homey/j/50DF9B3D53/apply"
  },
  {
   "active": true,
@@ -8526,26 +7563,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Flatiron Health",
-  "company_url": "http://flatiron.com/careers",
-  "date_posted": 1785974400,
-  "experience": null,
-  "first_seen": 1785974400,
-  "id": "5c03de296482",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - Workflow Automation",
-  "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8027593"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Upstart",
   "company_url": "https://simplify.jobs/c/Upstart",
@@ -8591,28 +7608,6 @@
   "tier": "bigtech",
   "title": "Research Engineer Graduate - Agentic Arch - PhD",
   "url": "https://lifeattiktok.com/search/7669824148794575109"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Asure",
-  "company_url": "https://simplify.jobs/c/Asure",
-  "date_posted": 1785888000,
-  "experience": null,
-  "first_seen": 1785888000,
-  "id": "77a63dbdc299",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Addison, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Associate AI Software Engineer",
-  "url": "https://asuresoftware.bamboohr.com/careers/1058/"
  },
  {
   "active": true,
@@ -9253,28 +8248,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785801600,
-  "experience": 2,
-  "first_seen": 1785801600,
-  "id": "7f6ca43ff9cc",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bastrop, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Software Engineer, AI Satellites (Starmind)",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
@@ -9575,50 +8548,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "56ca1511f904",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
-  "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "bf2fad84addd",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
-  "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "ByteDance",
   "company_url": "https://simplify.jobs/c/ByteDance",
@@ -9707,28 +8636,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "0babf5e4553e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate - AI Infrastructure Compute",
-  "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "ByteDance",
   "company_url": "https://simplify.jobs/c/ByteDance",
@@ -9748,28 +8655,6 @@
   "tier": "bigtech",
   "title": "Research Scientist New Grad - Computational Imaging",
   "url": "https://jobs.bytedance.com/en/position/7665836153219959093/detail"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "ByteDance",
-  "company_url": "https://simplify.jobs/c/ByteDance",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "f6495bd5ad68",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer New Grad - AI Infra Compute",
-  "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail"
  },
  {
   "active": true,
@@ -10111,28 +8996,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Texas Sports Academy",
-  "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "d93a50db6644",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Junior AI Software Engineer",
-  "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "ByteDance",
   "company_url": "https://simplify.jobs/c/ByteDance",
@@ -10152,31 +9015,6 @@
   "tier": "bigtech",
   "title": "Research Scientist",
   "url": "https://jobs.bytedance.com/en/position/7667645514462480645/detail"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1785715200,
-  "experience": null,
-  "first_seen": 1785715200,
-  "id": "d25139e2320f",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Infrastructure Engineer Graduate - Algorithm Infrastructure - PhD",
-  "url": "https://lifeattiktok.com/search/7664534268139571509"
  },
  {
   "active": true,
@@ -11111,54 +9949,6 @@
   "date_posted": 1785369600,
   "experience": null,
   "first_seen": 1785369600,
-  "id": "f61b23a46fbc",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "LLM Machine Learning Engineer Graduate - Global E-Commerce - Supply Chain and Logistics - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667944966433737013"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "first_seen": 1785369600,
-  "id": "bfb42ec0543d",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "LLM Machine Learning Engineer Graduate - Global E-Commerce - Supply Chain and Logistics - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667943195490224437"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "first_seen": 1785369600,
   "id": "ef6c7e4a5bcc",
   "is_usa": false,
   "last_seen": 1788825600,
@@ -11487,97 +10277,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "first_seen": 1785369600,
-  "id": "c234626d7f16",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Starbase, TX",
-   "McGregor, TX",
-   "Bastrop, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "first_seen": 1785369600,
-  "id": "2239017e8b15",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "first_seen": 1785369600,
-  "id": "09cfc5d7a635",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Cape Canaveral, FL"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "first_seen": 1785369600,
-  "id": "29b086cc6627",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Vandenberg, CA",
-   "Hawthorne, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "NewsBreak",
   "company_url": "https://simplify.jobs/c/NewsBreak",
@@ -11644,28 +10343,6 @@
   "tier": "other",
   "title": "Data Scientist 1 - Dsap",
   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014-1"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Texas Sports Academy",
-  "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
-  "date_posted": 1785283200,
-  "experience": null,
-  "first_seen": 1785283200,
-  "id": "bdcf195f31bd",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Junior Software Engineer - AI-Forward",
-  "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply"
  },
  {
   "active": true,
@@ -12073,30 +10750,6 @@
   "tier": "bigtech",
   "title": "Research Scientist - Robotics Research - PhD New College Grad 2026",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
-  "experience": null,
-  "first_seen": 1784937600,
-  "id": "f6b3f24180d6",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Systems Engineer Graduate - AI Code Infrastructure-Agentic Ops US - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7665989305914984709"
  },
  {
   "active": true,
@@ -12527,28 +11180,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Zededa",
-  "company_url": "https://simplify.jobs/c/Zededa",
-  "date_posted": 1784592000,
-  "experience": null,
-  "first_seen": 1784592000,
-  "id": "7c945b5bb872",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
-  "url": "https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Tavern Research",
   "company_url": "https://simplify.jobs/c/3e8fa2fe-c892-4a84-8ed7-c32b8fbc9820",
@@ -12617,28 +11248,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "CSC Generation",
-  "company_url": "https://simplify.jobs/c/CSC-Generation",
-  "date_posted": 1784592000,
-  "experience": null,
-  "first_seen": 1784592000,
-  "id": "ccdf04221c3d",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Toronto, ON, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Solutions Engineer",
-  "url": "https://jobs.lever.co/cscgeneration-2/40715594-0edc-4909-967c-71d252215c51/apply"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "Teledyne",
   "company_url": "https://www.teledyne.com",
@@ -12702,29 +11311,6 @@
   "tier": "other",
   "title": "Engineer 1 New Grad - Data Scientist",
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "SpaceX",
-  "company_url": "https://simplify.jobs/c/SpaceX",
-  "date_posted": 1784419200,
-  "experience": null,
-  "first_seen": 1784419200,
-  "id": "0448f6c725a7",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Software Engineer - Applied AI - Starlink",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8637712002"
  },
  {
   "active": true,
@@ -13279,51 +11865,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Lightfield",
-  "company_url": "https://simplify.jobs/c/Lightfield",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "78734f87a621",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Software Engineer New Grad - Applied AI",
-  "url": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Accenture",
-  "company_url": "https://simplify.jobs/c/Accenture-FS",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "171291320e78",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "London, UK",
-   "Birmingham, UK"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Native Software Engineer",
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "Citadel",
   "company_url": "https://www.citadel.com/careers",
@@ -13453,28 +11994,6 @@
   "tier": "quant",
   "title": "Machine Learning Researcher - PhD Graduate - Asia",
   "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "NXP Semiconductors",
-  "company_url": "https://www.nxp.com",
-  "date_posted": 1784160000,
-  "experience": null,
-  "first_seen": 1784160000,
-  "id": "c69827ae28c9",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Kuala Lumpur, Malaysia"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Entry-Level Data Scientist - Semiconductor Engineering & Automation",
-  "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Entry-Level-Data-Scientist---Semiconductor-Engineering---Automation_R-10064847"
  },
  {
   "active": true,
@@ -13630,28 +12149,6 @@
   "tier": "other",
   "title": "Quantitative Researcher - Early Career - USA",
   "url": "https://apply.workable.com/trexquant/j/974C6CE712/"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Notion",
-  "company_url": null,
-  "date_posted": 1783987200,
-  "experience": 2,
-  "first_seen": 1783987200,
-  "id": "ea82cad98b7a",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, California"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Platform",
-  "url": "https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1/application"
  },
  {
   "active": true,
@@ -14039,29 +12536,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Motorola",
-  "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-  "date_posted": 1783468800,
-  "experience": null,
-  "first_seen": 1783468800,
-  "id": "519ca4a5f737",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Alberta, Canada",
-   "Remote in Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Junior Software Engineer - AI Agent Platform",
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Innodata",
   "company_url": "https://simplify.jobs/c/Innodata",
@@ -14283,29 +12757,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Cerebras",
-  "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-  "date_posted": 1783382400,
-  "experience": null,
-  "first_seen": 1783382400,
-  "id": "ce3b195642e9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Toronto, ON, Canada",
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "ai_lab",
-  "title": "Software Integration Engineer - AI Inference Core",
-  "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true"
- },
- {
-  "active": true,
   "category": "AI/ML",
   "company": "KSB",
   "company_url": "https://www.ksb.com/",
@@ -14369,30 +12820,6 @@
   "tier": "other",
   "title": "Duales Studium - Data Science und K\u00fcnstliche Intelligenz - m/w/x - Beginn Herbst 2027",
   "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Oberkochen/Duales-Studium---Data-Science-und-Knstliche-Intelligenz--m-w-x---Beginn-Herbst-2027_JR_1051163"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Notion",
-  "company_url": "https://simplify.jobs/c/Notion",
-  "date_posted": 1783296000,
-  "experience": null,
-  "first_seen": 1783296000,
-  "id": "e1603fc0b137",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF",
-   "San Francisco, California"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer \u2013 Early Career - AI",
-  "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application"
  },
  {
   "active": true,
@@ -14710,28 +13137,6 @@
   "tier": "other",
   "title": "Robotics Engineer - Motion Planning",
   "url": "https://jobs.ashbyhq.com/contoro/0f41e38e-ee2b-4abb-b232-7ee72e37509f/application?embed=true"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Internet Brands",
-  "company_url": "https://simplify.jobs/c/Internet-Brands",
-  "date_posted": 1782864000,
-  "experience": null,
-  "first_seen": 1782864000,
-  "id": "71f3fada5b58",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Newark, NJ"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Associate AI Software Engineer",
-  "url": "https://jobs.jobvite.com/internetbrands/job/oSkoAfwU?nl=1&nl=1&fr=false"
  },
  {
   "active": true,
@@ -15112,28 +13517,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Klarity",
-  "company_url": "https://simplify.jobs/c/Klarity",
-  "date_posted": 1782259200,
-  "experience": null,
-  "first_seen": 1782259200,
-  "id": "f376035b4a70",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "AI Backend Engineer",
-  "url": "https://jobs.ashbyhq.com/klarity-ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "UJET",
   "company_url": "https://simplify.jobs/c/UJET",
@@ -15153,28 +13536,6 @@
   "tier": "other",
   "title": "AI Data Engineer",
   "url": "https://job-boards.greenhouse.io/ujet/jobs/4707365005"
- },
- {
-  "active": true,
-  "category": "AI/ML",
-  "company": "Ignite IT",
-  "company_url": "http://www.igniteitservices.com/",
-  "date_posted": 1782259200,
-  "experience": null,
-  "first_seen": 1782259200,
-  "id": "019cc00d9ff5",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Ashburn, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Jr. AI Prompt Engineer",
-  "url": "https://apply.workable.com/ignite-33/j/81F38A4E63/"
  },
  {
   "active": true,
@@ -17149,28 +15510,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML",
-  "company": "Telepatia",
-  "company_url": "https://www.telepatia.ai/",
-  "date_posted": 1780185600,
-  "experience": null,
-  "first_seen": 1780185600,
-  "id": "2e390d438427",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "Bogot\u00e1, Colombia"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Solutions Engineer",
-  "url": "https://jobs.ashbyhq.com/telepatia/0a49627c-e941-458b-b73a-500479e1795d"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "General Dynamics Information Technology",
   "company_url": "https://simplify.jobs/c/GDIT",
@@ -17441,28 +15780,6 @@
   "date_posted": 1779321600,
   "experience": 1,
   "first_seen": 1779321600,
-  "id": "a210af7907ce",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Hawthorne, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "AI Software Engineer (Vehicle Engineering)",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8559015002?gh_jid=8559015002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1779321600,
-  "experience": 1,
-  "first_seen": 1779321600,
   "id": "2f33169ef3e0",
   "is_usa": true,
   "last_seen": 1788825600,
@@ -17682,28 +15999,6 @@
   "tier": "bigtech",
   "title": "Research Scientist Graduate - Intelligent Editing and AI Agent - Multimodality",
   "url": "https://lifeattiktok.com/search/7631002754433665333"
- },
- {
-  "active": true,
-  "category": "Software",
-  "company": "Wonderschool",
-  "company_url": "https://simplify.jobs/c/Wonderschool",
-  "date_posted": 1776988800,
-  "experience": null,
-  "first_seen": 1776988800,
-  "id": "cf28fbcea78b",
-  "is_usa": false,
-  "last_seen": 1788825600,
-  "locations": [
-   "SF"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Early Career Software Engineer - Applied AI",
-  "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003"
  },
  {
   "active": true,
@@ -18288,28 +16583,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Travelers",
-  "company_url": null,
-  "date_posted": 1774396800,
-  "experience": null,
-  "first_seen": 1774396800,
-  "id": "a4f354d459c6",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "Software Engineer I (AI Driven)",
-  "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "TSMG",
   "company_url": "https://simplify.jobs/c/TSMG",
@@ -18645,28 +16918,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "NVIDIA",
-  "company_url": "https://simplify.jobs/c/NVIDIA",
-  "date_posted": 1770249600,
-  "experience": null,
-  "first_seen": 1770249600,
-  "id": "b9f622a75045",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist - Electronic Design Automation",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "Applied Materials",
   "company_url": "https://simplify.jobs/c/Applied-Materials",
   "date_posted": 1770076800,
@@ -18866,29 +17117,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Magical",
-  "company_url": null,
-  "date_posted": 1765497600,
-  "experience": null,
-  "first_seen": 1765497600,
-  "id": "89abfda17a60",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA",
-   "Toronto, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "New Grad: Junior Software Engineer, AI",
-  "url": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Tesla",
   "company_url": null,
   "date_posted": 1764460800,
@@ -18951,29 +17179,6 @@
   "tier": "other",
   "title": "Research Engineer - Decentralized AI Systems",
   "url": "https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "EvenUp",
-  "company_url": null,
-  "date_posted": 1764460800,
-  "experience": null,
-  "first_seen": 1764460800,
-  "id": "c2aa718910c6",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA",
-   "Toronto, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "Backend Software Engineer, AI Document Generation (All Levels)",
-  "url": "https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96"
  },
  {
   "active": true,
@@ -19245,52 +17450,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1760400000,
-  "experience": null,
-  "first_seen": 1760400000,
-  "id": "e74d32e8c070",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Austin, TX",
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Verification Infrastructure & DevOps Engineer, AI Hardware",
-  "url": "https://www.tesla.com/careers/search/job/253221"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1760400000,
-  "experience": null,
-  "first_seen": 1760400000,
-  "id": "5f02d6065350",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Austin, TX",
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Infrastructure & DevOps Engineer, AI Hardware",
-  "url": "https://www.tesla.com/careers/search/job/253222"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Adobe",
   "company_url": null,
   "date_posted": 1760054400,
@@ -19403,28 +17562,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Eluvio",
-  "company_url": null,
-  "date_posted": 1757289600,
-  "experience": null,
-  "first_seen": 1757289600,
-  "id": "1b2d86d970ff",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Berkeley, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "New Grad: Software Engineer, AI Core Apps",
-  "url": "https:/.workable.com/eluvio/j/A349A0D2AF"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Sonar",
   "company_url": null,
   "date_posted": 1757289600,
@@ -19465,28 +17602,6 @@
   "tier": "other",
   "title": "Research Scientist / Engineer - Data",
   "url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "ByteDance",
-  "company_url": null,
-  "date_posted": 1756339200,
-  "experience": null,
-  "first_seen": 1756339200,
-  "id": "5a2ff4423d38",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "New Grad 2026: Software Engineer (AI Applications)",
-  "url": "https://joinbytedance.com/search/7540808448918079752"
  },
  {
   "active": true,
@@ -20087,50 +18202,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1753315200,
-  "experience": null,
-  "first_seen": 1753315200,
-  "id": "06e300f6cef4",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Camera Software Engineer, AI Platforms",
-  "url": "https://www.tesla.com/careers/search/job/246198"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1753315200,
-  "experience": null,
-  "first_seen": 1753315200,
-  "id": "1570efcd98c9",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Integration Engineer, AI Platforms",
-  "url": "https://www.tesla.com/careers/search/job/246199"
- },
- {
-  "active": true,
-  "category": null,
   "company": "IMC",
   "company_url": null,
   "date_posted": 1751673600,
@@ -20286,50 +18357,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1749427200,
-  "experience": null,
-  "first_seen": 1749427200,
-  "id": "195ccffecf3e",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Systems Performance Modeling, Dojo",
-  "url": "https://www.tesla.com/careers/search/job/244263"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Lockheed Martin",
-  "company_url": null,
-  "date_posted": 1749254400,
-  "experience": null,
-  "first_seen": 1749254400,
-  "id": "6486a6e96d27",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "AI Platform Engineer",
-  "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Nuro",
   "company_url": null,
   "date_posted": 1748563200,
@@ -20396,28 +18423,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Qualcomm",
-  "company_url": null,
-  "date_posted": 1747958400,
-  "experience": null,
-  "first_seen": 1747958400,
-  "id": "f0664232626b",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Gaming AI, PC Compute",
-  "url": "https://careers.qualcomm.com/careers/job/446704371557"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Tesla",
   "company_url": null,
   "date_posted": 1747267200,
@@ -20468,72 +18473,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1747267200,
-  "experience": null,
-  "first_seen": 1747267200,
-  "id": "6bbc35144a32",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Systems Performance Modeling",
-  "url": "https://www.tesla.com/careers/search/job/242774"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1744416000,
-  "experience": null,
-  "first_seen": 1744416000,
-  "id": "de73f4b2a0c7",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Metrics, GenAI Model Evaluation",
-  "url": "https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Tesla",
-  "company_url": null,
-  "date_posted": 1744416000,
-  "experience": null,
-  "first_seen": 1744416000,
-  "id": "a8b56e795a60",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "vanshb03"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Driven Test Automation",
-  "url": "https://www.tesla.com/careers/search/job/235630"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Qualtrics",
   "company_url": null,
   "date_posted": 1743811200,
@@ -20552,28 +18491,6 @@
   "tier": "other",
   "title": "Machine Learning Engineer I",
   "url": "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Factory",
-  "company_url": null,
-  "date_posted": 1742774400,
-  "experience": 2,
-  "first_seen": 1742774400,
-  "id": "60c5adef30b7",
-  "is_usa": true,
-  "last_seen": 1788825600,
-  "locations": [
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Software Engineer, AI",
-  "url": "https://jobs.ashbyhq.com/factory/2243dab2-62dc-4c64-b4bc-8f7314475607/application"
  },
  {
   "active": true,
