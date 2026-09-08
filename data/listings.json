@@ -9511,28 +9511,25 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
+  "category": null,
   "company": "Quora",
-  "company_url": "https://simplify.jobs/c/Quora",
-  "date_posted": 1785542400,
-  "experience": null,
+  "company_url": null,
+  "date_posted": 1785456000,
+  "experience": 0,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
-   "Remote in USA",
-   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats",
-   "simplify"
+   "ats"
   ],
   "tier": "other",
-  "title": "Software Engineer New Grad - Machine Learning Platform",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
+  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
  },
  {
   "active": true,

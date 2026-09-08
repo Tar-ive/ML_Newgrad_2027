@@ -5,7 +5,7 @@
 Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 20:15 UTC_
+_Last refreshed: 2026-09-08 22:45 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -519,7 +519,7 @@ new grads.
 | **[Shirley Ryan AbilityLab](https://simplify.jobs/c/34fdf607-90ad-4a27-884a-e2bb9a91132f)** | Machine Learning Ops Engineer 1 - CBM Lab | Chicago, IL | 35d | [Apply](https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2) |
 | **[KLA](https://www.kla.com)** | Algorithm Engineer - Image Processing/Computer Vision | Milpitas, CA | 36d | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineer--Image-Processing-Computer-Vision-_2639184) |
 | **[Voyager Technologies](https://simplify.jobs/c/Voyager-Technologies)** | Accelerated Physics Simulation Engineer - Agentic Computational Engineering | Seattle, WA +2 | 36d | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009) |
-| **[Quora](https://simplify.jobs/c/Quora)** | Software Engineer New Grad - Machine Learning Platform | Remote in USA +2 | 38d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
+| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 39d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application) |
 | **[Elanco](https://www.elanco.com)** | Research Scientist - Analytical Development | Fort Dodge, IA | 39d | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/external_career/job/Fort-Dodge-IA/Research-Scientist---Product-development_R0026613-1) |
 | **[LiteLLM](https://www.litellm.ai/)** | AI Engineer | San Francisco, CA | 39d | [Apply](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b) |
 | **[SRI International](https://www.sri.com)** | Materials Research Scientist/Engineer | Menlo Park, CA | 39d | [Apply](https://careers-sri.icims.com/jobs/6428/materials-research-scientist-engineer/job) |
