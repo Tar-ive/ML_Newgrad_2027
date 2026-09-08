@@ -1,0 +1,46 @@
+name: Refresh listings
+
+on:
+  schedule:
+    # 4x daily — upstream trackers refresh roughly once a day, so this picks up
+    # new roles within hours of them appearing anywhere.
+    - cron: "0 5 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aggregate sources
+        id: aggregate
+        run: |
+          summary=$(python3 scripts/aggregate.py | tail -1)
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
+
+      - name: Render tables
+        run: python3 scripts/render.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet && echo "no changes" && exit 0
+          git commit -m "chore: refresh listings — ${{ steps.aggregate.outputs.summary }}"
+          git push
