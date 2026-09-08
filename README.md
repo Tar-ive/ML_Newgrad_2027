@@ -5,7 +5,7 @@
 Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 10:05 UTC_
+_Last refreshed: 2026-09-08 12:12 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -515,7 +515,7 @@ new grads.
 | **[Elanco](https://www.elanco.com)** | Research Scientist - Analytical Development | Fort Dodge, IA | 38d | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/external_career/job/Fort-Dodge-IA/Research-Scientist---Product-development_R0026613-1) |
 | **[LiteLLM](https://www.litellm.ai/)** | AI Engineer | San Francisco, CA | 38d | [Apply](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b) |
 | **[SRI International](https://www.sri.com)** | Materials Research Scientist/Engineer | Menlo Park, CA | 38d | [Apply](https://careers-sri.icims.com/jobs/6428/materials-research-scientist-engineer/job) |
-| **[Quora](https://simplify.jobs/c/Quora)** | Software Engineer New Grad - Machine Learning Platform | Remote in USA +2 | 38d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
+| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 39d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application) |
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 39d | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | **[Weekday](https://www.weekday.works/)** | Machine Learning Engineer - Model Evaluation & Experimentation | USA | 39d | [Apply](https://apply.workable.com/weekday-1/j/BF32A485B8/) |
 | **[Pyrovio](https://simplify.jobs/c/Pyrovio)** | Copilot Developer/AI Engineer | Remote in USA | 40d | [Apply](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) |
