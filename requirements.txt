@@ -1,0 +1,2 @@
+# Live ATS scraping (phase 2). Trackers-only runs need no dependencies.
+ats-scrapers[scrapers]>=0.3,<0.4

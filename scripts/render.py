@@ -90,6 +90,30 @@ def sort_key(rec):
     return -(rec.get("date_posted") or rec.get("first_seen") or 0)
 
 
+def collapse(records):
+    """Merge one role posted separately per office into a single row.
+
+    SpaceX and similar post the same job once per site, each with its own
+    application link. Four identical titles is noise to read, so they become
+    one row listing every location, linking to the most recent posting.
+    """
+    groups = {}
+    for rec in records:
+        key = (rec["company"].lower(), rec["title"].lower())
+        if key not in groups:
+            groups[key] = dict(rec)
+            continue
+        kept = groups[key]
+        known = {l.lower() for l in kept["locations"]}
+        for loc in rec["locations"]:
+            if loc.lower() not in known:
+                kept["locations"].append(loc)
+                known.add(loc.lower())
+        if sort_key(rec) < sort_key(kept):
+            kept["url"], kept["date_posted"] = rec["url"], rec["date_posted"]
+    return list(groups.values())
+
+
 def main():
     now = int(time.time())
     with open(STORE) as f:
@@ -99,7 +123,7 @@ def main():
         path = os.path.join(ROOT, page["path"])
         if not os.path.exists(path):
             continue
-        recs = sorted([r for r in all_recs if page["filter"](r)], key=sort_key)
+        recs = sorted(collapse([r for r in all_recs if page["filter"](r)]), key=sort_key)
         text = open(path).read()
 
         for name, tier in page["sections"]:

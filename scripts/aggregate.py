@@ -4,6 +4,7 @@ The store is stateful on purpose: keeping first_seen across runs is what lets
 the README show which roles are genuinely new today, which is the whole point
 of being fast.
 """
+import argparse
 import hashlib
 import json
 import os
@@ -21,6 +22,10 @@ STORE = os.path.join(ROOT, "data", "listings.json")
 
 # A role absent from every source for this long is treated as closed.
 STALE_DAYS = 5
+
+# Sources that list every role at a company rather than a curated new-grad set.
+# Postings from these must prove they are entry level before being kept.
+STRICT_SOURCES = {"ats"}
 
 DAY = 86400
 
@@ -98,15 +103,26 @@ def load_store():
     return {}
 
 
-def main():
+def main(ats_tier="fast", trackers=True):
     now = day_floor(time.time())
-    raw, report = sources.fetch_all()
+    if trackers:
+        raw, report = sources.fetch_all()
+    else:
+        raw, report = [], []
+
+    if ats_tier:
+        import ats_live  # imported lazily: only this path needs ats-scrapers
+        live = ats_live.fetch(ats_tier)
+        raw.extend(live)
+        report.append((f"ats-{ats_tier}", len(live), None))
 
     kept = {}      # id -> record
     index = {}     # key -> id
     dropped = 0
     for r in raw:
-        keep, tier = classify(r["title"], r["category"], r["company"])
+        strict = r["source"] in STRICT_SOURCES
+        keep, tier = classify(r["title"], r["category"], r["company"],
+                              experience=r.get("experience"), strict=strict)
         if not keep:
             dropped += 1
             continue
@@ -168,4 +184,11 @@ def main():
 
 
 if __name__ == "__main__":
-    print(main())
+    ap = argparse.ArgumentParser(description="Refresh data/listings.json")
+    ap.add_argument("--ats", default="fast", choices=["fast", "heavy", "all", "none"],
+                    help="which ATS tier to scrape live (default: fast)")
+    ap.add_argument("--no-trackers", action="store_true",
+                    help="skip the community trackers; they only update daily")
+    args = ap.parse_args()
+    print(main(None if args.ats == "none" else args.ats,
+               trackers=not args.no_trackers))

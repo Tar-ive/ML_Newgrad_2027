@@ -43,3 +43,25 @@ automatic.
 
 Everything between the `<!-- TABLE_*_START -->` markers is generated and will be
 overwritten on the next refresh. Edit the prose around them freely.
+
+## Add a company to the hourly scrape
+
+`data/companies.json` drives live scraping. Each entry needs the ATS platform and
+the board token from the company's careers URL:
+
+```json
+{"company": "Anthropic", "ats": "greenhouse", "slug": "anthropic", "tier": "fast"}
+```
+
+Use `tier: "fast"` for Greenhouse / Ashby / Lever / Workable boards (JSON APIs,
+scraped hourly) and `tier: "heavy"` for custom career sites (scraped 4× daily).
+Verify the token resolves before opening a PR:
+
+```bash
+python3 -c "
+import sys; sys.path.insert(0, 'scripts')
+from ats_live import scrape_company
+recs, err = scrape_company({'company':'Anthropic','ats':'greenhouse','slug':'anthropic'})
+print(err or f'{len(recs)} postings')
+"
+```

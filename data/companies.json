@@ -1,0 +1,920 @@
+[
+ {
+  "company": "1Password",
+  "ats": "ashby",
+  "slug": "1password",
+  "tier": "fast"
+ },
+ {
+  "company": "Alan",
+  "ats": "ashby",
+  "slug": "alan",
+  "tier": "fast"
+ },
+ {
+  "company": "Algolia",
+  "ats": "greenhouse",
+  "slug": "algolia",
+  "tier": "fast"
+ },
+ {
+  "company": "Anthropic",
+  "ats": "greenhouse",
+  "slug": "anthropic",
+  "tier": "fast"
+ },
+ {
+  "company": "Anyscale",
+  "ats": "lever",
+  "slug": "anyscale",
+  "tier": "fast"
+ },
+ {
+  "company": "Anything",
+  "ats": "ashby",
+  "slug": "anything",
+  "tier": "fast"
+ },
+ {
+  "company": "Attio",
+  "ats": "ashby",
+  "slug": "attio",
+  "tier": "fast"
+ },
+ {
+  "company": "Axiom",
+  "ats": "ashby",
+  "slug": "axiombio",
+  "tier": "fast"
+ },
+ {
+  "company": "Baselayer",
+  "ats": "greenhouse",
+  "slug": "baselayer",
+  "tier": "fast"
+ },
+ {
+  "company": "Baseten",
+  "ats": "ashby",
+  "slug": "baseten",
+  "tier": "fast"
+ },
+ {
+  "company": "BeyondTrust",
+  "ats": "greenhouse",
+  "slug": "beyondtrust",
+  "tier": "fast"
+ },
+ {
+  "company": "Braintrust",
+  "ats": "ashby",
+  "slug": "braintrust",
+  "tier": "fast"
+ },
+ {
+  "company": "Brave",
+  "ats": "greenhouse",
+  "slug": "brave",
+  "tier": "fast"
+ },
+ {
+  "company": "Browserbase",
+  "ats": "ashby",
+  "slug": "browserbase",
+  "tier": "fast"
+ },
+ {
+  "company": "Careem",
+  "ats": "greenhouse",
+  "slug": "careem",
+  "tier": "fast"
+ },
+ {
+  "company": "Cartesia",
+  "ats": "ashby",
+  "slug": "cartesia",
+  "tier": "fast"
+ },
+ {
+  "company": "Clay Labs",
+  "ats": "ashby",
+  "slug": "claylabs",
+  "tier": "fast"
+ },
+ {
+  "company": "Clerk",
+  "ats": "ashby",
+  "slug": "clerk",
+  "tier": "fast"
+ },
+ {
+  "company": "Cloudflare",
+  "ats": "greenhouse",
+  "slug": "cloudflare",
+  "tier": "fast"
+ },
+ {
+  "company": "Cluely",
+  "ats": "ashby",
+  "slug": "cluely",
+  "tier": "fast"
+ },
+ {
+  "company": "Coder",
+  "ats": "ashby",
+  "slug": "coder",
+  "tier": "fast"
+ },
+ {
+  "company": "Cognition",
+  "ats": "ashby",
+  "slug": "cognition",
+  "tier": "fast"
+ },
+ {
+  "company": "Cohere",
+  "ats": "ashby",
+  "slug": "cohere",
+  "tier": "fast"
+ },
+ {
+  "company": "Confluent",
+  "ats": "ashby",
+  "slug": "confluent",
+  "tier": "fast"
+ },
+ {
+  "company": "Coursera",
+  "ats": "greenhouse",
+  "slug": "coursera",
+  "tier": "fast"
+ },
+ {
+  "company": "Crusoe",
+  "ats": "ashby",
+  "slug": "crusoe",
+  "tier": "fast"
+ },
+ {
+  "company": "Dataiku",
+  "ats": "greenhouse",
+  "slug": "dataiku",
+  "tier": "fast"
+ },
+ {
+  "company": "David AI",
+  "ats": "ashby",
+  "slug": "david-ai",
+  "tier": "fast"
+ },
+ {
+  "company": "Decagon",
+  "ats": "ashby",
+  "slug": "decagon",
+  "tier": "fast"
+ },
+ {
+  "company": "Deepgram",
+  "ats": "ashby",
+  "slug": "deepgram",
+  "tier": "fast"
+ },
+ {
+  "company": "DeepL",
+  "ats": "ashby",
+  "slug": "deepl",
+  "tier": "fast"
+ },
+ {
+  "company": "Docker",
+  "ats": "ashby",
+  "slug": "docker",
+  "tier": "fast"
+ },
+ {
+  "company": "Dust",
+  "ats": "ashby",
+  "slug": "dust",
+  "tier": "fast"
+ },
+ {
+  "company": "Eight Sleep",
+  "ats": "ashby",
+  "slug": "eightsleep",
+  "tier": "fast"
+ },
+ {
+  "company": "ElevenLabs",
+  "ats": "ashby",
+  "slug": "elevenlabs",
+  "tier": "fast"
+ },
+ {
+  "company": "Exa",
+  "ats": "ashby",
+  "slug": "exa",
+  "tier": "fast"
+ },
+ {
+  "company": "Factory",
+  "ats": "ashby",
+  "slug": "factory",
+  "tier": "fast"
+ },
+ {
+  "company": "Faire",
+  "ats": "greenhouse",
+  "slug": "faire",
+  "tier": "fast"
+ },
+ {
+  "company": "Figma",
+  "ats": "greenhouse",
+  "slug": "figma",
+  "tier": "fast"
+ },
+ {
+  "company": "Firecrawl",
+  "ats": "ashby",
+  "slug": "firecrawl",
+  "tier": "fast"
+ },
+ {
+  "company": "Fizz",
+  "ats": "ashby",
+  "slug": "fizz",
+  "tier": "fast"
+ },
+ {
+  "company": "Fyxer",
+  "ats": "ashby",
+  "slug": "fyxer",
+  "tier": "fast"
+ },
+ {
+  "company": "GitLab",
+  "ats": "greenhouse",
+  "slug": "gitlab",
+  "tier": "fast"
+ },
+ {
+  "company": "Gladia",
+  "ats": "ashby",
+  "slug": "gladia",
+  "tier": "fast"
+ },
+ {
+  "company": "GPTZero",
+  "ats": "ashby",
+  "slug": "gptzero",
+  "tier": "fast"
+ },
+ {
+  "company": "Granola",
+  "ats": "ashby",
+  "slug": "granola",
+  "tier": "fast"
+ },
+ {
+  "company": "Graphite",
+  "ats": "ashby",
+  "slug": "graphite",
+  "tier": "fast"
+ },
+ {
+  "company": "Greptile",
+  "ats": "ashby",
+  "slug": "greptile",
+  "tier": "fast"
+ },
+ {
+  "company": "Gumloop",
+  "ats": "ashby",
+  "slug": "gumloop",
+  "tier": "fast"
+ },
+ {
+  "company": "H Company",
+  "ats": "ashby",
+  "slug": "hcompany",
+  "tier": "fast"
+ },
+ {
+  "company": "Harvey",
+  "ats": "ashby",
+  "slug": "harvey",
+  "tier": "fast"
+ },
+ {
+  "company": "HUD",
+  "ats": "ashby",
+  "slug": "hud",
+  "tier": "fast"
+ },
+ {
+  "company": "Inkeep",
+  "ats": "ashby",
+  "slug": "inkeep",
+  "tier": "fast"
+ },
+ {
+  "company": "Isomorphic Labs",
+  "ats": "greenhouse",
+  "slug": "isomorphiclabs",
+  "tier": "fast"
+ },
+ {
+  "company": "Jua",
+  "ats": "ashby",
+  "slug": "jua",
+  "tier": "fast"
+ },
+ {
+  "company": "Juicebox",
+  "ats": "ashby",
+  "slug": "juicebox",
+  "tier": "fast"
+ },
+ {
+  "company": "Lambda",
+  "ats": "ashby",
+  "slug": "lambda",
+  "tier": "fast"
+ },
+ {
+  "company": "LangChain",
+  "ats": "ashby",
+  "slug": "langchain",
+  "tier": "fast"
+ },
+ {
+  "company": "Langdock",
+  "ats": "ashby",
+  "slug": "langdock",
+  "tier": "fast"
+ },
+ {
+  "company": "Langfuse",
+  "ats": "ashby",
+  "slug": "langfuse",
+  "tier": "fast"
+ },
+ {
+  "company": "LiveKit",
+  "ats": "ashby",
+  "slug": "livekit",
+  "tier": "fast"
+ },
+ {
+  "company": "LlamaIndex",
+  "ats": "ashby",
+  "slug": "llamaindex",
+  "tier": "fast"
+ },
+ {
+  "company": "Lovable",
+  "ats": "ashby",
+  "slug": "lovable",
+  "tier": "fast"
+ },
+ {
+  "company": "Magentic",
+  "ats": "ashby",
+  "slug": "magentic",
+  "tier": "fast"
+ },
+ {
+  "company": "Magic Patterns",
+  "ats": "ashby",
+  "slug": "magicpatterns",
+  "tier": "fast"
+ },
+ {
+  "company": "Mapbox",
+  "ats": "ashby",
+  "slug": "mapbox",
+  "tier": "fast"
+ },
+ {
+  "company": "Mem0",
+  "ats": "ashby",
+  "slug": "mem0",
+  "tier": "fast"
+ },
+ {
+  "company": "Mercor",
+  "ats": "ashby",
+  "slug": "mercor",
+  "tier": "fast"
+ },
+ {
+  "company": "Mintlify",
+  "ats": "ashby",
+  "slug": "mintlify",
+  "tier": "fast"
+ },
+ {
+  "company": "Modal",
+  "ats": "ashby",
+  "slug": "modal",
+  "tier": "fast"
+ },
+ {
+  "company": "Mozilla",
+  "ats": "greenhouse",
+  "slug": "mozilla",
+  "tier": "fast"
+ },
+ {
+  "company": "n8n",
+  "ats": "ashby",
+  "slug": "n8n",
+  "tier": "fast"
+ },
+ {
+  "company": "Neon",
+  "ats": "ashby",
+  "slug": "neon",
+  "tier": "fast"
+ },
+ {
+  "company": "Netlify",
+  "ats": "greenhouse",
+  "slug": "netlify",
+  "tier": "fast"
+ },
+ {
+  "company": "Neuralink",
+  "ats": "greenhouse",
+  "slug": "neuralink",
+  "tier": "fast"
+ },
+ {
+  "company": "New Relic",
+  "ats": "greenhouse",
+  "slug": "newrelic",
+  "tier": "fast"
+ },
+ {
+  "company": "ngrok Inc.",
+  "ats": "greenhouse",
+  "slug": "ngrokinc",
+  "tier": "fast"
+ },
+ {
+  "company": "Notion",
+  "ats": "ashby",
+  "slug": "notion",
+  "tier": "fast"
+ },
+ {
+  "company": "Oklo",
+  "ats": "greenhouse",
+  "slug": "oklo",
+  "tier": "fast"
+ },
+ {
+  "company": "OpenAI",
+  "ats": "ashby",
+  "slug": "openai",
+  "tier": "fast"
+ },
+ {
+  "company": "OpenRouter",
+  "ats": "ashby",
+  "slug": "openrouter",
+  "tier": "fast"
+ },
+ {
+  "company": "PagerDuty",
+  "ats": "greenhouse",
+  "slug": "pagerduty",
+  "tier": "fast"
+ },
+ {
+  "company": "PayPay Card",
+  "ats": "greenhouse",
+  "slug": "paypaycard",
+  "tier": "fast"
+ },
+ {
+  "company": "Perplexity",
+  "ats": "ashby",
+  "slug": "perplexity",
+  "tier": "fast"
+ },
+ {
+  "company": "Photoroom",
+  "ats": "ashby",
+  "slug": "photoroom",
+  "tier": "fast"
+ },
+ {
+  "company": "Physical Intelligence",
+  "ats": "ashby",
+  "slug": "physicalintelligence",
+  "tier": "fast"
+ },
+ {
+  "company": "Pigment",
+  "ats": "lever",
+  "slug": "pigment",
+  "tier": "fast"
+ },
+ {
+  "company": "PlanetScale",
+  "ats": "greenhouse",
+  "slug": "planetscale",
+  "tier": "fast"
+ },
+ {
+  "company": "Polar",
+  "ats": "ashby",
+  "slug": "polar",
+  "tier": "fast"
+ },
+ {
+  "company": "Posthog",
+  "ats": "ashby",
+  "slug": "posthog",
+  "tier": "fast"
+ },
+ {
+  "company": "Postman",
+  "ats": "greenhouse",
+  "slug": "postman",
+  "tier": "fast"
+ },
+ {
+  "company": "Prime Intellect",
+  "ats": "ashby",
+  "slug": "primeintellect",
+  "tier": "fast"
+ },
+ {
+  "company": "Profound",
+  "ats": "ashby",
+  "slug": "profound",
+  "tier": "fast"
+ },
+ {
+  "company": "Proton",
+  "ats": "greenhouse",
+  "slug": "proton",
+  "tier": "fast"
+ },
+ {
+  "company": "QuantCo",
+  "ats": "lever",
+  "slug": "quantco-",
+  "tier": "fast"
+ },
+ {
+  "company": "Quora",
+  "ats": "ashby",
+  "slug": "quora",
+  "tier": "fast"
+ },
+ {
+  "company": "Ramp",
+  "ats": "ashby",
+  "slug": "ramp",
+  "tier": "fast"
+ },
+ {
+  "company": "Ravio",
+  "ats": "ashby",
+  "slug": "ravio",
+  "tier": "fast"
+ },
+ {
+  "company": "Reacher",
+  "ats": "ashby",
+  "slug": "reacher",
+  "tier": "fast"
+ },
+ {
+  "company": "Reddit",
+  "ats": "greenhouse",
+  "slug": "reddit",
+  "tier": "fast"
+ },
+ {
+  "company": "Reliant",
+  "ats": "greenhouse",
+  "slug": "reliant",
+  "tier": "fast"
+ },
+ {
+  "company": "Render",
+  "ats": "ashby",
+  "slug": "render",
+  "tier": "fast"
+ },
+ {
+  "company": "Replit",
+  "ats": "ashby",
+  "slug": "replit",
+  "tier": "fast"
+ },
+ {
+  "company": "Resend",
+  "ats": "ashby",
+  "slug": "resend",
+  "tier": "fast"
+ },
+ {
+  "company": "Retell AI",
+  "ats": "ashby",
+  "slug": "retell-ai",
+  "tier": "fast"
+ },
+ {
+  "company": "RevenueCat",
+  "ats": "ashby",
+  "slug": "revenuecat",
+  "tier": "fast"
+ },
+ {
+  "company": "Robinhood",
+  "ats": "greenhouse",
+  "slug": "robinhood",
+  "tier": "fast"
+ },
+ {
+  "company": "Sana",
+  "ats": "ashby",
+  "slug": "sana-roles",
+  "tier": "fast"
+ },
+ {
+  "company": "Sanity",
+  "ats": "ashby",
+  "slug": "sanity",
+  "tier": "fast"
+ },
+ {
+  "company": "Sardine",
+  "ats": "ashby",
+  "slug": "sardine",
+  "tier": "fast"
+ },
+ {
+  "company": "Scale AI",
+  "ats": "greenhouse",
+  "slug": "scaleai",
+  "tier": "fast"
+ },
+ {
+  "company": "Scaleway",
+  "ats": "lever",
+  "slug": "scaleway",
+  "tier": "fast"
+ },
+ {
+  "company": "Sentry",
+  "ats": "ashby",
+  "slug": "sentry",
+  "tier": "fast"
+ },
+ {
+  "company": "Sierra",
+  "ats": "ashby",
+  "slug": "sierra",
+  "tier": "fast"
+ },
+ {
+  "company": "Sieve",
+  "ats": "ashby",
+  "slug": "sieve",
+  "tier": "fast"
+ },
+ {
+  "company": "Sonar",
+  "ats": "lever",
+  "slug": "sonarsource",
+  "tier": "fast"
+ },
+ {
+  "company": "SpaceX",
+  "ats": "greenhouse",
+  "slug": "spacex",
+  "tier": "fast"
+ },
+ {
+  "company": "Speckle",
+  "ats": "ashby",
+  "slug": "speckle",
+  "tier": "fast"
+ },
+ {
+  "company": "StackAI",
+  "ats": "ashby",
+  "slug": "stack-ai",
+  "tier": "fast"
+ },
+ {
+  "company": "Starcloud",
+  "ats": "greenhouse",
+  "slug": "starcloud",
+  "tier": "fast"
+ },
+ {
+  "company": "Statista",
+  "ats": "ashby",
+  "slug": "statista",
+  "tier": "fast"
+ },
+ {
+  "company": "Stytch",
+  "ats": "ashby",
+  "slug": "stytch",
+  "tier": "fast"
+ },
+ {
+  "company": "Substack",
+  "ats": "ashby",
+  "slug": "substack",
+  "tier": "fast"
+ },
+ {
+  "company": "Supabase",
+  "ats": "ashby",
+  "slug": "supabase",
+  "tier": "fast"
+ },
+ {
+  "company": "Svix",
+  "ats": "ashby",
+  "slug": "svix",
+  "tier": "fast"
+ },
+ {
+  "company": "Tabs",
+  "ats": "ashby",
+  "slug": "tabs",
+  "tier": "fast"
+ },
+ {
+  "company": "Taktile",
+  "ats": "ashby",
+  "slug": "taktile",
+  "tier": "fast"
+ },
+ {
+  "company": "Tavily",
+  "ats": "ashby",
+  "slug": "tavily",
+  "tier": "fast"
+ },
+ {
+  "company": "telli",
+  "ats": "ashby",
+  "slug": "telli",
+  "tier": "fast"
+ },
+ {
+  "company": "tldraw",
+  "ats": "ashby",
+  "slug": "tldraw",
+  "tier": "fast"
+ },
+ {
+  "company": "Together AI",
+  "ats": "greenhouse",
+  "slug": "togetherai",
+  "tier": "fast"
+ },
+ {
+  "company": "Tripadvisor",
+  "ats": "greenhouse",
+  "slug": "tripadvisor",
+  "tier": "fast"
+ },
+ {
+  "company": "turbopuffer",
+  "ats": "ashby",
+  "slug": "turbopuffer",
+  "tier": "fast"
+ },
+ {
+  "company": "Twenty",
+  "ats": "ashby",
+  "slug": "twenty",
+  "tier": "fast"
+ },
+ {
+  "company": "Twilio",
+  "ats": "greenhouse",
+  "slug": "twilio",
+  "tier": "fast"
+ },
+ {
+  "company": "Twitch",
+  "ats": "greenhouse",
+  "slug": "twitch",
+  "tier": "fast"
+ },
+ {
+  "company": "Typeform",
+  "ats": "greenhouse",
+  "slug": "typeform",
+  "tier": "fast"
+ },
+ {
+  "company": "Vapi",
+  "ats": "ashby",
+  "slug": "vapi",
+  "tier": "fast"
+ },
+ {
+  "company": "Veepee",
+  "ats": "lever",
+  "slug": "veepee",
+  "tier": "fast"
+ },
+ {
+  "company": "Vercel",
+  "ats": "greenhouse",
+  "slug": "vercel",
+  "tier": "fast"
+ },
+ {
+  "company": "Vizcom",
+  "ats": "ashby",
+  "slug": "vizcom",
+  "tier": "fast"
+ },
+ {
+  "company": "Voodoo",
+  "ats": "ashby",
+  "slug": "voodoo",
+  "tier": "fast"
+ },
+ {
+  "company": "Wahed",
+  "ats": "lever",
+  "slug": "wahed.com",
+  "tier": "fast"
+ },
+ {
+  "company": "Warp",
+  "ats": "greenhouse",
+  "slug": "warp",
+  "tier": "fast"
+ },
+ {
+  "company": "xAI",
+  "ats": "greenhouse",
+  "slug": "xai",
+  "tier": "fast"
+ },
+ {
+  "company": "Yazio",
+  "ats": "ashby",
+  "slug": "yazio",
+  "tier": "fast"
+ },
+ {
+  "company": "Zip",
+  "ats": "ashby",
+  "slug": "zip",
+  "tier": "fast"
+ },
+ {
+  "company": "Amazon",
+  "ats": "amazon",
+  "slug": "amazon",
+  "tier": "heavy"
+ },
+ {
+  "company": "Apple",
+  "ats": "apple",
+  "slug": "apple",
+  "tier": "heavy"
+ },
+ {
+  "company": "Google",
+  "ats": "google",
+  "slug": "google",
+  "tier": "heavy"
+ },
+ {
+  "company": "Tesla",
+  "ats": "tesla",
+  "slug": "tesla",
+  "tier": "heavy"
+ },
+ {
+  "company": "TikTok",
+  "ats": "tiktok",
+  "slug": "tiktok",
+  "tier": "heavy"
+ },
+ {
+  "company": "Uber",
+  "ats": "uber",
+  "slug": "uber",
+  "tier": "heavy"
+ }
+]

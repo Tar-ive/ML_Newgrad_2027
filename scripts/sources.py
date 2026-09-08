@@ -62,7 +62,7 @@ def is_usa(locations, title=""):
 
 
 def record(company, title, url, locations, posted, source,
-           company_url=None, category=None, salary=None):
+           company_url=None, category=None, salary=None, experience=None):
     return {
         "company": (company or "").strip(),
         "title": re.sub(r"\s+", " ", (title or "")).strip(),
@@ -75,6 +75,8 @@ def record(company, title, url, locations, posted, source,
         "company_url": company_url or None,
         "category": category,
         "salary": salary,
+        # Years of experience required, when a source states it. None = unknown.
+        "experience": experience,
     }
 
 

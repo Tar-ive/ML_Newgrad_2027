@@ -1,36 +1,39 @@
-name: Refresh listings
+name: Full refresh
+
+# Everything: the community trackers plus both ATS tiers, including the custom
+# career sites (Apple, Amazon, Google, Tesla, TikTok, Uber) that need HTML
+# pagination and cost 30-65s each. Too slow for hourly, so it runs 4x a day.
 
 on:
   schedule:
-    # 4x daily — upstream trackers refresh roughly once a day, so this picks up
-    # new roles within hours of them appearing anywhere.
-    - cron: "0 5 * * *"
-    - cron: "0 11 * * *"
-    - cron: "0 17 * * *"
-    - cron: "0 23 * * *"
+    - cron: "40 5,11,17,23 * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh
+  group: listings-refresh
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
-      - name: Aggregate sources
+      - run: pip install -r requirements.txt
+
+      - name: Aggregate all sources
         id: aggregate
         run: |
-          summary=$(python3 scripts/aggregate.py | tail -1)
+          summary=$(python3 scripts/aggregate.py --ats all | tail -1)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
 
       - name: Render tables
@@ -42,5 +45,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --staged --quiet && echo "no changes" && exit 0
-          git commit -m "chore: refresh listings — ${{ steps.aggregate.outputs.summary }}"
+          git commit -m "chore: full refresh — ${{ steps.aggregate.outputs.summary }}"
+          git pull --rebase --autostash
           git push

@@ -19,3 +19,13 @@ URL, and posting date. No descriptions or other prose are reproduced.
 
 If you maintain one of these repos and have concerns about how the data is
 used here, please open an issue and it will be addressed promptly.
+
+## Live scraping
+
+| Project | License | Use |
+|---|---|---|
+| [kalil0321/ats-scrapers](https://github.com/kalil0321/ats-scrapers) | MIT | ATS adapters for every board scraped in `scripts/ats_live.py` |
+
+The company list in `data/companies.json` was seeded from a public ATS export of
+AI-company job postings, then verified against the live boards — each entry's
+token was confirmed to resolve before being included.

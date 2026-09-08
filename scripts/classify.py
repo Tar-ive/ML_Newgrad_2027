@@ -46,6 +46,25 @@ NEGATIVE = _rx(
     r"\bsupport\b", r"technical account", r"field engineer",
     r"\bteacher\b", r"professor", r"postdoc", r"\bfellowship\b",
     r"\bqa\b", r"quality assurance", r"\bsdet\b",
+    r"\bcompliance\b", r"\boperations\b", r"technician", r"\btech\b$",
+    r"warehouse", r"maintenance", r"\bdriver\b", r"\bmechatronics\b",
+    # Engineering disciplines that are not ML. These matter because product
+    # names leak into titles: "Thermal Engineer - AI Satellites" is a thermal
+    # job that merely works on a product called AI Satellites.
+    r"\bthermal\b", r"propulsion", r"structural", r"avionics", r"\brf\b",
+    r"automation and controls", r"mechanical engineer", r"electrical engineer",
+    r"manufacturing engineer", r"facilities", r"\btest engineer\b",
+    # Front-of-stack roles on an AI product are not ML roles.
+    r"front[- ]?end", r"\bfullstack\b", r"\bfull[- ]stack\b", r"\bui engineer\b",
+)
+
+# Explicit new-grad markers. Curated trackers do not need these — every role on
+# them is already new-grad. Raw ATS feeds do.
+NEW_GRAD_SIGNAL = _rx(
+    r"new ?grad", r"university grad", r"recent grad", r"college grad",
+    r"entry[- ]level", r"early career", r"\bcampus\b", r"\bjunior\b",
+    r"grad(uate)? (program|role|hire|position)", r"\bapprentice\b", r"\btrainee\b",
+    r"\bassociate\b", r"\bl3\b", r"level 1", r"\bi\b$", r"\b20(2[6-9])\b",
 )
 
 # Not a new-grad role.
@@ -151,9 +170,30 @@ def ml_score(title, category=None, company=None):
         return 1
     return 0
 
-def classify(title, category=None, company=None):
-    """Return (keep: bool, bucket: str) for a posting."""
+def has_new_grad_signal(title):
+    return bool(NEW_GRAD_SIGNAL.search(title or ""))
+
+
+def classify(title, category=None, company=None, experience=None, strict=False):
+    """Return (keep: bool, bucket: str) for a posting.
+
+    `strict` is for raw ATS feeds, which list every role at a company rather
+    than a curated new-grad set. There, a role must prove it is entry level:
+    either a years-of-experience figure of 2 or less, or an explicit new-grad
+    marker in the title. Without that gate a feed of "all jobs at Anthropic"
+    would fill the list with senior research roles.
+
+    `experience` is years required, when the source reports it.
+    """
+    if is_intern(title):
+        return False, None
     score = ml_score(title, category, company)
     if score < 2 or not is_new_grad(title):
         return False, None
+    if strict:
+        if experience is not None:
+            if experience > 2:
+                return False, None
+        elif not has_new_grad_signal(title):
+            return False, None
     return True, company_tier(company)
