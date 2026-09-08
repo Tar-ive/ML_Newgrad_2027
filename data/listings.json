@@ -10473,25 +10473,28 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI/ML/Data",
   "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
+   "Remote in USA",
+   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
  },
  {
   "active": true,
@@ -12702,11 +12705,11 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "Software",
   "company": "SpaceX",
-  "company_url": null,
+  "company_url": "https://simplify.jobs/c/SpaceX",
   "date_posted": 1784419200,
-  "experience": 1,
+  "experience": null,
   "first_seen": 1784419200,
   "id": "0448f6c725a7",
   "is_usa": true,
@@ -12716,11 +12719,12 @@
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Applied AI (Starlink)",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002"
+  "title": "Software Engineer - Applied AI - Starlink",
+  "url": "https://boards.greenhouse.io/spacex/jobs/8637712002"
  },
  {
   "active": true,
@@ -14368,24 +14372,26 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "Software",
   "company": "Notion",
-  "company_url": null,
+  "company_url": "https://simplify.jobs/c/Notion",
   "date_posted": 1783296000,
-  "experience": 0,
+  "experience": null,
   "first_seen": 1783296000,
   "id": "e1603fc0b137",
   "is_usa": false,
   "last_seen": 1788825600,
   "locations": [
+   "SF",
    "San Francisco, California"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "bigtech",
-  "title": "Software Engineer, Early Career (AI)",
+  "title": "Software Engineer \u2013 Early Career - AI",
   "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application"
  },
  {

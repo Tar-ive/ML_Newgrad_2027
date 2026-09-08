@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 02:07 UTC_
+_Last refreshed: 2026-09-08 02:10 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -181,7 +181,7 @@ and autonomy set.
 | **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live - Strategy - 2027 Start - PhD | Singapore | 52d | [Apply](https://lifeattiktok.com/search/7663386899855231237) |
 | **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 53d | [Apply](https://lifeattiktok.com/search/7663091612935293189) |
 | **Notion** | Software Engineer, AI Platform | San Francisco, California | 56d | [Apply](https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1/application) |
-| **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | 64d | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
+| **[Notion](https://simplify.jobs/c/Notion)** | Software Engineer – Early Career - AI | SF / San Francisco, California | 64d | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Deep Learning and Computer Vision - New College Graduate | Taipei, Taiwan | 87d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Research-Scientist--Deep-Learning-and-Computer-Vision---New-College-Graduate_JR2018685) |
 | **[Google](https://simplify.jobs/c/Google)** | Software Engineer – Early Career - AI/ML - PhD | London, UK | 214d | [Apply](https://www.google.com/about/careers/applications/jobs/results/92286686481785542) |
 | **AMD** | ROCm AI - GPU Software Engineer | Markham, Canada | 387d | [Apply](https://careers.amd.com/careers-home/jobs/68831) |
