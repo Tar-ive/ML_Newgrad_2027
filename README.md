@@ -641,94 +641,12 @@ new grads.
 <!-- TABLE_OTHER_END -->
 
 ---
+## PyTorch Resource 
 
-## How this list is built
+1. https://torch-leet.vercel.app/
+2. https://github.com/damounayman/Deep-Neural-Networks-with-PyTorch
 
-Most job-board repos are not scrapers — they are renderers. The scraping happens
-in a private backend, and a GitHub Action rewrites the markdown on a cron. This
-repo does the scraping itself, in the open, in [`scripts/`](/scripts).
 
-```
-sources.py    community trackers (SimplifyJobs, vanshb03, speedyapply)
-ats_live.py   ~153 company ATS boards, scraped directly
-   ↓
-classify.py   keep only genuine ML/AI roles at the new-grad level
-   ↓
-aggregate.py  dedupe across sources → data/listings.json (tracks first_seen)
-   ↓
-render.py     rewrite the tables in this file
-```
-
-Roughly 72,000 raw postings come in per full run; about 900 survive as real ML
-new-grad roles.
-
-### Two scrape tiers
-
-Boards cost wildly different amounts to read, so they run on different clocks.
-
-| Tier | Boards | Cost | Cadence |
-|---|---|---|---|
-| **fast** | ~147 Greenhouse / Ashby / Lever JSON APIs — the AI labs and startups | ~7s for all of them | **hourly** |
-| **heavy** | Apple, Amazon, Google, Tesla, TikTok, Uber custom career sites | ~60s | 4× daily |
-
-The fast tier is where being early actually matters: lab and startup roles open
-and close in days. Since public repos get unlimited GitHub Actions minutes, an
-hourly scrape costs nothing.
-
-### Why the classifier is the hard part
-
-A title containing "AI" is often not an ML job — *AI Business Development
-Analyst* is sales, and *Thermal Engineer - AI Satellites* is a thermal job that
-happens to work on a product named AI Satellites. `classify.py` filters ~99% of
-raw postings out.
-
-**Software engineering roles are excluded.** This is the filter that matters
-most, because "AI" attaches to job titles that involve no modelling at all:
-*AI-Augmented Software Engineer* writes code with an AI assistant, *AI Security
-Software Engineer* secures an AI product, *AI Prompt Engineer* and *AI Solutions
-Engineer* are neither. So when a title's core role is software engineering —
-software engineer, backend, frontend, platform, SRE, DevOps — it is kept only if
-it also names a real ML specialization: machine learning, recommendation,
-perception, computer vision, NLP, LLM, inference, research. *Software Engineer,
-AI/Machine Learning* stays; *Software Engineer, AI Agent* does not.
-
-Every one of those rules is pinned by a case in
-[`tests/test_classify.py`](/tests/test_classify.py), drawn from postings that
-were actually misfiled at some point. CI runs it before each refresh.
-
-The community trackers are curated new-grad lists, so anything on them is
-already the right level. Raw ATS boards are not — they list every role at a
-company. Those go through a stricter gate that demands positive evidence a role
-is entry level: a stated years-of-experience figure of 2 or less, or explicit
-new-grad language. Greenhouse and Ashby return the job description inside the
-listing payload, so that experience figure is free to extract; the custom career
-sites would need one request per job, so they are gated on their title instead.
-Ambiguous postings are dropped rather than guessed at — a stale or senior role
-in this list costs you more than a missing one.
-
-### Why `data/listings.json` is committed
-
-It stores `first_seen` per role across runs. That is what makes the *New this
-week* section real rather than a guess based on whatever the upstream lists
-happen to say. Timestamps are stored at day granularity so hourly refreshes only
-produce a diff when a listing actually changed.
-
-Run it yourself:
-
-```bash
-pip install -r requirements.txt
-python3 scripts/aggregate.py --ats fast   # or: --ats all, --ats none
-python3 scripts/render.py
-```
-
-### Roadmap
-
-- [x] **Phase 1** — aggregate + dedupe the community trackers, classify ML roles
-- [x] **Phase 2** — scrape ~153 ATS boards directly, hourly, via
-      [ats-scrapers](https://github.com/kalil0321/ats-scrapers)
-- [ ] **Phase 3** — expand the company list beyond 153, recover Meta's board
-      (its upstream adapter currently returns nothing), RSS/webhook feed for new
-      roles, sponsorship filtering
 
 ## Contributing
 
