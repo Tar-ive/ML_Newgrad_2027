@@ -813,6 +813,95 @@
  {
   "active": true,
   "category": "AI/ML/Data",
+  "company": "Extropic",
+  "company_url": "https://simplify.jobs/c/Extropic",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "1cf44511d9cf",
+  "is_usa": true,
+  "last_seen": 1788825600,
+  "locations": [
+   "Boston, MA",
+   "Waltham, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Resident",
+  "url": "https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application?embed=true"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TD Bank",
+  "company_url": "https://simplify.jobs/c/TD-Bank",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "fb3c800d532c",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Applied Machine Learning Scientist Graduate - Analytics Insights & AI",
+  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TD Bank",
+  "company_url": "https://simplify.jobs/c/TD-Bank",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "792d998d1e1a",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Applied Machine Learning Scientist",
+  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TD Bank",
+  "company_url": "https://simplify.jobs/c/TD-Bank",
+  "date_posted": 1788825600,
+  "experience": null,
+  "first_seen": 1788825600,
+  "id": "cbf724c3bcdd",
+  "is_usa": false,
+  "last_seen": 1788825600,
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Science Associate",
+  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
   "company": "Arcadis",
   "company_url": "https://simplify.jobs/c/Arcadis",
   "date_posted": 1788739200,
@@ -9311,25 +9400,28 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI/ML/Data",
   "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788825600,
   "locations": [
+   "Remote in USA",
+   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
  },
  {
   "active": true,
