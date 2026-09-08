@@ -5,7 +5,7 @@
 Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 02:27 UTC_
+_Last refreshed: 2026-09-08 07:18 UTC_
 <!-- UPDATED_END -->
 
 ---

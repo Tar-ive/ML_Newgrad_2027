@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-08 02:27 UTC_
+_Last refreshed: 2026-09-08 07:18 UTC_
 <!-- UPDATED_END -->
 
 ---
