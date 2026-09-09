@@ -5,7 +5,7 @@
 Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-09 06:06 UTC_
+_Last refreshed: 2026-09-09 10:06 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -16,6 +16,7 @@ _Last refreshed: 2026-09-09 06:06 UTC_
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | **today** | [Apply](https://careers.jhuapl.edu/jobs/59994?icims=1) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | — | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start) |
 | **Google** | Software Engineer, AI/ML, PhD, Early Career, 2026 | — | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026) |
 | **TikTok** | (General Hire) Multi-modal Machine Learning Engineer - Trust and Safety | San Jose, California, United States of America | **1d** | [Apply](https://lifeattiktok.com/search/7615352357392697653) |
@@ -356,6 +357,7 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | **today** | [Apply](https://careers.jhuapl.edu/jobs/59994?icims=1) |
 | **[Extropic](https://simplify.jobs/c/Extropic)** | Machine Learning Resident | Boston, MA / Waltham, MA | **1d** | [Apply](https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application?embed=true) |
 | **[ID.me](https://simplify.jobs/c/IDme)** | Data Scientist New Grad | Mountain View, CA | **1d** | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) |
 | **[OneMain Financial](https://simplify.jobs/c/OneMain-Financial)** | Data Science Analyst | Charlotte, NC / Wilmington, DE | **1d** | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) |
@@ -485,6 +487,7 @@ new grads.
 | **[Innodata](https://simplify.jobs/c/Innodata)** | Robotics Data Collection Tester | Remote in USA | 26d | [Apply](https://job-boards.greenhouse.io/innodatainc/jobs/4369593009) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Robotics Researcher - Research and Exploratory Development Department - Robotics Group | Laurel, MD | 26d | [Apply](https://careers.jhuapl.edu/jobs/59459?icims=1) |
 | **[Kyndryl](https://simplify.jobs/c/Kyndryl)** | Associate AI Engineer | Dallas, TX | 26d | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2) |
+| **[AppLovin](https://simplify.jobs/c/AppLovin)** | Data Scientist - Analytics | Palo Alto, CA | 26d | [Apply](https://boards.greenhouse.io/applovin/jobs/4705263006) |
 | **[United Smart Tech](https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee)** | AI Engineer - Agents & Experimentation | Carrollton, TX | 27d | [Apply](https://unitedsmarttech.bamboohr.com/careers/185/) |
 | **[Kyndryl](https://simplify.jobs/c/Kyndryl)** | Associate AI Engineer - Early Career Consult Program | Dallas, TX | 27d | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739) |
 | **[Exelixis](https://simplify.jobs/c/Exelixis)** | Associate Engineer - AI and Agentic | Alameda, CA | 27d | [Apply](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031) |
@@ -515,7 +518,7 @@ new grads.
 | **[Elanco](https://www.elanco.com)** | Research Scientist - Analytical Development | Fort Dodge, IA | 39d | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/external_career/job/Fort-Dodge-IA/Research-Scientist---Product-development_R0026613-1) |
 | **[LiteLLM](https://www.litellm.ai/)** | AI Engineer | San Francisco, CA | 39d | [Apply](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b) |
 | **[SRI International](https://www.sri.com)** | Materials Research Scientist/Engineer | Menlo Park, CA | 39d | [Apply](https://careers-sri.icims.com/jobs/6428/materials-research-scientist-engineer/job) |
-| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 40d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application) |
+| **[Quora](https://simplify.jobs/c/Quora)** | Software Engineer New Grad - Machine Learning Platform | Remote in USA +2 | 39d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 40d | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | **[Weekday](https://www.weekday.works/)** | Machine Learning Engineer - Model Evaluation & Experimentation | USA | 40d | [Apply](https://apply.workable.com/weekday-1/j/BF32A485B8/) |
 | **[Pyrovio](https://simplify.jobs/c/Pyrovio)** | Copilot Developer/AI Engineer | Remote in USA | 41d | [Apply](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) |
