@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-09 11:34 UTC_
+_Last refreshed: 2026-09-09 15:17 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -336,7 +336,6 @@ new grads.
 | **[TSMG](https://simplify.jobs/c/TSMG)** | Robotics AI Data Collection Operator | London, UK | 67d | [Apply](https://jobs.lever.co/tsmg/70711560-e04c-4b70-9819-45f135610e70/apply) |
 | **[Mollie](https://mollie.com/)** | Machine Learning Platform Engineer I | Lisbon, Portugal | 70d | [Apply](https://jobs.ashbyhq.com/mollie/ff439d94-cfb5-4523-8e99-a19edcb56ed6) |
 | **[LSEG](https://www.lseg.com)** | Junior Data Scientist | Beijing, China | 74d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Junior-Data-Scientist_R0120747-1) |
-| **[Abound](https://simplify.jobs/c/Abound)** | Graduate Data Scientist | London, UK / London, United Kingdom | 75d | [Apply](https://jobs.ashbyhq.com/Abound/15d8f7ba-8f2d-4a84-8618-3c7f77b4f1c4/application) |
 | **[Esri](https://www.esri.com)** | Data Scientist I | St. Louis, MO +1 | 75d | [Apply](https://www.esri.com/careers/5173232007?gh_jid=5173232007) |
 | **[Clario](https://clario.com)** | Associate Data Scientist | Remote - Bengaluru, India | 75d | [Apply](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Bangalore-India/Associate-Data-Scientist_R17201-1) |
 | **[PIMCO](https://www.pimco.com)** | Client Solutions & Analytics: Quantitative Research Analyst - London | London, United Kingdom | 81d | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487) |
@@ -353,6 +352,7 @@ new grads.
 | **[Hewlett Packard Enterprise](https://hpe.com/)** | Machine Learning Graduate | Singapore, Singapore | 90d | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Singapore-Central-Singapore-Singapore/Machine-Learning-Graduate_1194590-1) |
 | **[ZOLL](https://zoll.com)** | Junior Algorithm Engineer | Caesarea, Israel | 90d | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/IL-Caesarea/Junior-Algorithm-Engineer_R19377) |
 | **[PepsiCo](https://www.pepsicojobs.com)** | Data Science & AI Graduate | Vitória, Brazil | 91d | [Apply](https://globalcampus-pepsico.icims.com/jobs/458518/data-science-%26-ai-graduate/job) |
+| **[Abound](https://www.getabound.com/)** | Graduate Data Scientist | London, United Kingdom | 96d | [Apply](https://jobs.ashbyhq.com/abound/15d8f7ba-8f2d-4a84-8618-3c7f77b4f1c4) |
 | **[TD SYNNEX](https://www.tdsynnex.com)** | Data Scientist | Prague, Czechia | 99d | [Apply](https://synnex.wd5.myworkdayjobs.com/en-US/tdsynnexcareers/job/Prague-Czech-Republic/Experienced-DATA-ANALYST-with-PYTHON_R26654) |
 | **[HackerRank](https://www.hackerrank.com)** | Applied AI Engineer | Bengaluru, India | 104d | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959585) |
 | **[Axtria - Ingenious Insights](https://www.axtria.com)** | Junior AI Engineer - GenAI & Agentic AI Platform | Tokyo, Japan | 111d | [Apply](http://axtriainc.applytojob.com/apply/XdoKY1dHJc/Junior-AI-Engineer-GenAI-Agentic-AI-Platform) |

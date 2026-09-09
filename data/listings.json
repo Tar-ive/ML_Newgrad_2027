@@ -9779,25 +9779,28 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI/ML/Data",
   "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788912000,
   "locations": [
+   "Remote in USA",
+   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
  },
  {
   "active": true,
@@ -13827,30 +13830,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "Abound",
-  "company_url": "https://simplify.jobs/c/Abound",
-  "date_posted": 1782432000,
-  "experience": null,
-  "first_seen": 1782432000,
-  "id": "9eabe4476785",
-  "is_usa": false,
-  "last_seen": 1788912000,
-  "locations": [
-   "London, UK",
-   "London, United Kingdom"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Graduate Data Scientist",
-  "url": "https://jobs.ashbyhq.com/Abound/15d8f7ba-8f2d-4a84-8618-3c7f77b4f1c4/application"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "Field AI",
   "company_url": "https://simplify.jobs/c/Field-AI",
   "date_posted": 1782432000,
@@ -15299,7 +15278,7 @@
   "first_seen": 1781049600,
   "id": "8260d0efca14",
   "is_usa": true,
-  "last_seen": 1788825600,
+  "last_seen": 1788912000,
   "locations": [
    "Palo Alto, CA"
   ],
@@ -15420,6 +15399,28 @@
   "tier": "quant",
   "title": "Machine Learning Researcher Full-Time: New Grad",
   "url": "https://www.janestreet.com/join-jane-street/position/8576931002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML",
+  "company": "Abound",
+  "company_url": "https://www.getabound.com/",
+  "date_posted": 1780617600,
+  "experience": null,
+  "first_seen": 1782432000,
+  "id": "9eabe4476785",
+  "is_usa": false,
+  "last_seen": 1788912000,
+  "locations": [
+   "London, United Kingdom"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Graduate Data Scientist",
+  "url": "https://jobs.ashbyhq.com/abound/15d8f7ba-8f2d-4a84-8618-3c7f77b4f1c4"
  },
  {
   "active": true,
