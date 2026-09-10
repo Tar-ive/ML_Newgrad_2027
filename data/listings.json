@@ -330,32 +330,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Gen Digital",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "d4d5c3e7c985",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Mountain View, CA",
-   "USA - Mountain View, CA"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "aprameyak",
-   "coconight",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "AI & Machine Learning Engineer 1",
-  "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Two Sigma",
   "company_url": null,
   "date_posted": 1788998400,
@@ -861,13 +835,11 @@
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
-   "Seattle, Washington, USA",
-   "Seattle, WA"
+   "Seattle, Washington, USA"
   ],
   "salary": null,
   "sources": [
-   "harrycodingnow",
-   "zapply"
+   "harrycodingnow"
   ],
   "tier": "bigtech",
   "title": "Machine Learning Engineer, Prime Video ML Platform",
@@ -3477,82 +3449,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Saronic",
-  "company_url": "https://simplify.jobs/c/Saronic",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1782691200,
-  "id": "7d9a51552090",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Perception and Autonomy Engineer",
-  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Uncountable",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1787961600,
-  "id": "85089360661b",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "New York, NY",
-   "San Francisco, CA",
-   "New York, San Francisco, Munich..."
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Platform Engineer - Generative AI",
-  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Skydio",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1787961600,
-  "id": "bbca0578b7df",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "San Mateo, CA",
-   "San Mateo, California, United..."
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Autonomy Engineer - ML & DL Infrastru...",
-  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
- },
- {
-  "active": true,
   "category": null,
   "company": "Julius Baer",
   "company_url": "https://www.juliusbaer.com",
@@ -3852,6 +3748,475 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "TransUnion",
+  "company_url": "https://www.transunion.com",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "d95561376d1c",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Scientist_19042174"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "WeRide.ai",
+  "company_url": "https://www.weride.ai",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "25180115705b",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "applyguy",
+   "coconight",
+   "dreamworkhq",
+   "speedyapply",
+   "wonofakind",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+  "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Shield AI",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "aee64f7d12d8",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Boston, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer II, Autonomy Behavi...",
+  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "WeRide",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "498764e2725f",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Perception Engineer \u2013 ML/CV and Algor...",
+  "url": "https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": "Data Science & Analytics",
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "b2cd069d3163",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Laurel, Maryland, United States"
+  ],
+  "salary": "$85,000 Annually",
+  "sources": [
+   "wonofakind"
+  ],
+  "tier": "other",
+  "title": "2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities",
+  "url": "http://careers.jhuapl.edu/jobs/59817"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "General Motors",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "f9b0c2a3a15e",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "2 Locations"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist_JR-202616534"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lowe's",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "0d1b1babb2cf",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Lowe's Charlotte Technology Hub..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist_JR-02622175"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "LexisNexis Risk Solutions",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "ba33477d0c9b",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Alpharetta, GA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Data-Scientist_R115426"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "a74a174392c4",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "People Research Scientist",
+  "url": "https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "a3dd19f0e4cb",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - World Modeling",
+  "url": "https://jobs.lever.co/ifm-us/adc38d88-64c7-4b26-9d45-ae287e178df6"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "2e437d24b2a7",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist, Frontier Health, DeepMind",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/118553789589267142"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "6cec989e845c",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "ML Research Scientist, Audio Algorithms",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/121197786489070278"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Evolver",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "e3fbfe32f34f",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Information Theory and Statistical Inference",
+  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402424009"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Evolver",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "d5262180bfe2",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Autonomous Systems",
+  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402412009"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "93f3e00bf76d",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Post-Training Research",
+  "url": "https://jobs.ashbyhq.com/openai/4acc3515-887f-4bc9-8c2a-00f36ae480c3"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "AssetMark",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788998400,
+  "id": "52e98208743a",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Concord, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Research Analyst",
+  "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Concord-CA/Quantitative-Research-Analyst_Req-003965"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "USAA",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "5fde2c2eb666",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Antonio Home"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Intermediate Level Decision Science Analyst - Member Value",
+  "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Member-Value_R0118409"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "USAA",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "e602869a9b11",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Antonio"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Intermediate Level Decision Science Analyst - Digital Analytics",
+  "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Digital-Analytics_R0118987-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "0aecaddad70b",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Arlington, VA",
+   "Chantilly, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0248430"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "dae9228b43ca",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Austin"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist, AI/ML Model Quality",
+  "url": "https://jobs.apple.com/en-us/details/200676435/data-scientist-ai-ml-model-quality"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Waymo",
   "company_url": "https://simplify.jobs/c/Waymo",
@@ -3941,11 +4306,13 @@
   "is_usa": false,
   "last_seen": 1788998400,
   "locations": [
-   "Cambridge, MA +1"
+   "Cambridge, MA +1",
+   "Cambridge, MA USA"
   ],
   "salary": null,
   "sources": [
-   "speedyapply"
+   "speedyapply",
+   "zapply"
   ],
   "tier": "other",
   "title": "Machine Learning Engineer I/II - Applied AI",
@@ -4452,8 +4819,7 @@
   ],
   "salary": null,
   "sources": [
-   "dreamworkhq",
-   "zapply"
+   "dreamworkhq"
   ],
   "tier": "other",
   "title": "Data Scientist, Junior",
@@ -4669,52 +5035,6 @@
  {
   "active": true,
   "category": null,
-  "company": "ClickUp",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "53c94d8dcdcf",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer, Ranking & Retrieval",
-  "url": "https://jobs.ashbyhq.com/clickup/920fb54c-ba58-4eac-919d-e85da9080802"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Anthropic",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "e0c123a636b7",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Remote-Friendly (Travel..."
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Engineer, Takeoff Intel",
-  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416882008"
- },
- {
-  "active": true,
-  "category": null,
   "company": "General Motors",
   "company_url": null,
   "date_posted": 1788912000,
@@ -4780,29 +5100,6 @@
   "tier": "other",
   "title": "Junior Data Scientist",
   "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426-2"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TransUnion",
-  "company_url": "https://www.transunion.com",
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788912000,
-  "id": "d95561376d1c",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Scientist_19042174"
  },
  {
   "active": true,
@@ -4918,6 +5215,75 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://job-boards.greenhouse.io/dataiku/jobs/6186414004"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Expedia Group",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "7582eda0215c",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Washington Seattle"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Scientist II - Agentic Experiences",
+  "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446-2"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ClickUp",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "53c94d8dcdcf",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Ranking & Retrieval",
+  "url": "https://jobs.ashbyhq.com/clickup/920fb54c-ba58-4eac-919d-e85da9080802"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Anthropic",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "e0c123a636b7",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Remote-Friendly (Travel..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Takeoff Intel",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416882008"
  },
  {
   "active": true,
@@ -6061,7 +6427,7 @@
   ],
   "tier": "other",
   "title": "2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems",
-  "url": "https://careers.jhuapl.edu/jobs/59653"
+  "url": "http://careers.jhuapl.edu/jobs/59653"
  },
  {
   "active": true,
@@ -6709,54 +7075,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Decagon",
-  "company_url": null,
-  "date_posted": 1788566400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788480000,
-  "id": "f4eae11d5bce",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "San Francisco"
-  ],
-  "salary": "$200K \u2013 $400K \u2022 Offers Equity",
-  "sources": [
-   "ats",
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Engineer, Safety",
-  "url": "https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Decagon",
-  "company_url": null,
-  "date_posted": 1788566400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788480000,
-  "id": "f9cac019bf2f",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "San Francisco"
-  ],
-  "salary": "$200K \u2013 $400K \u2022 Offers Equity",
-  "sources": [
-   "ats",
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Engineer, Audio and Speech",
-  "url": "https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4"
- },
- {
-  "active": true,
   "category": "ai_first",
   "company": "PayPal",
   "company_url": null,
@@ -6846,6 +7164,52 @@
   "tier": "bigtech",
   "title": "Machine Learning Researcher Multi-Modal Reasoning",
   "url": "https://jobs.apple.com/en-us/details/200682033/machine-learning-researcher-multi-modal-reasoning"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Decagon",
+  "company_url": null,
+  "date_posted": 1788480000,
+  "experience": 2,
+  "family": "ml",
+  "first_seen": 1788480000,
+  "id": "f4eae11d5bce",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": "$200K \u2013 $400K \u2022 Offers Equity",
+  "sources": [
+   "ats"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Safety",
+  "url": "https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956/application"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Decagon",
+  "company_url": null,
+  "date_posted": 1788480000,
+  "experience": 2,
+  "family": "ml",
+  "first_seen": 1788480000,
+  "id": "f9cac019bf2f",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": "$200K \u2013 $400K \u2022 Offers Equity",
+  "sources": [
+   "ats"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Audio and Speech",
+  "url": "https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4/application"
  },
  {
   "active": true,
@@ -7389,7 +7753,7 @@
   "category": null,
   "company": "Accenture Federal Services",
   "company_url": null,
-  "date_posted": 1788480000,
+  "date_posted": null,
   "experience": null,
   "family": "ml",
   "first_seen": 1788480000,
@@ -7662,7 +8026,7 @@
   ],
   "tier": "other",
   "title": "2027 Graduate - Intelligent Autonomous Systems Development, Test and Artificial Intelligence (AI)",
-  "url": "https://careers.jhuapl.edu/jobs/59691"
+  "url": "http://careers.jhuapl.edu/jobs/59691"
  },
  {
   "active": true,
@@ -7685,7 +8049,7 @@
   ],
   "tier": "other",
   "title": "2027 Graduate \u2013 Software Engineer; Data Scientist; Ontologist \u2013 Threat Analytic Systems",
-  "url": "https://careers.jhuapl.edu/jobs/59849"
+  "url": "http://careers.jhuapl.edu/jobs/59849"
  },
  {
   "active": true,
@@ -9547,76 +9911,74 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "WeRide.ai",
-  "company_url": "https://www.weride.ai",
+  "category": "AI/ML/Data",
+  "company": "Saronic",
+  "company_url": "https://simplify.jobs/c/Saronic",
   "date_posted": 1787961600,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "25180115705b",
+  "family": "ml",
+  "first_seen": 1782691200,
+  "id": "7d9a51552090",
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
-   "San Jose, CA"
+   "Austin, TX"
   ],
-  "salary": "Not listed",
+  "salary": null,
   "sources": [
-   "applyguy",
-   "coconight",
-   "dreamworkhq",
-   "speedyapply",
-   "wonofakind"
+   "aprameyak",
+   "simplify"
   ],
   "tier": "other",
-  "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-  "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+  "title": "Perception and Autonomy Engineer",
+  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
  },
  {
   "active": true,
   "category": null,
-  "company": "Shield AI",
+  "company": "Uncountable",
   "company_url": null,
   "date_posted": 1787961600,
   "experience": null,
   "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "aee64f7d12d8",
+  "first_seen": 1787961600,
+  "id": "85089360661b",
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
-   "Boston, MA"
+   "New York, NY",
+   "San Francisco, CA"
   ],
   "salary": null,
   "sources": [
    "aprameyak"
   ],
   "tier": "other",
-  "title": "Software Engineer II, Autonomy Behavi...",
-  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
+  "title": "Platform Engineer - Generative AI",
+  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
  },
  {
   "active": true,
   "category": null,
-  "company": "WeRide",
+  "company": "Skydio",
   "company_url": null,
   "date_posted": 1787961600,
   "experience": null,
   "family": "ml",
-  "first_seen": 1788998400,
-  "id": "498764e2725f",
+  "first_seen": 1787961600,
+  "id": "bbca0578b7df",
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
-   "San Jose, CA"
+   "San Mateo, CA"
   ],
   "salary": null,
   "sources": [
    "aprameyak"
   ],
   "tier": "other",
-  "title": "Perception Engineer \u2013 ML/CV and Algor...",
-  "url": "https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908?utm_source=aprameyak"
+  "title": "Autonomy Engineer - ML & DL Infrastru...",
+  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -19910,7 +20272,7 @@
  },
  {
   "active": true,
-  "category": "Data Science & Analytics",
+  "category": "AI / Machine Learning",
   "company": "TikTok",
   "company_url": null,
   "date_posted": 1785801600,
@@ -19921,16 +20283,14 @@
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
-   "San Jose, California, United States of America",
    "San Jose, CA"
   ],
   "salary": "$200k/yr",
   "sources": [
-   "coconight",
-   "wonofakind"
+   "coconight"
   ],
   "tier": "bigtech",
-  "title": "Data Scientist Graduate (TikTok Platform Safety) - 2027 Start",
+  "title": "Data Scientist Graduate - TikTok Platform Safety - 2027 Start",
   "url": "https://lifeattiktok.com/search/7667035008003328309"
  },
  {
@@ -20120,6 +20480,75 @@
   "tier": "other",
   "title": "Software Engineer I, Generative AI Applications",
   "url": "https://www.dreamworkhq.com/job/a973b74d-98d8-4847-a6d1-7cf0237c7a14?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": 1785801600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1785801600,
+  "id": "dc5111a10689",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Jose, CA, United States"
+  ],
+  "salary": "$95K/yr - $168K/yr",
+  "sources": [
+   "coconight"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist Graduate (TikTok-Search) - 2027 Start",
+  "url": "https://jobright.ai/jobs/info/6a71a4179a0ca4480c7d4eef"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": 1785801600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1785801600,
+  "id": "ae3d36034675",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Jose, CA, United States"
+  ],
+  "salary": "$95K/yr - $216K/yr",
+  "sources": [
+   "coconight"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist Graduate (TikTok Product) - 2027 Start",
+  "url": "https://jobright.ai/jobs/info/6a71a416ee751e0c7934463c"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": 1785801600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1785801600,
+  "id": "ad48410b7800",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "San Jose, CA, United States"
+  ],
+  "salary": "$95K/yr - $168K/yr",
+  "sources": [
+   "coconight"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist Graduate (TikTok LIVE) - 2027 Start",
+  "url": "https://jobright.ai/jobs/info/6a71a40b02d93145bf890235"
  },
  {
   "active": true,
@@ -22862,31 +23291,6 @@
   "experience": 1,
   "family": "swe_ml",
   "first_seen": 1785369600,
-  "id": "6cf64fc6372d",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Bastrop, TX",
-   "Starbase, TX",
-   "McGregor, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "family": "swe_ml",
-  "first_seen": 1785369600,
   "id": "939c4d4d55c1",
   "is_usa": true,
   "last_seen": 1788998400,
@@ -22947,6 +23351,31 @@
   "tier": "other",
   "title": "Application Software Engineer, Applied AI",
   "url": "https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "SpaceX",
+  "company_url": null,
+  "date_posted": 1785369600,
+  "experience": 1,
+  "family": "swe_ml",
+  "first_seen": 1785369600,
+  "id": "5da0c57e872b",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "McGregor, TX",
+   "Bastrop, TX",
+   "Starbase, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "other",
+  "title": "Application Software Engineer, Applied AI",
+  "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002"
  },
  {
   "active": true,
@@ -24395,9 +24824,9 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
+  "category": null,
   "company": "IQVIA",
-  "company_url": "https://simplify.jobs/c/IQVIA",
+  "company_url": "https://www.iqvia.com",
   "date_posted": 1784851200,
   "experience": null,
   "family": "ds",
@@ -24406,17 +24835,15 @@
   "is_usa": false,
   "last_seen": 1788998400,
   "locations": [
-   "Ottawa, ON, Canada",
    "Ottawa, Canada"
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Associate Data Scientist - Associate Data Scientist - Privacy and De-identification",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Ottawa-Ontario-Canada/Associate-Data-Scientist--Privacy-and-De-identification---Scientifique-des-donnes-associ--confidentialit-et-dsidentification_R1553526"
+  "title": "Associate Data Scientist - Privacy and De-identification / Scientifique des donn\u00e9es associ\u00e9 - confidentialit\u00e9 et d\u00e9sidentification",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Ottawa-Ontario-Canada/Associate-Data-Scientist--Privacy-and-De-identification---Scientifique-des-donnes-associ--confidentialit-et-dsidentification_R1553526"
  },
  {
   "active": true,
@@ -25005,6 +25432,30 @@
   "tier": "bigtech",
   "title": "Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD)",
   "url": "https://jobright.ai/jobs/info/6a62b4c3846162391c937476"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gen Digital",
+  "company_url": null,
+  "date_posted": 1784764800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "d4d5c3e7c985",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "aprameyak",
+   "coconight"
+  ],
+  "tier": "other",
+  "title": "AI & Machine Learning Engineer 1",
+  "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf?utm_source=aprameyak"
  },
  {
   "active": true,
