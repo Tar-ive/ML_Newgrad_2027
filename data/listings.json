@@ -114,6 +114,28 @@
  },
  {
   "active": true,
+  "category": "Hardware",
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+  "date_posted": 1788998400,
+  "experience": null,
+  "first_seen": 1788998400,
+  "id": "36807d3f0fe6",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Laurel, MD"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Autonomous Systems Computer Engineer - 2027 Graduate",
+  "url": "https://careers.jhuapl.edu/jobs/59762?icims=1"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Johns Hopkins Applied Physics Laboratory",
   "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
@@ -441,6 +463,29 @@
   "tier": "other",
   "title": "Technology Analyst - Data Science and Analytics",
   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Analyst---Data-Science-and-Analytics_R161440-2"
+ },
+ {
+  "active": true,
+  "category": "Hardware",
+  "company": "Intel",
+  "company_url": "https://simplify.jobs/c/Intel",
+  "date_posted": 1788912000,
+  "experience": null,
+  "first_seen": 1788912000,
+  "id": "99bdd01284ac",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Hillsboro, OR",
+   "Phoenix, AZ"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "bigtech",
+  "title": "Semiconductor Packaging Research Engineer",
+  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871"
  },
  {
   "active": true,
@@ -10223,25 +10268,28 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI/ML/Data",
   "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
+   "Remote in USA",
+   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
  },
  {
   "active": true,
@@ -13835,6 +13883,28 @@
   "tier": "ai_lab",
   "title": "Research Engineer, Post-Training Inference",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5179372007"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Amazon",
+  "company_url": null,
+  "date_posted": 1783296000,
+  "experience": null,
+  "first_seen": 1783296000,
+  "id": "e5c0a3c618d8",
+  "is_usa": false,
+  "last_seen": 1788998400,
+  "locations": [
+   "Chennai, Tamil Nadu, IND"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "ML Data Associate, AGI-Leapfrog",
+  "url": "https://account.amazon.jobs/jobs/10466087/apply"
  },
  {
   "active": true,

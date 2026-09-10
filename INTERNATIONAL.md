@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**256** open roles
+**257** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-10 06:05 UTC_
+_Last refreshed: 2026-09-10 10:03 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -182,6 +182,7 @@ and autonomy set.
 | **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live Operation Intelligence - 2027 Start - PhD | Singapore | 54d | [Apply](https://lifeattiktok.com/search/7663389735972292917) |
 | **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live - Strategy - 2027 Start - PhD | Singapore | 54d | [Apply](https://lifeattiktok.com/search/7663386899855231237) |
 | **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 55d | [Apply](https://lifeattiktok.com/search/7663091612935293189) |
+| **Amazon** | ML Data Associate, AGI-Leapfrog | Chennai, Tamil Nadu, IND | 66d | [Apply](https://account.amazon.jobs/jobs/10466087/apply) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Deep Learning and Computer Vision - New College Graduate | Taipei, Taiwan | 89d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Research-Scientist--Deep-Learning-and-Computer-Vision---New-College-Graduate_JR2018685) |
 | **[Google](https://simplify.jobs/c/Google)** | Software Engineer – Early Career - AI/ML - PhD | London, UK | 216d | [Apply](https://www.google.com/about/careers/applications/jobs/results/92286686481785542) |
 | **AMD** | ROCm AI - GPU Software Engineer | Markham, Canada | 389d | [Apply](https://careers.amd.com/careers-home/jobs/68831) |

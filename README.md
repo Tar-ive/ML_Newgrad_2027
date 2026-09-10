@@ -5,7 +5,7 @@
 Machine learning, AI research, and applied science roles + resources. 
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-10 06:05 UTC_
+_Last refreshed: 2026-09-10 10:03 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -16,6 +16,7 @@ _Last refreshed: 2026-09-10 06:05 UTC_
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Autonomous Systems Computer Engineer - 2027 Graduate | Laurel, MD | **today** | [Apply](https://careers.jhuapl.edu/jobs/59762?icims=1) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | **1d** | [Apply](https://careers.jhuapl.edu/jobs/59994?icims=1) |
 | **[Applied Materials](https://www.appliedmaterials.com)** | AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA | Santa Clara, CA | **1d** | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059) |
 | **[DraftKings](https://draftkings.com/)** | Data Science Engineer - December 2026 and May 2027 Grads | Boston, MA | **1d** | [Apply](https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
@@ -24,6 +25,7 @@ _Last refreshed: 2026-09-10 06:05 UTC_
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | PhD Graduate - Artificial Intelligence and Machine Learning - Research Scientist | Laurel, MD | **1d** | [Apply](https://careers.jhuapl.edu/jobs/60018?icims=1) |
 | **[General Motors](https://simplify.jobs/c/General-Motors)** | Machine Learning Systems Engineer - Data Labeling Engineering | Sunnyvale, CA | **1d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) |
 | **[Northern Trust](https://simplify.jobs/c/Northern-Trust)** | Technology Analyst - Data Science and Analytics | Chicago, IL | **1d** | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Analyst---Data-Science-and-Analytics_R161440-2) |
+| **[Intel](https://simplify.jobs/c/Intel)** | Semiconductor Packaging Research Engineer | Hillsboro, OR / Phoenix, AZ | **1d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | — | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start) |
 | **Google** | Software Engineer, AI/ML, PhD, Early Career, 2026 | — | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026) |
 | **TikTok** | (General Hire) Multi-modal Machine Learning Engineer - Trust and Safety | San Jose, California, United States of America | **2d** | [Apply](https://lifeattiktok.com/search/7615352357392697653) |
@@ -88,6 +90,7 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Intel](https://simplify.jobs/c/Intel)** | Semiconductor Packaging Research Engineer | Hillsboro, OR / Phoenix, AZ | **1d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | — | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start) |
 | **Google** | Software Engineer, AI/ML, PhD, Early Career, 2026 | — | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026) |
 | **TikTok** | (General Hire) Multi-modal Machine Learning Engineer - Trust and Safety | San Jose, California, United States of America | **2d** | [Apply](https://lifeattiktok.com/search/7615352357392697653) |
@@ -355,6 +358,7 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Autonomous Systems Computer Engineer - 2027 Graduate | Laurel, MD | **today** | [Apply](https://careers.jhuapl.edu/jobs/59762?icims=1) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | **1d** | [Apply](https://careers.jhuapl.edu/jobs/59994?icims=1) |
 | **[Applied Materials](https://www.appliedmaterials.com)** | AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA | Santa Clara, CA | **1d** | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059) |
 | **[DraftKings](https://draftkings.com/)** | Data Science Engineer - December 2026 and May 2027 Grads | Boston, MA | **1d** | [Apply](https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
@@ -524,7 +528,7 @@ new grads.
 | **[LiteLLM](https://www.litellm.ai/)** | AI Engineer | San Francisco, CA | 40d | [Apply](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b) |
 | **[SRI International](https://www.sri.com)** | Materials Research Scientist/Engineer | Menlo Park, CA | 40d | [Apply](https://careers-sri.icims.com/jobs/6428/materials-research-scientist-engineer/job) |
 | **[Nordstrom](https://www.nordstrom.com)** | Engineer 1: AI Agentic Solutions - Hybrid - Seattle - WA | Seattle, WA | 40d | [Apply](https://nordstrom.impl-wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1--AI-Agentic-Solutions--Hybrid---Seattle--WA-_R-862126) |
-| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 41d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application) |
+| **[Quora](https://simplify.jobs/c/Quora)** | Software Engineer New Grad - Machine Learning Platform | Remote in USA +2 | 40d | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 41d | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | **[Weekday](https://www.weekday.works/)** | Machine Learning Engineer - Model Evaluation & Experimentation | USA | 41d | [Apply](https://apply.workable.com/weekday-1/j/BF32A485B8/) |
 | **[Pyrovio](https://simplify.jobs/c/Pyrovio)** | Copilot Developer/AI Engineer | Remote in USA | 42d | [Apply](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) |
