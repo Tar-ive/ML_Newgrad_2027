@@ -62,11 +62,22 @@ NEW_GRAD_TEXT = re.compile(
 TAGS = re.compile(r"<[^>]+>")
 
 
-def read_experience(description):
-    """Return (min_years or None, has_new_grad_language) from a job description."""
+# Enough text for the classifier to judge a role by, without holding a whole
+# board's prose in memory. Requirements sections sit well inside this.
+DESCRIPTION_CHARS = 4000
+
+
+def clean_description(description):
+    """Strip markup from a job description and cap its length."""
     if not description:
+        return None
+    return html_mod.unescape(TAGS.sub(" ", str(description)))[:DESCRIPTION_CHARS]
+
+
+def read_experience(text):
+    """Return (min_years or None, has_new_grad_language) from a job description."""
+    if not text:
         return None, False
-    text = html_mod.unescape(TAGS.sub(" ", str(description)))
     years = [int(y) for y in YEARS.findall(text) if int(y) <= 30]
     return (min(years) if years else None), bool(NEW_GRAD_TEXT.search(text))
 
@@ -86,7 +97,8 @@ def _to_record(job, company):
     loc = getattr(job, "location", None)
     if loc:
         locations = [str(loc)]
-    years, new_grad_text = read_experience(getattr(job, "description", None))
+    description = clean_description(getattr(job, "description", None))
+    years, new_grad_text = read_experience(description)
     # New-grad language in the body is worth more than a silent description, so
     # let it stand in for an explicit "0 years" figure.
     if years is None and new_grad_text:
@@ -103,6 +115,10 @@ def _to_record(job, company):
         source="ats",
         salary=str(getattr(job, "salary_summary", None) or "") or None,
         experience=years,
+        # Greenhouse and Ashby ship the description with the listing, and this
+        # is where it earns its keep: an AI lab posts "Software Engineer, New
+        # Grad" with a description that is entirely about training models.
+        description=description,
     )
 
 

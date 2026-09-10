@@ -1,8 +1,13 @@
 name: Hourly ATS refresh
 
-# Scrapes ~150 company boards directly. This is the tier that makes the list
-# fast: roles land here within the hour, where the community trackers rebuild
-# once a day. Runs in well under a minute.
+# Scrapes ~150 company boards directly, plus every community tracker. This is
+# the tier that makes the list fast: roles land here within the hour.
+#
+# The trackers used to be skipped here on the grounds that they rebuild once a
+# day. That stopped being true once the source list grew -- zapplyjobs commits
+# every few minutes and ApplyGuy a couple of times an hour -- and fetching all
+# fourteen in parallel costs under two seconds, so the hourly job reads them
+# all. Runs in well under a minute.
 #
 # Public repositories get unlimited GitHub Actions minutes, so hourly costs
 # nothing. Scheduled workflows are disabled after 60 days without repository
@@ -40,10 +45,10 @@ jobs:
       - name: Classifier regression tests
         run: python3 tests/test_classify.py
 
-      - name: Scrape ATS boards
+      - name: Scrape ATS boards and trackers
         id: aggregate
         run: |
-          summary=$(python3 scripts/aggregate.py --ats fast --no-trackers | tail -1)
+          summary=$(python3 scripts/aggregate.py --ats fast | tail -1)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
 
       - name: Render tables

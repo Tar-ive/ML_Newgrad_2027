@@ -10,11 +10,25 @@ are re-rendered automatically on the next refresh.
 Most quality problems are classifier problems, and those are the most valuable
 contributions. Everything lives in [`scripts/classify.py`](/scripts/classify.py):
 
-- **A real ML role is missing** → its title probably failed `CORE` / `SUPPORTING`,
-  or tripped `NEGATIVE` / `SENIOR` / `DOMAIN_NOISE`.
-- **A non-ML role is listed** → add the giveaway phrase to `NEGATIVE`.
-- **A senior role is listed** → add the signal to `SENIOR`.
+The gate is a whitelist of four role families (`ml`, `ds`, `de_ml`, `swe_ml`)
+decided by `role_family()`, with three exclusion sets running ahead of it.
+
+- **A real ML role is missing** → its title failed `ML_STRONG` / `ML_WEAK` /
+  `DS_TITLE`, or tripped `EXCLUDE_HARDWARE` / `EXCLUDE_DOMAIN` /
+  `EXCLUDE_FUNCTION` / `SENIOR` / `NOT_NEW_GRAD_ROLE`. Check which:
+  `role_family(title)` returning `None` means no family claimed it;
+  `is_excluded(title)` returning `True` means an exclusion set did.
+- **A non-ML role is listed** → add the giveaway phrase to the exclusion set that
+  fits its reason for being wrong, not whichever one is nearest.
+- **A software engineering role is listed with no ML in it** → the specialization
+  it matched is too loose; tighten `ML_SPECIALIZATION`.
+- **A senior role is listed** → add the signal to `SENIOR`, or lower `MAX_YEARS`.
 - **A company is in the wrong bucket** → add it to `AI_LAB`, `BIGTECH`, or `QUANT`.
+
+Add a case to [`tests/test_classify.py`](/tests/test_classify.py) with every
+classifier change — `KEEP`/`DROP` for a title, `FAMILIES` when the family itself
+is the point, `DESCRIPTIONS` for the software-engineering promotion rule, and
+`EXPERIENCE` for the level gate. CI runs the suite before each refresh.
 
 Check your change before opening a PR:
 
@@ -34,10 +48,17 @@ python3 scripts/aggregate.py && python3 scripts/render.py
 
 ## Add a source
 
-Add a fetcher to [`scripts/sources.py`](/scripts/sources.py) returning records
-via `record(...)`, register it in `SOURCES`, and add the source to
-[ATTRIBUTION.md](/ATTRIBUTION.md). Deduplication against existing sources is
-automatic.
+Most trackers publish a JSON array of postings, so no parser is needed: add a
+`from_json_repo` entry to `SOURCES` in [`scripts/sources.py`](/scripts/sources.py)
+mapping our field names onto theirs, with a `keep` filter written in that repo's
+own vocabulary (its `type`, `role_type`, `track` or `status` column). A spec
+value is either a key name or a function of the row. For a markdown table, use
+`from_markdown_table`; for anything stranger, write a fetcher that returns
+records via `record(...)`.
+
+Then add the source to [ATTRIBUTION.md](/ATTRIBUTION.md). Deduplication against
+existing sources is automatic. Prefer sources that link to the employer's own
+board — a redirect URL cannot be deduplicated against anything.
 
 ## Do not edit the tables by hand
 

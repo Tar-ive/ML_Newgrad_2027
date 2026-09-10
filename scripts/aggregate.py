@@ -5,6 +5,7 @@ the README show which roles are genuinely new today, which is the whole point
 of being fast.
 """
 import argparse
+import collections
 import hashlib
 import json
 import os
@@ -14,7 +15,7 @@ import time
 from urllib.parse import urlsplit
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from classify import classify, normalize_company  # noqa: E402
+from classify import classify, normalize_company, role_family  # noqa: E402
 import sources  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -122,7 +123,8 @@ def main(ats_tier="fast", trackers=True):
     for r in raw:
         strict = r["source"] in STRICT_SOURCES
         keep, tier = classify(r["title"], r["category"], r["company"],
-                              experience=r.get("experience"), strict=strict)
+                              experience=r.get("experience"), strict=strict,
+                              description=r.get("description"))
         if not keep:
             dropped += 1
             continue
@@ -136,9 +138,12 @@ def main(ats_tier="fast", trackers=True):
         rid = hashlib.sha1((ks[0] if ks else r["url"]).encode()).hexdigest()[:12]
         rec = dict(r)
         rec.pop("source")
+        # Descriptions are megabytes and only the classifier reads them.
+        description = rec.pop("description", None)
         rec.update({
             "id": rid,
             "tier": tier,
+            "family": role_family(r["title"], r["category"], r["company"], description),
             "is_usa": sources.is_usa(r["locations"], r["title"]),
             "sources": [r["source"]],
         })
@@ -187,6 +192,9 @@ def main(ats_tier="fast", trackers=True):
 
     for name, n, err in report:
         print(f"  {name:18} {n:6}" + (f"  FAILED: {err}" if err else ""))
+    families = collections.Counter(r.get("family") for r in kept.values())
+    print("  families           " + "  ".join(
+        f"{k}={v}" for k, v in sorted(families.items(), key=lambda kv: -kv[1])))
     print(f"raw={len(raw)} ml_new_grad={len(kept)} filtered_out={dropped} "
           f"new={new_today} closed={closed} pruned={len(pruned)} store={len(store)}")
     return f"{len(kept)} roles, {new_today} new"
