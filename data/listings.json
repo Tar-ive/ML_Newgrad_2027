@@ -137,6 +137,72 @@
  {
   "active": true,
   "category": "AI/ML/Data",
+  "company": "GE Vernova",
+  "company_url": "https://simplify.jobs/c/GE-Vernova",
+  "date_posted": 1788998400,
+  "experience": null,
+  "first_seen": 1788998400,
+  "id": "74feddcd7e6b",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Greenville, SC"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3"
+ },
+ {
+  "active": true,
+  "category": "Software",
+  "company": "GE Vernova",
+  "company_url": "https://simplify.jobs/c/GE-Vernova",
+  "date_posted": 1788998400,
+  "experience": null,
+  "first_seen": 1788998400,
+  "id": "9c63eaecaf98",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Greenville, SC"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "AI Engineer",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Pennsylvania State University",
+  "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+  "date_posted": 1788998400,
+  "experience": null,
+  "first_seen": 1788998400,
+  "id": "ed5c2404d126",
+  "is_usa": true,
+  "last_seen": 1788998400,
+  "locations": [
+   "Hershey, PA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Applied AI Engineer - Radiology AI Lab",
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Applied-AI-Engineer---Radiology-AI-Lab_REQ_0000073876-2"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
   "company": "Johns Hopkins Applied Physics Laboratory",
   "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
   "date_posted": 1788912000,
@@ -10268,25 +10334,28 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI/ML/Data",
   "company": "Quora",
-  "company_url": null,
-  "date_posted": 1785456000,
-  "experience": 0,
+  "company_url": "https://simplify.jobs/c/Quora",
+  "date_posted": 1785542400,
+  "experience": null,
   "first_seen": 1785542400,
   "id": "137a3dbd3d31",
   "is_usa": true,
   "last_seen": 1788998400,
   "locations": [
+   "Remote in USA",
+   "Remote in Canada",
    "Remote - Multiple Locations"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "ats",
+   "simplify"
   ],
   "tier": "other",
-  "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application"
+  "title": "Software Engineer New Grad - Machine Learning Platform",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
  },
  {
   "active": true,
