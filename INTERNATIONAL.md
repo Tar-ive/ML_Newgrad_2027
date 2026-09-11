@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**465** open roles
+**485** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-11 11:33 UTC_
+_Last refreshed: 2026-09-11 15:12 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -35,7 +35,6 @@ cliff after the first few days of a posting being live.
 | **Suno** | Machine Learning Scientist | Boston | **today** | [Apply](https://jobs.ashbyhq.com/suno/1e23d125-d72c-49b6-891d-77d62c96cd13) |
 | **Sift** | Machine Learning Engineer | San Francisco, California | **today** | [Apply](https://jobs.ashbyhq.com/sift/45b22605-1abb-483e-8ef7-5ceaf04f5868) |
 | **Ramp** | Data Scientist | New York, NY ( | **today** | [Apply](https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448) |
-| **Ramp** | Data Scientist, Finance | New York, NY ( / New York, NY (HQ) | **today** | [Apply](https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803) |
 | **Pulse** | Machine Learning Engineer | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/pulse/4935a638-7f2e-461d-ac2b-76fd7460893d) |
 | **OpenAI** | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174) |
 | **Notion** | Data Scientist, Growth | San Francisco, California | **today** | [Apply](https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b) |
@@ -104,6 +103,28 @@ cliff after the first few days of a posting being live.
 | **Apple** | Machine Learning Engineer | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200683023/machine-learning-engineer) |
 | **Skydio** | Autonomy Software Engineer | San Mateo, California, United... | **today** | [Apply](https://jobs.ashbyhq.com/skydio/a48fe41b-030b-4f11-bf25-df7446151854) |
 | **Skydio** | Software Engineer - Autonomy Infrastructure, Systems and Tools | San Mateo, California, United... | **today** | [Apply](https://jobs.ashbyhq.com/skydio/9e42a7af-6369-4036-ae6f-6626ee3a4fb3) |
+| **ByteDance** | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, California | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027) |
+| **ByteDance** | Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD) | Seattle, Washington | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Two Sigma** | AI Research Scientist - Campus Full-Time | New York New York / NYC | **today** | [Apply](https://zapply.jobs/l/d/twosigma-13671?s=gh-new-grad-data-science-jobs-2027) |
+| **Sentra** | Machine Learning Research Scientist | San Francisco / Bay Area | **today** | [Apply](https://zapply.jobs/l/d/ashby-sentra-03976429-eb79-48df-8439-29f0cdaba859?s=gh-new-grad-data-science-jobs-2027) |
+| **Ramp** | Data Scientist, Finance | New York, NY ( / New York, NY (HQ) | **today** | [Apply](https://zapply.jobs/l/d/ashby-ramp-aa5512b1-d973-4d74-9d10-d56446ecf803?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Data Scientist, SMB Ads Growth | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-f5dfd3aa-3bf6-49e2-b780-0da281a21533?s=gh-new-grad-data-science-jobs-2027) |
+| **Physical Intelligence** | Research Scientist | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-physicalintelligence-f83ba447-2261-4832-95db-a2f88454e0ba?s=gh-new-grad-data-science-jobs-2027) |
+| **Applied Intuition** | Research Scientist - Humanoid Robotics | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-4cd7cf1d-717c-4887-93b4-520a40a906b1?s=gh-new-grad-data-science-jobs-2027) |
+| **Anyscale** | Machine Learning Engineer, Customer Engineering | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-anyscale-1466478e-9797-4318-bdca-bb1ae5798d52?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Agent Post-Training, Computer Use Research | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-34c2ed3f-840f-4a68-9a00-0a0606660abf?s=gh-new-grad-data-science-jobs-2027) |
+| **Gritt Robotics** | Robotics Software - Perception ML Engineer | South San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-data-science-jobs-2027) |
+| **Human Computer Lab** | ML Engineer | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-human-computer-lab-eb62af20-f469-40dc-b0a1-8b7ec59c9225?s=gh-new-grad-data-science-jobs-2027) |
+| **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **today** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
+| **GE Vernova** | Multi-physics Modeling and Scientific Machine Learning | Niskayuna | **today** | [Apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052089?s=gh-new-grad-data-science-jobs-2027) |
+| **Bose** | Edge AI ML Engineer | US, MA - Framingham | **today** | [Apply](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29046?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | AI/ML Engineer | Aurora CO US | **today** | [Apply](https://zapply.jobs/l/d/workday-caci-external-331634?s=gh-new-grad-data-science-jobs-2027) |
+| **Uncountable** | Platform Engineer - Generative AI | New York, San Francisco, Munich... | **today** | [Apply](https://zapply.jobs/l/d/ashby-uncountable-677487ff-7923-4be1-97ab-bab17ee7f9fb?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CoBot** | AI Research Engineer | Seattle | **today** | [Apply](https://zapply.jobs/l/d/ashby-cobot-2a56c4c6-1bad-4715-a11c-119bdcda839c?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Gritt Robotics** | ML & Cloud Infrastructure Engineer | South San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-gritt-f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Skydio** | Autonomy Engineer - ML & DL Infrastructure | San Mateo, California, United... | **today** | [Apply](https://zapply.jobs/l/d/ashby-skydio-b6be08f7-89c0-48dd-b427-f587f23dbf34?s=gh-new-grad-software-engineering-jobs-2027) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
+| **TikTok** | Backend Engineer , AML Engine Orchestration | Singapore, Singapore, Singapore | **today** | [Apply](https://lifeattiktok.com/search/7542714368766396680) |
 | **USAA** | Intermediate Level Decision Science Analyst - Member Value | San Antonio Home | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Member-Value_R0118409) |
 | **USAA** | Intermediate Level Decision Science Analyst - Digital Analytics | San Antonio | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Digital-Analytics_R0118987-1) |
 | **[IQVIA](https://www.iqvia.com)** | AI Engineer | Bengaluru, India +1 | **1d** | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/AI-Engineer_R1555457) |
@@ -112,10 +133,6 @@ cliff after the first few days of a posting being live.
 | **Jane Street** | Machine Learning Engineer | NYC | **1d** | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) |
 | **TransUnion** | Data Scientist | Chicago, Illinois | **1d** | [Apply](https://www.dreamworkhq.com/job/1b0db2f5-aede-49d5-9f15-ae69ff4892b0?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Apple** | Machine Learning Engineer - Agentic AI Evaluation Frameworks | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200681825/machine-learning-engineer-agentic-ai-evaluation-frameworks) |
-| **OpenAI** | Agent Post-Training, Computer Use Research | San Francisco | **1d** | [Apply](https://jobs.ashbyhq.com/openai/34c2ed3f-840f-4a68-9a00-0a0606660abf) |
-| **Bose** | Edge AI ML Engineer | US, MA - Framingham | **1d** | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Edge-AI-ML-Engineer_R29046) |
-| **CACI** | AI/ML Engineer | Aurora CO US | **1d** | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/AI-ML-Engineer_331634) |
-| **GE Vernova** | Multi-physics Modeling and Scientific Machine Learning | Niskayuna | **1d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Niskayuna/Multi-physics-Modeling-and-Scientific-Machine-Learning_R5052089-2) |
 | **Apple** | Data Scientist, AI/ML Model Quality | Austin | **1d** | [Apply](https://jobs.apple.com/en-us/details/200676435/data-scientist-ai-ml-model-quality) |
 | **TikTok** | UX Researcher - Global E-Commerce (UK) | London, England, United Kingdom | **1d** | [Apply](https://lifeattiktok.com/search/7657889445472913669) |
 | **TikTok** | Machine Learning Engineer - Video Recommendation - Singapore | Singapore, Singapore, Singapore | **1d** | [Apply](https://lifeattiktok.com/search/7520483246275807495) |
@@ -140,7 +157,7 @@ cliff after the first few days of a posting being live.
 | **TikTok** | Site Reliability Engineer - TikTok Recommendation Architecture | Singapore, Singapore, Singapore | **1d** | [Apply](https://lifeattiktok.com/search/7057826198239561998) |
 | **[CFC](https://www.cfc.com)** | Associate Data Scientist | London, United Kingdom | **1d** | [Apply](https://cfc.pinpointhq.com/en/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e) |
 | **[Clera](https://www.getclera.com/)** | AI Engineer - Model Training and Deployment | Munich, Germany | **1d** | [Apply](https://jobs.ashbyhq.com/clera/ed13a7e4-ec78-4117-afd2-c4df5a9b7305) |
-| **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Engineer I/II - Applied AI | Cambridge, MA +1 / Cambridge, MA USA | **1d** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4377936009) |
+| **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Engineer I/II - Applied AI | Cambridge, MA +1 | **1d** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4377936009) |
 | **Apple** | Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200682701/research-scientist-applied-machine-learning-security-agent-systems-sear) |
 | **Autodesk** | Data Scientist, FP&A Solutions | California | **1d** | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Scientist--FP-A-Solutions_26WD100824-1) |
 | **General Motors** | ML Systems Engineer, Data Labeling Engineering - Early Career | Sunnyvale, California, United... | **1d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) |
@@ -152,6 +169,9 @@ cliff after the first few days of a posting being live.
 | **[Omnicom Group](https://simplify.jobs/c/Omnicom-Group)** | Data Science Analyst | Toronto, ON, Canada | **1d** | [Apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132) |
 | **Micron** | Full-Stack AI Engineer | Boise, ID - Main Site | **1d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377) |
 | **Apple** | Machine Learning Engineer - Video Generation Models | San Diego Metro Area | **1d** | [Apply](https://jobs.apple.com/en-us/details/200682734/machine-learning-engineer-video-generation-models) |
+| **GE Vernova** | AI Engineer | Greenville | **1d** | [Apply](https://www.dreamworkhq.com/job/a76f2535-cb05-47f7-ad3a-b6f0cd5ab0ab?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **GE Vernova** | Data Scientist | Greenville | **1d** | [Apply](https://www.dreamworkhq.com/job/5624232e-8112-4561-a153-2208dc58113c?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **Ns Eeh** | Data Scientist I - Epic Model Monitoring | NSO 4901 Searle Parkway Corporate Office Skokie | **1d** | [Apply](https://www.dreamworkhq.com/job/8e52d822-81d6-48c1-a77b-55be3b24d18f?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **University System of New Hampshire** | Safety and Occupational Health Applied Sciences (Tenure-Track) Faculty Position | Keene State College | **2d** | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/Keene-State-College/Safety-and-Occupational-Health-Applied-Sciences--Tenure-Track--Faculty-Position_JR3233) |
 | **Expedia Group** | Machine Learning Scientist II - Agentic Experiences | Washington Seattle | **2d** | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446-2) |
 | **Apple** | AI/ML Engineer: System RF Data Ecosystem | Cupertino | **2d** | [Apply](https://jobs.apple.com/en-us/details/200682498/ai-ml-engineer-system-rf-data-ecosystem) |
@@ -198,8 +218,8 @@ cliff after the first few days of a posting being live.
 | **[Walt Disney](https://www.disneycareers.com/)** | Associate Research Scientist | Zürich, Switzerland | **3d** | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Zrich-Switzerland/Associate-Research-Scientist_10158229) |
 | **[TransUnion](https://www.transunion.com)** | Analyst - Data Science and Analytics | Remote - Heredia, Costa Rica | **3d** | [Apply](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19042164) |
 | **Merck & Co.** | 2027 Future Talent Program - Biostatistics and Research and Decision Sciences - Health Economics... | Pennsylvania West Point | **3d** | [Apply](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Biostatistics-and-Research-and-Decision-Sciences---Health-Economics---Data-Science-Intern_R413126) |
-| **Caterpillar** | Data Scientist / Technical Analyst | Chicago, Illinois | **3d** | [Apply](https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[SIXT](https://www.sixt.com/)** | Data Scientist - OR - Revenue Management & Fleet Optimization - m/f/d | Lisbon, Portugal | **3d** | [Apply](https://jobs.smartrecruiters.com/SIXT/744000147863000-data-scientist-or-revenue-management-fleet-optimization-m-f-d-?oga=true) |
+| **Caterpillar** | Data Scientist / Technical Analyst | Chicago, Illinois | **4d** | [Apply](https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Arcadis](https://simplify.jobs/c/Arcadis)** | Data Scientist | London, UK +2 | **4d** | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43797) |
 | **[Maven Securities](https://simplify.jobs/c/Maven-Securities)** | Quantitative Researcher Graduate | London, UK | **4d** | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825) |
 | **Lodestarspace** | Software Engineer I: Perception | Los Angeles, US | **4d** | [Apply](https://www.dreamworkhq.com/job/18d6ffb8-e729-4890-83df-8ede562f9e2d?utm_source=github&utm_campaign=gh-new-grad-swe) |
@@ -212,7 +232,7 @@ cliff after the first few days of a posting being live.
 | **[BBVA](https://www.bbva.com)** | DATA SCIENTIST ASSOCIATE I | Lima, Peru | **6d** | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00114046-1) |
 | **[Booz Allen](https://www.boozallen.com)** | Data Scientist | Fort Meade, MD +1 | **6d** | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0248785) |
 | **[Akuna Capital](https://akunacapital.com)** | Junior Quantitative Researcher - Deep Learning - Time Series | Shanghai, China | **6d** | [Apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 16d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 16d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 <!-- TABLE_NEW_END -->
 
 ---
@@ -256,7 +276,10 @@ and autonomy set.
 | **OpenAI** | Agent Post-Training, Frontier Evals and Environments Research | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/openai/9d72171e-2630-4347-83a1-263178644282) |
 | **Applied Intuition** | Research Scientist - World-Action Foundation Model, Robotics | Sunnyvale | **today** | [Apply](https://jobs.ashbyhq.com/applied/a6c99f37-545a-46f2-8222-02ad43c1e2c3) |
 | **Applied Intuition** | Research Scientist (Research) | Sunnyvale | **today** | [Apply](https://jobs.ashbyhq.com/applied/39846b2a-1f0e-4f97-b463-75fd37f217ce) |
-| **OpenAI** | Agent Post-Training, Computer Use Research | San Francisco | **1d** | [Apply](https://jobs.ashbyhq.com/openai/34c2ed3f-840f-4a68-9a00-0a0606660abf) |
+| **OpenAI** | Data Scientist, SMB Ads Growth | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-f5dfd3aa-3bf6-49e2-b780-0da281a21533?s=gh-new-grad-data-science-jobs-2027) |
+| **Physical Intelligence** | Research Scientist | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-physicalintelligence-f83ba447-2261-4832-95db-a2f88454e0ba?s=gh-new-grad-data-science-jobs-2027) |
+| **Applied Intuition** | Research Scientist - Humanoid Robotics | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-4cd7cf1d-717c-4887-93b4-520a40a906b1?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Agent Post-Training, Computer Use Research | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-34c2ed3f-840f-4a68-9a00-0a0606660abf?s=gh-new-grad-data-science-jobs-2027) |
 | **[Extropic](https://simplify.jobs/c/Extropic)** | Thermo ML Resident | SF | **2d** | [Apply](https://jobs.ashbyhq.com/extropic/fbb94221-409b-4009-9949-65d5b7a1b6d8/application?embed=true) |
 | **Decagon** | Research Engineer, Safety | San Francisco | **7d** | [Apply](https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956/application) |
 | **Decagon** | Research Engineer, Audio and Speech | San Francisco | **7d** | [Apply](https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4/application) |
@@ -298,6 +321,10 @@ and autonomy set.
 | **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200679268/machine-learning-research-engineer-ase-search) |
 | **NVIDIA** | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856) |
 | **Apple** | Machine Learning Engineer | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200683023/machine-learning-engineer) |
+| **ByteDance** | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, California | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027) |
+| **ByteDance** | Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD) | Seattle, Washington | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
+| **TikTok** | Backend Engineer , AML Engine Orchestration | Singapore, Singapore, Singapore | **today** | [Apply](https://lifeattiktok.com/search/7542714368766396680) |
 | **Apple** | Machine Learning Engineer - Agentic AI Evaluation Frameworks | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200681825/machine-learning-engineer-agentic-ai-evaluation-frameworks) |
 | **Apple** | Data Scientist, AI/ML Model Quality | Austin | **1d** | [Apply](https://jobs.apple.com/en-us/details/200676435/data-scientist-ai-ml-model-quality) |
 | **TikTok** | UX Researcher - Global E-Commerce (UK) | London, England, United Kingdom | **1d** | [Apply](https://lifeattiktok.com/search/7657889445472913669) |
@@ -355,68 +382,68 @@ and autonomy set.
 | **Nvidia** | Developer Technology Engineer, AI - New College Graduate 2026 | 6 Locations | 11d | [Apply](https://www.dreamworkhq.com/job/4002cf2a-a889-4e2c-982c-828331e4f5ea?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Meta](https://about.meta.com)** | Software Engineer - Systems ML - Compilers / Backend | Sunnyvale, CA +2 | 15d | [Apply](https://www.metacareers.com/jobs/2145505832666693) |
 | **Meta** | Research Scientist -Meta Recommendation System Core modeling | Bellevue, Australia +1 | 16d | [Apply](https://www.metacareers.com/jobs/1737658657562156) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 16d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 16d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Multiple U.S. locations | 18d | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start) |
 | **[NVIDIA](https://www.nvidia.com)** | NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China | Shanghai, China +2 | 20d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
 | **Amazon** | ML Data Associate-II, Artificial General Intelligence | Hyderabad, Telangana, IND | 22d | [Apply](https://account.amazon.jobs/jobs/10508264/apply) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - Global E-Commerce - Platform Governance - 2027 Start | Singapore | 23d | [Apply](https://lifeattiktok.com/search/7675270779895449861) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - Global E-Commerce - Platform Governance - 2027 Start | Singapore / Singapore, Singapore, Singapore | 23d | [Apply](https://lifeattiktok.com/search/7675270779895449861) |
 | **Amazon** | Applied Scientist (2026-27 Campus, International Technology Team), Shanghai | Shanghai, CHN | 24d | [Apply](https://account.amazon.jobs/jobs/10504493/apply) |
 | **[Amazon](https://www.amazon.com)** | Machine Learning Engineer - Amazon Music - Catalog Quality | Bengaluru, India | 28d | [Apply](https://www.amazon.jobs/jobs/10510881/apply) |
 | **NVIDIA** | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | US, CA, Santa Clara | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1) |
 | **NVIDIA** | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | Singapore | 35d | [Apply](https://lifeattiktok.com/search/7670832868019030277) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Responsibility-Data Science - 2027 Start | Singapore | 35d | [Apply](https://lifeattiktok.com/search/7670831846025136389) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok BRIC Singapore - 2027 Start | Singapore | 38d | [Apply](https://lifeattiktok.com/search/7669769460664174901) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 35d | [Apply](https://lifeattiktok.com/search/7670832868019030277) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Responsibility-Data Science - 2027 Start | Singapore / Singapore, Singapore, Singapore | 35d | [Apply](https://lifeattiktok.com/search/7670831846025136389) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok BRIC Singapore - 2027 Start | Singapore / Singapore, Singapore, Singapore | 38d | [Apply](https://lifeattiktok.com/search/7669769460664174901) |
 | **Amazon** | Applied Scientist (2026-27 Campus, International Technology Team), Beijing | Beijing, CHN | 39d | [Apply](https://account.amazon.jobs/jobs/10489936/apply) |
 | **Amazon** | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | US, CA, Cupertino / Cupertino, CA | 39d | [Apply](https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
 | **Amazon** | Research Scientist II, Last Mile Science | Bengaluru, Karnataka, IND | 39d | [Apply](https://account.amazon.jobs/jobs/10490109/apply) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Ops Engineer Graduate - Ads Infra - 2027 Start | Singapore | 41d | [Apply](https://lifeattiktok.com/search/7668636718845790469) |
-| **[TikTok](https://www.tiktok.com)** | Research Scientist Graduate - Business Integrity - 2027 Start - PhD | Singapore | 41d | [Apply](https://lifeattiktok.com/search/7668612286533994805) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Ops Engineer Graduate - Ads Infra - 2027 Start | Singapore / Singapore, Singapore, Singapore | 41d | [Apply](https://lifeattiktok.com/search/7668636718845790469) |
+| **[TikTok](https://www.tiktok.com)** | Research Scientist Graduate - Business Integrity - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 41d | [Apply](https://lifeattiktok.com/search/7668612286533994805) |
 | **Meta** | Software Engineer - Machine Learning RecSys | Sunnyvale, CA +3 | 42d | [Apply](https://www.metacareers.com/jobs/1665891037811282) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667889434991003909) |
-| **[TikTok](https://www.tiktok.com)** | AI Engineer - LLM/Multimodal Graduate（TikTok Search） - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667866101113637125) |
-| **[TikTok](https://www.tiktok.com)** | AI Engineer - LLM/Multimodal Graduate（TikTok Search） - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667862065906387253) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate（TikTok Search） - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667858938940098869) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667736758276213045) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667736566744779061) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667732652198316293) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667732065799538949) |
-| **[TikTok](https://www.tiktok.com)** | Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667730385593862453) |
-| **[TikTok](https://www.tiktok.com)** | Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667729912453499141) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667724591905720581) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667722056771848501) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667719987863718149) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667719905318111493) |
-| **[TikTok](https://www.tiktok.com)** | Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667946859185195317) |
-| **[TikTok](https://www.tiktok.com)** | Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667946787733244165) |
-| **[TikTok](https://www.tiktok.com)** | Data Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667935568628435205) |
-| **[TikTok](https://www.tiktok.com)** | AI Feature/Computing/Storage Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934792727185669) |
-| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate- TikTok Live Recommendation Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934545178757429) |
-| **[TikTok](https://www.tiktok.com)** | AI Infrastructure Engineer Graduate - TikTok Live Recommendation Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934266018023733) |
-| **[TikTok](https://www.tiktok.com)** | AI Infra Optimization Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667933339291764997) |
-| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667932977225664773) |
-| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate - TikTok Recommendation Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667931399154321669) |
-| **[TikTok](https://www.tiktok.com)** | AI Infrastructure Engineer Graduate - TikTok Recommendation Architecture - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667928732914059525) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667894657615563061) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667892122193529093) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667890047201069317) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667885935971567877) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start - PhD | Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667884871914965301) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667889434991003909) |
+| **[TikTok](https://www.tiktok.com)** | AI Engineer - LLM/Multimodal Graduate（TikTok Search） - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667866101113637125) |
+| **[TikTok](https://www.tiktok.com)** | AI Engineer - LLM/Multimodal Graduate（TikTok Search） - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667862065906387253) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate（TikTok Search） - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667858938940098869) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667736758276213045) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667736566744779061) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667732652198316293) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667732065799538949) |
+| **[TikTok](https://www.tiktok.com)** | Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667730385593862453) |
+| **[TikTok](https://www.tiktok.com)** | Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667729912453499141) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667724591905720581) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667722056771848501) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667719987863718149) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667719905318111493) |
+| **[TikTok](https://www.tiktok.com)** | Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667946859185195317) |
+| **[TikTok](https://www.tiktok.com)** | Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667946787733244165) |
+| **[TikTok](https://www.tiktok.com)** | Data Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667935568628435205) |
+| **[TikTok](https://www.tiktok.com)** | AI Feature/Computing/Storage Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934792727185669) |
+| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate- TikTok Live Recommendation Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934545178757429) |
+| **[TikTok](https://www.tiktok.com)** | AI Infrastructure Engineer Graduate - TikTok Live Recommendation Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667934266018023733) |
+| **[TikTok](https://www.tiktok.com)** | AI Infra Optimization Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667933339291764997) |
+| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667932977225664773) |
+| **[TikTok](https://www.tiktok.com)** | Big Data Engineer Graduate - TikTok Recommendation Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667931399154321669) |
+| **[TikTok](https://www.tiktok.com)** | AI Infrastructure Engineer Graduate - TikTok Recommendation Architecture - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667928732914059525) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667894657615563061) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667892122193529093) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667890047201069317) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667885935971567877) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 43d | [Apply](https://lifeattiktok.com/search/7667884871914965301) |
 | **Amazon** | Machine Learning Data Associate, Journey Management | Bengaluru, Karnataka, IND / Hyderabad, Telangana, IND | 44d | [Apply](https://account.amazon.jobs/jobs/10481465/apply) |
 | **Amazon** | ML Data Associate, Artificial General Intelligence | Hyderabad, Telangana, IND | 44d | [Apply](https://account.amazon.jobs/jobs/10487194/apply) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok Shop - SEA - 2027 Start | Singapore | 45d | [Apply](https://lifeattiktok.com/search/7667110276173236533) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Engineer Graduate - TikTok Shop - SEA - 2027 Start | Singapore | 45d | [Apply](https://lifeattiktok.com/search/7667057616217311541) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - 2027 Start | Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665943570016618757) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Audio Understanding - 2027 Start - PhD | Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665943277088033077) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - 2027 Start - PhD | Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665942671233206533) |
-| **[TikTok](https://www.tiktok.com)** | LLM & Agent Algorithm Graduate - Search - 2027 Start - PhD | Singapore | 49d | [Apply](https://lifeattiktok.com/search/7665658745548163381) |
-| **[TikTok](https://www.tiktok.com)** | AI Agent Engineer Graduate - Search - 2027 Start | Singapore | 49d | [Apply](https://lifeattiktok.com/search/7665658992605382965) |
-| **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live Operation Intelligence - 2027 Start - PhD | Singapore | 55d | [Apply](https://lifeattiktok.com/search/7663389735972292917) |
-| **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live - Strategy - 2027 Start - PhD | Singapore | 55d | [Apply](https://lifeattiktok.com/search/7663386899855231237) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD | Singapore | 56d | [Apply](https://lifeattiktok.com/search/7663091612935293189) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok Shop - SEA - 2027 Start | Singapore / Singapore, Singapore, Singapore | 45d | [Apply](https://lifeattiktok.com/search/7667110276173236533) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Engineer Graduate - TikTok Shop - SEA - 2027 Start | Singapore / Singapore, Singapore, Singapore | 45d | [Apply](https://lifeattiktok.com/search/7667057616217311541) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - 2027 Start | Singapore / Singapore, Singapore, Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665943570016618757) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Audio Understanding - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665943277088033077) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Global E-Commerce - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 48d | [Apply](https://lifeattiktok.com/search/7665942671233206533) |
+| **[TikTok](https://www.tiktok.com)** | LLM & Agent Algorithm Graduate - Search - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 49d | [Apply](https://lifeattiktok.com/search/7665658745548163381) |
+| **[TikTok](https://www.tiktok.com)** | AI Agent Engineer Graduate - Search - 2027 Start | Singapore / Singapore, Singapore, Singapore | 49d | [Apply](https://lifeattiktok.com/search/7665658992605382965) |
+| **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live Operation Intelligence - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 55d | [Apply](https://lifeattiktok.com/search/7663389735972292917) |
+| **[TikTok](https://www.tiktok.com)** | Algorithm Engineer Graduate - Global Live - Strategy - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 55d | [Apply](https://lifeattiktok.com/search/7663386899855231237) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - Recommendation - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 56d | [Apply](https://lifeattiktok.com/search/7663091612935293189) |
 | **Amazon** | ML Data Associate, AGI-Leapfrog | Chennai, Tamil Nadu, IND | 67d | [Apply](https://account.amazon.jobs/jobs/10466087/apply) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | 67d | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **[TikTok](https://www.tiktok.com)** | Audio Algorithm Researcher Graduate - Immersive Intelligent - 2027 Start - PhD | Sydney, Australia | 69d | [Apply](https://lifeattiktok.com/search/7658155131456473349) |
+| **[TikTok](https://www.tiktok.com)** | Audio Algorithm Researcher Graduate - Immersive Intelligent - 2027 Start - PhD | Sydney, Australia / Sydney, New South Wales, Australia | 69d | [Apply](https://lifeattiktok.com/search/7658155131456473349) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Deep Learning and Computer Vision - New College Graduate | Taipei, Taiwan | 90d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Research-Scientist--Deep-Learning-and-Computer-Vision---New-College-Graduate_JR2018685) |
 | **[Google](https://simplify.jobs/c/Google)** | Software Engineer – Early Career - AI/ML - PhD | London, UK | 217d | [Apply](https://www.google.com/about/careers/applications/jobs/results/92286686481785542) |
 | **Apple** | SWE - User Land Security Researcher, SEAR (Early Career) | Cheltenham | 351d | [Apply](https://jobs.apple.com/en-us/details/200622968/swe-user-land-security-researcher-sear-early-career) |
@@ -433,6 +460,7 @@ Quant research and ML roles at trading firms. These pay the most and close the f
 <!-- TABLE_QUANT_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **Two Sigma** | AI Research Scientist - Campus Full-Time | New York New York / NYC | **today** | [Apply](https://zapply.jobs/l/d/twosigma-13671?s=gh-new-grad-data-science-jobs-2027) |
 | **Jane Street** | Machine Learning Research Engineer | NYC | **1d** | [Apply](https://www.janestreet.com/join-jane-street/position/6485460002/) |
 | **Jane Street** | Machine Learning Engineer | NYC | **1d** | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) |
 | **[Jane Street](https://www.janestreet.com)** | Quantitative Researcher Full-Time: New Grad | Hong Kong / London, United Kingdom | **1d** | [Apply](https://www.janestreet.com/join-jane-street/position/8754684002) |
@@ -443,7 +471,6 @@ Quant research and ML roles at trading firms. These pay the most and close the f
 | **[Optiver](https://simplify.jobs/c/Optiver)** | Quantitative Researcher Graduate - 2027 Start | London, UK / Amsterdam, The Netherlands +1 | 24d | [Apply](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002) |
 | **Optiver** | AI Engineer | New York, New York | 39d | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) |
 | **[Two Sigma](https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384)** | Quantitative Researcher - Full-Time Campus Hire | NYC | 40d | [Apply](https://twosigma.avature.net/careers/JobDetail/13946) |
-| **[Two Sigma](https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384)** | AI Research Scientist - Campus Full-Time | NYC | 40d | [Apply](https://twosigma.avature.net/careers/JobDetail/13671) |
 | **[DV Trading](https://www.dvtrading.co)** | Quantitative Researcher | Dubai, United Arab Emirates +1 | 41d | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719984005) |
 | **[Citadel](https://simplify.jobs/c/Citadel)** | Sector Data Scientist - Central Team | NYC | 46d | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) |
 | **[Citadel](https://www.citadel.com/careers)** | Quantitative Researcher - PhD Graduate - US | Houston, TX +2 | 53d | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) |
@@ -487,7 +514,6 @@ new grads.
 | **Watershed** | Climate data scientist, sustainability | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/watershed/febe4576-02de-420f-b668-0897b229465a) |
 | **Sift** | Machine Learning Engineer | San Francisco, California | **today** | [Apply](https://jobs.ashbyhq.com/sift/45b22605-1abb-483e-8ef7-5ceaf04f5868) |
 | **Ramp** | Data Scientist | New York, NY ( | **today** | [Apply](https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448) |
-| **Ramp** | Data Scientist, Finance | New York, NY ( / New York, NY (HQ) | **today** | [Apply](https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803) |
 | **Pulse** | Machine Learning Engineer | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/pulse/4935a638-7f2e-461d-ac2b-76fd7460893d) |
 | **Mercor** | Machine Learning Engineer, Frontier Data Products | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95) |
 | **Mercor** | Applied Machine Learning Engineer, Economist | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/589c1474-0e16-4292-a823-3a2412632eed) |
@@ -515,18 +541,27 @@ new grads.
 | **Manulife** | Data Scientist | Boston, Massachusetts | **today** | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Data-Scientist_JR26050163-2) |
 | **Skydio** | Autonomy Software Engineer | San Mateo, California, United... | **today** | [Apply](https://jobs.ashbyhq.com/skydio/a48fe41b-030b-4f11-bf25-df7446151854) |
 | **Skydio** | Software Engineer - Autonomy Infrastructure, Systems and Tools | San Mateo, California, United... | **today** | [Apply](https://jobs.ashbyhq.com/skydio/9e42a7af-6369-4036-ae6f-6626ee3a4fb3) |
-| **[Mercor](https://simplify.jobs/c/Mercor)** | Data Scientist | SF / San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
+| **Sentra** | Machine Learning Research Scientist | San Francisco / Bay Area | **today** | [Apply](https://zapply.jobs/l/d/ashby-sentra-03976429-eb79-48df-8439-29f0cdaba859?s=gh-new-grad-data-science-jobs-2027) |
+| **Ramp** | Data Scientist, Finance | New York, NY ( / New York, NY (HQ) | **today** | [Apply](https://zapply.jobs/l/d/ashby-ramp-aa5512b1-d973-4d74-9d10-d56446ecf803?s=gh-new-grad-data-science-jobs-2027) |
+| **Anyscale** | Machine Learning Engineer, Customer Engineering | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-anyscale-1466478e-9797-4318-bdca-bb1ae5798d52?s=gh-new-grad-data-science-jobs-2027) |
+| **Gritt Robotics** | Robotics Software - Perception ML Engineer | South San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-data-science-jobs-2027) |
+| **Human Computer Lab** | ML Engineer | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-human-computer-lab-eb62af20-f469-40dc-b0a1-8b7ec59c9225?s=gh-new-grad-data-science-jobs-2027) |
+| **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **today** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
+| **GE Vernova** | Multi-physics Modeling and Scientific Machine Learning | Niskayuna | **today** | [Apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052089?s=gh-new-grad-data-science-jobs-2027) |
+| **Bose** | Edge AI ML Engineer | US, MA - Framingham | **today** | [Apply](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29046?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | AI/ML Engineer | Aurora CO US | **today** | [Apply](https://zapply.jobs/l/d/workday-caci-external-331634?s=gh-new-grad-data-science-jobs-2027) |
+| **Uncountable** | Platform Engineer - Generative AI | New York, San Francisco, Munich... | **today** | [Apply](https://zapply.jobs/l/d/ashby-uncountable-677487ff-7923-4be1-97ab-bab17ee7f9fb?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CoBot** | AI Research Engineer | Seattle | **today** | [Apply](https://zapply.jobs/l/d/ashby-cobot-2a56c4c6-1bad-4715-a11c-119bdcda839c?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Gritt Robotics** | ML & Cloud Infrastructure Engineer | South San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-gritt-f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Skydio** | Autonomy Engineer - ML & DL Infrastructure | San Mateo, California, United... | **today** | [Apply](https://zapply.jobs/l/d/ashby-skydio-b6be08f7-89c0-48dd-b427-f587f23dbf34?s=gh-new-grad-software-engineering-jobs-2027) |
 | **USAA** | Intermediate Level Decision Science Analyst - Member Value | San Antonio Home | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Member-Value_R0118409) |
 | **USAA** | Intermediate Level Decision Science Analyst - Digital Analytics | San Antonio | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Digital-Analytics_R0118987-1) |
 | **[IQVIA](https://www.iqvia.com)** | AI Engineer | Bengaluru, India +1 | **1d** | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/AI-Engineer_R1555457) |
 | **[Jobgether](https://jobgether.com/home)** | AI Benchmark Engineer - Native Language Specialist | Brazil | **1d** | [Apply](https://jobs.lever.co/jobgether/bf9505f5-78f2-4af6-b1a1-464769dcc6e7) |
 | **TransUnion** | Data Scientist | Chicago, Illinois | **1d** | [Apply](https://www.dreamworkhq.com/job/1b0db2f5-aede-49d5-9f15-ae69ff4892b0?utm_source=github&utm_campaign=gh-new-grad-swe) |
-| **Bose** | Edge AI ML Engineer | US, MA - Framingham | **1d** | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Edge-AI-ML-Engineer_R29046) |
-| **CACI** | AI/ML Engineer | Aurora CO US | **1d** | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/AI-ML-Engineer_331634) |
-| **GE Vernova** | Multi-physics Modeling and Scientific Machine Learning | Niskayuna | **1d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Niskayuna/Multi-physics-Modeling-and-Scientific-Machine-Learning_R5052089-2) |
 | **[CFC](https://www.cfc.com)** | Associate Data Scientist | London, United Kingdom | **1d** | [Apply](https://cfc.pinpointhq.com/en/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e) |
 | **[Clera](https://www.getclera.com/)** | AI Engineer - Model Training and Deployment | Munich, Germany | **1d** | [Apply](https://jobs.ashbyhq.com/clera/ed13a7e4-ec78-4117-afd2-c4df5a9b7305) |
-| **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Engineer I/II - Applied AI | Cambridge, MA +1 / Cambridge, MA USA | **1d** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4377936009) |
+| **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Engineer I/II - Applied AI | Cambridge, MA +1 | **1d** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4377936009) |
 | **Autodesk** | Data Scientist, FP&A Solutions | California | **1d** | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Scientist--FP-A-Solutions_26WD100824-1) |
 | **General Motors** | ML Systems Engineer, Data Labeling Engineering - Early Career | Sunnyvale, California, United... | **1d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) |
 | **[ING](https://www.ing.com/)** | Junior Data Scientist | Waco, TX +1 | **1d** | [Apply](https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426-2) |
@@ -535,6 +570,9 @@ new grads.
 | **[TD Bank](https://td.com/)** | AL/ML Engineer I | Toronto, Canada | **1d** | [Apply](https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AL-ML-Engineer-I_R_1509055) |
 | **[Omnicom Group](https://simplify.jobs/c/Omnicom-Group)** | Data Science Analyst | Toronto, ON, Canada | **1d** | [Apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132) |
 | **Micron** | Full-Stack AI Engineer | Boise, ID - Main Site | **1d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377) |
+| **GE Vernova** | AI Engineer | Greenville | **1d** | [Apply](https://www.dreamworkhq.com/job/a76f2535-cb05-47f7-ad3a-b6f0cd5ab0ab?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **GE Vernova** | Data Scientist | Greenville | **1d** | [Apply](https://www.dreamworkhq.com/job/5624232e-8112-4561-a153-2208dc58113c?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **Ns Eeh** | Data Scientist I - Epic Model Monitoring | NSO 4901 Searle Parkway Corporate Office Skokie | **1d** | [Apply](https://www.dreamworkhq.com/job/8e52d822-81d6-48c1-a77b-55be3b24d18f?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **University System of New Hampshire** | Safety and Occupational Health Applied Sciences (Tenure-Track) Faculty Position | Keene State College | **2d** | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/Keene-State-College/Safety-and-Occupational-Health-Applied-Sciences--Tenure-Track--Faculty-Position_JR3233) |
 | **Expedia Group** | Machine Learning Scientist II - Agentic Experiences | Washington Seattle | **2d** | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446-2) |
 | **[Accenture](https://www.accenture.com)** | Ind & Func AI Decision Science Analyst | Midrand, South Africa | **2d** | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Midrand/Ind---Func-AI-Decision-Science-Analyst_R00352494) |
@@ -553,8 +591,8 @@ new grads.
 | **[Walt Disney](https://www.disneycareers.com/)** | Associate Research Scientist | Zürich, Switzerland | **3d** | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Zrich-Switzerland/Associate-Research-Scientist_10158229) |
 | **[TransUnion](https://www.transunion.com)** | Analyst - Data Science and Analytics | Remote - Heredia, Costa Rica | **3d** | [Apply](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19042164) |
 | **Merck & Co.** | 2027 Future Talent Program - Biostatistics and Research and Decision Sciences - Health Economics... | Pennsylvania West Point | **3d** | [Apply](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Biostatistics-and-Research-and-Decision-Sciences---Health-Economics---Data-Science-Intern_R413126) |
-| **Caterpillar** | Data Scientist / Technical Analyst | Chicago, Illinois | **3d** | [Apply](https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[SIXT](https://www.sixt.com/)** | Data Scientist - OR - Revenue Management & Fleet Optimization - m/f/d | Lisbon, Portugal | **3d** | [Apply](https://jobs.smartrecruiters.com/SIXT/744000147863000-data-scientist-or-revenue-management-fleet-optimization-m-f-d-?oga=true) |
+| **Caterpillar** | Data Scientist / Technical Analyst | Chicago, Illinois | **4d** | [Apply](https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Arcadis](https://simplify.jobs/c/Arcadis)** | Data Scientist | London, UK +2 | **4d** | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43797) |
 | **[Maven Securities](https://simplify.jobs/c/Maven-Securities)** | Quantitative Researcher Graduate | London, UK | **4d** | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825) |
 | **Lodestarspace** | Software Engineer I: Perception | Los Angeles, US | **4d** | [Apply](https://www.dreamworkhq.com/job/18d6ffb8-e729-4890-83df-8ede562f9e2d?utm_source=github&utm_campaign=gh-new-grad-swe) |
@@ -565,8 +603,9 @@ new grads.
 | **[BBVA](https://www.bbva.com)** | DATA SCIENTIST ASSOCIATE I | Lima, Peru | **6d** | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00114046-1) |
 | **[Booz Allen](https://www.boozallen.com)** | Data Scientist | Fort Meade, MD +1 | **6d** | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0248785) |
 | **[OpenTable](https://simplify.jobs/c/OpenTable)** | Applied Machine Learning Scientist 2 | Toronto, ON, Canada / Remote - Toronto, Canada | **6d** | [Apply](https://job-boards.greenhouse.io/opentable/jobs/8769568002) |
+| **Pnc** | Software Engineer I, MLOps (Python/Big Data) | PA - Pittsburgh (15219) | **6d** | [Apply](https://www.dreamworkhq.com/job/933da5af-8d71-4103-99da-7ce57ac7e92e?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Harman](https://www.harman.com)** | Associate Engineer - AI/ML | Bengaluru, India | **7d** | [Apply](https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate---Agentic-AI--_R-54476-2026) |
-| **Pnc** | Software Engineer I, MLOps (Python/Big Data) | PA - Pittsburgh (15219) | **7d** | [Apply](https://www.dreamworkhq.com/job/933da5af-8d71-4103-99da-7ce57ac7e92e?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **Booz Allen Hamilton** | Data Scientist | 2 Locations | **7d** | [Apply](https://www.dreamworkhq.com/job/9d1161b8-d601-4375-acc3-54228d1f81c9?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO)** | Machine Learning Developer New Grad | Toronto, ON, Canada | 8d | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265) |
 | **Guidehouse** | Data Scientist - Jr. | US - VA, Arlington | 8d | [Apply](https://www.dreamworkhq.com/job/85220049-2b78-4c61-9e2d-fd3ab6bea2b6?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **The Home Depot** | Associate Data Scientist - Generative BI | STORE SUPPORT CENTER, ATLANTA - 9090 | 8d | [Apply](https://www.dreamworkhq.com/job/7f191888-e088-4130-8920-5c55e5a305c3?utm_source=github&utm_campaign=gh-new-grad-swe) |
@@ -716,6 +755,7 @@ new grads.
 | **Proton** | Machine Learning Engineer | Geneva; Taipei | 169d | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4823205101) |
 | **Tavily** | Data Scientist | Tel Aviv | 169d | [Apply](https://jobs.ashbyhq.com/tavily/3b3b6621-e607-4b04-815e-e46ad4350cd7/application) |
 | **[Jobs for Humanity](https://simplify.jobs/c/Jobs-For-Humanity)** | Associate Data Scientist | Whiteley, UK / Cardiff, UK | 185d | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000113595857) |
+| **[Mercor](https://simplify.jobs/c/Mercor)** | Data Scientist | SF / San Francisco | 210d | [Apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **[Shift](https://simplify.jobs/c/Shift-Technology)** | Graduate Data Scientist | London, UK | 214d | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) |
 | **Brainco** | Early Career Machine Learning Engineer, Applied AI | San Francisco Bay Area | 233d | [Apply](https://www.dreamworkhq.com/job/4d8d246d-f06d-412a-85ad-11078e308823?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **PepsiCo** | Junior Data Scientist | Mississauga, Canada | 324d | [Apply](https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job) |

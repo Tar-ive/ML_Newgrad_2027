@@ -1,32 +1,6 @@
 [
  {
   "active": true,
-  "category": null,
-  "company": "Applied Intuition",
-  "company_url": "https://appliedintuition.com",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1787443200,
-  "id": "1ed5b2d61877",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Sunnyvale, CA",
-   "Sunnyvale"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "coconight",
-   "speedyapply",
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Scientist - Humanoid Robotics",
-  "url": "https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Applied Intuition",
   "company_url": "https://simplify.jobs/c/Applied-Intuition",
@@ -136,83 +110,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Two Sigma",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "ff2a34bc8443",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "New York, NY",
-   "New York New York"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "quant",
-  "title": "AI Research Scientist - New Grad (Campus Full-Time)",
-  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Deepgram",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "e5c105e9dbff",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Remote (US)",
-   "USA  Remote"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Platform Engineer - AI/ML Infrastruct...",
-  "url": "https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Deepgram",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "2b46cf7a741b",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Remote (US)",
-   "USA  Remote",
-   "USA | Remote"
-  ],
-  "salary": "$150K \u2013 $220K \u2022 Offers Equity \u2022 Offers Bonus \u2022 10% Annual Bonus",
-  "sources": [
-   "aprameyak",
-   "ats",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Backend Engineer- Inference Services",
-  "url": "https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Zoox",
   "company_url": null,
   "date_posted": 1789084800,
@@ -309,56 +206,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Gritt Robotics",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "9063b447e069",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "South San Francisco, CA",
-   "South San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Robotics Software - Perception ML Eng...",
-  "url": "https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Sentra",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "09aed7f0676f",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco, CA",
-   "San Francisco / Bay Area"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Research Scientist",
-  "url": "https://jobs.ashbyhq.com/sentra/03976429-eb79-48df-8439-29f0cdaba859?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Institute for Foundation Models",
   "company_url": null,
   "date_posted": 1789084800,
@@ -379,31 +226,6 @@
   "tier": "other",
   "title": "Machine Learning Infrastructure Engineer",
   "url": "https://jobs.lever.co/ifm-us/5edf0fd9-2f47-4f1f-bf12-a787ebf9934e?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Human Computer Lab",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "3d918bf6b022",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco, CA",
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML Engineer",
-  "url": "https://jobs.ashbyhq.com/human-computer-lab/eb62af20-f469-40dc-b0a1-8b7ec59c9225?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -452,183 +274,6 @@
   "tier": "other",
   "title": "Agentic AI/ML Engineer, Multimodal",
   "url": "https://jobs.lever.co/field-ai/28935a89-7c6b-4caf-abe7-b83b8a9958e1?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "CoBot",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "2921d15f0c3e",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, WA",
-   "Seattle"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "AI Research Engineer",
-  "url": "https://jobs.ashbyhq.com/cobot/2a56c4c6-1bad-4715-a11c-119bdcda839c?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Anyscale",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "ea906d0f9c4a",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco, CA",
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer, Customer E...",
-  "url": "https://jobs.ashbyhq.com/anyscale/1466478e-9797-4318-bdca-bb1ae5798d52?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "ByteDance",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "7d6528f4b51c",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington"
-  ],
-  "salary": "$153900 - $300960 annually",
-  "sources": [
-   "aprameyak",
-   "coconight",
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Research Engineer Graduate (AI Infra ...",
-  "url": "https://joinbytedance.com/search/7667304540048787765"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Deepgram",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "c8421132bd23",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Remote (US)",
-   "USA  Remote"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML Ops Infrastructure Engineer",
-  "url": "https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Gritt Robotics",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "07d44873ef41",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "South San Francisco, CA",
-   "South San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML & Cloud Infrastructure Engineer",
-  "url": "https://jobs.ashbyhq.com/gritt/f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Physical Intelligence",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "ae3e4159be58",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco, CA",
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Scientist",
-  "url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": "AI / Machine Learning",
-  "company": "ByteDance",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "5958e3fc9a16",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California"
-  ],
-  "salary": "$128,000 - $256,000 annually",
-  "sources": [
-   "coconight",
-   "wonofakind",
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start",
-  "url": "https://joinbytedance.com/search/7667726338627356933"
  },
  {
   "active": true,
@@ -1182,31 +827,6 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Ramp",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "487b9ddb9d0e",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "New York, NY (",
-   "New York, NY (HQ)"
-  ],
-  "salary": "$137,120 \u2013 $297,330 \u2022 Offers Equity",
-  "sources": [
-   "ats",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist, Finance",
-  "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803"
  },
  {
   "active": true,
@@ -2822,7 +2442,6 @@
   "sources": [
    "applyguy",
    "coconight",
-   "dreamworkhq",
    "speedyapply",
    "wonofakind",
    "zapply"
@@ -2830,30 +2449,6 @@
   "tier": "other",
   "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
   "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "WeRide",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "498764e2725f",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Perception Engineer \u2013 ML/CV and Algor...",
-  "url": "https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -3248,82 +2843,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Saronic",
-  "company_url": "https://simplify.jobs/c/Saronic",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1782691200,
-  "id": "7d9a51552090",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Perception and Autonomy Engineer",
-  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Uncountable",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1787961600,
-  "id": "85089360661b",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "New York, NY",
-   "San Francisco, CA",
-   "New York, San Francisco, Munich..."
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Platform Engineer - Generative AI",
-  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Skydio",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1787961600,
-  "id": "bbca0578b7df",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Mateo, CA",
-   "San Mateo, California, United..."
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Autonomy Engineer - ML & DL Infrastru...",
-  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
- },
- {
-  "active": true,
   "category": null,
   "company": "ByteDance",
   "company_url": null,
@@ -3601,30 +3120,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Shield AI",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "aee64f7d12d8",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Boston, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Software Engineer II, Autonomy Behavi...",
-  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Amazon",
   "company_url": null,
   "date_posted": 1789084800,
@@ -3878,34 +3373,3419 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "Mercor",
-  "company_url": "https://simplify.jobs/c/Mercor",
+  "company": "Wavestone",
+  "company_url": "https://simplify.jobs/c/Wavestone",
   "date_posted": 1789084800,
   "experience": null,
-  "family": "ds",
-  "first_seen": 1770940800,
-  "id": "cc576e474ec2",
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0cc200a6c0a3",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Pittsburgh, PA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Junior AI Engineer - AI & Data Team",
+  "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779"
+ },
+ {
+  "active": true,
+  "category": "Infrastructure / Systems",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "3963c5c9e796",
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "SF",
-   "San Francisco"
+   "Seattle, Washington"
   ],
-  "salary": {
-   "currency": "USD",
-   "interval": "1 YEAR",
-   "max": 500000,
-   "min": 130000,
-   "source": "ashby"
-  },
+  "salary": "Not listed",
   "sources": [
-   "ricsign",
-   "simplify",
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start",
+  "url": "https://zapply.jobs/l/d/bytedance-7672395094280063285?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Other",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8a8d36878476",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027...",
+  "url": "https://zapply.jobs/l/d/bytedance-7668208806895831349?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "884a844d05bb",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start",
+  "url": "https://zapply.jobs/l/d/bytedance-7670004502598060341?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "9077a6ed9cbc",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start",
+  "url": "https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "43b98ec008b2",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start",
+  "url": "https://zapply.jobs/l/d/bytedance-7667685712993650997?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Other",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cf6a3afec0b3",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+  "url": "https://zapply.jobs/l/d/bytedance-7672392998192154885?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Other",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0a07ea8610f3",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+  "url": "https://zapply.jobs/l/d/bytedance-7671103763276663045?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Other",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f31131f8be35",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)",
+  "url": "https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Other",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cd78d7485aef",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD)",
+  "url": "https://zapply.jobs/l/d/bytedance-7673941558289205509?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Infrastructure / Systems",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "263f38e4b2da",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD)",
+  "url": "https://zapply.jobs/l/d/bytedance-7673264681083898165?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Bannerhealth",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "b349f88fb206",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote Arizona"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist I",
+  "url": "https://www.dreamworkhq.com/job/a9f71896-898b-4271-8a64-3300fc09b202?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ServiceNow",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c8fcad4f00cf",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Mountain View, CALIFORNIA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Agentic Application",
+  "url": "https://zapply.jobs/l/d/sr-ServiceNow-744000139370964?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ServiceNow",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "4c1ce67227b6",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Mountain View, CALIFORNIA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, GAI Search Relevance - Moveworks",
+  "url": "https://zapply.jobs/l/d/sr-ServiceNow-744000138178124?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ServiceNow",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "bbecf5bdd4f1",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Mountain View, CALIFORNIA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, GAI Search Platform - Moveworks",
+  "url": "https://zapply.jobs/l/d/sr-ServiceNow-744000138174539?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Northwestern Mutual",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "06fe1e84ceae",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Milwaukee, WI"
+  ],
+  "salary": null,
+  "sources": [
    "zapply"
   ],
   "tier": "other",
   "title": "Data Scientist",
-  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
+  "url": "https://zapply.jobs/l/d/sr-NorthwesternMutual-743999658678749?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NBCUniversal",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "13c0e028cff2",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Universal City, CALIFORNIA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Jr. Data Scientist, Business Analytics & Research",
+  "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000136567229?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "LLNL",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "d5246bf31ea6",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Livermore, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Science Engineer",
+  "url": "https://zapply.jobs/l/d/sr-llnl-3743990012760276?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CapTech Consulting",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "63003ca10543",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Reston, VA",
+   "Richmond, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning / Data Science Engineer",
+  "url": "https://zapply.jobs/l/d/sr-CapTechConsulting-744000135097007?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CapTech Consulting",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "f03faee0d955",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning / Data Science Engineer",
+  "url": "https://zapply.jobs/l/d/sr-CapTechConsulting-744000115292607?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Delta Dental",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "f6e90adca86f",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Okemos, MI"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/workday-rhsc-delta-dental-of-michigan-JR101450?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Two Sigma",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "7cda7a0ba50e",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York New York"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "quant",
+  "title": "AI Research Scientist - Campus Full-Time",
+  "url": "https://zapply.jobs/l/d/twosigma-13671?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Whatnot",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0691f7581059",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Growth",
+  "url": "https://zapply.jobs/l/d/ashby-whatnot-e3e7c019-4657-47a9-a9f3-123d2cd1a75e?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Zoox",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "7ca96b1cf361",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Software Engineer, Fleet Simulation (Core Data Science)",
+  "url": "https://zapply.jobs/l/d/lever-zoox-18b6dfa0-d581-4d29-ac79-5d6e666aa9c3?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Watershed",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "8de7ddd310f7",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Climate data scientist, sustainability",
+  "url": "https://zapply.jobs/l/d/ashby-watershed-febe4576-02de-420f-b668-0897b229465a?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Persona AI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "4142d390934b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Pensacola, FL or Houston, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Robotics Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-persona.ai-b211bb98-0522-4d48-8f05-5df4b164dee2?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Suno",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "db7a8584e233",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Boston"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Machine Learning Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-suno-1e23d125-d72c-49b6-891d-77d62c96cd13?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Sentra",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "b7284ef3dfa7",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco / Bay Area"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-sentra-03976429-eb79-48df-8439-29f0cdaba859?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Sift",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "b115df960055",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, California"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-sift-45b22605-1abb-483e-8ef7-5ceaf04f5868?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Ramp",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "0f9da08e4407",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY ("
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-ramp-e577622f-6657-4e53-8941-b3a774b04448?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Ramp",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "2473febc7d27",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY ("
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Finance",
+  "url": "https://zapply.jobs/l/d/ashby-ramp-aa5512b1-d973-4d74-9d10-d56446ecf803?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Pulse",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "545e8a0d2e03",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-pulse-4935a638-7f2e-461d-ac2b-76fd7460893d?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Replit",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "ca25eee71747",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Product",
+  "url": "https://zapply.jobs/l/d/ashby-replit-c05749db-f413-4091-a95c-c8e0aa1b5630?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Replit",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "d5e3b05c3f85",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Trust & Safety",
+  "url": "https://zapply.jobs/l/d/ashby-replit-07c4c890-0dd4-4022-bba4-8dfba6ff16ee?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c2a95aff7f9e",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer / Research Scientist, Health",
+  "url": "https://zapply.jobs/l/d/ashby-openai-719cc0f6-ed38-41db-8870-299b4d336f37?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "ec92bab98003",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "People Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-openai-5a682b9f-ef1a-4e47-813a-72b23414d43e?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "1538f06d5d1f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Data Scientist, SMB Ads Growth",
+  "url": "https://zapply.jobs/l/d/ashby-openai-f5dfd3aa-3bf6-49e2-b780-0da281a21533?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Parafin",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "7dbcc4519df5",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Underwriting",
+  "url": "https://zapply.jobs/l/d/ashby-parafin-92807f0c-0c67-4516-bbf2-dc809516de14?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Parafin",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "44435d8905f5",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-parafin-cb15e569-764f-4304-a2cd-41a11fe9e008?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Physical Intelligence",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e438e663815f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-physicalintelligence-f83ba447-2261-4832-95db-a2f88454e0ba?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Spotify",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "599554565cae",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist - Music Mission",
+  "url": "https://zapply.jobs/l/d/lever-spotify-1bbaf909-5ff3-4ed6-87ca-f7ff007a169c?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Spotify",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "29ec5b7dbdfa",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist - Generative Audio",
+  "url": "https://zapply.jobs/l/d/lever-spotify-0eebb462-b5a2-4e3a-b830-d8ef7505b014?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Spotify",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "317ba121ce5b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist - Personalization",
+  "url": "https://zapply.jobs/l/d/lever-spotify-a8d3838e-01d8-457e-b21c-a5468c10a116?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Samba TV",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "34f1140ce83b",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, California"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/lever-sambatv-908e859d-5688-44f0-815f-8b74779b6f74?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mercor",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c84e8736d89d",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Frontier Data Products",
+  "url": "https://zapply.jobs/l/d/ashby-mercor-73a9f1c6-3c62-4c49-b65d-e5f6a3549d95?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mercor",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f2929dae3a53",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Applied Machine Learning Engineer, Economist",
+  "url": "https://zapply.jobs/l/d/ashby-mercor-589c1474-0e16-4292-a823-3a2412632eed?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Notion",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "9f97766aa000",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, California"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist, Growth",
+  "url": "https://zapply.jobs/l/d/ashby-notion-9fc52821-c394-4a80-85ba-5f1d7c36fb2b?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Machina Labs",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cc02d0cef477",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Chatsworth, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/lever-MachinaLabs-418bef09-a753-422b-b2fc-9142d01f1139?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "2be303ab0faf",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Distributed Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-965f914c-5be2-4670-b006-946d2274dc66?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "7defaf138bc6",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-ca550f5b-8c13-4a8e-8b03-0300b113acce?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "93bd1bce8166",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer \u2013 World Model",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-f527ece9-8e42-4921-90c1-a1799f31bf4b?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Kitware",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "09a5793937ef",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Arlington, Virginia"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/lever-kitware-131535ab-7059-448c-bf96-0b2137008f57?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Kitware",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "7b1bdcd870b5",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Clifton Park, New York"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/lever-kitware-2b798a3f-0c54-4ff9-8c3f-3d5144706939?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "GenBio AI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c2ca12dd47d7",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist, Applied Science",
+  "url": "https://zapply.jobs/l/d/lever-genbio-e52b49d7-5809-431e-ad13-b5aae4eee961?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Leland",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "c68a7dc16a71",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Science Coach",
+  "url": "https://zapply.jobs/l/d/ashby-leland-ce339c97-5d8d-44c5-9fd3-93ad205f541d?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mariana Minerals",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "2544313aafd5",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer (Autonomy)",
+  "url": "https://zapply.jobs/l/d/ashby-marianaminerals-c9be8e0d-bb09-4792-954e-10451b170108?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gen Digital",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8900fd8915c9",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA - Mountain View, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI / Machine Learning Engineer II",
+  "url": "https://zapply.jobs/l/d/ashby-gen-digital-beea6381-ee92-4a89-a8b1-375d7217584d?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Harvey",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "e8801cb5cc61",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Data Scientist, Product",
+  "url": "https://zapply.jobs/l/d/ashby-harvey-1321b20d-d6f8-4bdb-b2de-ec33c0948b53?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Eragon",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "ac1e1d2618a4",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-eragon-59218142-8bfd-4b49-90d9-bdc7f2dd948b?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Eight Sleep",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "df72db92be3f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Research Scientist (Health & Sensing)",
+  "url": "https://zapply.jobs/l/d/ashby-eightsleep-38715e93-e8c4-4ee9-8f93-88f76cf58a42?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Eight Sleep",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "bd97b01be67c",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer (Foundation Models & Personalization)",
+  "url": "https://zapply.jobs/l/d/ashby-eightsleep-ef81d491-6991-49f7-8195-d3de86d951b0?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Decagon",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "03f944df743b",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Data Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-decagon-5433ff3a-9a7c-406b-9dd8-23094141b907?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Cohere",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "17481028f2a5",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Data Scientist, North Insights",
+  "url": "https://zapply.jobs/l/d/ashby-cohere-e4603bb7-5bbe-4f73-9556-02c93f78b2af?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Cursor",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "19422364b7a5",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-cursor-cd4bad0a-e2f6-4a8d-9b57-ce1780efedae?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Cerebras Systems",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "30f096e622f9",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States and Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Applied Machine Learning Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-cerebras-d654a704-2c58-4ba6-9109-2c92aecb2503?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Clipboard Health",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "806ed7711df9",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Hybrid (San Francisco, CA)"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Applied Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-clipboard-8e59b9ee-5e85-49f8-9750-1c9c1e9bb52a?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Baseten",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "34371cbdcc63",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Post-Training Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-baseten-7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "9940f52b5d7b",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist - 3D Vision and Generation, Self-Driving",
+  "url": "https://zapply.jobs/l/d/ashby-applied-5f15c171-ae5a-496b-a8eb-c6a351d55b6b?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "dc2cb254bcf1",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist - Reinforcement Learning, Robotics",
+  "url": "https://zapply.jobs/l/d/ashby-applied-52a070cf-4e1b-4fcc-bf73-727da8fb6d46?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "d70f5c6de145",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist - Humanoid Robotics",
+  "url": "https://zapply.jobs/l/d/ashby-applied-4cd7cf1d-717c-4887-93b4-520a40a906b1?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Anyscale",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "db8aee1b05e9",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Customer Engineering",
+  "url": "https://zapply.jobs/l/d/ashby-anyscale-1466478e-9797-4318-bdca-bb1ae5798d52?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0b831bd1d727",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist, Frontier Health, DeepMind",
+  "url": "https://zapply.jobs/l/d/google-118553789589267142?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "1d104352f54e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "ML Research Scientist, Audio Algorithms",
+  "url": "https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cbdad0d77804",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer",
+  "url": "https://zapply.jobs/l/d/apple-200683023?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NBCUniversal",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "9450be50275d",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NEW YORK"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Project Coordinator, Media Group Decision Sciences",
+  "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000145828629?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e2727b173758",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Post-Training, Artifacts Research",
+  "url": "https://zapply.jobs/l/d/ashby-openai-6897d024-88c1-43ed-adb8-5d2fc5eec984?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "22b071e24dee",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Post-Training, Computer Use Research",
+  "url": "https://zapply.jobs/l/d/ashby-openai-34c2ed3f-840f-4a68-9a00-0a0606660abf?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Hinge Health",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "bec871c37a77",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco-"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Biostatistician, Quantitative Epidemiology",
+  "url": "https://zapply.jobs/l/d/ashby-hinge-health-9c57434f-6004-4662-bf5b-bb44ba6d78db?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Cartesia",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cf3dcb8b35d3",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "*"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Researcher, Post Training",
+  "url": "https://zapply.jobs/l/d/ashby-cartesia-33a8d2ef-ccc1-446a-8fd3-9c21cd211900?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "LLNL",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "82fac65d26d9",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Livermore, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning (ML) Bioengineer",
+  "url": "https://zapply.jobs/l/d/sr-llnl-3743990012510467?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "4a86b56bfb4e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA  Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Applied ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-deepgram-94ae2781-a85f-493a-86c1-ff85a9289355?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "bea0bf0adaed",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA  Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Engineer, Machine Learning Systems",
+  "url": "https://zapply.jobs/l/d/ashby-deepgram-9a030b32-d671-43e0-a221-4653bb73ba29?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Whatnot",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "0b9185bb5efb",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Platform Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-whatnot-11162b1e-e7c9-432d-8ef6-6e89d28b3078?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gritt Robotics",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "cb2700691cf7",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "South San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Robotics Software - Perception ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f0f5721444f5",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Applied AI Engineer, Plugins",
+  "url": "https://zapply.jobs/l/d/ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "de778f0a0081",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Applied AI Engineer, Agent Enablement",
+  "url": "https://zapply.jobs/l/d/ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "36ae00b74455",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Applied AI Engineer, Cyber",
+  "url": "https://zapply.jobs/l/d/ashby-openai-b46ffd99-f9f2-440c-ac13-448eb7911ad6?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Poshmark",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "122281a1e32a",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "California (Redwood City) -"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer II, Machine Learning",
+  "url": "https://zapply.jobs/l/d/ashby-poshmark-1bdf7b14-1a68-4c3b-ab64-4a3a2793b937?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Rainmaker",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e2f22c9a4e5c",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "El Segundo, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Researcher",
+  "url": "https://zapply.jobs/l/d/lever-make-rain-6ad53a80-4778-4fe9-aca4-98099e537a95?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Nox Metals",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8478e4a02e2f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Detroit"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-nox-metals-687c6982-2d69-4a9a-b0e1-3e32dcd8ac9e?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mercor",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "b62024ecd267",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer, Machine Learning",
+  "url": "https://zapply.jobs/l/d/ashby-mercor-7cee578f-799c-46ad-8951-cb0b724d619a?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Leland",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "96e5a64dc59a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote - USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI & ML Engineering Coach",
+  "url": "https://zapply.jobs/l/d/ashby-leland-203589d3-86b4-4788-b130-eb9ae2399f67?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mach9",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "bca87aefc2eb",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-mach9-51061973-9726-4e8e-bba4-4bfa9e3ef004?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Human Computer Lab",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "4f5c51737318",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-human-computer-lab-eb62af20-f469-40dc-b0a1-8b7ec59c9225?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Docker",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c48f97e13e8e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-docker-29af4c7f-6c9b-4bb4-a5fa-4950fa292be4?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Baseten",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "648b02a84245",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": "$175K \u2013 $190K \u2022 Offers Equity",
+  "sources": [
+   "ats",
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "AI Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-baseten-b13ec426-d09d-4122-8112-cf25adbd7d60?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "d01e5c21e7ad",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Sensor Sim - ML Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-applied-ae5031f6-c041-47e4-961c-7ff138bb3108?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "41017d826c59",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Embedded AI Engineer \u2013 Android Automotive (On-Device Intelligence)",
+  "url": "https://zapply.jobs/l/d/ashby-applied-5e204245-3d33-4916-bfdd-991f0cc745eb?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "fc5a118dd431",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, On-Device Machine Learning",
+  "url": "https://zapply.jobs/l/d/google-116968495685477062?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Cardinal Health",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "d469a0c257cd",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Nationwide-FIELD"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Engineer",
+  "url": "https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "AppLovin",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "fd85b21633ad",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer, Machine Learning",
+  "url": "https://zapply.jobs/l/d/greenhouse-applovin-4712559006?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0a955d87f3cf",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Research Engineer, ASE Search",
+  "url": "https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "GE Vernova",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e1ce299b78d9",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Niskayuna"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Multi-physics Modeling and Scientific Machine Learning",
+  "url": "https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052089?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Accenture Federal Services",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "41ba679b4032",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Tampa, FL"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI / ML Engineer",
+  "url": "https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4711009006?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Bose",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "14cf9e26b685",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "US, MA - Framingham"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Edge AI ML Engineer",
+  "url": "https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29046?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CACI",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "03b16ed7fbe6",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Aurora CO US"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Engineer",
+  "url": "https://zapply.jobs/l/d/workday-caci-external-331634?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Annapurna Labs (U.S.) Inc.",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "b279c79b6c2b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs",
+  "url": "https://zapply.jobs/l/d/amazon-b8d4e2a2-5af7-4afc-92e7-e47e463256b2?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "0a279c537a59",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA  Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Backend Engineer- Inference Services",
+  "url": "https://zapply.jobs/l/d/ashby-deepgram-2084edc0-2df0-4bd4-b759-0f05c38d5ef5?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "9ed23e5db559",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA  Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform)",
+  "url": "https://zapply.jobs/l/d/ashby-deepgram-f424ef6a-c27f-4984-9e77-40a1ad16ae28?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Uncountable",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "66d14e4e630d",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, San Francisco, Munich..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Platform Engineer - Generative AI",
+  "url": "https://zapply.jobs/l/d/ashby-uncountable-677487ff-7923-4be1-97ab-bab17ee7f9fb?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Bosch Group",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e60b500afe62",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI Research Engineer \u2013 Agentic AI",
+  "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000144172049?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Zoox",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "7cedbd1ec591",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Machine Learning Engineer - Behavior Models for Road Users",
+  "url": "https://zapply.jobs/l/d/lever-zoox-d736debf-c361-4a7c-81fd-6c3125ab03c0?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "042f0e818ef9",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Data Scientist, Cybersecurity",
+  "url": "https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mercor",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "69770ef6da6f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Engineer - Environments, Data and Post-Training",
+  "url": "https://zapply.jobs/l/d/ashby-mercor-97b8c17e-e438-4b61-bab1-9ae18e2c3f34?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e30b8e7be26e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Engineer - The Diffusion LLM Team",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-00c6696f-ae36-46b4-9efa-8c1fba3bfa77?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Harvey",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "7a2fa9cf4ac4",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Post-Training",
+  "url": "https://zapply.jobs/l/d/ashby-harvey-d78083d9-a203-4ae4-b4b9-454d65df3702?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Decagon",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "dba49eac3625",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": "$200K \u2013 $400K \u2022 Offers Equity",
+  "sources": [
+   "ats",
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-decagon-9231a1ba-d9f5-4ddd-b398-158297ea7db9?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CoBot",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "13290b41338a",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI Research Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-cobot-2a56c4c6-1bad-4715-a11c-119bdcda839c?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Baseten",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "2e38e7b2ebbd",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Post-Training Research Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-baseten-68328a94-f785-463b-a3d7-b0dfc11839b5?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f55f8119d168",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer - Robotic Hardware, Simulation and Data",
+  "url": "https://zapply.jobs/l/d/ashby-applied-4cb44794-7b3b-46fc-9408-104a6d0f379e?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "d003b5d1cd36",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer - Robot Learning",
+  "url": "https://zapply.jobs/l/d/ashby-applied-e725018e-2577-4ff6-8dbd-69206272d9af?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "84fb94d5525a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Engineer, Gemini Multi-turn",
+  "url": "https://zapply.jobs/l/d/google-143337312107799238?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "e8bbb10eb1d6",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Engineer, Gemini Code Post-training, DeepMind",
+  "url": "https://zapply.jobs/l/d/google-103743677200769734?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "93b65aea266a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Engineer, AGI Safety and Alignment, DeepMind",
+  "url": "https://zapply.jobs/l/d/google-114312938881196742?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c97071bf36ea",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA  Remote"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Ops Infrastructure Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gritt Robotics",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c1d3dac6c730",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "South San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML & Cloud Infrastructure Engineer",
+  "url": "https://zapply.jobs/l/d/ashby-gritt-f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "05136d843a10",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Researcher, Frontier Cybersecurity Risks",
+  "url": "https://zapply.jobs/l/d/ashby-openai-66e76c14-bb6e-4e26-a333-744bbe35abbb?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Waabi",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "f61b7ef221f2",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Phoenix, AZ"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Platform Systems Engineer; Sensing and Perception, Maps and Localization",
+  "url": "https://zapply.jobs/l/d/lever-waabi-d6e94165-fb89-4dee-b83a-01310cbf8464?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c9f98fb47ae5",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Systems Engineer, Perception - Autonomy Trucking",
+  "url": "https://zapply.jobs/l/d/ashby-applied-1df42c5c-eab3-4c2b-bd7a-4b2134686d83?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "WeRide",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "b8e43bb33f06",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Perception Engineer \u2013 ML/CV and Algorithms",
+  "url": "https://zapply.jobs/l/d/lever-weride-628b7118-d946-47a2-a03b-ac034622d908?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Persona AI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "ad8a9ded41ff",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Houston"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Reinforcement Learning Engineer, Grasping",
+  "url": "https://zapply.jobs/l/d/ashby-persona.ai-2e1ad9ed-cc2e-436d-93eb-76a5bff239c8?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Skydio",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "11cea8c0a7df",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Mateo, California, United..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Autonomy Engineer - ML & DL Infrastructure",
+  "url": "https://zapply.jobs/l/d/ashby-skydio-b6be08f7-89c0-48dd-b427-f587f23dbf34?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "7b29d28c1d85",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer Graduate (TikTok Global Live) - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7668845522007722245"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "14632b709838",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer - TikTok Search Engine",
+  "url": "https://lifeattiktok.com/search/7674029284265838853"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "e85cf76ef802",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency",
+  "url": "https://lifeattiktok.com/search/7325559906483996978"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c5a44fe0f2e4",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7665986019233958197"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "b17f34f13d01",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7668582086900680965"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "d3f1ebe1aec0",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sydney, New South Wales, Australia"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)",
+  "url": "https://lifeattiktok.com/search/7657821105365027077"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 0,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "dcdb7d7708b0",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7675829388634392837"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "24962c917cba",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7668724383120804149"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 1,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "faa17f31e130",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, AI Agent",
+  "url": "https://lifeattiktok.com/search/7626968373985429765"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "6017dfe36177",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, Pangle - SIA",
+  "url": "https://lifeattiktok.com/search/7639632990934960389"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c63e890710d1",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, Ads Integrity",
+  "url": "https://lifeattiktok.com/search/7231665935751940413"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 3,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "c21885bc7ec4",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer \u2013 Global E-Commerce Search Infrastructure (TikTok Shop)",
+  "url": "https://lifeattiktok.com/search/7576817735755516213"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 3,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "91710c25172c",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Singapore, Singapore, Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Backend Engineer , AML Engine Orchestration",
+  "url": "https://lifeattiktok.com/search/7542714368766396680"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "4f2301fc23ec",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer - Infrastructure, TikTok Search Engine",
+  "url": "https://lifeattiktok.com/search/7280570149262117179"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": 3,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "7c78db69616b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, TikTok Brand Ads",
+  "url": "https://lifeattiktok.com/search/6846876125122349325"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": null,
+  "date_posted": null,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "047cb8451928",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, California, United States of America"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
+  "url": "https://lifeattiktok.com/search/7527441329384147208"
  },
  {
   "active": true,
@@ -4081,13 +6961,11 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Palo Alto, CA",
-   "Palo Alto, California"
+   "Palo Alto, CA"
   ],
   "salary": null,
   "sources": [
-   "simplify",
-   "zapply"
+   "simplify"
   ],
   "tier": "other",
   "title": "Research Scientist - Information Theory and Statistical Inference",
@@ -6023,13 +8901,11 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Cambridge, MA +1",
-   "Cambridge, MA USA"
+   "Cambridge, MA +1"
   ],
   "salary": null,
   "sources": [
-   "speedyapply",
-   "zapply"
+   "speedyapply"
   ],
   "tier": "other",
   "title": "Machine Learning Engineer I/II - Applied AI",
@@ -6497,6 +9373,328 @@
   "tier": "other",
   "title": "Data Scientist 2",
   "url": "https://jobs.smartrecruiters.com/Intuitive/744000148860049"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "GE Vernova",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "c6667c9ff216",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Greenville"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "AI Engineer",
+  "url": "https://www.dreamworkhq.com/job/a76f2535-cb05-47f7-ad3a-b6f0cd5ab0ab?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "GE Vernova",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "7b637d609500",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Greenville"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://www.dreamworkhq.com/job/5624232e-8112-4561-a153-2208dc58113c?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Ns Eeh",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "3e4e985e0d6f",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "NSO 4901 Searle Parkway Corporate Office Skokie"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist I - Epic Model Monitoring",
+  "url": "https://www.dreamworkhq.com/job/8e52d822-81d6-48c1-a77b-55be3b24d18f?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "TransUnion",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "99c9601021d4",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://www.dreamworkhq.com/job/917392af-9669-4d26-be5c-e5076ddf6992?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "a8369b81c029",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Diego Metro Area"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer - Video Generation Models",
+  "url": "https://zapply.jobs/l/d/apple-200682734?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "BlackRock",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788998400,
+  "id": "93ea67ae6d70",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Analyst, Quantitative Research",
+  "url": "https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266430?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "BlackRock",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788998400,
+  "id": "d5ccc310e777",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Associate, Quantitative Research",
+  "url": "https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266371?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "AssetMark",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788998400,
+  "id": "a6ab24be9602",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Concord, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Research Analyst",
+  "url": "https://zapply.jobs/l/d/workday-assetmark-assetmark-careers-Req-003965?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "USAA",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "eb50d8d99975",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Antonio Home"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Intermediate Level Decision Science Analyst - Member Value",
+  "url": "https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0118409?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "USAA",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "a38cbbde9a4c",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Antonio"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Intermediate Level Decision Science Analyst - Digital Analytics",
+  "url": "https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0118987?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "iRhythm",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "ddd52c24532a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote - US"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Biostatistician/SAS programmer",
+  "url": "https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1767?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "45db56d9a714",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Austin"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist, AI/ML Model Quality",
+  "url": "https://zapply.jobs/l/d/apple-200676435?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lowe's",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "7033474c6b1a",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Lowe's Charlotte Technology Hub..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02622175?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "8f33ccbc65dd",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR",
+  "url": "https://zapply.jobs/l/d/apple-200682701?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -7076,7 +10274,7 @@
  },
  {
   "active": true,
-  "category": "ai_first",
+  "category": "ai_explicit",
   "company": "Navy Federal Credit Union",
   "company_url": null,
   "date_posted": 1788912000,
@@ -7375,6 +10573,259 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Data-Scientist_R-254531"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "OneStream",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "bf1e5c6de184",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Birmingham, Michigan, 48009, United States"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "AI Engineer",
+  "url": "https://www.dreamworkhq.com/job/bd567889-f785-4d7b-ad51-2e425a0ce385?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Trideum Corporation",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "073ddf6bdb1e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Huntsville, AL"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Junior Data Scientist/Analytics Engineer",
+  "url": "https://www.dreamworkhq.com/job/562fd999-9dce-4b5e-a7fb-320d9b1099d8?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "JSL Technologies",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "44ab6ed46287",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Entry Level- Data Scientist",
+  "url": "https://www.dreamworkhq.com/job/dfa41c8a-278f-4219-96c3-09964d093367?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "GDIT",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "eeb5a70e662a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA DC Washington"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Statistician/Data Analyst",
+  "url": "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226086?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Qualcomm",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "90daaf2fdc31",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning / Computer Vision Engineer",
+  "url": "https://zapply.jobs/l/d/qualcomm-3096146?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "8631b601fd36",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI/ML Engineer: System RF Data Ecosystem",
+  "url": "https://zapply.jobs/l/d/apple-200682498?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lila Sciences",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "7704618d7eb8",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cambridge, MA USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer, Applied AI",
+  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Expedia Group",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "0d9be9213156",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Washington Seattle"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Scientist II - Agentic Experiences",
+  "url": "https://zapply.jobs/l/d/workday-expedia-private-R-109446?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Workday Inc",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "4af256cc2b7e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA, CA, Pleasanton"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer - Payroll",
+  "url": "https://zapply.jobs/l/d/workday-workday-workday-JR-0108977?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ClickUp",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "79f546f4243b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Ranking & Retrieval",
+  "url": "https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Anthropic",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "31f327149985",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote-Friendly (Travel..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Takeoff Intel",
+  "url": "https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -8669,29 +12120,6 @@
  },
  {
   "active": true,
-  "category": "ai_first",
-  "company": "Caterpillar",
-  "company_url": null,
-  "date_posted": 1788825600,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788825600,
-  "id": "2057db7d2463",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Chicago, Illinois"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist / Technical Analyst",
-  "url": "https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
   "category": null,
   "company": "TransUnion",
   "company_url": "https://www.transunion.com",
@@ -8782,6 +12210,98 @@
   "tier": "other",
   "title": "Software Engineer I: Perception",
   "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969597101"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Mayo US",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788825600,
+  "id": "caa31927ec9f",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Rochester, MN, United States"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Associate AI/ML Engineer- Post Deployment Governance",
+  "url": "https://www.dreamworkhq.com/job/4f15bdda-649c-4ffb-8798-8939a9d1c83a?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Sierra Nevada Corporation",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "de_ml",
+  "first_seen": 1788825600,
+  "id": "d10b5924f269",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Lone Tree, CO"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "MLOps & Data Engineer II",
+  "url": "https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030489?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CACI",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788825600,
+  "id": "1808d707c5ee",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Fort Bragg, NC, US"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Engineer (Geospatial)",
+  "url": "https://zapply.jobs/l/d/workday-caci-external-331730?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "Caterpillar",
+  "company_url": null,
+  "date_posted": 1788739200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788825600,
+  "id": "2057db7d2463",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist / Technical Analyst",
+  "url": "https://www.dreamworkhq.com/job/640a0622-fd24-4c9c-8a3d-5ba8af582c8e?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -9363,6 +12883,52 @@
  },
  {
   "active": true,
+  "category": "ai_first",
+  "company": "Pnc",
+  "company_url": null,
+  "date_posted": 1788566400,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788480000,
+  "id": "e0c794d505a0",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "PA - Pittsburgh (15219)"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Software Engineer I, MLOps (Python/Big Data)",
+  "url": "https://www.dreamworkhq.com/job/933da5af-8d71-4103-99da-7ce57ac7e92e?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788566400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788566400,
+  "id": "d83aeb89bdd6",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Algorithm Engineer",
+  "url": "https://zapply.jobs/l/d/apple-200672810?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
   "category": null,
   "company": "Decagon",
   "company_url": null,
@@ -9720,10 +13286,10 @@
   "family": "ds",
   "first_seen": 1788480000,
   "id": "086b771a054b",
-  "is_usa": true,
+  "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Fort Meade, MD"
+   "2 Locations"
   ],
   "salary": null,
   "sources": [
@@ -9732,29 +13298,6 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://www.dreamworkhq.com/job/9d1161b8-d601-4375-acc3-54228d1f81c9?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
-  "category": "ai_first",
-  "company": "Pnc",
-  "company_url": null,
-  "date_posted": 1788480000,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788480000,
-  "id": "e0c794d505a0",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "PA - Pittsburgh (15219)"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Software Engineer I, MLOps (Python/Big Data)",
-  "url": "https://www.dreamworkhq.com/job/933da5af-8d71-4103-99da-7ce57ac7e92e?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -9849,6 +13392,29 @@
   "tier": "other",
   "title": "Data Scientist II",
   "url": "https://jobs.smartrecruiters.com/SOSi1/3743990015026636-data-scientist-ii?oga=true"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "Weeghman & Briggs",
+  "company_url": null,
+  "date_posted": 1788480000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788480000,
+  "id": "04ad33b066ea",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "4122 Rideout Road, Huntsville, AL 35808, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Junior AI/ML Engineer",
+  "url": "https://www.dreamworkhq.com/job/06d61a54-67f5-42cb-a82a-4b67c8b2f018?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -10956,6 +14522,53 @@
  },
  {
   "active": true,
+  "category": "ai_first",
+  "company": "Saxon Global",
+  "company_url": null,
+  "date_posted": 1788307200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788307200,
+  "id": "2246ec084d37",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Philadelphia, PA, 19160, United States",
+   "Greenville, SC, 29604, United States"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Associate Generative AI Engineer",
+  "url": "https://www.dreamworkhq.com/job/76989411-2164-4c04-8a7b-5f8ad3944c55?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "OneStream",
+  "company_url": null,
+  "date_posted": 1788307200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788307200,
+  "id": "f45f7889fe89",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Fort Lauderdale, Florida, 33301, United States"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Associate AI Engineer",
+  "url": "https://www.dreamworkhq.com/job/dd7ed70f-7ba8-4a04-bf99-5e9fa7a0bf26?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Johns Hopkins Applied Physics Laboratory",
   "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
@@ -11226,6 +14839,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11253,6 +14867,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11280,6 +14895,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -11306,6 +14922,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "vanshb03",
@@ -11333,6 +14950,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -11359,6 +14977,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11387,6 +15006,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11680,6 +15300,29 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Physical Intelligence",
+  "company_url": null,
+  "date_posted": 1788134400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "ae3e4159be58",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist",
+  "url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak"
+ },
+ {
+  "active": true,
   "category": "Software",
   "company": "AMD",
   "company_url": "https://simplify.jobs/c/AMD",
@@ -11936,6 +15579,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11944,6 +15588,355 @@
   "tier": "bigtech",
   "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
   "url": "https://lifeattiktok.com/search/7679156878833682693"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "e5c105e9dbff",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote (US)"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Platform Engineer - AI/ML Infrastruct...",
+  "url": "https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "2b46cf7a741b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote (US)",
+   "USA | Remote"
+  ],
+  "salary": "$150K \u2013 $220K \u2022 Offers Equity \u2022 Offers Bonus \u2022 10% Annual Bonus",
+  "sources": [
+   "aprameyak",
+   "ats"
+  ],
+  "tier": "other",
+  "title": "Backend Engineer- Inference Services",
+  "url": "https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gritt Robotics",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "9063b447e069",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "South San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Robotics Software - Perception ML Eng...",
+  "url": "https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Sentra",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "09aed7f0676f",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Research Scientist",
+  "url": "https://jobs.ashbyhq.com/sentra/03976429-eb79-48df-8439-29f0cdaba859?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Human Computer Lab",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "3d918bf6b022",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "ML Engineer",
+  "url": "https://jobs.ashbyhq.com/human-computer-lab/eb62af20-f469-40dc-b0a1-8b7ec59c9225?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CoBot",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "2921d15f0c3e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "AI Research Engineer",
+  "url": "https://jobs.ashbyhq.com/cobot/2a56c4c6-1bad-4715-a11c-119bdcda839c?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Anyscale",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "ea906d0f9c4a",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Customer E...",
+  "url": "https://jobs.ashbyhq.com/anyscale/1466478e-9797-4318-bdca-bb1ae5798d52?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "7d6528f4b51c",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "bigtech",
+  "title": "Research Engineer Graduate (AI Infra ...",
+  "url": "https://joinbytedance.com/search/7667304540048787765"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Deepgram",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "c8421132bd23",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote (US)"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "ML Ops Infrastructure Engineer",
+  "url": "https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Gritt Robotics",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "07d44873ef41",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "South San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "ML & Cloud Infrastructure Engineer",
+  "url": "https://jobs.ashbyhq.com/gritt/f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "WeRide",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "498764e2725f",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Perception Engineer \u2013 ML/CV and Algor...",
+  "url": "https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Saronic",
+  "company_url": "https://simplify.jobs/c/Saronic",
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1782691200,
+  "id": "7d9a51552090",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Austin, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Perception and Autonomy Engineer",
+  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Uncountable",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1787961600,
+  "id": "85089360661b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY",
+   "San Francisco, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Platform Engineer - Generative AI",
+  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Skydio",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1787961600,
+  "id": "bbca0578b7df",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Mateo, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Autonomy Engineer - ML & DL Infrastru...",
+  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Shield AI",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "aee64f7d12d8",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Boston, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Software Engineer II, Autonomy Behavi...",
+  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -11958,10 +15951,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -12598,6 +16593,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -12857,6 +16853,29 @@
   "tier": "other",
   "title": "Junior Data Scientist",
   "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Amsterdam/Junior-Data-Scientist_R1129323"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "Republic",
+  "company_url": null,
+  "date_posted": 1787875200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787788800,
+  "id": "3b5ed1d01b7c",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Phoenix, AZ, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist I",
+  "url": "https://www.dreamworkhq.com/job/dd1dac28-37b4-4e17-b678-66de42d6a3a7?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -13225,29 +17244,6 @@
  },
  {
   "active": true,
-  "category": "ai_first",
-  "company": "Republic",
-  "company_url": null,
-  "date_posted": 1787788800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787788800,
-  "id": "3b5ed1d01b7c",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Phoenix, AZ, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist I",
-  "url": "https://www.dreamworkhq.com/job/dd1dac28-37b4-4e17-b678-66de42d6a3a7?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "Torc Robotics",
   "company_url": "https://simplify.jobs/c/Torc-Robotics",
@@ -13372,6 +17368,29 @@
   "tier": "bigtech",
   "title": "Software Engineer - Systems ML - Compilers / Backend",
   "url": "https://www.metacareers.com/jobs/2145505832666693"
+ },
+ {
+  "active": true,
+  "category": "non_ai",
+  "company": "Gdit",
+  "company_url": null,
+  "date_posted": 1787788800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787702400,
+  "id": "2de30685b966",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "USA FL Hurlburt Field - 229 Cody Ave (FLC017)"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Human Performance Data Scientist I",
+  "url": "https://www.dreamworkhq.com/job/e0173804-7b4e-4619-9d60-fa7aea30781b?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -13643,29 +17662,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Amazon",
-  "company_url": null,
-  "date_posted": 1787702400,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1787702400,
-  "id": "a16eb4ad37cc",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, Washington, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "bigtech",
-  "title": "Software Development Engineer, Amazon Selection Monitoring",
-  "url": "https://www.amazon.jobs/en/jobs/10515630/software-development-engineer-amazon-selection-monitoring"
- },
- {
-  "active": true,
   "category": "ai_first",
   "company": "Highmetric",
   "company_url": null,
@@ -13735,29 +17731,6 @@
  },
  {
   "active": true,
-  "category": "non_ai",
-  "company": "Gdit",
-  "company_url": null,
-  "date_posted": 1787702400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787702400,
-  "id": "2de30685b966",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "USA FL Hurlburt Field - 229 Cody Ave (FLC017)"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Human Performance Data Scientist I",
-  "url": "https://www.dreamworkhq.com/job/e0173804-7b4e-4619-9d60-fa7aea30781b?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
@@ -13769,10 +17742,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -13870,6 +17845,29 @@
   "tier": "other",
   "title": "AI/ML Engineer",
   "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Seongnam/AI-ML-Engineer_R4042507-1"
+ },
+ {
+  "active": true,
+  "category": "ai_first",
+  "company": "Alstom",
+  "company_url": null,
+  "date_posted": 1787702400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1787702400,
+  "id": "e1e580694cff",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "VIE - AI Engineer (m/f)",
+  "url": "https://www.dreamworkhq.com/job/38fdb0ad-fa1a-4e70-a075-c5e2de04b55d?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -14376,10 +18374,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -14400,10 +18400,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -14480,6 +18482,30 @@
   "tier": "bigtech",
   "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
   "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": "https://appliedintuition.com",
+  "date_posted": 1787443200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1787443200,
+  "id": "1ed5b2d61877",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "speedyapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Scientist - Humanoid Robotics",
+  "url": "https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1"
  },
  {
   "active": true,
@@ -14981,10 +19007,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -15745,10 +19773,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -16383,6 +20413,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16411,6 +20442,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16438,6 +20470,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -16761,6 +20794,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16828,10 +20862,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -16944,10 +20980,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -17359,10 +21397,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17436,6 +21476,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17579,6 +21620,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17624,10 +21666,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17649,10 +21693,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17791,10 +21837,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17821,6 +21869,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17843,10 +21892,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17868,10 +21919,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17898,6 +21951,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17950,6 +22004,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -17978,6 +22033,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18084,6 +22140,29 @@
  },
  {
   "active": true,
+  "category": "AI / Machine Learning",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "5958e3fc9a16",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": "$128,000 - $256,000 annually",
+  "sources": [
+   "wonofakind"
+  ],
+  "tier": "bigtech",
+  "title": "Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start",
+  "url": "https://joinbytedance.com/search/7667726338627356933"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "ByteDance",
   "company_url": "https://simplify.jobs/c/ByteDance",
@@ -18123,6 +22202,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18237,10 +22317,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -18266,6 +22348,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18294,6 +22377,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18322,6 +22406,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18713,6 +22798,29 @@
   "tier": "bigtech",
   "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Ramp",
+  "company_url": null,
+  "date_posted": 1786406400,
+  "experience": 3,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "487b9ddb9d0e",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY (HQ)"
+  ],
+  "salary": "$137,120 \u2013 $297,330 \u2022 Offers Equity",
+  "sources": [
+   "ats"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Finance",
+  "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803/application"
  },
  {
   "active": true,
@@ -19425,6 +23533,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20027,6 +24136,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20591,10 +24701,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -20614,10 +24726,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -20692,6 +24806,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20719,6 +24834,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -20745,6 +24861,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20773,6 +24890,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21186,6 +25304,29 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Two Sigma",
+  "company_url": null,
+  "date_posted": 1785888000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "ff2a34bc8443",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "quant",
+  "title": "AI Research Scientist - New Grad (Campus Full-Time)",
+  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671?utm_source=aprameyak"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
@@ -21197,10 +25338,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -21340,10 +25483,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21365,10 +25510,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21395,6 +25542,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21417,10 +25565,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21442,10 +25592,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21472,6 +25624,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21499,6 +25652,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21526,6 +25680,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21548,10 +25703,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -22029,6 +26186,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22056,6 +26214,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -22077,10 +26236,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -22102,10 +26263,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -22566,10 +26729,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -22617,6 +26782,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -22638,10 +26804,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22662,10 +26830,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22686,10 +26856,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22716,6 +26888,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22743,6 +26916,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22979,10 +27153,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -23002,10 +27178,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23031,6 +27209,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23053,10 +27232,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23077,10 +27258,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23101,10 +27284,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -23124,10 +27309,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23148,10 +27335,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23201,6 +27390,7 @@
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23595,10 +27785,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA, United States"
+   "San Jose, CA, United States",
+   "San Jose, California, United States of America"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
+   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -23710,10 +27902,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA, United States"
+   "San Jose, CA, United States",
+   "San Jose, California, United States of America"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
+   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -24129,10 +28323,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -24152,10 +28348,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -24364,10 +28562,14 @@
   "last_seen": 1789084800,
   "locations": [
    "Culver City, CA",
-   "San Jose, CA"
+   "San Jose, CA",
+   "Los Angeles, California, United States of America",
+   "San Jose, California, United States of America",
+   "New York, New York, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -24389,10 +28591,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -25345,10 +29549,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25368,10 +29574,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25391,10 +29599,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25414,10 +29624,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25437,10 +29649,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25460,10 +29674,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25483,10 +29699,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25506,10 +29724,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25529,10 +29749,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25552,10 +29774,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25575,10 +29799,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25598,10 +29824,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25621,10 +29849,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25644,10 +29874,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25667,10 +29899,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25690,10 +29924,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25713,10 +29949,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25736,10 +29974,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25759,10 +29999,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25782,10 +30024,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25805,10 +30049,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25828,10 +30074,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25851,10 +30099,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25874,10 +30124,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25897,10 +30149,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25920,10 +30174,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25943,10 +30199,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25966,10 +30224,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25989,10 +30249,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26031,31 +30293,6 @@
   "experience": 1,
   "family": "swe_ml",
   "first_seen": 1785369600,
-  "id": "5da0c57e872b",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "McGregor, TX",
-   "Bastrop, TX",
-   "Starbase, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "other",
-  "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "SpaceX",
-  "company_url": null,
-  "date_posted": 1785369600,
-  "experience": 1,
-  "family": "swe_ml",
-  "first_seen": 1785369600,
   "id": "939c4d4d55c1",
   "is_usa": true,
   "last_seen": 1789084800,
@@ -26070,6 +30307,31 @@
   "tier": "other",
   "title": "Application Software Engineer, Applied AI",
   "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "SpaceX",
+  "company_url": null,
+  "date_posted": 1785369600,
+  "experience": 1,
+  "family": "swe_ml",
+  "first_seen": 1785369600,
+  "id": "c234626d7f16",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Starbase, TX",
+   "Bastrop, TX",
+   "McGregor, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "other",
+  "title": "Application Software Engineer, Applied AI",
+  "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002"
  },
  {
   "active": true,
@@ -26285,6 +30547,30 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Amazon",
+  "company_url": null,
+  "date_posted": 1785283200,
+  "experience": 2,
+  "family": "swe_ml",
+  "first_seen": 1785283200,
+  "id": "1095ba04e164",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Boston, Massachusetts, USA",
+   "Seattle, Washington, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "ats"
+  ],
+  "tier": "bigtech",
+  "title": "Security Engineer, Correlation and Response, AWS Security Hub",
+  "url": "https://account.amazon.jobs/jobs/10487821/apply"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "NewsBreak",
   "company_url": "https://simplify.jobs/c/NewsBreak",
@@ -26417,10 +30703,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26440,10 +30728,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26864,10 +31154,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26887,10 +31179,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26910,10 +31204,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27475,10 +31771,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27498,10 +31796,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -28968,10 +33268,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": "$202k/yr",
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -28991,10 +33293,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29014,10 +33318,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29108,10 +33414,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore"
+   "Singapore",
+   "Singapore, Singapore, Singapore"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -30541,10 +34849,12 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Sydney, Australia"
+   "Sydney, Australia",
+   "Sydney, New South Wales, Australia"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -31387,10 +35697,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31410,10 +35722,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31433,10 +35747,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31456,10 +35772,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33250,10 +37568,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33596,10 +37916,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33711,10 +38033,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA"
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33734,10 +38058,12 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA"
+   "San Jose, CA",
+   "San Jose, California, United States of America"
   ],
   "salary": null,
   "sources": [
+   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33975,6 +38301,37 @@
   "tier": "other",
   "title": "ML Infrastructure Engineer",
   "url": "https://boards.greenhouse.io/applovin/jobs/4655740006"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Mercor",
+  "company_url": "https://simplify.jobs/c/Mercor",
+  "date_posted": 1770940800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1770940800,
+  "id": "cc576e474ec2",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "SF",
+   "San Francisco"
+  ],
+  "salary": {
+   "currency": "USD",
+   "interval": "1 YEAR",
+   "max": 500000,
+   "min": 130000,
+   "source": "ashby"
+  },
+  "sources": [
+   "ricsign",
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
  },
  {
   "active": true,
