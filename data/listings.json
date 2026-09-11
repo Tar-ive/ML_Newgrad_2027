@@ -1,31 +1,6 @@
 [
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "GE Vernova",
-  "company_url": "https://simplify.jobs/c/GE-Vernova",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "74feddcd7e6b",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Greenville, SC",
-   "Greenville"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3"
- },
- {
-  "active": true,
   "category": null,
   "company": "Applied Intuition",
   "company_url": "https://appliedintuition.com",
@@ -576,10 +551,9 @@
    "Seattle, WA",
    "Seattle, Washington"
   ],
-  "salary": "$153900 - $300960 annually",
+  "salary": null,
   "sources": [
    "aprameyak",
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -679,7 +653,6 @@
   ],
   "salary": "$128,000 - $256,000 annually",
   "sources": [
-   "coconight",
    "wonofakind",
    "zapply"
   ],
@@ -1796,7 +1769,7 @@
  },
  {
   "active": true,
-  "category": "Infrastructure / Systems",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -1809,9 +1782,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$162000 - $316800 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -1820,7 +1792,7 @@
  },
  {
   "active": true,
-  "category": "Infrastructure / Systems",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -1833,9 +1805,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$254400 - $480000 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -1844,7 +1815,7 @@
  },
  {
   "active": true,
-  "category": "AI / Machine Learning",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -1857,9 +1828,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$162000 - $316800 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -2006,7 +1976,7 @@
  },
  {
   "active": true,
-  "category": "AI / Machine Learning",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -2019,9 +1989,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$162000 - $316800 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -2030,7 +1999,7 @@
  },
  {
   "active": true,
-  "category": "Infrastructure / Systems",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -2043,9 +2012,8 @@
   "locations": [
    "Seattle, Washington"
   ],
-  "salary": "$121600 - $243200 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -2423,7 +2391,7 @@
  },
  {
   "active": true,
-  "category": "AI / Machine Learning",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -2436,9 +2404,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$128000 - $256000 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -2447,7 +2414,7 @@
  },
  {
   "active": true,
-  "category": "AI / Machine Learning",
+  "category": null,
   "company": "ByteDance",
   "company_url": null,
   "date_posted": 1789084800,
@@ -2460,9 +2427,8 @@
   "locations": [
    "San Jose, California"
   ],
-  "salary": "$128000 - $256000 annually",
+  "salary": null,
   "sources": [
-   "coconight",
    "zapply"
   ],
   "tier": "bigtech",
@@ -2937,30 +2903,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Shield AI",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "aee64f7d12d8",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Boston, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Software Engineer II, Autonomy Behavi...",
-  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
   "company": "WeRide",
   "company_url": null,
   "date_posted": 1789084800,
@@ -3145,56 +3087,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Evolver",
-  "company_url": "https://simplify.jobs/c/Evolver",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "e3fbfe32f34f",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Palo Alto, CA",
-   "Palo Alto, California"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist - Information Theory and Statistical Inference",
-  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402424009"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Evolver",
-  "company_url": "https://simplify.jobs/c/Evolver",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "d5262180bfe2",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Palo Alto, CA",
-   "Palo Alto, California"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist - Autonomous Systems",
-  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402412009"
- },
- {
-  "active": true,
   "category": null,
   "company": "OpenAI",
   "company_url": null,
@@ -3288,370 +3180,562 @@
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Institute for Foundation Models",
   "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789084800,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "7b29d28c1d85",
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "0faf4c0ad9aa",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, California, United States of America"
+   "Sunnyvale, CA"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (TikTok Global Live) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668845522007722245"
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://jobs.lever.co/ifm-us/ca550f5b-8c13-4a8e-8b03-0300b113acce"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Institute for Foundation Models",
   "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "14632b709838",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer - TikTok Search Engine",
-  "url": "https://lifeattiktok.com/search/7674029284265838853"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "e85cf76ef802",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency",
-  "url": "https://lifeattiktok.com/search/7325559906483996978"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789084800,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "c5a44fe0f2e4",
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "b07178b3557a",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, California, United States of America"
+   "Sunnyvale, CA"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7665986019233958197"
+  "tier": "other",
+  "title": "Machine Learning Engineer \u2013 World Model",
+  "url": "https://jobs.lever.co/ifm-us/f527ece9-8e42-4921-90c1-a1799f31bf4b"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "OpenAI",
   "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789084800,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "b17f34f13d01",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668582086900680965"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "d3f1ebe1aec0",
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "1968e8f2754e",
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Sydney, New South Wales, Australia"
+   "San Francisco"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)",
-  "url": "https://lifeattiktok.com/search/7657821105365027077"
+  "tier": "ai_lab",
+  "title": "Data Scientist, Real Estate & Workplace",
+  "url": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "OpenAI",
   "company_url": null,
-  "date_posted": null,
-  "experience": 0,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "dcdb7d7708b0",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7675829388634392837"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789084800,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "24962c917cba",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668724383120804149"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 1,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "faa17f31e130",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Agent",
-  "url": "https://lifeattiktok.com/search/7626968373985429765"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "6017dfe36177",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Pangle - SIA",
-  "url": "https://lifeattiktok.com/search/7639632990934960389"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "c63e890710d1",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Ads Integrity",
-  "url": "https://lifeattiktok.com/search/7231665935751940413"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 3,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "c21885bc7ec4",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer \u2013 Global E-Commerce Search Infrastructure (TikTok Shop)",
-  "url": "https://lifeattiktok.com/search/7576817735755516213"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 3,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "91710c25172c",
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "2d9eb472b068",
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore, Singapore, Singapore"
+   "San Francisco"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Backend Engineer , AML Engine Orchestration",
-  "url": "https://lifeattiktok.com/search/7542714368766396680"
+  "tier": "ai_lab",
+  "title": "Applied AI Engineer, Enterprise",
+  "url": "https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Institute for Foundation Models",
   "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "4f2301fc23ec",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "fd197bf2ffd7",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, California, United States of America"
+   "Sunnyvale, CA"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer - Infrastructure, TikTok Search Engine",
-  "url": "https://lifeattiktok.com/search/7280570149262117179"
+  "tier": "other",
+  "title": "Research Engineer - The Diffusion LLM Team",
+  "url": "https://jobs.lever.co/ifm-us/00c6696f-ae36-46b4-9efa-8c1fba3bfa77"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Applied Intuition",
   "company_url": null,
-  "date_posted": null,
-  "experience": 3,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "74d6847b449e",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer - Robot Learning",
+  "url": "https://jobs.ashbyhq.com/applied/e725018e-2577-4ff6-8dbd-69206272d9af"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Intuition",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
   "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "7c78db69616b",
+  "first_seen": 1788998400,
+  "id": "e9cde4b1b542",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Systems Engineer, Perception - Autonomy Trucking",
+  "url": "https://jobs.ashbyhq.com/applied/1df42c5c-eab3-4c2b-bd7a-4b2134686d83"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "87da1f59365e",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, California, United States of America"
+   "Sunnyvale, CA"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer, TikTok Brand Ads",
-  "url": "https://lifeattiktok.com/search/6846876125122349325"
+  "tier": "other",
+  "title": "Distributed Machine Learning Engineer",
+  "url": "https://jobs.lever.co/ifm-us/965f914c-5be2-4670-b006-946d2274dc66"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Google",
   "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "802f1e0d5f9e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Software Engineer, On-Device Machine Learning",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/116968495685477062"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Saronic",
+  "company_url": "https://simplify.jobs/c/Saronic",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1782691200,
+  "id": "7d9a51552090",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Austin, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "simplify",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Perception and Autonomy Engineer",
+  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Uncountable",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1787961600,
+  "id": "85089360661b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "New York, NY",
+   "San Francisco, CA",
+   "New York, San Francisco, Munich..."
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Platform Engineer - Generative AI",
+  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Skydio",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1787961600,
+  "id": "bbca0578b7df",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Mateo, CA",
+   "San Mateo, California, United..."
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Autonomy Engineer - ML & DL Infrastru...",
+  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "ByteDance",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "fb8794a32ab1",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Seattle, Washington"
+  ],
+  "salary": "$153900 - $300960 annually",
+  "sources": [
+   "coconight",
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+  "url": "https://joinbytedance.com/search/7672392998192154885"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Intel",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "0c08f414ebc3",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Arizona Phoenix"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist/Statistician",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist-Statistician_JR0283881"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Manulife",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "5708c18bd8d7",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Boston, Massachusetts"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Data-Scientist_JR26050163-2"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "iRhythm",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "898c5c7132a3",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Remote - US"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Biostatistician/SAS programmer",
+  "url": "https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Remote---US/Biostatistician-SAS-programmer_JR1767"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "01071d547af8",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Post-Training, Context Research",
+  "url": "https://jobs.ashbyhq.com/openai/df3edefb-6a8b-4ef6-b183-b3f96051783e"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "fa141ebc2928",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Agent Post-Training, Frontier Evals and Environments Research",
+  "url": "https://jobs.ashbyhq.com/openai/9d72171e-2630-4347-83a1-263178644282"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "AppLovin",
+  "company_url": null,
+  "date_posted": 1789084800,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1789084800,
-  "id": "047cb8451928",
+  "id": "cca0c487ca7b",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, California, United States of America"
+   "Palo Alto, CA"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer, Machine Learning",
+  "url": "https://boards.greenhouse.io/applovin/jobs/4712559006?gh_jid=4712559006"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "4e601469edaf",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
   ],
   "tier": "bigtech",
-  "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
-  "url": "https://lifeattiktok.com/search/7527441329384147208"
+  "title": "Machine Learning Research Engineer, ASE Search",
+  "url": "https://jobs.apple.com/en-us/details/200679268/machine-learning-research-engineer-ase-search"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NVIDIA",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "6c680697e211",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "System Software Engineer, Calibration - Autonomous Vehicles",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "GE Vernova",
+  "company_url": "https://simplify.jobs/c/GE-Vernova",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "74feddcd7e6b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Greenville, SC"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Evolver",
+  "company_url": "https://simplify.jobs/c/Evolver",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "e3fbfe32f34f",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Information Theory and Statistical Inference",
+  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402424009"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Evolver",
+  "company_url": "https://simplify.jobs/c/Evolver",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "d5262180bfe2",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Autonomous Systems",
+  "url": "https://job-boards.greenhouse.io/evolver/jobs/4402412009"
  },
  {
   "active": true,
@@ -3885,75 +3969,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Institute for Foundation Models",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "0faf4c0ad9aa",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer",
-  "url": "https://jobs.lever.co/ifm-us/ca550f5b-8c13-4a8e-8b03-0300b113acce"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Institute for Foundation Models",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "b07178b3557a",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer \u2013 World Model",
-  "url": "https://jobs.lever.co/ifm-us/f527ece9-8e42-4921-90c1-a1799f31bf4b"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "OpenAI",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "1968e8f2754e",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Data Scientist, Real Estate & Workplace",
-  "url": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Applied Intuition",
   "company_url": null,
   "date_posted": 1788998400,
@@ -4115,29 +4130,6 @@
  {
   "active": true,
   "category": null,
-  "company": "OpenAI",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "2d9eb472b068",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Applied AI Engineer, Enterprise",
-  "url": "https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Bose",
   "company_url": null,
   "date_posted": null,
@@ -4276,52 +4268,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Institute for Foundation Models",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "fd197bf2ffd7",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Research Engineer - The Diffusion LLM Team",
-  "url": "https://jobs.lever.co/ifm-us/00c6696f-ae36-46b4-9efa-8c1fba3bfa77"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Applied Intuition",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "74d6847b449e",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Engineer - Robot Learning",
-  "url": "https://jobs.ashbyhq.com/applied/e725018e-2577-4ff6-8dbd-69206272d9af"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Google",
   "company_url": null,
   "date_posted": 1788998400,
@@ -4345,52 +4291,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Applied Intuition",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "e9cde4b1b542",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Systems Engineer, Perception - Autonomy Trucking",
-  "url": "https://jobs.ashbyhq.com/applied/1df42c5c-eab3-4c2b-bd7a-4b2134686d83"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Institute for Foundation Models",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "87da1f59365e",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Distributed Machine Learning Engineer",
-  "url": "https://jobs.lever.co/ifm-us/965f914c-5be2-4670-b006-946d2274dc66"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Google",
   "company_url": null,
   "date_posted": 1788998400,
@@ -4410,29 +4310,6 @@
   "tier": "bigtech",
   "title": "Research Scientist, Google Ads",
   "url": "https://www.google.com/about/careers/applications/jobs/results/85030927746376390"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Google",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "802f1e0d5f9e",
-  "is_usa": true,
-  "last_seen": 1788998400,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, On-Device Machine Learning",
-  "url": "https://www.google.com/about/careers/applications/jobs/results/116968495685477062"
  },
  {
   "active": true,
@@ -6105,29 +5982,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Apple",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "cb3e500660c0",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Cupertino"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI/ML Engineer: System RF Data Ecosystem",
-  "url": "https://jobs.apple.com/en-us/details/200682498/ai-ml-engineer-system-rf-data-ecosystem"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Autodesk",
   "company_url": null,
   "date_posted": 1788998400,
@@ -6540,6 +6394,53 @@
   "tier": "bigtech",
   "title": "#Software Engineer",
   "url": "https://careers.qualcomm.com/careers/job/446721041627"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "398d997f0d08",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Junior",
+  "url": "https://www.dreamworkhq.com/job/0bf9137b-1896-4428-8e3d-3372578655bc?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "cb3e500660c0",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI/ML Engineer: System RF Data Ecosystem",
+  "url": "https://jobs.apple.com/en-us/details/200682498/ai-ml-engineer-system-rf-data-ecosystem"
  },
  {
   "active": true,
@@ -7024,29 +6925,6 @@
   "tier": "other",
   "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
   "url": "https://www.dreamworkhq.com/job/15d9f614-0144-4754-a51f-55728f261cfa?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
-  "category": "ai_explicit",
-  "company": "Booz Allen Hamilton",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788912000,
-  "id": "398d997f0d08",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist, Junior",
-  "url": "https://www.dreamworkhq.com/job/0bf9137b-1896-4428-8e3d-3372578655bc?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -8927,29 +8805,6 @@
   "experience": null,
   "family": "ml",
   "first_seen": 1788566400,
-  "id": "af018d4c542d",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Sunnyvale"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Algorithm Engineer",
-  "url": "https://jobs.apple.com/en-us/details/200672810/machine-learning-algorithm-engineer"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Apple",
-  "company_url": null,
-  "date_posted": 1788652800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788566400,
   "id": "4631e4b464d9",
   "is_usa": false,
   "last_seen": 1789084800,
@@ -8963,6 +8818,29 @@
   "tier": "bigtech",
   "title": "Machine Learning Researcher Multi-Modal Reasoning",
   "url": "https://jobs.apple.com/en-us/details/200682033/machine-learning-researcher-multi-modal-reasoning"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788566400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788566400,
+  "id": "af018d4c542d",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Algorithm Engineer",
+  "url": "https://jobs.apple.com/en-us/details/200672810/machine-learning-algorithm-engineer"
  },
  {
   "active": true,
@@ -10549,7 +10427,7 @@
   "locations": [
    "Mountain View, CA, United States"
   ],
-  "salary": "Not listed",
+  "salary": "$100K/yr - $157K/yr",
   "sources": [
    "coconight"
   ],
@@ -11154,7 +11032,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11182,7 +11059,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11210,7 +11086,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -11237,7 +11112,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "vanshb03",
@@ -11265,7 +11139,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -11292,7 +11165,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11321,7 +11193,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11871,7 +11742,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -11883,74 +11753,26 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Saronic",
-  "company_url": "https://simplify.jobs/c/Saronic",
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1782691200,
-  "id": "7d9a51552090",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Perception and Autonomy Engineer",
-  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
- },
- {
-  "active": true,
   "category": null,
-  "company": "Uncountable",
+  "company": "Shield AI",
   "company_url": null,
   "date_posted": 1787961600,
   "experience": null,
   "family": "swe_ml",
-  "first_seen": 1787961600,
-  "id": "85089360661b",
+  "first_seen": 1788998400,
+  "id": "aee64f7d12d8",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "New York, NY",
-   "San Francisco, CA"
+   "Boston, MA"
   ],
   "salary": null,
   "sources": [
    "aprameyak"
   ],
   "tier": "other",
-  "title": "Platform Engineer - Generative AI",
-  "url": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb?utm_source=aprameyak"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Skydio",
-  "company_url": null,
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1787961600,
-  "id": "bbca0578b7df",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Mateo, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak"
-  ],
-  "tier": "other",
-  "title": "Autonomy Engineer - ML & DL Infrastru...",
-  "url": "https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34?utm_source=aprameyak"
+  "title": "Software Engineer II, Autonomy Behavi...",
+  "url": "https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -11965,12 +11787,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -12607,7 +12427,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -13272,7 +13091,7 @@
    "Remote in USA",
    "Remote - USA"
   ],
-  "salary": "Not listed",
+  "salary": "$132,400\u00a0 - $158,900",
   "sources": [
    "coconight",
    "simplify",
@@ -13779,12 +13598,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -14411,12 +14228,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -14437,12 +14252,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -15020,12 +14833,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -15786,12 +15597,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -16426,7 +16235,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16455,7 +16263,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16483,7 +16290,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -16807,7 +16613,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16875,12 +16680,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -16993,12 +16796,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -17410,12 +17211,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17489,7 +17288,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17633,7 +17431,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17679,12 +17476,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17706,12 +17501,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17850,12 +17643,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17882,7 +17673,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17905,12 +17695,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17932,12 +17720,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -17964,7 +17750,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18017,7 +17802,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -18046,7 +17830,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18192,7 +17975,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18307,12 +18089,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -18338,7 +18118,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18367,7 +18146,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18396,7 +18174,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -19500,7 +19277,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20103,7 +19879,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20115,9 +19890,9 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
+  "category": null,
   "company": "Quora",
-  "company_url": "https://simplify.jobs/c/Quora",
+  "company_url": "https://quora.com",
   "date_posted": 1786060800,
   "experience": null,
   "family": "swe_ml",
@@ -20126,8 +19901,6 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Remote in USA",
-   "Remote in Canada",
    "Remote - USA +1",
    "Remote (US)"
   ],
@@ -20135,12 +19908,11 @@
   "sources": [
    "aprameyak",
    "coconight",
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Software Engineer New Grad - Machine Learning Platform",
-  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true"
+  "title": "Software Engineer - Machine Learning Platform - New Grad - Quora - Remote",
+  "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db"
  },
  {
   "active": true,
@@ -20671,12 +20443,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -20696,12 +20466,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -20776,7 +20544,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20804,7 +20571,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -20831,7 +20597,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -20860,7 +20625,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21285,12 +21049,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -21430,12 +21192,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21457,12 +21217,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21489,7 +21247,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21512,12 +21269,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21539,12 +21294,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21571,7 +21324,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21599,7 +21351,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21627,7 +21378,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -21650,12 +21400,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -22133,7 +21881,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22161,7 +21908,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -22183,12 +21929,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -22210,12 +21954,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -22676,12 +22418,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -22729,7 +22469,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -22751,12 +22490,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22777,12 +22514,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22803,12 +22538,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22835,7 +22568,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22863,7 +22595,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23100,12 +22831,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -23125,12 +22854,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23156,7 +22883,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23179,12 +22905,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23205,12 +22929,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23231,12 +22953,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -23256,12 +22976,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23282,12 +23000,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -23337,7 +23053,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23732,12 +23447,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA, United States",
-   "San Jose, California, United States of America"
+   "San Jose, CA, United States"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
-   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -23849,12 +23562,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA, United States",
-   "San Jose, California, United States of America"
+   "San Jose, CA, United States"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
-   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -24270,12 +23981,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -24295,12 +24004,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -24509,14 +24216,10 @@
   "last_seen": 1789084800,
   "locations": [
    "Culver City, CA",
-   "San Jose, CA",
-   "Los Angeles, California, United States of America",
-   "San Jose, California, United States of America",
-   "New York, New York, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -24538,12 +24241,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -25496,12 +25197,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25521,12 +25220,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25546,12 +25243,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25571,12 +25266,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25596,12 +25289,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25621,12 +25312,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25646,12 +25335,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25671,12 +25358,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25696,12 +25381,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25721,12 +25404,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25746,12 +25427,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25771,12 +25450,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25796,12 +25473,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25821,12 +25496,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25846,12 +25519,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25871,12 +25542,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25896,12 +25565,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25921,12 +25588,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25946,12 +25611,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25971,12 +25634,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -25996,12 +25657,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26021,12 +25680,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26046,12 +25703,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26071,12 +25726,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26096,12 +25749,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26121,12 +25772,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26146,12 +25795,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26171,12 +25818,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26196,12 +25841,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26494,30 +26137,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Amazon",
-  "company_url": null,
-  "date_posted": 1785283200,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1785283200,
-  "id": "1095ba04e164",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Boston, Massachusetts, USA",
-   "Seattle, Washington, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Security Engineer, Correlation and Response, AWS Security Hub",
-  "url": "https://account.amazon.jobs/jobs/10487821/apply"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "NewsBreak",
   "company_url": "https://simplify.jobs/c/NewsBreak",
@@ -26650,12 +26269,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26675,12 +26292,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27101,12 +26716,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27126,12 +26739,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27151,12 +26762,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27718,12 +27327,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -27743,12 +27350,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29215,12 +28820,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29240,12 +28843,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29265,12 +28866,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -29361,12 +28960,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -30796,12 +30393,10 @@
   "is_usa": false,
   "last_seen": 1789084800,
   "locations": [
-   "Sydney, Australia",
-   "Sydney, New South Wales, Australia"
+   "Sydney, Australia"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -31644,12 +31239,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31669,12 +31262,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31694,12 +31285,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -31719,12 +31308,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33515,12 +33102,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33863,12 +33448,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -33980,12 +33563,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -34005,12 +33586,10 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
