@@ -3084,7 +3084,8 @@
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Palo Alto, California, USA"
+   "Palo Alto, California, USA",
+   "New York, New York, USA"
   ],
   "salary": null,
   "sources": [
@@ -6388,47 +6389,16 @@
   "locations": [
    "Seattle, WA"
   ],
-  "salary": null,
+  "salary": "$99,719\u2013$128,513",
   "sources": [
    "applyguy",
+   "coconight",
    "simplify",
    "speedyapply"
   ],
   "tier": "other",
   "title": "Software Engineer - Recommendations",
   "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Mercor",
-  "company_url": "https://simplify.jobs/c/Mercor",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1770940800,
-  "id": "cc576e474ec2",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "SF",
-   "San Francisco"
-  ],
-  "salary": {
-   "currency": "USD",
-   "interval": "1 YEAR",
-   "max": 500000,
-   "min": 130000,
-   "source": "ashby"
-  },
-  "sources": [
-   "ricsign",
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
  },
  {
   "active": true,
@@ -6866,6 +6836,123 @@
   "tier": "other",
   "title": "Robotics Autonomy Perception Engineer - Federal",
   "url": "https://zapply.jobs/l/d/lever-field-ai-73c30d65-3a05-4ba3-99b6-af2d2b13e85e?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "BlackRock",
+  "company_url": "https://www.blackrock.com/",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788998400,
+  "id": "7c7d47589c56",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "speedyapply",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Analyst - Quantitative Research",
+  "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Analyst--Quantitative-Research_R266430"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Amazon",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788307200,
+  "id": "1daec0e5cf79",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Culver City, California, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "harrycodingnow"
+  ],
+  "tier": "bigtech",
+  "title": "Software Development Engineer, AI Studios Engineering",
+  "url": "https://www.amazon.jobs/en/jobs/10526436/software-development-engineer-ai-studios-engineering"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8f197bd9461e",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - World Modeling",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-adc38d88-64c7-4b26-9d45-ae287e178df6?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Etsy",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "671707a1e9a0",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Brooklyn, New York"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Coordinator, Machine Learning Product and Engineering",
+  "url": "https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "fc1bc01ff195",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
+  "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -9207,8 +9294,7 @@
   ],
   "salary": null,
   "sources": [
-   "dreamworkhq",
-   "zapply"
+   "dreamworkhq"
   ],
   "tier": "other",
   "title": "Data Scientist, Junior",
@@ -9585,30 +9671,6 @@
  {
   "active": true,
   "category": null,
-  "company": "BlackRock",
-  "company_url": "https://www.blackrock.com/",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "quant",
-  "first_seen": 1788998400,
-  "id": "7c7d47589c56",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Analyst - Quantitative Research",
-  "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Analyst--Quantitative-Research_R266430"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Peraton",
   "company_url": "https://www.peraton.com",
   "date_posted": 1788998400,
@@ -9674,6 +9736,29 @@
   "tier": "other",
   "title": "Data Scientist I - HK - Winter 2027",
   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "165b8c25af0c",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Arlington, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248430?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -10861,29 +10946,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Lila Sciences",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "7704618d7eb8",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Cambridge, MA USA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML Engineer, Applied AI",
-  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Expedia Group",
   "company_url": null,
   "date_posted": 1788912000,
@@ -10930,29 +10992,6 @@
  {
   "active": true,
   "category": null,
-  "company": "ClickUp",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "79f546f4243b",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer, Ranking & Retrieval",
-  "url": "https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Anthropic",
   "company_url": null,
   "date_posted": 1788912000,
@@ -10972,6 +11011,52 @@
   "tier": "ai_lab",
   "title": "Research Engineer, Takeoff Intel",
   "url": "https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lila Sciences",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "7704618d7eb8",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "Cambridge, MA USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer, Applied AI",
+  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ClickUp",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "79f546f4243b",
+  "is_usa": true,
+  "last_seen": 1789084800,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Ranking & Retrieval",
+  "url": "https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -14412,29 +14497,6 @@
   "tier": "other",
   "title": "2026/2027 PhD Residency - Scientific ML (SciML) and Multiscale Physics (Early Stage Project)",
   "url": "https://jobright.ai/jobs/info/6a985dbbdef18223c854f0bf"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Amazon",
-  "company_url": null,
-  "date_posted": 1788307200,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788307200,
-  "id": "1daec0e5cf79",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Culver City, California, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "bigtech",
-  "title": "Software Development Engineer, AI Studios Engineering",
-  "url": "https://www.amazon.jobs/en/jobs/10526436/software-development-engineer-ai-studios-engineering"
  },
  {
   "active": true,
@@ -19430,9 +19492,9 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
+  "category": null,
   "company": "Moderna",
-  "company_url": "https://simplify.jobs/c/Moderna",
+  "company_url": "https://www.modernatx.com",
   "date_posted": 1787097600,
   "experience": null,
   "family": "ds",
@@ -19445,12 +19507,11 @@
   ],
   "salary": null,
   "sources": [
-   "simplify",
    "speedyapply"
   ],
   "tier": "other",
-  "title": "Data Scientist - Research",
-  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
+  "title": "Data Scientist",
+  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
  },
  {
   "active": true,
@@ -29663,8 +29724,8 @@
   "last_seen": 1789084800,
   "locations": [
    "Bastrop, TX",
-   "McGregor, TX",
-   "Starbase, TX"
+   "Starbase, TX",
+   "McGregor, TX"
   ],
   "salary": null,
   "sources": [
@@ -29683,12 +29744,12 @@
   "experience": 1,
   "family": "swe_ml",
   "first_seen": 1785369600,
-  "id": "29b086cc6627",
+  "id": "939c4d4d55c1",
   "is_usa": true,
   "last_seen": 1789084800,
   "locations": [
-   "Vandenberg, CA",
-   "Hawthorne, CA"
+   "Hawthorne, CA",
+   "Vandenberg, CA"
   ],
   "salary": null,
   "sources": [
@@ -29696,7 +29757,7 @@
   ],
   "tier": "other",
   "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002"
+  "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002"
  },
  {
   "active": true,
@@ -38269,6 +38330,37 @@
   "tier": "other",
   "title": "ML Infrastructure Engineer",
   "url": "https://boards.greenhouse.io/applovin/jobs/4655740006"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Mercor",
+  "company_url": "https://simplify.jobs/c/Mercor",
+  "date_posted": 1770940800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1770940800,
+  "id": "cc576e474ec2",
+  "is_usa": false,
+  "last_seen": 1789084800,
+  "locations": [
+   "SF",
+   "San Francisco"
+  ],
+  "salary": {
+   "currency": "USD",
+   "interval": "1 YEAR",
+   "max": 500000,
+   "min": 130000,
+   "source": "ashby"
+  },
+  "sources": [
+   "ricsign",
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
  },
  {
   "active": true,

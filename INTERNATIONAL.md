@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**491** open roles
+**493** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-11 16:36 UTC_
+_Last refreshed: 2026-09-11 19:51 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -127,6 +127,8 @@ cliff after the first few days of a posting being live.
 | **Home Depot** | Cybersecurity Software Engineer II ML & AI (Remote) | GEORGIA - VIRTUAL - GA01 | **today** | [Apply](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193044?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist - Personal AGI, Personality and Model Behavior | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-a86d9477-0277-498c-9647-02a257747607?s=gh-new-grad-software-engineering-jobs-2027) |
 | **F5** | SRE, AI Inference Engineer | San Jose | **today** | [Apply](https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038660?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **today** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **today** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
 | **[Julius Baer](https://www.juliusbaer.com)** | University Graduate - Machine Learning Engineer 100% - f/m/d | Zurich, Switzerland | **1d** | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1) |
 | **[Roche](https://roche.com/)** | Machine Learning Engineer | Basel, Switzerland | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3) |
 | **USAA** | Intermediate Level Decision Science Analyst - Member Value | San Antonio Home | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Member-Value_R0118409) |
@@ -330,6 +332,7 @@ and autonomy set.
 | **Apple** | Machine Learning Engineer | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200683023/machine-learning-engineer) |
 | **ByteDance** | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, California | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667726338627356933?s=gh-new-grad-data-science-jobs-2027) |
 | **ByteDance** | Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD) | Seattle, Washington | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **today** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Machine Learning Engineer - Agentic AI Evaluation Frameworks | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200681825/machine-learning-engineer-agentic-ai-evaluation-frameworks) |
 | **Apple** | Data Scientist, AI/ML Model Quality | Austin | **1d** | [Apply](https://jobs.apple.com/en-us/details/200676435/data-scientist-ai-ml-model-quality) |
 | **TikTok** | UX Researcher - Global E-Commerce (UK) | London, England, United Kingdom | **1d** | [Apply](https://lifeattiktok.com/search/7657889445472913669) |
@@ -557,12 +560,12 @@ new grads.
 | **CoBot** | AI Research Engineer | Seattle | **today** | [Apply](https://zapply.jobs/l/d/ashby-cobot-2a56c4c6-1bad-4715-a11c-119bdcda839c?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Gritt Robotics** | ML & Cloud Infrastructure Engineer | South San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-gritt-f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Skydio** | Autonomy Engineer - ML & DL Infrastructure | San Mateo, California, United... | **today** | [Apply](https://zapply.jobs/l/d/ashby-skydio-b6be08f7-89c0-48dd-b427-f587f23dbf34?s=gh-new-grad-software-engineering-jobs-2027) |
-| **[Mercor](https://simplify.jobs/c/Mercor)** | Data Scientist | SF / San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **Guidehouse** | Data Scientist - National Security | VA, Arlington | **today** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-44471?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Junior Data Scientist | VA Arlington | **today** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-44323?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Data Scientist | VA, Arlington | **today** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-38181?s=gh-new-grad-data-science-jobs-2027) |
 | **Home Depot** | Cybersecurity Software Engineer II ML & AI (Remote) | GEORGIA - VIRTUAL - GA01 | **today** | [Apply](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193044?s=gh-new-grad-software-engineering-jobs-2027) |
 | **F5** | SRE, AI Inference Engineer | San Jose | **today** | [Apply](https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038660?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **today** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |
 | **[Julius Baer](https://www.juliusbaer.com)** | University Graduate - Machine Learning Engineer 100% - f/m/d | Zurich, Switzerland | **1d** | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1) |
 | **[Roche](https://roche.com/)** | Machine Learning Engineer | Basel, Switzerland | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3) |
 | **USAA** | Intermediate Level Decision Science Analyst - Member Value | San Antonio Home | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Level-Decision-Science-Analyst---Member-Value_R0118409) |
@@ -768,6 +771,7 @@ new grads.
 | **Proton** | Machine Learning Engineer | Geneva; Taipei | 169d | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4823205101) |
 | **Tavily** | Data Scientist | Tel Aviv | 169d | [Apply](https://jobs.ashbyhq.com/tavily/3b3b6621-e607-4b04-815e-e46ad4350cd7/application) |
 | **[Jobs for Humanity](https://simplify.jobs/c/Jobs-For-Humanity)** | Associate Data Scientist | Whiteley, UK / Cardiff, UK | 185d | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000113595857) |
+| **[Mercor](https://simplify.jobs/c/Mercor)** | Data Scientist | SF / San Francisco | 210d | [Apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **[Shift](https://simplify.jobs/c/Shift-Technology)** | Graduate Data Scientist | London, UK | 214d | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) |
 | **Brainco** | Early Career Machine Learning Engineer, Applied AI | San Francisco Bay Area | 233d | [Apply](https://www.dreamworkhq.com/job/4d8d246d-f06d-412a-85ad-11078e308823?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **PepsiCo** | Junior Data Scientist | Mississauga, Canada | 324d | [Apply](https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job) |
