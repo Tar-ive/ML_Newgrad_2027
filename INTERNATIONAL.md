@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**517** open roles
+**518** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-12 17:16 UTC_
+_Last refreshed: 2026-09-12 19:28 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -92,7 +92,7 @@ cliff after the first few days of a posting being live.
 | **Applied Intuition** | Systems Engineer, Perception - Autonomy Trucking | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-1df42c5c-eab3-4c2b-bd7a-4b2134686d83?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Persona AI** | Reinforcement Learning Engineer, Grasping | Houston | **today** | [Apply](https://zapply.jobs/l/d/ashby-persona.ai-2e1ad9ed-cc2e-436d-93eb-76a5bff239c8?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Skydio** | Autonomy Engineer - ML & DL Infrastructure | San Mateo, California, United... | **today** | [Apply](https://zapply.jobs/l/d/ashby-skydio-b6be08f7-89c0-48dd-b427-f587f23dbf34?s=gh-new-grad-software-engineering-jobs-2027) |
-| **OpenAI** | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Applied AI Engineer, Enterprise | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9?s=gh-new-grad-data-science-jobs-2027) |
 | **Saviynt** | AI Platform Engineer, Training and Inference | Milpitas, California | **today** | [Apply](https://zapply.jobs/l/d/lever-saviynt-9a8661ce-8856-4977-87f4-b06567125e28?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Data Scientist, Ads Demand | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1eb32675-b1a0-4c0a-9b57-19ceab07e9e0?s=gh-new-grad-data-science-jobs-2027) |
@@ -126,6 +126,7 @@ cliff after the first few days of a posting being live.
 | **dentsu** | AI Engineer | Remote - Chicago, IL +2 | **today** | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Chicago---N-State/AI-Engineer_R1131381) |
 | **Elevance Health** | Data Scientist | 4 Locations | **today** | [Apply](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192275?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Research Engineer/Research Scientist- Personal AGI, Model Experience | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | Raleigh, US, North Carolina | **today** | [Apply](https://zapply.jobs/l/d/greenhouse-celonis-7885897003?s=gh-new-grad-data-science-jobs-2027) |
 | **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **1d** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **1d** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
 | **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **1d** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |
@@ -144,7 +145,7 @@ cliff after the first few days of a posting being live.
 | **Guidehouse** | Data Scientist | VA, Arlington | **1d** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-38181?s=gh-new-grad-data-science-jobs-2027) |
 | **Home Depot** | Cybersecurity Software Engineer II ML & AI (Remote) | GEORGIA - VIRTUAL - GA01 | **1d** | [Apply](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193044?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist - Personal AGI, Personality and Model Behavior | San Francisco | **1d** | [Apply](https://zapply.jobs/l/d/ashby-openai-a86d9477-0277-498c-9647-02a257747607?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Data Scientist, Apple Pay | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200683123?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON, Canada | **1d** | [Apply](https://jobright.ai/jobs/info/6aa43f08c1928370a285d3a5) |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Data Scientist New Grad | Toronto, ON, Canada / Toronto, ON | **1d** | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) |
@@ -293,7 +294,7 @@ and autonomy set.
 | **Applied Intuition** | Research Engineer - Robotic Hardware, Simulation and Data | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-4cb44794-7b3b-46fc-9408-104a6d0f379e?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Intuition** | Research Engineer - Robot Learning | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-e725018e-2577-4ff6-8dbd-69206272d9af?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Intuition** | Systems Engineer, Perception - Autonomy Trucking | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-1df42c5c-eab3-4c2b-bd7a-4b2134686d83?s=gh-new-grad-software-engineering-jobs-2027) |
-| **OpenAI** | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Applied AI Engineer, Enterprise | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Data Scientist, Ads Demand | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-1eb32675-b1a0-4c0a-9b57-19ceab07e9e0?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist, Health | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-719cc0f6-ed38-41db-8870-299b4d336f37?s=gh-new-grad-data-science-jobs-2027) |
@@ -354,7 +355,7 @@ and autonomy set.
 | **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200679268/machine-learning-research-engineer-ase-search) |
 | **NVIDIA** | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | **1d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856) |
 | **Apple** | Machine Learning Engineer | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200683023/machine-learning-engineer) |
-| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Data Scientist, Apple Pay | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200683123?s=gh-new-grad-data-science-jobs-2027) |
 | **[Meta](https://simplify.jobs/c/Meta)** | Research Engineer - AI | Montreal, QC, Canada / Montréal, Canada | **1d** | [Apply](https://www.metacareers.com/jobs/1395718268613427) |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering | Markham, ON, Canada | **1d** | [Apply](https://qualcomm.eightfold.ai/careers/job/446721063770) |
@@ -590,6 +591,7 @@ new grads.
 | **TD Bank** | AI2 Data Science Associate (Graduate) | Toronto, ON | **today** | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343?utm_source=aprameyak) |
 | **dentsu** | AI Engineer | Remote - Chicago, IL +2 | **today** | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Chicago---N-State/AI-Engineer_R1131381) |
 | **Elevance Health** | Data Scientist | 4 Locations | **today** | [Apply](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192275?s=gh-new-grad-data-science-jobs-2027) |
+| **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | Raleigh, US, North Carolina | **today** | [Apply](https://zapply.jobs/l/d/greenhouse-celonis-7885897003?s=gh-new-grad-data-science-jobs-2027) |
 | **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **1d** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **1d** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
 | **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **1d** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |

@@ -2768,7 +2768,7 @@
   ],
   "tier": "ai_lab",
   "title": "Machine Learning Engineer, Multimodal Perception and Authentication",
-  "url": "https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-data-science-jobs-2027"
+  "url": "https://zapply.jobs/l/d/ashby-openai-1b268692-70d8-46c2-a347-2f7705b5c174?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -3367,29 +3367,6 @@
   "tier": "bigtech",
   "title": "Research Scientist, Stitch",
   "url": "https://zapply.jobs/l/d/google-140136068971143878?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "NVIDIA",
-  "company_url": null,
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789171200,
-  "id": "8933512ac862",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "US, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Applied AI Engineer",
-  "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018181?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -4259,6 +4236,77 @@
   "tier": "ai_lab",
   "title": "Research Engineer/Research Scientist- Personal AGI, Model Experience",
   "url": "https://zapply.jobs/l/d/ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Saronic",
+  "company_url": "https://simplify.jobs/c/Saronic",
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1782691200,
+  "id": "7d9a51552090",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Austin, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "simplify",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Perception and Autonomy Engineer",
+  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Celonis",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789171200,
+  "id": "5674351c5377",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Raleigh, US, North Carolina"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+  "url": "https://zapply.jobs/l/d/greenhouse-celonis-7885897003?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NVIDIA",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789171200,
+  "id": "8933512ac862",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "US, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Applied AI Engineer",
+  "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018181?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -8001,7 +8049,7 @@
   ],
   "tier": "bigtech",
   "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
-  "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-data-science-jobs-2027"
+  "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -12505,29 +12553,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Lila Sciences",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "7704618d7eb8",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Cambridge, MA USA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML Engineer, Applied AI",
-  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "TD Bank",
   "company_url": "https://td.com/",
   "date_posted": 1788912000,
@@ -12551,29 +12576,6 @@
  {
   "active": true,
   "category": null,
-  "company": "ClickUp",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "79f546f4243b",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer, Ranking & Retrieval",
-  "url": "https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Amgen",
   "company_url": null,
   "date_posted": 1788912000,
@@ -12593,6 +12595,52 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://zapply.jobs/l/d/workday-amgen-careers-R-254531?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lila Sciences",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "7704618d7eb8",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Cambridge, MA USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer, Applied AI",
+  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "ClickUp",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "79f546f4243b",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer, Ranking & Retrieval",
+  "url": "https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -17391,30 +17439,6 @@
   "tier": "other",
   "title": "Associate Data Scientist",
   "url": "https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Saronic",
-  "company_url": "https://simplify.jobs/c/Saronic",
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1782691200,
-  "id": "7d9a51552090",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Perception and Autonomy Engineer",
-  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
  },
  {
   "active": true,
