@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**507** open roles
+**506** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-12 10:57 UTC_
+_Last refreshed: 2026-09-12 14:13 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -112,13 +112,13 @@ cliff after the first few days of a posting being live.
 | **Caterpillar** | Data Scientist / Technical Analyst | Chicago Illinois / Chicago, Illinois | **today** | [Apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392872?s=gh-new-grad-data-science-jobs-2027) |
 | **Applied Intuition** | Research Engineer - AI/RL Infrastructure | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-091ed808-95c9-420b-8061-0ff2eb9342bc?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Intuition** | Research Engineer - Reinforcement Learning, Self-Driving | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-36a49d01-e60f-4c01-8c8c-5a7f79347f51?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **today** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **OpenAI** | Agent Post-Training, Context Research | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-df3edefb-6a8b-4ef6-b183-b3f96051783e?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Agent Post-Training, Frontier Evals and Environments Research | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-9d72171e-2630-4347-83a1-263178644282?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Agent Post-Training Research | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-4acc3515-887f-4bc9-8c2a-00f36ae480c3?s=gh-new-grad-data-science-jobs-2027) |
 | **Plaid** | Data Scientist - Fraud | New York City | **today** | [Apply](https://zapply.jobs/l/d/ashby-plaid-361c4725-ab72-4895-a3aa-9b642f4927a9?s=gh-new-grad-data-science-jobs-2027) |
 | **Pulse** | Software Engineer, Inference | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-pulse-d316e466-7dfe-42f5-af73-215892a658b4?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Intuition** | Research Engineer - 3D Vision and Generation, Self-Driving | Sunnyvale | **today** | [Apply](https://zapply.jobs/l/d/ashby-applied-8da87c90-49ff-4b75-97c5-337882f63a00?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **1d** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **1d** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
 | **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **1d** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |
 | **ByteDance** | Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027... | San Jose, California | **1d** | [Apply](https://joinbytedance.com/search/7668208806895831349) |
@@ -140,7 +140,7 @@ cliff after the first few days of a posting being live.
 | **OpenAI** | Research Engineer / Research Scientist - Personal AGI, Personality and Model Behavior | San Francisco | **1d** | [Apply](https://zapply.jobs/l/d/ashby-openai-a86d9477-0277-498c-9647-02a257747607?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Data Scientist, Apple Pay | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200683123?s=gh-new-grad-data-science-jobs-2027) |
-| **[Garner Health](https://simplify.jobs/c/Garner-Health)** | Associate Applied Scientist | NYC | **1d** | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) |
+| **[Garner Health](https://simplify.jobs/c/Garner-Health)** | Associate Applied Scientist | NYC / New York City, New York | **1d** | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) |
 | **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON, Canada | **1d** | [Apply](https://jobright.ai/jobs/info/6aa43f08c1928370a285d3a5) |
 | **[Julius Baer](https://www.juliusbaer.com)** | University Graduate - Machine Learning Engineer 100% - f/m/d | Zurich, Switzerland | **1d** | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1) |
 | **[Roche](https://roche.com/)** | Machine Learning Engineer | Basel, Switzerland | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3) |
@@ -184,7 +184,6 @@ cliff after the first few days of a posting being live.
 | **Autodesk** | Data Scientist, FP&A Solutions | California | **2d** | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Scientist--FP-A-Solutions_26WD100824-1) |
 | **General Motors** | ML Systems Engineer, Data Labeling Engineering - Early Career | Sunnyvale, California, United... | **2d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) |
 | **[Omnicom Group](https://simplify.jobs/c/Omnicom-Group)** | Data Science Analyst | Toronto, ON, Canada | **2d** | [Apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132) |
-| **Micron** | Full-Stack AI Engineer | Boise, ID - Main Site | **2d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377) |
 | **Apple** | Machine Learning Engineer - Video Generation Models | San Diego Metro Area | **2d** | [Apply](https://jobs.apple.com/en-us/details/200682734/machine-learning-engineer-video-generation-models) |
 | **GE Vernova** | AI Engineer | Greenville | **2d** | [Apply](https://www.dreamworkhq.com/job/a76f2535-cb05-47f7-ad3a-b6f0cd5ab0ab?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **GE Vernova** | Data Scientist | Greenville | **2d** | [Apply](https://www.dreamworkhq.com/job/5624232e-8112-4561-a153-2208dc58113c?utm_source=github&utm_campaign=gh-new-grad-swe) |
@@ -410,8 +409,8 @@ and autonomy set.
 | **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - Global E-Commerce - Platform Governance - 2027 Start | Singapore | 24d | [Apply](https://lifeattiktok.com/search/7675270779895449861) |
 | **Amazon** | Applied Scientist (2026-27 Campus, International Technology Team), Shanghai | Shanghai, CHN | 25d | [Apply](https://account.amazon.jobs/jobs/10504493/apply) |
 | **[Amazon](https://www.amazon.com)** | Machine Learning Engineer - Amazon Music - Catalog Quality | Bengaluru, India | 29d | [Apply](https://www.amazon.jobs/jobs/10510881/apply) |
-| **NVIDIA** | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | US, CA, Santa Clara | 31d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1) |
-| **NVIDIA** | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 31d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
+| **NVIDIA** | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | US, CA, Santa Clara | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1) |
+| **NVIDIA** | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | Singapore | 36d | [Apply](https://lifeattiktok.com/search/7670832868019030277) |
 | **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Responsibility-Data Science - 2027 Start | Singapore | 36d | [Apply](https://lifeattiktok.com/search/7670831846025136389) |
 | **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok BRIC Singapore - 2027 Start | Singapore | 39d | [Apply](https://lifeattiktok.com/search/7669769460664174901) |
@@ -569,9 +568,9 @@ new grads.
 | **F5** | SRE, AI Inference Engineer | San Jose | **today** | [Apply](https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038660?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Machine Learning Engineer, AI Inference Solutions (Early in Career) | Sunnyvale, California, United... | **today** | [Apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202610103?s=gh-new-grad-data-science-jobs-2027) |
 | **Caterpillar** | Data Scientist / Technical Analyst | Chicago Illinois / Chicago, Illinois | **today** | [Apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392872?s=gh-new-grad-data-science-jobs-2027) |
-| **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **today** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Plaid** | Data Scientist - Fraud | New York City | **today** | [Apply](https://zapply.jobs/l/d/ashby-plaid-361c4725-ab72-4895-a3aa-9b642f4927a9?s=gh-new-grad-data-science-jobs-2027) |
 | **Pulse** | Software Engineer, Inference | San Francisco | **today** | [Apply](https://zapply.jobs/l/d/ashby-pulse-d316e466-7dfe-42f5-af73-215892a658b4?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Blue Origin** | Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required) | Greater Seattle Area | **1d** | [Apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | **1d** | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20186338?s=gh-new-grad-data-science-jobs-2027) |
 | **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | **1d** | [Apply](https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR5864?s=gh-new-grad-data-science-jobs-2027) |
 | **[The Cigna Group](https://www.cigna.com)** | Machine Learning Associate Analyst - HIH - Evernorth | Hyderabad, India | **1d** | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450) |
@@ -585,7 +584,7 @@ new grads.
 | **Guidehouse** | Junior Data Scientist | VA Arlington | **1d** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-44323?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Data Scientist | VA, Arlington | **1d** | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-38181?s=gh-new-grad-data-science-jobs-2027) |
 | **Home Depot** | Cybersecurity Software Engineer II ML & AI (Remote) | GEORGIA - VIRTUAL - GA01 | **1d** | [Apply](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193044?s=gh-new-grad-software-engineering-jobs-2027) |
-| **[Garner Health](https://simplify.jobs/c/Garner-Health)** | Associate Applied Scientist | NYC | **1d** | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) |
+| **[Garner Health](https://simplify.jobs/c/Garner-Health)** | Associate Applied Scientist | NYC / New York City, New York | **1d** | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) |
 | **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON, Canada | **1d** | [Apply](https://jobright.ai/jobs/info/6aa43f08c1928370a285d3a5) |
 | **[Julius Baer](https://www.juliusbaer.com)** | University Graduate - Machine Learning Engineer 100% - f/m/d | Zurich, Switzerland | **1d** | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1) |
 | **[Roche](https://roche.com/)** | Machine Learning Engineer | Basel, Switzerland | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3) |
@@ -601,7 +600,6 @@ new grads.
 | **Autodesk** | Data Scientist, FP&A Solutions | California | **2d** | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Scientist--FP-A-Solutions_26WD100824-1) |
 | **General Motors** | ML Systems Engineer, Data Labeling Engineering - Early Career | Sunnyvale, California, United... | **2d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) |
 | **[Omnicom Group](https://simplify.jobs/c/Omnicom-Group)** | Data Science Analyst | Toronto, ON, Canada | **2d** | [Apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132) |
-| **Micron** | Full-Stack AI Engineer | Boise, ID - Main Site | **2d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377) |
 | **GE Vernova** | AI Engineer | Greenville | **2d** | [Apply](https://www.dreamworkhq.com/job/a76f2535-cb05-47f7-ad3a-b6f0cd5ab0ab?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **GE Vernova** | Data Scientist | Greenville | **2d** | [Apply](https://www.dreamworkhq.com/job/5624232e-8112-4561-a153-2208dc58113c?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Ns Eeh** | Data Scientist I - Epic Model Monitoring | NSO 4901 Searle Parkway Corporate Office Skokie | **2d** | [Apply](https://www.dreamworkhq.com/job/8e52d822-81d6-48c1-a77b-55be3b24d18f?utm_source=github&utm_campaign=gh-new-grad-swe) |

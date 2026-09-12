@@ -2330,7 +2330,7 @@
   ],
   "tier": "ai_lab",
   "title": "Machine Learning Engineer - Behavior Models for Road Users",
-  "url": "https://zapply.jobs/l/d/lever-zoox-d736debf-c361-4a7c-81fd-6c3125ab03c0?s=gh-new-grad-software-engineering-jobs-2027"
+  "url": "https://zapply.jobs/l/d/lever-zoox-d736debf-c361-4a7c-81fd-6c3125ab03c0?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -3723,29 +3723,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Blue Origin",
-  "company_url": null,
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789084800,
-  "id": "f528e422c8fb",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Greater Seattle Area"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required)",
-  "url": "https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "OpenAI",
   "company_url": null,
   "date_posted": 1789171200,
@@ -3951,6 +3928,98 @@
   "tier": "ai_lab",
   "title": "Research Engineer - 3D Vision and Generation, Self-Driving",
   "url": "https://zapply.jobs/l/d/ashby-applied-8da87c90-49ff-4b75-97c5-337882f63a00?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8f197bd9461e",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - World Modeling",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-adc38d88-64c7-4b26-9d45-ae287e178df6?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789171200,
+  "id": "d0a92ecbbff0",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - NLP",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-6a4c7a41-983f-4c06-b785-c2deb5cd3f5d?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Institute for Foundation Models",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789171200,
+  "id": "3ab8183b2513",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Reinforcement Learning",
+  "url": "https://zapply.jobs/l/d/lever-ifm-us-d8b60486-03aa-4ba1-9634-b2b49f9e09d4?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Blue Origin",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "f528e422c8fb",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Greater Seattle Area"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Aerospace Systems Engineer II - Fault Management & System Autonomy - Blue Ring (TS/SCI Required)",
+  "url": "https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71301?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -7648,29 +7717,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Institute for Foundation Models",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
-  "id": "8f197bd9461e",
-  "is_usa": true,
-  "last_seen": 1789084800,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist - World Modeling",
-  "url": "https://zapply.jobs/l/d/lever-ifm-us-adc38d88-64c7-4b26-9d45-ae287e178df6?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Apple",
   "company_url": null,
   "date_posted": 1789084800,
@@ -8129,6 +8175,29 @@
   "tier": "other",
   "title": "Machine Learning Engineer, AI Inference Solutions (University Grad)",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Garner Health",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8128bc07de01",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "New York City, New York"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Associate Applied Scientist",
+  "url": "https://zapply.jobs/l/d/greenhouse-garnerhealth-6174213004?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -10456,29 +10525,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Micron",
-  "company_url": null,
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "c543912587dd",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Boise, ID - Main Site"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "other",
-  "title": "Full-Stack AI Engineer",
-  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Qualcomm",
   "company_url": null,
   "date_posted": 1788998400,
@@ -10973,7 +11019,7 @@
   "category": null,
   "company": "GDIT",
   "company_url": null,
-  "date_posted": 1788998400,
+  "date_posted": 1788912000,
   "experience": null,
   "family": "ds",
   "first_seen": 1788912000,
@@ -18391,29 +18437,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Amazon",
-  "company_url": null,
-  "date_posted": 1787788800,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1787788800,
-  "id": "c44d7ba8fc29",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, Washington, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "bigtech",
-  "title": "Software Development Engineer , Project Dawn",
-  "url": "https://www.amazon.jobs/en/jobs/10517671/software-development-engineer-project-dawn"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Qualcomm",
   "company_url": null,
   "date_posted": 1787788800,
@@ -23364,6 +23387,128 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "NVIDIA",
+  "company_url": "https://simplify.jobs/c/NVIDIA",
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1784937600,
+  "id": "2a7090bf0e66",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Seattle, WA",
+   "US, WA, Seattle"
+  ],
+  "salary": null,
+  "sources": [
+   "harrycodingnow",
+   "simplify"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist New Grad - Robotics Research",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "NVIDIA",
+  "company_url": "https://simplify.jobs/c/NVIDIA",
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1775779200,
+  "id": "56c6e61cd54d",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Santa Clara, CA",
+   "US, CA, Santa Clara"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "harrycodingnow",
+   "simplify"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "NVIDIA",
+  "company_url": "https://simplify.jobs/c/NVIDIA",
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786406400,
+  "id": "b9f622a75045",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Santa Clara, CA",
+   "US, CA, Santa Clara"
+  ],
+  "salary": null,
+  "sources": [
+   "harrycodingnow",
+   "simplify"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist - Electronic Design Automation",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NVIDIA",
+  "company_url": null,
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786406400,
+  "id": "f172666a49e6",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "salary": null,
+  "sources": [
+   "harrycodingnow"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist, Human\u2011AI Perception and Interaction Research - PhD New College Grad 2026",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "NVIDIA",
+  "company_url": null,
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786406400,
+  "id": "162202711eb3",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "salary": null,
+  "sources": [
+   "harrycodingnow"
+  ],
+  "tier": "bigtech",
+  "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698"
+ },
+ {
+  "active": true,
   "category": "AI / Machine Learning",
   "company": "ByteDance",
   "company_url": null,
@@ -23870,128 +24015,6 @@
   "tier": "other",
   "title": "GenAI Engineer, Associate",
   "url": "https://www.dreamworkhq.com/job/a9f812c6-ac59-44b4-9d82-8ce79a54fcd2?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "NVIDIA",
-  "company_url": "https://simplify.jobs/c/NVIDIA",
-  "date_posted": 1786492800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1784937600,
-  "id": "2a7090bf0e66",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA",
-   "US, WA, Seattle"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow",
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist New Grad - Robotics Research",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "NVIDIA",
-  "company_url": "https://simplify.jobs/c/NVIDIA",
-  "date_posted": 1786492800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1775779200,
-  "id": "56c6e61cd54d",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Santa Clara, CA",
-   "US, CA, Santa Clara"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "harrycodingnow",
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "NVIDIA",
-  "company_url": "https://simplify.jobs/c/NVIDIA",
-  "date_posted": 1786492800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786406400,
-  "id": "b9f622a75045",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Santa Clara, CA",
-   "US, CA, Santa Clara"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow",
-   "simplify"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist - Electronic Design Automation",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "NVIDIA",
-  "company_url": null,
-  "date_posted": 1786492800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786406400,
-  "id": "f172666a49e6",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "US, CA, Santa Clara"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist, Human\u2011AI Perception and Interaction Research - PhD New College Grad 2026",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "NVIDIA",
-  "company_url": null,
-  "date_posted": 1786492800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786406400,
-  "id": "162202711eb3",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "US, CA, Santa Clara"
-  ],
-  "salary": null,
-  "sources": [
-   "harrycodingnow"
-  ],
-  "tier": "bigtech",
-  "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698"
  },
  {
   "active": true,
