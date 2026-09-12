@@ -2749,32 +2749,6 @@
  },
  {
   "active": true,
-  "category": "Software",
-  "company": "Rover",
-  "company_url": "https://simplify.jobs/c/Rover",
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "38d7547ed0f7",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "salary": "$99,719\u2013$128,513",
-  "sources": [
-   "applyguy",
-   "coconight",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Software Engineer - Recommendations",
-  "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply"
- },
- {
-  "active": true,
   "category": null,
   "company": "OpenAI",
   "company_url": null,
@@ -3070,7 +3044,7 @@
   ],
   "tier": "ai_lab",
   "title": "Research Engineer / Research Scientist, Health",
-  "url": "https://zapply.jobs/l/d/ashby-openai-719cc0f6-ed38-41db-8870-299b4d336f37?s=gh-new-grad-software-engineering-jobs-2027"
+  "url": "https://zapply.jobs/l/d/ashby-openai-719cc0f6-ed38-41db-8870-299b4d336f37?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -3791,31 +3765,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Saronic",
-  "company_url": "https://simplify.jobs/c/Saronic",
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1782691200,
-  "id": "7d9a51552090",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Austin, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "simplify",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Perception and Autonomy Engineer",
-  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
- },
- {
-  "active": true,
   "category": null,
   "company": "Plaid",
   "company_url": null,
@@ -4117,370 +4066,225 @@
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "OpenAI",
   "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789171200,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "7b29d28c1d85",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (TikTok Global Live) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668845522007722245"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "14632b709838",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer - TikTok Search Engine",
-  "url": "https://lifeattiktok.com/search/7674029284265838853"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "c5a44fe0f2e4",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7665986019233958197"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "e85cf76ef802",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency",
-  "url": "https://lifeattiktok.com/search/7325559906483996978"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "b17f34f13d01",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668582086900680965"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "d3f1ebe1aec0",
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "ec92bab98003",
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Sydney, New South Wales, Australia"
+   "San Francisco"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "zapply"
   ],
-  "tier": "bigtech",
-  "title": "Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)",
-  "url": "https://lifeattiktok.com/search/7657821105365027077"
+  "tier": "ai_lab",
+  "title": "People Research Scientist",
+  "url": "https://zapply.jobs/l/d/ashby-openai-5a682b9f-ef1a-4e47-813a-72b23414d43e?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 0,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "dcdb7d7708b0",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7675829388634392837"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
+  "category": "AI/ML/Data",
+  "company": "Garner Health",
+  "company_url": "https://simplify.jobs/c/Garner-Health",
+  "date_posted": 1789171200,
   "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "24962c917cba",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7668724383120804149"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 1,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "faa17f31e130",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, AI Agent",
-  "url": "https://lifeattiktok.com/search/7626968373985429765"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "6017dfe36177",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Pangle - SIA",
-  "url": "https://lifeattiktok.com/search/7639632990934960389"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "c63e890710d1",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, California, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer, Ads Integrity",
-  "url": "https://lifeattiktok.com/search/7231665935751940413"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 3,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "c21885bc7ec4",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Software Engineer \u2013 Global E-Commerce Search Infrastructure (TikTok Shop)",
-  "url": "https://lifeattiktok.com/search/7576817735755516213"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 3,
-  "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "91710c25172c",
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "c5e652a7edd6",
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore, Singapore, Singapore"
+   "NYC",
+   "New York City, NY"
   ],
-  "salary": null,
+  "salary": "Not listed",
   "sources": [
-   "ats"
+   "coconight",
+   "simplify",
+   "speedyapply"
   ],
-  "tier": "bigtech",
-  "title": "Backend Engineer , AML Engine Orchestration",
-  "url": "https://lifeattiktok.com/search/7542714368766396680"
+  "tier": "other",
+  "title": "Associate Applied Scientist",
+  "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Mercor",
+  "company_url": "https://simplify.jobs/c/Mercor",
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1770940800,
+  "id": "cc576e474ec2",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "SF",
+   "San Francisco"
+  ],
+  "salary": {
+   "currency": "USD",
+   "interval": "1 YEAR",
+   "max": 500000,
+   "min": 130000,
+   "source": "ashby"
+  },
+  "sources": [
+   "ricsign",
+   "simplify",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
-  "company_url": null,
-  "date_posted": null,
-  "experience": 2,
-  "family": "swe_ml",
+  "company": "Booz Allen",
+  "company_url": "https://www.boozallen.com",
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ds",
   "first_seen": 1789171200,
-  "id": "4f2301fc23ec",
+  "id": "d1f81c44384c",
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, California, United States of America"
+   "Washington, DC"
   ],
-  "salary": null,
+  "salary": "Not listed",
   "sources": [
-   "ats"
+   "coconight",
+   "speedyapply"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer - Infrastructure, TikTok Search Engine",
-  "url": "https://lifeattiktok.com/search/7280570149262117179"
+  "tier": "other",
+  "title": "Data Scientist - Junior",
+  "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Data-Scientist--Junior_R0248942"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "TD Bank",
   "company_url": null,
-  "date_posted": null,
-  "experience": 3,
-  "family": "swe_ml",
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ds",
   "first_seen": 1789171200,
-  "id": "7c78db69616b",
-  "is_usa": true,
+  "id": "efaee14304db",
+  "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, California, United States of America"
+   "Toronto, ON"
   ],
   "salary": null,
   "sources": [
-   "ats"
+   "aprameyak"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer, TikTok Brand Ads",
-  "url": "https://lifeattiktok.com/search/6846876125122349325"
+  "tier": "other",
+  "title": "AI2 Data Science Associate (Graduate)",
+  "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": "AI / Machine Learning",
+  "company": "dentsu",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789171200,
+  "id": "36859b29016c",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Remote - Chicago, IL +2"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight"
+  ],
+  "tier": "other",
+  "title": "AI Engineer",
+  "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Chicago---N-State/AI-Engineer_R1131381"
  },
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
+  "company": "Elevance Health",
   "company_url": null,
-  "date_posted": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789171200,
+  "id": "05f92fc0da60",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "4 Locations"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192275?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "OpenAI",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789171200,
+  "id": "473489e59b7d",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "San Francisco"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer/Research Scientist- Personal AGI, Model Experience",
+  "url": "https://zapply.jobs/l/d/ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "Software",
+  "company": "Rover",
+  "company_url": "https://simplify.jobs/c/Rover",
+  "date_posted": 1789084800,
   "experience": null,
   "family": "swe_ml",
-  "first_seen": 1789171200,
-  "id": "047cb8451928",
+  "first_seen": 1788998400,
+  "id": "38d7547ed0f7",
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, California, United States of America"
+   "Seattle, WA"
   ],
-  "salary": null,
+  "salary": "$99,719\u2013$128,513",
   "sources": [
-   "ats"
+   "applyguy",
+   "coconight",
+   "simplify",
+   "speedyapply"
   ],
-  "tier": "bigtech",
-  "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
-  "url": "https://lifeattiktok.com/search/7527441329384147208"
+  "tier": "other",
+  "title": "Software Engineer - Recommendations",
+  "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply"
  },
  {
   "active": true,
@@ -7716,29 +7520,6 @@
  {
   "active": true,
   "category": null,
-  "company": "OpenAI",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
-  "id": "ec92bab98003",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "San Francisco"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "People Research Scientist",
-  "url": "https://zapply.jobs/l/d/ashby-openai-5a682b9f-ef1a-4e47-813a-72b23414d43e?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Google",
   "company_url": null,
   "date_posted": 1789084800,
@@ -7983,7 +7764,8 @@
   ],
   "salary": null,
   "sources": [
-   "simplify"
+   "simplify",
+   "speedyapply"
   ],
   "tier": "other",
   "title": "Computer Vision and Deep Learning Engineer - Product Design Services",
@@ -8219,7 +8001,7 @@
   ],
   "tier": "bigtech",
   "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
-  "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027"
+  "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -8232,7 +8014,7 @@
   "first_seen": 1789084800,
   "id": "22a1ff447ae0",
   "is_usa": false,
-  "last_seen": 1789084800,
+  "last_seen": 1789171200,
   "locations": [
    "Cupertino"
   ],
@@ -8243,29 +8025,6 @@
   "tier": "bigtech",
   "title": "Data Scientist, Apple Pay",
   "url": "https://zapply.jobs/l/d/apple-200683123?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Garner Health",
-  "company_url": "https://simplify.jobs/c/Garner-Health",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
-  "id": "c5e652a7edd6",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "NYC"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Associate Applied Scientist",
-  "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004"
  },
  {
   "active": true,
@@ -8289,167 +8048,6 @@
   "tier": "other",
   "title": "Associate, Data Scientist - New Grad, 2027 Start",
   "url": "https://jobright.ai/jobs/info/6aa43f08c1928370a285d3a5"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Julius Baer",
-  "company_url": "https://www.juliusbaer.com",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "0770472cd52a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Zurich, Switzerland"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "University Graduate - Machine Learning Engineer 100% - f/m/d",
-  "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Roche",
-  "company_url": "https://roche.com/",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "470c81ac614a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Basel, Switzerland"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer",
-  "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Apple",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "45db56d9a714",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Austin"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Data Scientist, AI/ML Model Quality",
-  "url": "https://zapply.jobs/l/d/apple-200676435?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Lowe's",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "7033474c6b1a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Lowe's Charlotte Technology Hub..."
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02622175?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Peraton",
-  "company_url": "https://www.peraton.com",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "a8078f4dd474",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Herndon, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Science - Associate - Herndon - VA",
-  "url": "https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Everseen",
-  "company_url": "https://everseen.com/",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788998400,
-  "id": "3b6e06cab918",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Pune, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI/ML Engineer I",
-  "url": "https://jobs.eu.lever.co/everseen/3f359b17-799c-4670-8d80-12a7afb56164"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Intact",
-  "company_url": "https://intactfc.com/",
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788998400,
-  "id": "b031ce57f851",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Hong Kong, Hong Kong"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist I - HK - Winter 2027",
-  "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626"
  },
  {
   "active": true,
@@ -8512,11 +8110,13 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Montreal, QC, Canada"
+   "Montreal, QC, Canada",
+   "Montr\u00e9al, Canada"
   ],
   "salary": null,
   "sources": [
-   "simplify"
+   "simplify",
+   "speedyapply"
   ],
   "tier": "bigtech",
   "title": "Research Engineer - AI",
@@ -8728,6 +8328,374 @@
   "tier": "other",
   "title": "Junior AI Engineer (Pittsburgh, PA)",
   "url": "https://www.dreamworkhq.com/job/2a6362d6-f72e-4fcc-87a2-1a4a01f2a53a?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Guidehouse",
+  "company_url": "https://guidehouse.com",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "373950023f3d",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Arlington, VA +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Junior Data Scientist",
+  "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Junior-Data-Scientist_44323"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Accenture",
+  "company_url": "https://www.accenture.com",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "1f9562e2d35c",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Bengaluru, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Computational Science Associate",
+  "url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Associate_AIOC-S01665345-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Bosch",
+  "company_url": "https://www.bosch.com/",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f4ea7a9d07e3",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Botswana"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "PhD - Scalable and Efficient Reinforcement Learning Methods for Physical AI",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148957620-phd-scalable-and-efficient-reinforcement-learning-methods-for-physical-ai?oga=true"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Capital One",
+  "company_url": "https://www.capitalone.com",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "daad34076fe3",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Toronto, Canada",
+   "Toronto, ON, Canada"
+  ],
+  "salary": "$110K/yr - $110K/yr",
+  "sources": [
+   "coconight",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate - Data Scientist - New Grad - 2027 Start",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "FactSet",
+  "company_url": "https://www.factset.com/",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "f9f805cd602d",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Hyderabad, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://factset.wd108.myworkdayjobs.com/en-US/factsetcareers/job/Hyderabad-IND/Machine-Learning-Engineer_R32896"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "IQVIA",
+  "company_url": "https://www.iqvia.com",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "f3a041e60971",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "S\u00e3o Paulo, Brazil"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Jr. Data Scientist",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/So-Paulo-Brazil/AI---Advanced-Analytics-Consultant_R1554031"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "PayPal",
+  "company_url": "https://www.paypal.com",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "81b528dfb7f7",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Tokyo, Japan"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Data-Scientist_R0137264"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Penn State",
+  "company_url": "https://psu.edu",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789084800,
+  "id": "b948779eb811",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Artificial Intelligence/Machine Learning Data Science Engineer",
+  "url": "https://psu.wd1.myworkdayjobs.com/en-US/psu_staff/job/Penn-State-University-Park/Artificial-Intelligence-Machine-Learning-Data-Science-Engineer_REQ_0000081805-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Home Depot",
+  "company_url": "https://homedepot.com/",
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1789084800,
+  "id": "f9dd55faa11c",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Remote - Georgia, USA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Cybersecurity Software Engineer II - ML & AI - Remote",
+  "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Cybersecurity-Software-Engineer-II---ML---AI--Remote-_Req193044"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Julius Baer",
+  "company_url": "https://www.juliusbaer.com",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "0770472cd52a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Zurich, Switzerland"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "University Graduate - Machine Learning Engineer 100% - f/m/d",
+  "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Roche",
+  "company_url": "https://roche.com/",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "470c81ac614a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Basel, Switzerland"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer",
+  "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "45db56d9a714",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Austin"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Scientist, AI/ML Model Quality",
+  "url": "https://zapply.jobs/l/d/apple-200676435?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lowe's",
+  "company_url": null,
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "7033474c6b1a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Lowe's Charlotte Technology Hub..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02622175?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Peraton",
+  "company_url": "https://www.peraton.com",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "a8078f4dd474",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Herndon, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Science - Associate - Herndon - VA",
+  "url": "https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Everseen",
+  "company_url": "https://everseen.com/",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788998400,
+  "id": "3b6e06cab918",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Pune, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI/ML Engineer I",
+  "url": "https://jobs.eu.lever.co/everseen/3f359b17-799c-4670-8d80-12a7afb56164"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Intact",
+  "company_url": "https://intactfc.com/",
+  "date_posted": 1788998400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788998400,
+  "id": "b031ce57f851",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Hong Kong, Hong Kong"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist I - HK - Winter 2027",
+  "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626"
  },
  {
   "active": true,
@@ -11307,107 +11275,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Waymo",
-  "company_url": "https://simplify.jobs/c/Waymo",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1773187200,
-  "id": "44d228b2a3ed",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "SF",
-   "Mountain View, CA",
-   "New York City, NY +2",
-   "Mountain View, CA USA",
-   "San Francisco, CA USA",
-   "Mountain View (US-MTV-EMF680)",
-   "San Francisco (US-SFO-MKT555)"
-  ],
-  "salary": "$213,000\u2014$263,000",
-  "sources": [
-   "coconight",
-   "ricsign",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD",
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "CFC",
-  "company_url": "https://www.cfc.com",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788912000,
-  "id": "7a8c74ce39c2",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "London, United Kingdom"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://cfc.pinpointhq.com/en/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Clera",
-  "company_url": "https://www.getclera.com/",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "43acd77b798a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Munich, Germany"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI Engineer - Model Training and Deployment",
-  "url": "https://jobs.ashbyhq.com/clera/ed13a7e4-ec78-4117-afd2-c4df5a9b7305"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Etsy",
-  "company_url": "https://etsy.com/",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "336539e6a98f",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Brooklyn, NY"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Machine Learning Engineer II - Fulfillment",
-  "url": "https://etsy.wd5.myworkdayjobs.com/en-US/etsy_careers/job/Brooklyn-New-York/Machine-Learning-Engineer-II--Fulfillment_JR5859-1"
- },
- {
-  "active": true,
   "category": null,
   "company": "ING",
   "company_url": "https://www.ing.com/",
@@ -11428,98 +11295,6 @@
   "tier": "other",
   "title": "Junior Data Scientist",
   "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426-2"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Jane Street",
-  "company_url": "https://www.janestreet.com",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "quant",
-  "first_seen": 1788912000,
-  "id": "4703b8a234dd",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Hong Kong"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "quant",
-  "title": "Quantitative Researcher Full-Time: New Grad",
-  "url": "https://www.janestreet.com/join-jane-street/position/8754684002"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "CIBC",
-  "company_url": "https://cibc.com",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788912000,
-  "id": "22fa0adb2d45",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Toronto, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - GTB - Winter 2027 Analyst - 8 Months",
-  "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Scientist--GTB--Winter-2027-Analyst--8-Months-_2618525"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Houst",
-  "company_url": "http://www.houst.com/",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788912000,
-  "id": "df0e90a52ed2",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Cape Town, South Africa"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Science & Pricing Graduate",
-  "url": "https://apply.workable.com/houst/j/60EFBF3E1C/"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TD Bank",
-  "company_url": "https://td.com/",
-  "date_posted": 1788998400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "cb85f298a2f2",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Toronto, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AL/ML Engineer I",
-  "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AL-ML-Engineer-I_R_1509055"
  },
  {
   "active": true,
@@ -11612,6 +11387,199 @@
   "tier": "other",
   "title": "Data Scientist I - Customer Lifecycle",
   "url": "https://www.dreamworkhq.com/job/99df999a-bb09-4718-b731-c31807aa297b?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Waymo",
+  "company_url": "https://simplify.jobs/c/Waymo",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1773187200,
+  "id": "44d228b2a3ed",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "SF",
+   "Mountain View, CA",
+   "New York City, NY +2",
+   "Mountain View, CA USA",
+   "San Francisco, CA USA",
+   "Mountain View (US-MTV-EMF680)",
+   "San Francisco (US-SFO-MKT555)"
+  ],
+  "salary": "$213,000\u2014$263,000",
+  "sources": [
+   "coconight",
+   "ricsign",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CFC",
+  "company_url": "https://www.cfc.com",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "7a8c74ce39c2",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "London, United Kingdom"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://cfc.pinpointhq.com/en/postings/bd58dc95-61d4-4994-8139-85ad5e0cf15e"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Clera",
+  "company_url": "https://www.getclera.com/",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "43acd77b798a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Munich, Germany"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI Engineer - Model Training and Deployment",
+  "url": "https://jobs.ashbyhq.com/clera/ed13a7e4-ec78-4117-afd2-c4df5a9b7305"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Etsy",
+  "company_url": "https://etsy.com/",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "336539e6a98f",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Brooklyn, NY"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Machine Learning Engineer II - Fulfillment",
+  "url": "https://etsy.wd5.myworkdayjobs.com/en-US/etsy_careers/job/Brooklyn-New-York/Machine-Learning-Engineer-II--Fulfillment_JR5859-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Jane Street",
+  "company_url": "https://www.janestreet.com",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1788912000,
+  "id": "4703b8a234dd",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Hong Kong"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "quant",
+  "title": "Quantitative Researcher Full-Time: New Grad",
+  "url": "https://www.janestreet.com/join-jane-street/position/8754684002"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "CIBC",
+  "company_url": "https://cibc.com",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "22fa0adb2d45",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - GTB - Winter 2027 Analyst - 8 Months",
+  "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Scientist--GTB--Winter-2027-Analyst--8-Months-_2618525"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Houst",
+  "company_url": "http://www.houst.com/",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788912000,
+  "id": "df0e90a52ed2",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Cape Town, South Africa"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Science & Pricing Graduate",
+  "url": "https://apply.workable.com/houst/j/60EFBF3E1C/"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TD Bank",
+  "company_url": "https://td.com/",
+  "date_posted": 1788912000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "cb85f298a2f2",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AL/ML Engineer I",
+  "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AL-ML-Engineer-I_R_1509055"
  },
  {
   "active": true,
@@ -12114,8 +12082,8 @@
    "harrycodingnow"
   ],
   "tier": "bigtech",
-  "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267"
+  "title": "Research Scientist, AI for Graphics and Gaming - New College Grad",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -12376,29 +12344,6 @@
  {
   "active": true,
   "category": null,
-  "company": "TD Bank",
-  "company_url": "https://td.com/",
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788825600,
-  "id": "df16b98dea57",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Toronto, Canada"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "AI2 Applied Machine Learning Scientist - Graduate",
-  "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1"
- },
- {
-  "active": true,
-  "category": null,
   "company": "CACI",
   "company_url": null,
   "date_posted": 1788912000,
@@ -12537,29 +12482,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Anthropic",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "31f327149985",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Remote-Friendly (Travel..."
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "ai_lab",
-  "title": "Research Engineer, Takeoff Intel",
-  "url": "https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Apple",
   "company_url": null,
   "date_posted": 1788912000,
@@ -12602,55 +12524,6 @@
   "tier": "other",
   "title": "ML Engineer, Applied AI",
   "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Jobgether",
-  "company_url": "https://jobgether.com/home",
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788825600,
-  "id": "38d5fe4e44b5",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist Talent Network",
-  "url": "https://jobs.lever.co/jobgether/fa798486-a9a6-46cc-9eeb-c13c41c36294"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Applied Materials",
-  "company_url": "https://www.appliedmaterials.com",
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788825600,
-  "id": "1746e97ef945",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Santa Clara, CA",
-   "Santa Clara,CA"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq",
-   "speedyapply",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA",
-  "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059"
  },
  {
   "active": true,
@@ -12720,6 +12593,101 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://zapply.jobs/l/d/workday-amgen-careers-R-254531?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TD Bank",
+  "company_url": "https://td.com/",
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788825600,
+  "id": "df16b98dea57",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "AI2 Applied Machine Learning Scientist - Graduate",
+  "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Anthropic",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "31f327149985",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Remote-Friendly (Travel..."
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "ai_lab",
+  "title": "Research Engineer, Takeoff Intel",
+  "url": "https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Jobgether",
+  "company_url": "https://jobgether.com/home",
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788825600,
+  "id": "38d5fe4e44b5",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist Talent Network",
+  "url": "https://jobs.lever.co/jobgether/fa798486-a9a6-46cc-9eeb-c13c41c36294"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Applied Materials",
+  "company_url": "https://www.appliedmaterials.com",
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788825600,
+  "id": "1746e97ef945",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Santa Clara, CA",
+   "Santa Clara,CA"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq",
+   "speedyapply",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA",
+  "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059"
  },
  {
   "active": true,
@@ -14086,7 +14054,7 @@
   "category": null,
   "company": "TransUnion",
   "company_url": "https://www.transunion.com",
-  "date_posted": 1788825600,
+  "date_posted": 1788739200,
   "experience": null,
   "family": "ds",
   "first_seen": 1788739200,
@@ -14109,7 +14077,7 @@
   "category": null,
   "company": "Bosch",
   "company_url": "https://www.bosch.com/",
-  "date_posted": 1788825600,
+  "date_posted": 1788739200,
   "experience": null,
   "family": "ml",
   "first_seen": 1788739200,
@@ -14132,7 +14100,7 @@
   "category": null,
   "company": "SIXT",
   "company_url": "https://www.sixt.com/",
-  "date_posted": 1788825600,
+  "date_posted": 1788739200,
   "experience": null,
   "family": "ds",
   "first_seen": 1788739200,
@@ -14155,7 +14123,7 @@
   "category": null,
   "company": "Lodestar",
   "company_url": "https://lodestar.space",
-  "date_posted": 1788825600,
+  "date_posted": 1788739200,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1788825600,
@@ -14388,7 +14356,7 @@
   "category": null,
   "company": "Syneos Health",
   "company_url": "https://www.syneoshealth.com/",
-  "date_posted": 1788652800,
+  "date_posted": 1788566400,
   "experience": null,
   "family": "ds",
   "first_seen": 1788652800,
@@ -14612,32 +14580,6 @@
  },
  {
   "active": true,
-  "category": "AI/ML/Data",
-  "company": "Snowflake",
-  "company_url": "https://simplify.jobs/c/Snowflake",
-  "date_posted": 1788566400,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788566400,
-  "id": "328e35b89b83",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "aprameyak",
-   "coconight",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
-  "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application"
- },
- {
-  "active": true,
   "category": null,
   "company": "Booz Allen",
   "company_url": "https://www.boozallen.com",
@@ -14661,10 +14603,59 @@
  },
  {
   "active": true,
+  "category": "ai_explicit",
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1788566400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788480000,
+  "id": "086b771a054b",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "2 Locations"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://www.dreamworkhq.com/job/9d1161b8-d601-4375-acc3-54228d1f81c9?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "Snowflake",
+  "company_url": "https://simplify.jobs/c/Snowflake",
+  "date_posted": 1788480000,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788566400,
+  "id": "328e35b89b83",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "aprameyak",
+   "coconight",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
+  "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application"
+ },
+ {
+  "active": true,
   "category": null,
   "company": "Rocket Companies",
   "company_url": "https://rocketcompanies.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "ml",
   "first_seen": 1788566400,
@@ -14687,7 +14678,7 @@
   "category": null,
   "company": "SpaceX",
   "company_url": "https://www.spacex.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "ds",
   "first_seen": 1788566400,
@@ -14710,7 +14701,7 @@
   "category": null,
   "company": "Voya Financial",
   "company_url": "https://www.voya.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "quant",
   "first_seen": 1788566400,
@@ -14734,7 +14725,7 @@
   "category": null,
   "company": "Akuna Capital",
   "company_url": "https://akunacapital.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "quant",
   "first_seen": 1788566400,
@@ -14757,7 +14748,7 @@
   "category": null,
   "company": "VF Corporation",
   "company_url": "https://www.vfc.com",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "ds",
   "first_seen": 1788566400,
@@ -14778,7 +14769,7 @@
   "category": "AI/ML/Data",
   "company": "OpenTable",
   "company_url": "https://simplify.jobs/c/OpenTable",
-  "date_posted": 1788566400,
+  "date_posted": 1788480000,
   "experience": null,
   "family": "ml",
   "first_seen": 1788480000,
@@ -14797,29 +14788,6 @@
   "tier": "other",
   "title": "Applied Machine Learning Scientist 2",
   "url": "https://job-boards.greenhouse.io/opentable/jobs/8769568002"
- },
- {
-  "active": true,
-  "category": "ai_explicit",
-  "company": "Booz Allen Hamilton",
-  "company_url": null,
-  "date_posted": 1788566400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788480000,
-  "id": "086b771a054b",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "2 Locations"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://www.dreamworkhq.com/job/9d1161b8-d601-4375-acc3-54228d1f81c9?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -15241,10 +15209,56 @@
  },
  {
   "active": true,
+  "category": "ai_explicit",
+  "company": "Guidehouse",
+  "company_url": null,
+  "date_posted": 1788480000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788393600,
+  "id": "9ef155fee09b",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "US - VA, Arlington"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist - Jr.",
+  "url": "https://www.dreamworkhq.com/job/85220049-2b78-4c61-9e2d-fd3ab6bea2b6?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Booz Allen",
+  "company_url": "https://www.boozallen.com",
+  "date_posted": 1788480000,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1788480000,
+  "id": "80defc95cfa5",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Fort Meade, MD +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0248776"
+ },
+ {
+  "active": true,
   "category": null,
   "company": "Applied Materials",
   "company_url": "https://www.appliedmaterials.com",
-  "date_posted": 1788480000,
+  "date_posted": 1788393600,
   "experience": null,
   "family": "ds",
   "first_seen": 1788480000,
@@ -15269,7 +15283,7 @@
   "category": null,
   "company": "SOSi",
   "company_url": "https://www.sosi.com",
-  "date_posted": 1788480000,
+  "date_posted": 1788393600,
   "experience": null,
   "family": "ds",
   "first_seen": 1788480000,
@@ -15286,29 +15300,6 @@
   "tier": "other",
   "title": "Data Scientist II",
   "url": "https://jobs.smartrecruiters.com/SOSi1/3743990015026636-data-scientist-ii?oga=true"
- },
- {
-  "active": true,
-  "category": "ai_explicit",
-  "company": "Guidehouse",
-  "company_url": null,
-  "date_posted": 1788480000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1788393600,
-  "id": "9ef155fee09b",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "US - VA, Arlington"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist - Jr.",
-  "url": "https://www.dreamworkhq.com/job/85220049-2b78-4c61-9e2d-fd3ab6bea2b6?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -15706,7 +15697,7 @@
   "category": null,
   "company": "Insurify",
   "company_url": "https://www.insurify.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "family": "ml",
   "first_seen": 1788393600,
@@ -15729,7 +15720,7 @@
   "category": null,
   "company": "MSD",
   "company_url": "https://www.msd.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "family": "ml",
   "first_seen": 1788393600,
@@ -15752,7 +15743,7 @@
   "category": null,
   "company": "Williams Racing",
   "company_url": "https://www.williamsf1.com",
-  "date_posted": 1788393600,
+  "date_posted": 1788307200,
   "experience": null,
   "family": "ml",
   "first_seen": 1788393600,
@@ -16302,7 +16293,7 @@
   "category": null,
   "company": "Jerry",
   "company_url": "https://www.jerry.ai/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "family": "ds",
   "first_seen": 1788307200,
@@ -16326,7 +16317,7 @@
   "category": null,
   "company": "MyFunded Futures",
   "company_url": "https://myfundedfutures.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "family": "ml",
   "first_seen": 1788307200,
@@ -16350,7 +16341,7 @@
   "category": null,
   "company": "American International Group",
   "company_url": "https://www.aig.com",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "family": "ds",
   "first_seen": 1788307200,
@@ -16374,7 +16365,7 @@
   "category": null,
   "company": "Morgan Stanley",
   "company_url": "https://www.morganstanley.com/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "family": "quant",
   "first_seen": 1788307200,
@@ -16397,7 +16388,7 @@
   "category": null,
   "company": "Milwaukee Tool",
   "company_url": "https://www.milwaukeetool.com/",
-  "date_posted": 1788307200,
+  "date_posted": 1788220800,
   "experience": null,
   "family": "ml",
   "first_seen": 1788307200,
@@ -16687,7 +16678,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16715,7 +16705,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16743,7 +16732,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -16770,7 +16758,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "vanshb03",
@@ -16798,7 +16785,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -16825,7 +16811,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -16854,7 +16839,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17128,7 +17112,7 @@
   "category": null,
   "company": "Medline",
   "company_url": "https://www.medline.com",
-  "date_posted": 1788220800,
+  "date_posted": 1788134400,
   "experience": null,
   "family": "ds",
   "first_seen": 1788220800,
@@ -17349,7 +17333,7 @@
   "locations": [
    "Remote in USA",
    "USA",
-   "Remote"
+   "Remote (US)"
   ],
   "salary": "Not listed",
   "sources": [
@@ -17411,9 +17395,33 @@
  {
   "active": true,
   "category": "AI/ML/Data",
+  "company": "Saronic",
+  "company_url": "https://simplify.jobs/c/Saronic",
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1782691200,
+  "id": "7d9a51552090",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Austin, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak",
+   "simplify"
+  ],
+  "tier": "other",
+  "title": "Perception and Autonomy Engineer",
+  "url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1788048000,
+  "date_posted": 1787961600,
   "experience": null,
   "family": "ml",
   "first_seen": 1788048000,
@@ -17427,7 +17435,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -17775,12 +17782,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -17809,32 +17814,6 @@
   "tier": "other",
   "title": "Algorithm Engineer",
   "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Hsinchu-Taiwan/Algorithm-Engineer_2639973"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "qode.world",
-  "company_url": null,
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787961600,
-  "id": "95cdc023445a",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Tampa, FL",
-   "Jackson Township, NJ",
-   "Dallas, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak",
-   "vanshb03"
-  ],
-  "tier": "other",
-  "title": "Junior Data Scientist",
-  "url": "https:/.workable.com/qodeworld/j/5E96914ADB"
  },
  {
   "active": true,
@@ -18143,29 +18122,6 @@
   "date_posted": 1787961600,
   "experience": null,
   "family": "ds",
-  "first_seen": 1787875200,
-  "id": "2ddcf83822d3",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Spring, TX +9"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Science Graduate",
-  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Hewlett Packard Enterprise",
-  "company_url": "https://hpe.com/",
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "ds",
   "first_seen": 1787961600,
   "id": "d5e9b309994e",
   "is_usa": false,
@@ -18183,10 +18139,58 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "qode.world",
+  "company_url": null,
+  "date_posted": 1787961600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1786060800,
+  "id": "117426de45c6",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Dallas, TX",
+   "Tampa, FL",
+   "Jackson Township, NJ"
+  ],
+  "salary": null,
+  "sources": [
+   "aprameyak"
+  ],
+  "tier": "other",
+  "title": "Junior Data Scientist",
+  "url": "https://apply.workable.com/qodeworld/j/5E96914ADB?utm_source=aprameyak"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Hewlett Packard Enterprise",
+  "company_url": "https://hpe.com/",
+  "date_posted": 1787875200,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787875200,
+  "id": "2ddcf83822d3",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Spring, TX +9"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Science Graduate",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Solace Health",
   "company_url": "https://simplify.jobs/c/Solace-Health",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787961600,
@@ -18211,7 +18215,7 @@
   "category": null,
   "company": "NXP Semiconductors",
   "company_url": "https://www.nxp.com",
-  "date_posted": 1787961600,
+  "date_posted": 1787875200,
   "experience": null,
   "family": "ml",
   "first_seen": 1787961600,
@@ -18320,14 +18324,12 @@
   "last_seen": 1789171200,
   "locations": [
    "Stamford, CT",
-   "Irving, TX",
-   "Stamford, CT +3"
+   "Irving, TX"
   ],
   "salary": null,
   "sources": [
    "dreamworkhq",
-   "simplify",
-   "speedyapply"
+   "simplify"
   ],
   "tier": "other",
   "title": "Associate Data Scientist",
@@ -18354,29 +18356,6 @@
   "tier": "other",
   "title": "Research Scientist",
   "url": "https://jobs.ashbyhq.com/idler/3a8b02ec-c567-4f75-bf73-ec763e06d6eb"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "ING",
-  "company_url": "https://www.ing.com/",
-  "date_posted": 1787875200,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787875200,
-  "id": "4de4380fa5c3",
-  "is_usa": false,
-  "last_seen": 1788998400,
-  "locations": [
-   "Waco, TX +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior Data Scientist",
-  "url": "https://ing.wd3.myworkdayjobs.com/en-US/jvsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426"
  },
  {
   "active": true,
@@ -18418,7 +18397,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -18634,10 +18612,33 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "ING",
+  "company_url": "https://www.ing.com/",
+  "date_posted": 1787788800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787875200,
+  "id": "4de4380fa5c3",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Waco, TX +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Junior Data Scientist",
+  "url": "https://ing.wd3.myworkdayjobs.com/en-US/jvsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Global Lending Services",
   "company_url": "https://simplify.jobs/c/Global-Lending-Services",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "family": "ds",
   "first_seen": 1787875200,
@@ -18661,7 +18662,7 @@
   "category": null,
   "company": "Republic Services",
   "company_url": "https://www.republicservices.com",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "family": "ds",
   "first_seen": 1787875200,
@@ -18684,7 +18685,7 @@
   "category": null,
   "company": "dentsu",
   "company_url": "https://www.dentsu.com",
-  "date_posted": 1787875200,
+  "date_posted": 1787788800,
   "experience": null,
   "family": "ds",
   "first_seen": 1787875200,
@@ -19072,7 +19073,7 @@
   "category": "AI/ML/Data",
   "company": "Torc Robotics",
   "company_url": "https://simplify.jobs/c/Torc-Robotics",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "family": "ml",
   "first_seen": 1787788800,
@@ -19098,7 +19099,7 @@
   "category": null,
   "company": "Equifax",
   "company_url": "https://www.equifax.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "family": "ml",
   "first_seen": 1787788800,
@@ -19122,7 +19123,7 @@
   "category": null,
   "company": "GDIT",
   "company_url": "https://www.gdit.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "family": "ds",
   "first_seen": 1787788800,
@@ -19146,7 +19147,7 @@
   "category": "AI/ML/Data",
   "company": "True Anomaly",
   "company_url": "https://simplify.jobs/c/TrueAnomaly",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "family": "ds",
   "first_seen": 1787616000,
@@ -19175,7 +19176,7 @@
   "category": null,
   "company": "Meta",
   "company_url": "https://about.meta.com",
-  "date_posted": 1787788800,
+  "date_posted": 1787702400,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1787788800,
@@ -19556,10 +19557,33 @@
  },
  {
   "active": true,
+  "category": "ai_explicit",
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1787702400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787616000,
+  "id": "9a2ebbec5975",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Washington, DC"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://www.dreamworkhq.com/job/cc6badb1-7482-4858-926f-24c679554a9a?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "family": "ml",
   "first_seen": 1788825600,
@@ -19567,12 +19591,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -19584,7 +19606,7 @@
   "category": null,
   "company": "Flow Traders",
   "company_url": "http://www.flowtraders.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "family": "quant",
   "first_seen": 1787702400,
@@ -19607,7 +19629,7 @@
   "category": null,
   "company": "P&G - Procter & Gamble",
   "company_url": "https://us.pg.com",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "family": "ds",
   "first_seen": 1787702400,
@@ -19630,7 +19652,7 @@
   "category": null,
   "company": "Bracco",
   "company_url": "https://www.bracco.com/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "family": "ds",
   "first_seen": 1787702400,
@@ -19653,7 +19675,7 @@
   "category": null,
   "company": "GE HealthCare",
   "company_url": "https://gehealthcare.com/",
-  "date_posted": 1787702400,
+  "date_posted": 1787616000,
   "experience": null,
   "family": "ml",
   "first_seen": 1787702400,
@@ -19670,29 +19692,6 @@
   "tier": "other",
   "title": "AI/ML Engineer",
   "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Seongnam/AI-ML-Engineer_R4042507-1"
- },
- {
-  "active": true,
-  "category": "ai_explicit",
-  "company": "Booz Allen Hamilton",
-  "company_url": null,
-  "date_posted": 1787702400,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787616000,
-  "id": "9a2ebbec5975",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Washington, DC"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://www.dreamworkhq.com/job/cc6badb1-7482-4858-926f-24c679554a9a?utm_source=github&utm_campaign=gh-new-grad-swe"
  },
  {
   "active": true,
@@ -20090,7 +20089,7 @@
   "category": null,
   "company": "Yelp",
   "company_url": "https://www.yelp.careers",
-  "date_posted": 1787616000,
+  "date_posted": 1787529600,
   "experience": null,
   "family": "ml",
   "first_seen": 1787616000,
@@ -20176,12 +20175,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -20202,12 +20199,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -20290,7 +20285,7 @@
   "category": null,
   "company": "Applied Intuition",
   "company_url": "https://appliedintuition.com",
-  "date_posted": 1787443200,
+  "date_posted": 1787356800,
   "experience": null,
   "family": "ml",
   "first_seen": 1787443200,
@@ -20361,7 +20356,7 @@
   "category": "AI/ML/Data",
   "company": "Avalore",
   "company_url": "https://simplify.jobs/c/Avalore",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "family": "ml",
   "first_seen": 1787356800,
@@ -20386,7 +20381,7 @@
   "category": null,
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "family": "ml",
   "first_seen": 1787356800,
@@ -20409,7 +20404,7 @@
   "category": null,
   "company": "The University of Texas at Austin",
   "company_url": "https://www.utexas.edu",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "family": "ds",
   "first_seen": 1787356800,
@@ -20430,7 +20425,7 @@
   "category": null,
   "company": "Instacart",
   "company_url": "http://instacart.com",
-  "date_posted": 1787356800,
+  "date_posted": 1787270400,
   "experience": null,
   "family": "ml",
   "first_seen": 1787356800,
@@ -20594,7 +20589,7 @@
   "category": null,
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "family": "ml",
   "first_seen": 1787270400,
@@ -20617,7 +20612,7 @@
   "category": null,
   "company": "RELX",
   "company_url": "https://www.relx.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "family": "ds",
   "first_seen": 1787270400,
@@ -20640,7 +20635,7 @@
   "category": null,
   "company": "Crowe",
   "company_url": "https://crowe.com",
-  "date_posted": 1787270400,
+  "date_posted": 1787184000,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1787270400,
@@ -20808,12 +20803,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -21032,75 +21025,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Moderna",
-  "company_url": "https://www.modernatx.com",
-  "date_posted": 1787184000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787184000,
-  "id": "5350c2cf5baf",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Cambridge, MA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "eBay",
-  "company_url": "https://www.ebay.com",
-  "date_posted": 1787184000,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1787184000,
-  "id": "07033a10274a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Bengaluru, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Data-Scientist_R0076349"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "GE Vernova",
-  "company_url": "https://www.gevernova.com/",
-  "date_posted": 1787184000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1787184000,
-  "id": "435f54257a0a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Bengaluru, India"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Research Scientist - Machine Learning",
-  "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Bengaluru/Research-Scientist---Machine-Learning_R5049219-1"
- },
- {
-  "active": true,
   "category": "ai_first",
   "company": "Booz Allen Hamilton",
   "company_url": null,
@@ -21144,6 +21068,75 @@
   "tier": "other",
   "title": "Data Scientist, Junior",
   "url": "https://www.dreamworkhq.com/job/4bfa4561-aba3-454e-9a6f-7748c576b695?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Moderna",
+  "company_url": "https://www.modernatx.com",
+  "date_posted": 1787097600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787184000,
+  "id": "5350c2cf5baf",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "eBay",
+  "company_url": "https://www.ebay.com",
+  "date_posted": 1787097600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787184000,
+  "id": "07033a10274a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Bengaluru, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist",
+  "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Data-Scientist_R0076349"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "GE Vernova",
+  "company_url": "https://www.gevernova.com/",
+  "date_posted": 1787097600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1787184000,
+  "id": "435f54257a0a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Bengaluru, India"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Research Scientist - Machine Learning",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Bengaluru/Research-Scientist---Machine-Learning_R5049219-1"
  },
  {
   "active": true,
@@ -21494,7 +21487,7 @@
   "category": null,
   "company": "Lilly",
   "company_url": "https://www.lilly.com",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787097600,
@@ -21517,7 +21510,7 @@
   "category": null,
   "company": "Pangram Labs",
   "company_url": "https://www.pangram.com/",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ml",
   "first_seen": 1787097600,
@@ -21541,7 +21534,7 @@
   "category": null,
   "company": "Wells Fargo",
   "company_url": "https://www.wellsfargo.com",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787097600,
@@ -21565,7 +21558,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787097600,
@@ -21573,12 +21566,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -21590,7 +21581,7 @@
   "category": null,
   "company": "Asurion",
   "company_url": "https://asurion.com",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787097600,
@@ -21611,7 +21602,7 @@
   "category": null,
   "company": "Novartis",
   "company_url": "https://www.novartis.com",
-  "date_posted": 1787097600,
+  "date_posted": 1787011200,
   "experience": null,
   "family": "ds",
   "first_seen": 1787097600,
@@ -22126,7 +22117,7 @@
   "category": "AI/ML/Data",
   "company": "Generac",
   "company_url": "https://simplify.jobs/c/Generac",
-  "date_posted": 1787011200,
+  "date_posted": 1786924800,
   "experience": null,
   "family": "ds",
   "first_seen": 1787011200,
@@ -22150,7 +22141,7 @@
   "category": "Quant",
   "company": "Optiver",
   "company_url": "https://simplify.jobs/c/Optiver",
-  "date_posted": 1787011200,
+  "date_posted": 1786924800,
   "experience": null,
   "family": "quant",
   "first_seen": 1787011200,
@@ -22175,7 +22166,7 @@
   "category": null,
   "company": "CACI",
   "company_url": "https://www.caci.com",
-  "date_posted": 1787011200,
+  "date_posted": 1786924800,
   "experience": null,
   "family": "ds",
   "first_seen": 1787011200,
@@ -22213,7 +22204,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22242,7 +22232,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22270,7 +22259,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -22594,7 +22582,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -22662,12 +22649,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -22772,7 +22757,7 @@
   "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786752000,
+  "date_posted": 1786665600,
   "experience": null,
   "family": "ml",
   "first_seen": 1786752000,
@@ -22780,12 +22765,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -22798,7 +22781,7 @@
   "category": "AI/ML/Data",
   "company": "AppLovin",
   "company_url": "https://simplify.jobs/c/AppLovin",
-  "date_posted": 1786752000,
+  "date_posted": 1786665600,
   "experience": null,
   "family": "ds",
   "first_seen": 1786665600,
@@ -23164,29 +23147,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Bank of America",
-  "company_url": "https://www.bankofamerica.com",
-  "date_posted": 1786665600,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1786579200,
-  "id": "36bf52378049",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Plano, TX +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Software Engineer II - AI/ML",
-  "url": "https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Plano/Software-Engineer-II--AI-ML-_26026987-1"
- },
- {
-  "active": true,
   "category": "AI/ML/Data",
   "company": "General Motors",
   "company_url": "https://simplify.jobs/c/General-Motors",
@@ -23234,10 +23194,33 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Bank of America",
+  "company_url": "https://www.bankofamerica.com",
+  "date_posted": 1786579200,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1786579200,
+  "id": "36bf52378049",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Plano, TX +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Software Engineer II - AI/ML",
+  "url": "https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Plano/Software-Engineer-II--AI-ML-_26026987-1"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786665600,
+  "date_posted": 1786579200,
   "experience": null,
   "family": "ds",
   "first_seen": 1786665600,
@@ -23245,12 +23228,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -23264,7 +23245,7 @@
   "category": null,
   "company": "Amazon",
   "company_url": "https://www.amazon.com",
-  "date_posted": 1786665600,
+  "date_posted": 1786579200,
   "experience": null,
   "family": "ml",
   "first_seen": 1786665600,
@@ -23287,7 +23268,7 @@
   "category": null,
   "company": "LSEG",
   "company_url": "https://www.lseg.com",
-  "date_posted": 1786665600,
+  "date_posted": 1786579200,
   "experience": null,
   "family": "ds",
   "first_seen": 1786665600,
@@ -23310,7 +23291,7 @@
   "category": "Software",
   "company": "TikTok",
   "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786665600,
+  "date_posted": 1786579200,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1786579200,
@@ -23324,7 +23305,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23445,7 +23425,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -23491,12 +23470,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -23518,12 +23495,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -23652,320 +23627,6 @@
  {
   "active": true,
   "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "d5011b956601",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD",
-  "url": "https://lifeattiktok.com/search/7672883737036654853"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "a42d9b648a9f",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply",
-   "wonofakind"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
-  "url": "https://lifeattiktok.com/search/7672882500030138629"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "a97905cfc1a3",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
-  "url": "https://lifeattiktok.com/search/7672877778696407301"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "26d121b4eae9",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
-  "url": "https://lifeattiktok.com/search/7672879948538284341"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "8b8c3bbf98c1",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply",
-   "wonofakind"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
-  "url": "https://lifeattiktok.com/search/7672880386574338309"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "KnowBe4",
-  "company_url": "https://simplify.jobs/c/KnowBe4",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1786579200,
-  "id": "fe992beb7980",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Cheltenham, UK",
-   "Cheltenham, United Kingdom"
-  ],
-  "salary": null,
-  "sources": [
-   "simplify",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Graduate Data Scientist - Cyber Analytics",
-  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "4440700bc931",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "simplify",
-   "speedyapply",
-   "wonofakind"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
-  "url": "https://lifeattiktok.com/search/7672911151560296709"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "TikTok",
-  "company_url": "https://simplify.jobs/c/TikTok",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "eeffdf20eba9",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America",
-   "San Jose, CA, United States",
-   "Seattle, WA, United States"
-  ],
-  "salary": "$202k/yr",
-  "sources": [
-   "ats",
-   "coconight",
-   "simplify",
-   "speedyapply",
-   "wonofakind"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
-  "url": "https://lifeattiktok.com/search/7672915427278457141"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Steampunk",
-  "company_url": "https://steampunk.com",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "78ace166e593",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "McLean, VA"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "MLOps Engineer",
-  "url": "https://careers-steampunk.icims.com/jobs/8036/mlops-engineer/job"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TensorOps",
-  "company_url": "https://media.licdn.com",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1786579200,
-  "id": "094ce77437e2",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Remote"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "coconight",
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Junior AI/ML Engineer",
-  "url": "https://job-boards.eu.greenhouse.io/tensorops/jobs/4951329101"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Nuro",
-  "company_url": "https://nuro.ai",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1748563200,
-  "id": "7adc005e2c16",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "coconight",
-   "speedyapply",
-   "vanshb03"
-  ],
-  "tier": "ai_lab",
-  "title": "New Grad: Software Engineer, Autonomy",
-  "url": "https://www.nuro.ai/careersitem?gh_jid=6725455"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Mastercard",
-  "company_url": "https://www.mastercard.us",
-  "date_posted": 1786579200,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1786579200,
-  "id": "02ebb2a0a56c",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Bogot\u00e1, Colombia"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist II",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/Bogota-Colombia/Data-Scientist-II_R-286934"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
   "company": "NVIDIA",
   "company_url": "https://simplify.jobs/c/NVIDIA",
   "date_posted": 1786579200,
@@ -24087,6 +23748,310 @@
  },
  {
   "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "d5011b956601",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD",
+  "url": "https://lifeattiktok.com/search/7672883737036654853"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "a42d9b648a9f",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply",
+   "wonofakind"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "url": "https://lifeattiktok.com/search/7672882500030138629"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "a97905cfc1a3",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+  "url": "https://lifeattiktok.com/search/7672877778696407301"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "26d121b4eae9",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+  "url": "https://lifeattiktok.com/search/7672879948538284341"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "8b8c3bbf98c1",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply",
+   "wonofakind"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "url": "https://lifeattiktok.com/search/7672880386574338309"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "KnowBe4",
+  "company_url": "https://simplify.jobs/c/KnowBe4",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1786579200,
+  "id": "fe992beb7980",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Cheltenham, UK",
+   "Cheltenham, United Kingdom"
+  ],
+  "salary": null,
+  "sources": [
+   "simplify",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Graduate Data Scientist - Cyber Analytics",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "4440700bc931",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Seattle, WA",
+   "Seattle, Washington, United States of America"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "simplify",
+   "speedyapply",
+   "wonofakind"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "url": "https://lifeattiktok.com/search/7672911151560296709"
+ },
+ {
+  "active": true,
+  "category": "AI/ML/Data",
+  "company": "TikTok",
+  "company_url": "https://simplify.jobs/c/TikTok",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "eeffdf20eba9",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "San Jose, CA",
+   "San Jose, California, United States of America",
+   "San Jose, CA, United States",
+   "Seattle, WA, United States"
+  ],
+  "salary": "$202k/yr",
+  "sources": [
+   "coconight",
+   "simplify",
+   "speedyapply",
+   "wonofakind"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "url": "https://lifeattiktok.com/search/7672915427278457141"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Steampunk",
+  "company_url": "https://steampunk.com",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "78ace166e593",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "McLean, VA"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "MLOps Engineer",
+  "url": "https://careers-steampunk.icims.com/jobs/8036/mlops-engineer/job"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TensorOps",
+  "company_url": "https://media.licdn.com",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1786579200,
+  "id": "094ce77437e2",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Remote"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Junior AI/ML Engineer",
+  "url": "https://job-boards.eu.greenhouse.io/tensorops/jobs/4951329101"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Nuro",
+  "company_url": "https://nuro.ai",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1748563200,
+  "id": "7adc005e2c16",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "coconight",
+   "speedyapply",
+   "vanshb03"
+  ],
+  "tier": "ai_lab",
+  "title": "New Grad: Software Engineer, Autonomy",
+  "url": "https://www.nuro.ai/careersitem?gh_jid=6725455"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Mastercard",
+  "company_url": "https://www.mastercard.us",
+  "date_posted": 1786492800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1786579200,
+  "id": "02ebb2a0a56c",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Bogot\u00e1, Colombia"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Data Scientist II",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/Bogota-Colombia/Data-Scientist-II_R-286934"
+ },
+ {
+  "active": true,
   "category": "AI / Machine Learning",
   "company": "ByteDance",
   "company_url": null,
@@ -24149,7 +24114,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -24264,12 +24228,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -24295,7 +24257,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -24324,7 +24285,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -24353,7 +24313,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -24605,7 +24564,7 @@
   "category": null,
   "company": "Fanduel",
   "company_url": "https://www.fanduel.com",
-  "date_posted": 1786492800,
+  "date_posted": 1786406400,
   "experience": null,
   "family": "ds",
   "first_seen": 1786492800,
@@ -25230,7 +25189,7 @@
   "category": null,
   "company": "PDI Technologies",
   "company_url": "https://pditechnologies.com/",
-  "date_posted": 1786406400,
+  "date_posted": 1786320000,
   "experience": null,
   "family": "ds",
   "first_seen": 1786406400,
@@ -25358,7 +25317,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -25961,7 +25919,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -26120,29 +26077,6 @@
   "tier": "other",
   "title": "Quantitative Associate - Quantitative Research",
   "url": "https://jobs.lever.co/optionmetrics/cd628723-e18f-4f4c-985f-4740d23c22ab/apply"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "qode.world",
-  "company_url": null,
-  "date_posted": 1786060800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1786060800,
-  "id": "117426de45c6",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Dallas, TX"
-  ],
-  "salary": null,
-  "sources": [
-   "aprameyak"
-  ],
-  "tier": "other",
-  "title": "Junior Data Scientist",
-  "url": "https://apply.workable.com/qodeworld/j/5E96914ADB?utm_source=aprameyak"
  },
  {
   "active": true,
@@ -26517,7 +26451,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "family": "ds",
   "first_seen": 1786060800,
@@ -26525,12 +26459,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26542,7 +26474,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1786060800,
+  "date_posted": 1785974400,
   "experience": null,
   "family": "ds",
   "first_seen": 1786060800,
@@ -26550,12 +26482,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -26605,7 +26535,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -26633,7 +26562,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -26660,7 +26588,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -26689,7 +26616,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -27082,7 +27008,7 @@
   "category": null,
   "company": "DataVisor",
   "company_url": "https://www.datavisor.com",
-  "date_posted": 1785974400,
+  "date_posted": 1785888000,
   "experience": null,
   "family": "ds",
   "first_seen": 1785974400,
@@ -27137,12 +27063,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -27282,12 +27206,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -27309,12 +27231,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -27341,7 +27261,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -27364,12 +27283,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -27391,12 +27308,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -27423,7 +27338,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -27451,7 +27365,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -27479,7 +27392,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -27502,12 +27414,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -27542,9 +27452,9 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "AI / Machine Learning",
   "company": "S&P Global",
-  "company_url": "https://spglobal.com/",
+  "company_url": null,
   "date_posted": 1785888000,
   "experience": null,
   "family": "ml",
@@ -27557,8 +27467,7 @@
   ],
   "salary": "Not listed",
   "sources": [
-   "coconight",
-   "speedyapply"
+   "coconight"
   ],
   "tier": "other",
   "title": "Machine Learning Engineer",
@@ -27605,13 +27514,11 @@
    "Philadelphia, PA",
    "NYC",
    "Bala Cynwyd, PA",
-   "New York, NY",
-   "New York City, NY"
+   "New York, NY"
   ],
-  "salary": "Not listed",
+  "salary": null,
   "sources": [
    "aprameyak",
-   "coconight",
    "simplify"
   ],
   "tier": "other",
@@ -27985,7 +27892,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -28013,7 +27919,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -28035,12 +27940,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -28062,12 +27965,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -28497,7 +28398,7 @@
   "category": null,
   "company": "KLA",
   "company_url": "https://www.kla.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "family": "ml",
   "first_seen": 1785801600,
@@ -28520,7 +28421,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "family": "ml",
   "first_seen": 1785801600,
@@ -28528,12 +28429,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -28545,7 +28444,7 @@
   "category": null,
   "company": "Jane Street",
   "company_url": "https://www.janestreet.com",
-  "date_posted": 1785801600,
+  "date_posted": 1785715200,
   "experience": null,
   "family": "quant",
   "first_seen": 1785801600,
@@ -28581,7 +28480,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply",
    "wonofakind"
@@ -28603,12 +28501,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -28629,12 +28525,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -28655,12 +28549,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -28687,7 +28579,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -28715,7 +28606,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -28952,12 +28842,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -28977,12 +28865,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -29008,7 +28894,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -29031,12 +28916,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -29057,12 +28940,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -29083,12 +28964,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -29108,12 +28987,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -29134,12 +29011,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "simplify",
    "speedyapply"
   ],
@@ -29189,7 +29064,6 @@
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply",
@@ -29584,12 +29458,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA, United States",
-   "San Jose, California, United States of America"
+   "San Jose, CA, United States"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
-   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -29701,12 +29573,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA, United States",
-   "San Jose, California, United States of America"
+   "San Jose, CA, United States"
   ],
   "salary": "$156K/yr - $388K/yr",
   "sources": [
-   "ats",
    "coconight"
   ],
   "tier": "bigtech",
@@ -30114,7 +29984,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "family": "ml",
   "first_seen": 1785542400,
@@ -30122,12 +29992,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -30139,7 +30007,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "family": "ml",
   "first_seen": 1785542400,
@@ -30147,12 +30015,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -30164,7 +30030,7 @@
   "category": null,
   "company": "Two95 International",
   "company_url": "http://two95intl.com/",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "family": "ml",
   "first_seen": 1785542400,
@@ -30187,7 +30053,7 @@
   "category": null,
   "company": "DV Trading",
   "company_url": "https://www.dvtrading.co",
-  "date_posted": 1785542400,
+  "date_posted": 1785456000,
   "experience": null,
   "family": "quant",
   "first_seen": 1785456000,
@@ -30361,14 +30227,10 @@
   "last_seen": 1789171200,
   "locations": [
    "Culver City, CA",
-   "San Jose, CA",
-   "Los Angeles, California, United States of America",
-   "San Jose, California, United States of America",
-   "New York, New York, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "simplify",
    "speedyapply"
@@ -30390,12 +30252,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "coconight",
    "speedyapply"
   ],
@@ -30414,7 +30274,7 @@
   "first_seen": 1782777600,
   "id": "476823a95ebb",
   "is_usa": true,
-  "last_seen": 1788998400,
+  "last_seen": 1789171200,
   "locations": [
    "New York City, NY"
   ],
@@ -30429,9 +30289,9 @@
  },
  {
   "active": true,
-  "category": null,
+  "category": "Other",
   "company": "Susquehanna International Group",
-  "company_url": "https://sig.com",
+  "company_url": null,
   "date_posted": 1785456000,
   "experience": null,
   "family": "quant",
@@ -30444,8 +30304,7 @@
   ],
   "salary": "Not listed",
   "sources": [
-   "coconight",
-   "speedyapply"
+   "coconight"
   ],
   "tier": "other",
   "title": "Quantitative Researcher - Master's: 2027",
@@ -31383,731 +31242,6 @@
  {
   "active": true,
   "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "27c0ce5d3ed6",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667889434991003909"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "d90592400884",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Engineer - LLM/Multimodal Graduate\uff08TikTok Search\uff09 - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667866101113637125"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "de4bea9ba35d",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Engineer - LLM/Multimodal Graduate\uff08TikTok Search\uff09 - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667862065906387253"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "ab7c5cecd581",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate\uff08TikTok Search\uff09 - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667858938940098869"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "021a410fb3a8",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667736758276213045"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "b357f84ef0dc",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667736566744779061"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "bec5e4d41778",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667732652198316293"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "7cc2d6a85ffd",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667732065799538949"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "52329ac430e9",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667730385593862453"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "b51514506e5a",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667729912453499141"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "55b28bf4db18",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667724591905720581"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "3d330097b638",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667722056771848501"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "6c4d3dc9306f",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667719987863718149"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "29a0d3add43e",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667719905318111493"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "19f0beb74e4f",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667946859185195317"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "0217af934648",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667946787733244165"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "de_ml",
-  "first_seen": 1785369600,
-  "id": "ef6c7e4a5bcc",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Data Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667935568628435205"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "6d06d76c5b52",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Feature/Computing/Storage Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667934792727185669"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "de_ml",
-  "first_seen": 1785369600,
-  "id": "2cb9334f67a4",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Big Data Engineer Graduate- TikTok Live Recommendation Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667934545178757429"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1785369600,
-  "id": "7450c780aa94",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Infrastructure Engineer Graduate - TikTok Live Recommendation Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667934266018023733"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "7d034cea3cc8",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Infra Optimization Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667933339291764997"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "de_ml",
-  "first_seen": 1785369600,
-  "id": "75d6119de294",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Big Data Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667932977225664773"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "de_ml",
-  "first_seen": 1785369600,
-  "id": "8567a3ba7d67",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Big Data Engineer Graduate - TikTok Recommendation Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667931399154321669"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1785369600,
-  "id": "3735c1f656c9",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "AI Infrastructure Engineer Graduate - TikTok Recommendation Architecture - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667928732914059525"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "1d23ceb21933",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667894657615563061"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "06cc51566cf1",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667892122193529093"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "d3699028e634",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667890047201069317"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "d29d1f89f888",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start",
-  "url": "https://lifeattiktok.com/search/7667885935971567877"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "TikTok",
-  "company_url": "https://www.tiktok.com",
-  "date_posted": 1785369600,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1785369600,
-  "id": "8fcc6e4ce74e",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
-  ],
-  "salary": null,
-  "sources": [
-   "ats",
-   "speedyapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start - PhD",
-  "url": "https://lifeattiktok.com/search/7667884871914965301"
- },
- {
-  "active": true,
-  "category": null,
   "company": "SpaceX",
   "company_url": null,
   "date_posted": 1785369600,
@@ -32153,6 +31287,673 @@
   "tier": "other",
   "title": "Application Software Engineer, Applied AI",
   "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "27c0ce5d3ed6",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667889434991003909"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "d90592400884",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Engineer - LLM/Multimodal Graduate\uff08TikTok Search\uff09 - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667866101113637125"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "de4bea9ba35d",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Engineer - LLM/Multimodal Graduate\uff08TikTok Search\uff09 - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667862065906387253"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "ab7c5cecd581",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate\uff08TikTok Search\uff09 - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667858938940098869"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "021a410fb3a8",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667736758276213045"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "b357f84ef0dc",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Risk Control - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667736566744779061"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "bec5e4d41778",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667732652198316293"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "7cc2d6a85ffd",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Affiliate - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667732065799538949"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "52329ac430e9",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667730385593862453"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "b51514506e5a",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Large Recommendation Model Algorithm Engineer Graduate - Global E-Commerce - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667729912453499141"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "55b28bf4db18",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667724591905720581"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "3d330097b638",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Platform Governance - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667722056771848501"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "6c4d3dc9306f",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667719987863718149"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "29a0d3add43e",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Agent Algorithm Engineer Graduate - Global E-Commerce - Conversational AI - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667719905318111493"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "19f0beb74e4f",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667946859185195317"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "0217af934648",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Multimodal LLM Algorithm Engineer Graduate - Global E-Commerce - Knowledge Graph - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667946787733244165"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "de_ml",
+  "first_seen": 1785369600,
+  "id": "ef6c7e4a5bcc",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Data Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667935568628435205"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "6d06d76c5b52",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Feature/Computing/Storage Engineer Graduate - TikTok Recommendation Ecosystem Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667934792727185669"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "de_ml",
+  "first_seen": 1785369600,
+  "id": "2cb9334f67a4",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Big Data Engineer Graduate- TikTok Live Recommendation Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667934545178757429"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1785369600,
+  "id": "7450c780aa94",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Infrastructure Engineer Graduate - TikTok Live Recommendation Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667934266018023733"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "7d034cea3cc8",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Infra Optimization Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667933339291764997"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "de_ml",
+  "first_seen": 1785369600,
+  "id": "75d6119de294",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Big Data Engineer Graduate - TikTok Global E-Commerce Recommendation & Search Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667932977225664773"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "de_ml",
+  "first_seen": 1785369600,
+  "id": "8567a3ba7d67",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Big Data Engineer Graduate - TikTok Recommendation Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667931399154321669"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1785369600,
+  "id": "3735c1f656c9",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "AI Infrastructure Engineer Graduate - TikTok Recommendation Architecture - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667928732914059525"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "1d23ceb21933",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667894657615563061"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "06cc51566cf1",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Recommendation - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667892122193529093"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "d3699028e634",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - User Growth - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667890047201069317"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "d29d1f89f888",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start",
+  "url": "https://lifeattiktok.com/search/7667885935971567877"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "TikTok",
+  "company_url": "https://www.tiktok.com",
+  "date_posted": 1785283200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1785369600,
+  "id": "8fcc6e4ce74e",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Singapore"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Engineer Graduate - Global E-Commerce - Search - 2027 Start - PhD",
+  "url": "https://lifeattiktok.com/search/7667884871914965301"
  },
  {
   "active": true,
@@ -32300,7 +32101,7 @@
   "category": "AI/ML/Data",
   "company": "LexisNexis Risk Solutions",
   "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-  "date_posted": 1785283200,
+  "date_posted": 1785196800,
   "experience": null,
   "family": "ds",
   "first_seen": 1785283200,
@@ -32324,7 +32125,7 @@
   "category": null,
   "company": "Verkada",
   "company_url": "http://www.verkada.com",
-  "date_posted": 1785283200,
+  "date_posted": 1785196800,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1785283200,
@@ -32341,30 +32142,6 @@
   "tier": "other",
   "title": "Software Engineer - Computer Vision",
   "url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Amazon",
-  "company_url": null,
-  "date_posted": 1785283200,
-  "experience": 2,
-  "family": "swe_ml",
-  "first_seen": 1785283200,
-  "id": "1095ba04e164",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "Boston, Massachusetts, USA",
-   "Seattle, Washington, USA"
-  ],
-  "salary": null,
-  "sources": [
-   "ats"
-  ],
-  "tier": "bigtech",
-  "title": "Security Engineer, Correlation and Response, AWS Security Hub",
-  "url": "https://account.amazon.jobs/jobs/10487821/apply"
  },
  {
   "active": true,
@@ -32515,7 +32292,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "family": "ml",
   "first_seen": 1785196800,
@@ -32523,12 +32300,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -32540,7 +32315,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "family": "ml",
   "first_seen": 1785196800,
@@ -32548,12 +32323,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -32565,7 +32338,7 @@
   "category": null,
   "company": "Abnormal Security",
   "company_url": "https://www.abnormalsecurity.com",
-  "date_posted": 1785196800,
+  "date_posted": 1785110400,
   "experience": null,
   "family": "ml",
   "first_seen": 1785196800,
@@ -32966,7 +32739,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ml",
   "first_seen": 1784937600,
@@ -32974,12 +32747,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -32991,7 +32762,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ml",
   "first_seen": 1784937600,
@@ -32999,12 +32770,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -33016,7 +32785,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ml",
   "first_seen": 1784937600,
@@ -33024,12 +32793,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -33041,7 +32808,7 @@
   "category": null,
   "company": "Agilent",
   "company_url": "https://agilent.com/",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ds",
   "first_seen": 1784937600,
@@ -33062,7 +32829,7 @@
   "category": null,
   "company": "Grab",
   "company_url": "http://www.grab.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ds",
   "first_seen": 1784937600,
@@ -33085,7 +32852,7 @@
   "category": null,
   "company": "Harman",
   "company_url": "https://www.harman.com",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ml",
   "first_seen": 1784937600,
@@ -33108,7 +32875,7 @@
   "category": null,
   "company": "ING",
   "company_url": "https://www.ing.com/",
-  "date_posted": 1784937600,
+  "date_posted": 1784851200,
   "experience": null,
   "family": "ds",
   "first_seen": 1784937600,
@@ -33583,7 +33350,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "family": "ml",
   "first_seen": 1784851200,
@@ -33591,12 +33358,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -33608,7 +33373,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "family": "ml",
   "first_seen": 1784851200,
@@ -33616,12 +33381,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -33633,7 +33396,7 @@
   "category": null,
   "company": "Plaud",
   "company_url": "http://plaud.ai/",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "family": "ml",
   "first_seen": 1784851200,
@@ -33656,7 +33419,7 @@
   "category": null,
   "company": "CommerceIQ",
   "company_url": "https://www.commerceiq.ai",
-  "date_posted": 1784851200,
+  "date_posted": 1784764800,
   "experience": null,
   "family": "ds",
   "first_seen": 1784851200,
@@ -35103,7 +34866,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "family": "ml",
   "first_seen": 1784332800,
@@ -35111,12 +34874,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": "$202k/yr",
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -35128,7 +34889,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "family": "ml",
   "first_seen": 1784332800,
@@ -35136,12 +34897,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -35153,7 +34912,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784332800,
+  "date_posted": 1784246400,
   "experience": null,
   "family": "ml",
   "first_seen": 1784332800,
@@ -35161,12 +34920,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -35224,7 +34981,7 @@
   "category": "Quant",
   "company": "Citadel",
   "company_url": "https://simplify.jobs/c/Citadel",
-  "date_posted": 1784246400,
+  "date_posted": 1784160000,
   "experience": null,
   "family": "quant",
   "first_seen": 1784246400,
@@ -35249,7 +35006,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1784246400,
+  "date_posted": 1784160000,
   "experience": null,
   "family": "ml",
   "first_seen": 1784246400,
@@ -35257,12 +35014,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Singapore",
-   "Singapore, Singapore, Singapore"
+   "Singapore"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -35274,7 +35029,7 @@
   "category": null,
   "company": "Citadel",
   "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784246400,
+  "date_posted": 1784160000,
   "experience": null,
   "family": "quant",
   "first_seen": 1784246400,
@@ -35297,7 +35052,7 @@
   "category": null,
   "company": "OBRIO",
   "company_url": "https://obrio.co/",
-  "date_posted": 1784246400,
+  "date_posted": 1784160000,
   "experience": null,
   "family": "ml",
   "first_seen": 1784160000,
@@ -35347,29 +35102,6 @@
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
-  "id": "3aa3ed78caf1",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "Dublin, Ireland"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Quantitative Researcher - Graduate: 2027",
-  "url": "https://careers-sig.icims.com/jobs/10844/quantitative-researcher---graduate%3a-2027/job"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Susquehanna International Group",
-  "company_url": "https://sig.com",
-  "date_posted": 1784160000,
-  "experience": null,
-  "family": "quant",
-  "first_seen": 1784160000,
   "id": "946b8faf443a",
   "is_usa": false,
   "last_seen": 1789171200,
@@ -35386,10 +35118,33 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Susquehanna International Group",
+  "company_url": "https://sig.com",
+  "date_posted": 1784073600,
+  "experience": null,
+  "family": "quant",
+  "first_seen": 1784160000,
+  "id": "3aa3ed78caf1",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Dublin, Ireland"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Quantitative Researcher - Graduate: 2027",
+  "url": "https://careers-sig.icims.com/jobs/10844/quantitative-researcher---graduate%3a-2027/job"
+ },
+ {
+  "active": true,
   "category": "Quant",
   "company": "Citadel Securities",
   "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35415,7 +35170,7 @@
   "category": "AI/ML/Data",
   "company": "Citadel Securities",
   "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "ml",
   "first_seen": 1784160000,
@@ -35441,7 +35196,7 @@
   "category": "Quant",
   "company": "Citadel",
   "company_url": "https://simplify.jobs/c/Citadel",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35467,7 +35222,7 @@
   "category": "Quant",
   "company": "Citadel Securities",
   "company_url": "https://simplify.jobs/c/Citadel-Securities",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35493,7 +35248,7 @@
   "category": null,
   "company": "Citadel",
   "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35516,7 +35271,7 @@
   "category": null,
   "company": "Citadel",
   "company_url": "https://www.citadel.com/careers",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "ml",
   "first_seen": 1784160000,
@@ -35539,7 +35294,7 @@
   "category": null,
   "company": "Citadel Securities",
   "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35562,7 +35317,7 @@
   "category": null,
   "company": "Citadel Securities",
   "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "quant",
   "first_seen": 1784160000,
@@ -35585,7 +35340,7 @@
   "category": null,
   "company": "Citadel Securities",
   "company_url": "https://www.citadelsecurities.com/careers",
-  "date_posted": 1784160000,
+  "date_posted": 1784073600,
   "experience": null,
   "family": "ml",
   "first_seen": 1784160000,
@@ -35700,7 +35455,7 @@
   "category": null,
   "company": "Accenture Federal Services",
   "company_url": "https://www.accenture.com/us-en/industries/afs-index",
-  "date_posted": 1784073600,
+  "date_posted": 1783987200,
   "experience": null,
   "family": "ds",
   "first_seen": 1784073600,
@@ -35966,30 +35721,6 @@
   "date_posted": 1783728000,
   "experience": null,
   "family": "ds",
-  "first_seen": 1783641600,
-  "id": "a97b46254597",
-  "is_usa": false,
-  "last_seen": 1789084800,
-  "locations": [
-   "Melbourne, Australia",
-   "Melbourne, Australia +1"
-  ],
-  "salary": null,
-  "sources": [
-   "speedyapply"
-  ],
-  "tier": "other",
-  "title": "Associate Data Scientist",
-  "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8054865"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Culture Amp",
-  "company_url": "https://www.cultureamp.com",
-  "date_posted": 1783728000,
-  "experience": null,
-  "family": "ds",
   "first_seen": 1783728000,
   "id": "e322d3fe3bd1",
   "is_usa": false,
@@ -36009,9 +35740,33 @@
  {
   "active": true,
   "category": null,
+  "company": "Culture Amp",
+  "company_url": "https://www.cultureamp.com",
+  "date_posted": 1783641600,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1783641600,
+  "id": "a97b46254597",
+  "is_usa": false,
+  "last_seen": 1789171200,
+  "locations": [
+   "Melbourne, Australia",
+   "Melbourne, Australia +1"
+  ],
+  "salary": null,
+  "sources": [
+   "speedyapply"
+  ],
+  "tier": "other",
+  "title": "Associate Data Scientist",
+  "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8054865"
+ },
+ {
+  "active": true,
+  "category": null,
   "company": "Penn State",
   "company_url": "https://psu.edu",
-  "date_posted": 1783728000,
+  "date_posted": 1783641600,
   "experience": null,
   "family": "ds",
   "first_seen": 1783728000,
@@ -36058,7 +35813,7 @@
   "category": null,
   "company": "Red Ventures",
   "company_url": "http://redventures.com",
-  "date_posted": 1783641600,
+  "date_posted": 1783555200,
   "experience": null,
   "family": "ds",
   "first_seen": 1783641600,
@@ -36405,7 +36160,7 @@
   "category": null,
   "company": "KSB",
   "company_url": "https://www.ksb.com/",
-  "date_posted": 1783382400,
+  "date_posted": 1783296000,
   "experience": null,
   "family": "ml",
   "first_seen": 1783382400,
@@ -36428,7 +36183,7 @@
   "category": null,
   "company": "V4C.ai",
   "company_url": "https://www.v4c.ai/",
-  "date_posted": 1783382400,
+  "date_posted": 1783296000,
   "experience": null,
   "family": "ds",
   "first_seen": 1783382400,
@@ -36685,7 +36440,7 @@
   "category": null,
   "company": "TikTok",
   "company_url": "https://www.tiktok.com",
-  "date_posted": 1783123200,
+  "date_posted": 1783036800,
   "experience": null,
   "family": "ml",
   "first_seen": 1783123200,
@@ -36693,12 +36448,10 @@
   "is_usa": false,
   "last_seen": 1789171200,
   "locations": [
-   "Sydney, Australia",
-   "Sydney, New South Wales, Australia"
+   "Sydney, Australia"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "speedyapply"
   ],
   "tier": "bigtech",
@@ -36755,7 +36508,7 @@
   "category": null,
   "company": "Mollie",
   "company_url": "https://mollie.com/",
-  "date_posted": 1782864000,
+  "date_posted": 1782777600,
   "experience": null,
   "family": "swe_ml",
   "first_seen": 1782864000,
@@ -36870,7 +36623,7 @@
   "category": "AI/ML/Data",
   "company": "Jumio",
   "company_url": "https://simplify.jobs/c/Jumio",
-  "date_posted": 1782604800,
+  "date_posted": 1782518400,
   "experience": null,
   "family": "ml",
   "first_seen": 1782604800,
@@ -36894,7 +36647,7 @@
   "category": null,
   "company": "LSEG",
   "company_url": "https://www.lseg.com",
-  "date_posted": 1782518400,
+  "date_posted": 1782432000,
   "experience": null,
   "family": "ds",
   "first_seen": 1782518400,
@@ -37005,7 +36758,7 @@
   "category": null,
   "company": "Esri",
   "company_url": "https://www.esri.com",
-  "date_posted": 1782432000,
+  "date_posted": 1782345600,
   "experience": null,
   "family": "ds",
   "first_seen": 1782432000,
@@ -37028,7 +36781,7 @@
   "category": null,
   "company": "Clario",
   "company_url": "https://clario.com",
-  "date_posted": 1782432000,
+  "date_posted": 1782345600,
   "experience": null,
   "family": "ds",
   "first_seen": 1782432000,
@@ -37074,7 +36827,7 @@
   "category": null,
   "company": "Zillow",
   "company_url": "https://www.zillow.com",
-  "date_posted": 1782345600,
+  "date_posted": 1782259200,
   "experience": null,
   "family": "ml",
   "first_seen": 1782345600,
@@ -37211,7 +36964,7 @@
   "category": "Quant",
   "company": "PIMCO",
   "company_url": "https://simplify.jobs/c/PIMCO",
-  "date_posted": 1782172800,
+  "date_posted": 1782086400,
   "experience": null,
   "family": "quant",
   "first_seen": 1782172800,
@@ -37258,7 +37011,7 @@
   "category": null,
   "company": "PIMCO",
   "company_url": "https://www.pimco.com",
-  "date_posted": 1781913600,
+  "date_posted": 1781827200,
   "experience": null,
   "family": "quant",
   "first_seen": 1781913600,
@@ -37304,7 +37057,7 @@
   "category": null,
   "company": "MyAdvice",
   "company_url": "https://myadvice.com/",
-  "date_posted": 1781827200,
+  "date_posted": 1781740800,
   "experience": null,
   "family": "ml",
   "first_seen": 1781827200,
@@ -37541,12 +37294,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -37566,12 +37317,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -37591,12 +37340,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -37616,12 +37363,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -37773,7 +37518,7 @@
   "category": null,
   "company": "Inversion Space",
   "company_url": "https://www.inversionspace.com",
-  "date_posted": 1781395200,
+  "date_posted": 1781308800,
   "experience": null,
   "family": "ml",
   "first_seen": 1781395200,
@@ -37841,7 +37586,7 @@
   "category": null,
   "company": "NVIDIA",
   "company_url": "https://www.nvidia.com",
-  "date_posted": 1781308800,
+  "date_posted": 1781222400,
   "experience": null,
   "family": "ml",
   "first_seen": 1781308800,
@@ -37909,7 +37654,7 @@
   "category": null,
   "company": "LSEG",
   "company_url": "https://www.lseg.com",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "family": "ds",
   "first_seen": 1781222400,
@@ -37930,7 +37675,7 @@
   "category": null,
   "company": "PROS Holdings",
   "company_url": "https://pros.com/",
-  "date_posted": 1781222400,
+  "date_posted": 1781136000,
   "experience": null,
   "family": "ml",
   "first_seen": 1781222400,
@@ -38091,7 +37836,7 @@
   "category": null,
   "company": "PepsiCo",
   "company_url": "https://www.pepsicojobs.com",
-  "date_posted": 1781049600,
+  "date_posted": 1780963200,
   "experience": null,
   "family": "ds",
   "first_seen": 1781049600,
@@ -38234,7 +37979,7 @@
   "category": null,
   "company": "Jane Street",
   "company_url": "https://www.janestreet.com",
-  "date_posted": 1780704000,
+  "date_posted": 1780617600,
   "experience": null,
   "family": "ml",
   "first_seen": 1780617600,
@@ -38257,7 +38002,7 @@
   "category": null,
   "company": "Jane Street",
   "company_url": "https://www.janestreet.com",
-  "date_posted": 1780704000,
+  "date_posted": 1780617600,
   "experience": null,
   "family": "ml",
   "first_seen": 1780617600,
@@ -38622,7 +38367,7 @@
   "category": "Quant",
   "company": "PIMCO",
   "company_url": "https://simplify.jobs/c/PIMCO",
-  "date_posted": 1780531200,
+  "date_posted": 1780444800,
   "experience": null,
   "family": "quant",
   "first_seen": 1780531200,
@@ -38878,7 +38623,7 @@
   "category": null,
   "company": "TD SYNNEX",
   "company_url": "https://www.tdsynnex.com",
-  "date_posted": 1780358400,
+  "date_posted": 1780272000,
   "experience": null,
   "family": "ds",
   "first_seen": 1780358400,
@@ -38970,7 +38715,7 @@
   "category": null,
   "company": "Lentech",
   "company_url": "https://www.lentechinc.com/",
-  "date_posted": 1780099200,
+  "date_posted": 1780012800,
   "experience": null,
   "family": "ds",
   "first_seen": 1780099200,
@@ -39015,7 +38760,7 @@
   "category": null,
   "company": "Everwatch",
   "company_url": "https://everwatchsolutions.com",
-  "date_posted": 1780012800,
+  "date_posted": 1779926400,
   "experience": null,
   "family": "ml",
   "first_seen": 1779926400,
@@ -39060,7 +38805,7 @@
   "category": null,
   "company": "AITHERAS",
   "company_url": "http://aitheras.com/about/who-we-are/",
-  "date_posted": 1779580800,
+  "date_posted": 1779494400,
   "experience": null,
   "family": "ds",
   "first_seen": 1779580800,
@@ -39197,7 +38942,7 @@
   "category": null,
   "company": "Engineers Gate",
   "company_url": "http://www.eglp.com",
-  "date_posted": 1779321600,
+  "date_posted": 1779235200,
   "experience": null,
   "family": "quant",
   "first_seen": 1779321600,
@@ -39412,12 +39157,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -39760,12 +39503,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -39877,12 +39618,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "Seattle, WA",
-   "Seattle, Washington, United States of America"
+   "Seattle, WA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -39902,12 +39641,10 @@
   "is_usa": true,
   "last_seen": 1789171200,
   "locations": [
-   "San Jose, CA",
-   "San Jose, California, United States of America"
+   "San Jose, CA"
   ],
   "salary": null,
   "sources": [
-   "ats",
    "simplify"
   ],
   "tier": "bigtech",
@@ -40145,37 +39882,6 @@
   "tier": "other",
   "title": "ML Infrastructure Engineer",
   "url": "https://boards.greenhouse.io/applovin/jobs/4655740006"
- },
- {
-  "active": true,
-  "category": "AI/ML/Data",
-  "company": "Mercor",
-  "company_url": "https://simplify.jobs/c/Mercor",
-  "date_posted": 1770940800,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1770940800,
-  "id": "cc576e474ec2",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "SF",
-   "San Francisco"
-  ],
-  "salary": {
-   "currency": "USD",
-   "interval": "1 YEAR",
-   "max": 500000,
-   "min": 130000,
-   "source": "ashby"
-  },
-  "sources": [
-   "ricsign",
-   "simplify"
-  ],
-  "tier": "other",
-  "title": "Data Scientist",
-  "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application"
  },
  {
   "active": true,
@@ -40915,6 +40621,31 @@
   "tier": "other",
   "title": "AI Research Scientist/Engineer",
   "url": "https://jobs.lever.co/sonarsource/a0535931-bce3-4159-b43d-15ca3eb4d17f/apply"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "qode.world",
+  "company_url": null,
+  "date_posted": 1757030400,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1787961600,
+  "id": "95cdc023445a",
+  "is_usa": true,
+  "last_seen": 1789171200,
+  "locations": [
+   "Tampa, FL",
+   "Jackson Township, NJ",
+   "Dallas, TX"
+  ],
+  "salary": null,
+  "sources": [
+   "vanshb03"
+  ],
+  "tier": "other",
+  "title": "Junior Data Scientist",
+  "url": "https:/.workable.com/qodeworld/j/5E96914ADB"
  },
  {
   "active": true,
