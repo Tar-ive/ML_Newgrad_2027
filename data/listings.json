@@ -2228,7 +2228,7 @@
   ],
   "tier": "ai_lab",
   "title": "Data Scientist, Cybersecurity",
-  "url": "https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-data-science-jobs-2027"
+  "url": "https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -3657,6 +3657,56 @@
  },
  {
   "active": true,
+  "category": null,
+  "company": "Google",
+  "company_url": null,
+  "date_posted": 1789257600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "1d104352f54e",
+  "is_usa": true,
+  "last_seen": 1789257600,
+  "locations": [
+   "United States"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "ML Research Scientist, Audio Algorithms",
+  "url": "https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "WeRide.ai",
+  "company_url": "https://www.weride.ai",
+  "date_posted": 1789257600,
+  "experience": null,
+  "family": "swe_ml",
+  "first_seen": 1788998400,
+  "id": "25180115705b",
+  "is_usa": true,
+  "last_seen": 1789257600,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": "Not listed",
+  "sources": [
+   "applyguy",
+   "coconight",
+   "speedyapply",
+   "wonofakind",
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+  "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+ },
+ {
+  "active": true,
   "category": "AI/ML/Data",
   "company": "Garner Health",
   "company_url": "https://simplify.jobs/c/Garner-Health",
@@ -3726,29 +3776,6 @@
   "tier": "ai_lab",
   "title": "Data Scientist, SMB Ads Growth",
   "url": "https://zapply.jobs/l/d/ashby-openai-f5dfd3aa-3bf6-49e2-b780-0da281a21533?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Google",
-  "company_url": null,
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
-  "id": "1d104352f54e",
-  "is_usa": true,
-  "last_seen": 1789171200,
-  "locations": [
-   "United States"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "ML Research Scientist, Audio Algorithms",
-  "url": "https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -4075,30 +4102,6 @@
  {
   "active": true,
   "category": "ai_explicit",
-  "company": "Booz Allen Hamilton",
-  "company_url": null,
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "ds",
-  "first_seen": 1789171200,
-  "id": "d5bb647eed43",
-  "is_usa": true,
-  "last_seen": 1789257600,
-  "locations": [
-   "Washington, DC"
-  ],
-  "salary": null,
-  "sources": [
-   "dreamworkhq",
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Data Scientist, Junior",
-  "url": "https://www.dreamworkhq.com/job/a550cc04-725d-4299-8317-840b8794c8c5?utm_source=github&utm_campaign=gh-new-grad-swe"
- },
- {
-  "active": true,
-  "category": "ai_explicit",
   "company": "Guidehouse",
   "company_url": null,
   "date_posted": 1789171200,
@@ -4267,29 +4270,6 @@
   "experience": null,
   "family": "ml",
   "first_seen": 1789084800,
-  "id": "0a955d87f3cf",
-  "is_usa": false,
-  "last_seen": 1789257600,
-  "locations": [
-   "Cupertino"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "bigtech",
-  "title": "Machine Learning Research Engineer, ASE Search",
-  "url": "https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "Apple",
-  "company_url": null,
-  "date_posted": 1789171200,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
   "id": "fc1bc01ff195",
   "is_usa": false,
   "last_seen": 1789257600,
@@ -4303,6 +4283,75 @@
   "tier": "bigtech",
   "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
   "url": "https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Garner Health",
+  "company_url": null,
+  "date_posted": 1789171200,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "8128bc07de01",
+  "is_usa": false,
+  "last_seen": 1789257600,
+  "locations": [
+   "New York City, New York"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Associate Applied Scientist",
+  "url": "https://zapply.jobs/l/d/greenhouse-garnerhealth-6174213004?s=gh-new-grad-data-science-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": "ai_explicit",
+  "company": "Booz Allen Hamilton",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ds",
+  "first_seen": 1789171200,
+  "id": "d5bb647eed43",
+  "is_usa": true,
+  "last_seen": 1789257600,
+  "locations": [
+   "Washington, DC"
+  ],
+  "salary": null,
+  "sources": [
+   "dreamworkhq"
+  ],
+  "tier": "other",
+  "title": "Data Scientist, Junior",
+  "url": "https://www.dreamworkhq.com/job/a550cc04-725d-4299-8317-840b8794c8c5?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Apple",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "0a955d87f3cf",
+  "is_usa": false,
+  "last_seen": 1789257600,
+  "locations": [
+   "Cupertino"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "bigtech",
+  "title": "Machine Learning Research Engineer, ASE Search",
+  "url": "https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -8582,29 +8631,6 @@
  },
  {
   "active": true,
-  "category": null,
-  "company": "Garner Health",
-  "company_url": null,
-  "date_posted": 1789084800,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1789084800,
-  "id": "8128bc07de01",
-  "is_usa": false,
-  "last_seen": 1789171200,
-  "locations": [
-   "New York City, New York"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "Associate Applied Scientist",
-  "url": "https://zapply.jobs/l/d/greenhouse-garnerhealth-6174213004?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
   "category": "ai_explicit",
   "company": "Ns Eeh",
   "company_url": null,
@@ -8741,6 +8767,29 @@
   "tier": "other",
   "title": "Data Scientist",
   "url": "https://www.dreamworkhq.com/job/e7d988d6-b663-4707-9e56-97da255d1f0e?utm_source=github&utm_campaign=gh-new-grad-swe"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Capital One",
+  "company_url": null,
+  "date_posted": 1789084800,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1789084800,
+  "id": "b5f5b7aa7bfb",
+  "is_usa": true,
+  "last_seen": 1789257600,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
+  "url": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000537?s=gh-new-grad-software-engineering-jobs-2027"
  },
  {
   "active": true,
@@ -12735,29 +12784,6 @@
  {
   "active": true,
   "category": null,
-  "company": "Lila Sciences",
-  "company_url": null,
-  "date_posted": 1788912000,
-  "experience": null,
-  "family": "ml",
-  "first_seen": 1788912000,
-  "id": "7704618d7eb8",
-  "is_usa": true,
-  "last_seen": 1789257600,
-  "locations": [
-   "Cambridge, MA USA"
-  ],
-  "salary": null,
-  "sources": [
-   "zapply"
-  ],
-  "tier": "other",
-  "title": "ML Engineer, Applied AI",
-  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
- },
- {
-  "active": true,
-  "category": null,
   "company": "Applied Materials",
   "company_url": "https://www.appliedmaterials.com",
   "date_posted": 1788912000,
@@ -12826,6 +12852,29 @@
   "tier": "ai_lab",
   "title": "Research Engineer, Takeoff Intel",
   "url": "https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027"
+ },
+ {
+  "active": true,
+  "category": null,
+  "company": "Lila Sciences",
+  "company_url": null,
+  "date_posted": 1788825600,
+  "experience": null,
+  "family": "ml",
+  "first_seen": 1788912000,
+  "id": "7704618d7eb8",
+  "is_usa": true,
+  "last_seen": 1789257600,
+  "locations": [
+   "Cambridge, MA USA"
+  ],
+  "salary": null,
+  "sources": [
+   "zapply"
+  ],
+  "tier": "other",
+  "title": "ML Engineer, Applied AI",
+  "url": "https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027"
  },
  {
   "active": true,
@@ -17598,32 +17647,6 @@
   "tier": "other",
   "title": "Associate Data Scientist",
   "url": "https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0"
- },
- {
-  "active": true,
-  "category": null,
-  "company": "WeRide.ai",
-  "company_url": "https://www.weride.ai",
-  "date_posted": 1787961600,
-  "experience": null,
-  "family": "swe_ml",
-  "first_seen": 1788998400,
-  "id": "25180115705b",
-  "is_usa": true,
-  "last_seen": 1789257600,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "salary": "Not listed",
-  "sources": [
-   "applyguy",
-   "coconight",
-   "speedyapply",
-   "wonofakind"
-  ],
-  "tier": "other",
-  "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-  "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
  },
  {
   "active": true,
@@ -31483,8 +31506,8 @@
   "last_seen": 1789257600,
   "locations": [
    "Starbase, TX",
-   "Bastrop, TX",
-   "McGregor, TX"
+   "McGregor, TX",
+   "Bastrop, TX"
   ],
   "salary": null,
   "sources": [
@@ -31503,12 +31526,12 @@
   "experience": 1,
   "family": "swe_ml",
   "first_seen": 1785369600,
-  "id": "939c4d4d55c1",
+  "id": "29b086cc6627",
   "is_usa": true,
   "last_seen": 1789257600,
   "locations": [
-   "Hawthorne, CA",
-   "Vandenberg, CA"
+   "Vandenberg, CA",
+   "Hawthorne, CA"
   ],
   "salary": null,
   "sources": [
@@ -31516,7 +31539,7 @@
   ],
   "tier": "other",
   "title": "Application Software Engineer, Applied AI",
-  "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002"
+  "url": "https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002"
  },
  {
   "active": true,

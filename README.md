@@ -11,12 +11,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**1016** open roles
+**1017** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-13 16:28 UTC_
+_Last refreshed: 2026-09-13 19:32 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -66,7 +66,7 @@ cliff after the first few days of a posting being live.
 | **Deepgram** | Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform) | USA  Remote | **today** | [Apply](https://zapply.jobs/l/d/ashby-deepgram-f424ef6a-c27f-4984-9e77-40a1ad16ae28?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bosch Group** | AI Research Engineer – Agentic AI | Sunnyvale, CA | **today** | [Apply](https://zapply.jobs/l/d/sr-BoschGroup-744000144172049?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Zoox** | Machine Learning Engineer - Behavior Models for Road Users | Foster City, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-zoox-d736debf-c361-4a7c-81fd-6c3125ab03c0?s=gh-new-grad-data-science-jobs-2027) |
-| **OpenAI** | Data Scientist, Cybersecurity | Remote | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Data Scientist, Cybersecurity | Remote | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Deepgram** | ML Ops Infrastructure Engineer | USA  Remote / Remote (US) | **today** | [Apply](https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waabi** | Platform Systems Engineer; Sensing and Perception, Maps and Localization | Phoenix, AZ | **today** | [Apply](https://zapply.jobs/l/d/lever-waabi-d6e94165-fb89-4dee-b83a-01310cbf8464?s=gh-new-grad-software-engineering-jobs-2027) |
 | **WeRide** | Perception Engineer – ML/CV and Algorithms | San Jose, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-weride-628b7118-d946-47a2-a03b-ac034622d908?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -91,7 +91,8 @@ cliff after the first few days of a posting being live.
 | **Google** | Research Engineer, Gemini Code Post-training, DeepMind | United States | **today** | [Apply](https://zapply.jobs/l/d/google-103743677200769734?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Institute for Foundation Models** | Research Scientist - Distributed Machine Learning | Sunnyvale, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-ifm-us-0f35e9dd-2478-412c-aacd-994c426fa866?s=gh-new-grad-data-science-jobs-2027) |
 | **Institute for Foundation Models** | Research Scientist - NLP | Sunnyvale, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-ifm-us-6a4c7a41-983f-4c06-b785-c2deb5cd3f5d?s=gh-new-grad-data-science-jobs-2027) |
-| **Google** | ML Research Scientist, Audio Algorithms | United States | **1d** | [Apply](https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027) |
+| **Google** | ML Research Scientist, Audio Algorithms | United States | **today** | [Apply](https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027) |
+| **[WeRide.ai](https://www.weride.ai)** | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | **today** | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | Washington, DC +2 | **1d** | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248942?s=gh-new-grad-data-science-jobs-2027) |
 | **[DiDi Global](https://simplify.jobs/c/DiDi-Global)** | Software Engineer - Planning Selection Autonomy | San Jose, CA | **1d** | [Apply](https://job-boards.greenhouse.io/didi/jobs/8198298) |
 | **Google** | Research Engineer, AGI Safety and Alignment, DeepMind | United States | **1d** | [Apply](https://zapply.jobs/l/d/google-114312938881196742?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -129,6 +130,7 @@ cliff after the first few days of a posting being live.
 | **Wavestone1** | Junior AI Engineer (Pittsburgh, PA) | Pittsburgh, PA, United States | **2d** | [Apply](https://www.dreamworkhq.com/job/2a6362d6-f72e-4fcc-87a2-1a4a01f2a53a?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Applied Materials** | Data Scientist - (B3) | Santa Clara,CA | **2d** | [Apply](https://zapply.jobs/l/d/workday-amat-external-R2628442?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Dominos** | Data Scientist | Ann Arbor, MI, United States | **2d** | [Apply](https://www.dreamworkhq.com/job/e7d988d6-b663-4707-9e56-97da255d1f0e?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **Capital One** | Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning) | San Jose, CA | **2d** | [Apply](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000537?s=gh-new-grad-software-engineering-jobs-2027) |
 | **[Peraton](https://www.peraton.com)** | Data Science - Associate - Herndon - VA | Herndon, VA | **3d** | [Apply](https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job) |
 | **AssetMark** | Quantitative Research Analyst | Concord, CA | **3d** | [Apply](https://zapply.jobs/l/d/workday-assetmark-assetmark-careers-Req-003965?s=gh-new-grad-data-science-jobs-2027) |
 | **BlackRock** | Associate, Quantitative Research | San Francisco, CA | **3d** | [Apply](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266371?s=gh-new-grad-data-science-jobs-2027) |
@@ -208,8 +210,8 @@ cliff after the first few days of a posting being live.
 | **OneStream** | AI Engineer | Birmingham, Michigan, 48009, United States | **4d** | [Apply](https://www.dreamworkhq.com/job/bd567889-f785-4d7b-ad51-2e425a0ce385?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Trideum Corporation** | Junior Data Scientist/Analytics Engineer | Huntsville, AL | **4d** | [Apply](https://www.dreamworkhq.com/job/562fd999-9dce-4b5e-a7fb-320d9b1099d8?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **JSL Technologies** | Entry Level- Data Scientist | San Diego, CA | **4d** | [Apply](https://www.dreamworkhq.com/job/dfa41c8a-278f-4219-96c3-09964d093367?utm_source=github&utm_campaign=gh-new-grad-swe) |
-| **Lila Sciences** | ML Engineer, Applied AI | Cambridge, MA USA | **4d** | [Apply](https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027) |
 | **[Applied Materials](https://www.appliedmaterials.com)** | AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA | Santa Clara, CA / Santa Clara,CA | **4d** | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059) |
+| **Lila Sciences** | ML Engineer, Applied AI | Cambridge, MA USA | **5d** | [Apply](https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027) |
 | **Sierra Nevada Corporation** | MLOps & Data Engineer II | Lone Tree, CO | **5d** | [Apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030489?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Mountain View, CA, United States +9 | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start) |
 | **Google** | Software Engineer, AI/ML, PhD, Early Career, 2026 | — | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/127602843300307654-software-engineer-aiml-phd-early-career-2026) |
@@ -244,7 +246,6 @@ cliff after the first few days of a posting being live.
 | **IBM** | Cost & Asset Optimization - Data Science Analyst 2027 | Poughkeepsie, NY, United States / Austin, TX, United States | **6d** | [Apply](https://jobright.ai/jobs/info/6a9e267fdacf777321a90a39) |
 | **IBM** | Entry level Portfolio Management - Data Science - RTP - 2027 | Research Triangle Park, North Carolina, United States | **6d** | [Apply](https://jobright.ai/jobs/info/6a9e29c7dacf777321a90a69) |
 | **Physical Intelligence** | Research Scientist | San Francisco, CA | 13d | [Apply](https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak) |
-| **[WeRide.ai](https://www.weride.ai)** | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | 15d | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
 | **Deepgram** | Platform Engineer - AI/ML Infrastruct... | Remote (US) | 15d | [Apply](https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28?utm_source=aprameyak) |
 | **Gritt Robotics** | Robotics Software - Perception ML Eng... | South San Francisco, CA | 15d | [Apply](https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649?utm_source=aprameyak) |
 | **Sentra** | Machine Learning Research Scientist | San Francisco, CA | 15d | [Apply](https://jobs.ashbyhq.com/sentra/03976429-eb79-48df-8439-29f0cdaba859?utm_source=aprameyak) |
@@ -274,7 +275,7 @@ and autonomy set.
 | **Zoox** | Software Engineer, Fleet Simulation (Core Data Science) | Foster City, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-zoox-18b6dfa0-d581-4d29-ac79-5d6e666aa9c3?s=gh-new-grad-data-science-jobs-2027) |
 | **Cohere** | Data Scientist, North Insights | United States | **today** | [Apply](https://zapply.jobs/l/d/ashby-cohere-e4603bb7-5bbe-4f73-9556-02c93f78b2af?s=gh-new-grad-data-science-jobs-2027) |
 | **Zoox** | Machine Learning Engineer - Behavior Models for Road Users | Foster City, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-zoox-d736debf-c361-4a7c-81fd-6c3125ab03c0?s=gh-new-grad-data-science-jobs-2027) |
-| **OpenAI** | Data Scientist, Cybersecurity | Remote | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-data-science-jobs-2027) |
+| **OpenAI** | Data Scientist, Cybersecurity | Remote | **today** | [Apply](https://zapply.jobs/l/d/ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9?s=gh-new-grad-software-engineering-jobs-2027) |
 | **[Applied Intuition](https://simplify.jobs/c/Applied-Intuition)** | Research Engineer New Grad | Sunnyvale, CA / Sunnyvale | **today** | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) |
 | **Zoox** | Software Engineer, ML Performance Optimization | Foster City, CA | **1d** | [Apply](https://zapply.jobs/l/d/lever-zoox-bc11276c-8db7-426e-9d00-d41c2097723a?s=gh-new-grad-software-engineering-jobs-2027) |
 | **[Waymo](https://simplify.jobs/c/Waymo)** | Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language Model - PhD | SF +6 | **4d** | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
@@ -324,7 +325,7 @@ and autonomy set.
 | **Google** | Research Scientist, Stitch | United States | **today** | [Apply](https://zapply.jobs/l/d/google-140136068971143878?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Software Engineer, On-Device Machine Learning | United States | **today** | [Apply](https://zapply.jobs/l/d/google-130704078123475654?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Research Engineer, Gemini Code Post-training, DeepMind | United States | **today** | [Apply](https://zapply.jobs/l/d/google-103743677200769734?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Google** | ML Research Scientist, Audio Algorithms | United States | **1d** | [Apply](https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027) |
+| **Google** | ML Research Scientist, Audio Algorithms | United States | **today** | [Apply](https://zapply.jobs/l/d/google-121197786489070278?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Research Engineer, AGI Safety and Alignment, DeepMind | United States | **1d** | [Apply](https://zapply.jobs/l/d/google-114312938881196742?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | Applied AI Engineer | US, CA | **2d** | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018178?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Research Scientist, Frontier Health, DeepMind | United States | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/118553789589267142) |
@@ -841,6 +842,7 @@ new grads.
 | **Institute for Foundation Models** | Research Scientist - Distributed Machine Learning | Sunnyvale, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-ifm-us-0f35e9dd-2478-412c-aacd-994c426fa866?s=gh-new-grad-data-science-jobs-2027) |
 | **Institute for Foundation Models** | Research Scientist - NLP | Sunnyvale, CA | **today** | [Apply](https://zapply.jobs/l/d/lever-ifm-us-6a4c7a41-983f-4c06-b785-c2deb5cd3f5d?s=gh-new-grad-data-science-jobs-2027) |
 | **[Saronic](https://simplify.jobs/c/Saronic)** | Perception and Autonomy Engineer | Austin, TX | **today** | [Apply](https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb/application) |
+| **[WeRide.ai](https://www.weride.ai)** | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | **today** | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | Washington, DC +2 | **1d** | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248942?s=gh-new-grad-data-science-jobs-2027) |
 | **[DiDi Global](https://simplify.jobs/c/DiDi-Global)** | Software Engineer - Planning Selection Autonomy | San Jose, CA | **1d** | [Apply](https://job-boards.greenhouse.io/didi/jobs/8198298) |
 | **[Booz Allen](https://www.boozallen.com)** | Data Scientist - Junior | Washington, DC +2 | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Data-Scientist--Junior_R0248942) |
@@ -871,6 +873,7 @@ new grads.
 | **Wavestone1** | Junior AI Engineer (Pittsburgh, PA) | Pittsburgh, PA, United States | **2d** | [Apply](https://www.dreamworkhq.com/job/2a6362d6-f72e-4fcc-87a2-1a4a01f2a53a?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Applied Materials** | Data Scientist - (B3) | Santa Clara,CA | **2d** | [Apply](https://zapply.jobs/l/d/workday-amat-external-R2628442?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Dominos** | Data Scientist | Ann Arbor, MI, United States | **2d** | [Apply](https://www.dreamworkhq.com/job/e7d988d6-b663-4707-9e56-97da255d1f0e?utm_source=github&utm_campaign=gh-new-grad-swe) |
+| **Capital One** | Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning) | San Jose, CA | **2d** | [Apply](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000537?s=gh-new-grad-software-engineering-jobs-2027) |
 | **[Peraton](https://www.peraton.com)** | Data Science - Associate - Herndon - VA | Herndon, VA | **3d** | [Apply](https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job) |
 | **AssetMark** | Quantitative Research Analyst | Concord, CA | **3d** | [Apply](https://zapply.jobs/l/d/workday-assetmark-assetmark-careers-Req-003965?s=gh-new-grad-data-science-jobs-2027) |
 | **BlackRock** | Associate, Quantitative Research | San Francisco, CA | **3d** | [Apply](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266371?s=gh-new-grad-data-science-jobs-2027) |
@@ -909,8 +912,8 @@ new grads.
 | **OneStream** | AI Engineer | Birmingham, Michigan, 48009, United States | **4d** | [Apply](https://www.dreamworkhq.com/job/bd567889-f785-4d7b-ad51-2e425a0ce385?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **Trideum Corporation** | Junior Data Scientist/Analytics Engineer | Huntsville, AL | **4d** | [Apply](https://www.dreamworkhq.com/job/562fd999-9dce-4b5e-a7fb-320d9b1099d8?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **JSL Technologies** | Entry Level- Data Scientist | San Diego, CA | **4d** | [Apply](https://www.dreamworkhq.com/job/dfa41c8a-278f-4219-96c3-09964d093367?utm_source=github&utm_campaign=gh-new-grad-swe) |
-| **Lila Sciences** | ML Engineer, Applied AI | Cambridge, MA USA | **4d** | [Apply](https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027) |
 | **[Applied Materials](https://www.appliedmaterials.com)** | AI/Machine Learning New College Grad - Bachelors - Santa Clara - CA | Santa Clara, CA / Santa Clara,CA | **4d** | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/AI-Machine-Learning-New-College-Grad--Bachelors---Santa-Clara--CA-_R2627059) |
+| **Lila Sciences** | ML Engineer, Applied AI | Cambridge, MA USA | **5d** | [Apply](https://zapply.jobs/l/d/greenhouse-lilasciences-4377936009?s=gh-new-grad-data-science-jobs-2027) |
 | **Sierra Nevada Corporation** | MLOps & Data Engineer II | Lone Tree, CO | **5d** | [Apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030489?s=gh-new-grad-data-science-jobs-2027) |
 | **[ID.me](https://simplify.jobs/c/IDme)** | Data Scientist New Grad | Mountain View, CA | **5d** | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) |
 | **[OneMain Financial](https://simplify.jobs/c/OneMain-Financial)** | Data Science Analyst | Charlotte, NC / Wilmington, DE | **5d** | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) |
@@ -983,7 +986,6 @@ new grads.
 | **[Keysight Technologies](https://simplify.jobs/c/Keysight-Technologies-Inc)** | Machine Learning Engineer | Santa Rosa, CA | 13d | [Apply](https://jobs.keysight.com/jobs/54093?icims=1) |
 | **[SentiLink](https://simplify.jobs/c/SentiLink)** | Applied Scientist New Grad - Multiple Teams | Remote in USA +2 | 14d | [Apply](https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82/application?embed=true) |
 | **Amplify** | Associate Data Scientist | Remote - USA | 14d | [Apply](https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0) |
-| **[WeRide.ai](https://www.weride.ai)** | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | 15d | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
 | **Deepgram** | Platform Engineer - AI/ML Infrastruct... | Remote (US) | 15d | [Apply](https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28?utm_source=aprameyak) |
 | **Gritt Robotics** | Robotics Software - Perception ML Eng... | South San Francisco, CA | 15d | [Apply](https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649?utm_source=aprameyak) |
 | **Sentra** | Machine Learning Research Scientist | San Francisco, CA | 15d | [Apply](https://jobs.ashbyhq.com/sentra/03976429-eb79-48df-8439-29f0cdaba859?utm_source=aprameyak) |

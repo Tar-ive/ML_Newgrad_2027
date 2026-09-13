@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-13 16:28 UTC_
+_Last refreshed: 2026-09-13 19:32 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -129,8 +129,8 @@ cliff after the first few days of a posting being live.
 | **dentsu** | AI Engineer | Remote - Chicago, IL +2 | **1d** | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/Chicago---N-State/AI-Engineer_R1131381) |
 | **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | Raleigh, US, North Carolina | **1d** | [Apply](https://zapply.jobs/l/d/greenhouse-celonis-7885897003?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Founding Data Scientist, Pricing & Monetization | San Francisco | **1d** | [Apply](https://zapply.jobs/l/d/ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027) |
 | **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **2d** | [Apply](https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027) |
 | **Xcel Energy** | Associate Data Scientist - Workforce Analytics | Minneapolis, MN, 55401 | **2d** | [Apply](https://www.dreamworkhq.com/job/d73abf7e-03f8-4d1c-9510-9ce4f66ad4c4?utm_source=github&utm_campaign=gh-new-grad-swe) |
 | **[Accenture](https://www.accenture.com)** | AI/ML Computational Science Associate | Bengaluru, India | **2d** | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Associate_AIOC-S01665345-1) |
 | **[Bosch](https://www.bosch.com/)** | PhD - Scalable and Efficient Reinforcement Learning Methods for Physical AI | Botswana | **2d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148957620-phd-scalable-and-efficient-reinforcement-learning-methods-for-physical-ai?oga=true) |
@@ -355,8 +355,8 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD) | San Jose, California | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7673941558289205509?s=gh-new-grad-data-science-jobs-2027) |
 | **ByteDance** | Research Scientist Graduate (Seed AI Foundation Model Infrastructure) - 2027 Start (PhD) | San Jose, California | **today** | [Apply](https://zapply.jobs/l/d/bytedance-7673264681083898165?s=gh-new-grad-data-science-jobs-2027) |
 | **Notion** | Data Scientist, Growth | San Francisco, California | **today** | [Apply](https://zapply.jobs/l/d/ashby-notion-9fc52821-c394-4a80-85ba-5f1d7c36fb2b?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027) |
 | **Apple** | Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos | Cupertino | **1d** | [Apply](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Machine Learning Research Engineer, ASE Search | Cupertino | **2d** | [Apply](https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-data-science-jobs-2027) |
 | **ByteDance** | Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027... | San Jose, California | **2d** | [Apply](https://joinbytedance.com/search/7668208806895831349) |
 | **Intel** | Data Scientist/Statistician | Arizona Phoenix | **2d** | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist-Statistician_JR0283881) |
 | **NVIDIA** | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | **2d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856) |
