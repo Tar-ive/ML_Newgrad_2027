@@ -17,6 +17,7 @@ from urllib.parse import urlsplit
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from classify import classify, normalize_company, role_family  # noqa: E402
 import sources  # noqa: E402
+import verify  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORE = os.path.join(ROOT, "data", "listings.json")
@@ -85,6 +86,8 @@ def keys(rec):
 def merge_into(dst, src):
     """Fold a duplicate into the record we're keeping, preferring richer data."""
     dst["sources"] = sorted(set(dst["sources"]) | {src["source"]})
+    if src["url"] and src["url"] not in dst["urls"]:
+        dst["urls"].append(src["url"])
     for field in ("company_url", "salary"):
         if not dst.get(field) and src.get(field):
             dst[field] = src[field]
@@ -104,18 +107,23 @@ def load_store():
     return {}
 
 
-def main(ats_tier="fast", trackers=True):
+def main(ats_tier="fast", trackers=True, verify_budget=None, verify_links=True):
     now = day_floor(time.time())
     if trackers:
         raw, report = sources.fetch_all()
     else:
         raw, report = [], []
 
+    boards = {}
     if ats_tier:
         import ats_live  # imported lazily: only this path needs ats-scrapers
         live = ats_live.fetch(ats_tier)
         raw.extend(live)
         report.append((f"ats-{ats_tier}", len(live), None))
+        # Every job on each custom career site we scraped, before classification
+        # throws most of them away: membership here is how those sites' roles
+        # are verified, since their pages give no per-job signal.
+        boards = ats_live.board_index(live)
 
     kept = {}      # id -> record
     index = {}     # key -> id
@@ -146,6 +154,7 @@ def main(ats_tier="fast", trackers=True):
             "family": role_family(r["title"], r["category"], r["company"], description),
             "is_usa": sources.is_usa(r["locations"], r["title"]),
             "sources": [r["source"]],
+            "urls": [r["url"]] if r["url"] else [],
         })
         kept[rid] = rec
         for k in ks:
@@ -157,6 +166,11 @@ def main(ats_tier="fast", trackers=True):
         prev = store.get(rid)
         if prev:
             rec["first_seen"] = prev.get("first_seen", now)
+            # Verification is expensive and stateful (strikes, last confirmed),
+            # so it survives the record being rebuilt from this run's sources.
+            for field in ("verification", "apply_url"):
+                if field in prev:
+                    rec[field] = prev[field]
         else:
             # On a cold start, trust the upstream posting date so the "new this
             # week" section does not claim 600 roles appeared today.
@@ -184,20 +198,27 @@ def main(ats_tier="fast", trackers=True):
             rec["active"] = False
             closed += 1
 
+    for name, n, err in report:
+        print(f"  {name:18} {n:6}" + (f"  FAILED: {err}" if err else ""))
+    if verify_links:
+        if boards:
+            print("  boards             " + "  ".join(f"{b}={len(ids)}" for b, ids in sorted(boards.items())))
+        verify.run(store, boards=boards, budget=verify_budget, now=time.time())
+    shown = sum(1 for rec in store.values() if verify.visible(rec))
+
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     ordered = sorted(store.values(), key=lambda r: -(r.get("date_posted") or r["first_seen"]))
     with open(STORE, "w") as f:
         json.dump(ordered, f, indent=1, sort_keys=True)
         f.write("\n")
 
-    for name, n, err in report:
-        print(f"  {name:18} {n:6}" + (f"  FAILED: {err}" if err else ""))
     families = collections.Counter(r.get("family") for r in kept.values())
     print("  families           " + "  ".join(
         f"{k}={v}" for k, v in sorted(families.items(), key=lambda kv: -kv[1])))
     print(f"raw={len(raw)} ml_new_grad={len(kept)} filtered_out={dropped} "
-          f"new={new_today} closed={closed} pruned={len(pruned)} store={len(store)}")
-    return f"{len(kept)} roles, {new_today} new"
+          f"new={new_today} closed={closed} pruned={len(pruned)} store={len(store)} "
+          f"visible={shown}")
+    return f"{shown} verified roles, {new_today} new"
 
 
 if __name__ == "__main__":
@@ -206,6 +227,12 @@ if __name__ == "__main__":
                     help="which ATS tier to scrape live (default: fast)")
     ap.add_argument("--no-trackers", action="store_true",
                     help="skip the community trackers; they only update daily")
+    ap.add_argument("--verify-budget", type=int, default=None,
+                    help="cap on postings verified this run (default: every one that is due)")
+    ap.add_argument("--no-verify", action="store_true",
+                    help="skip checking postings against the employer's ATS")
     args = ap.parse_args()
     print(main(None if args.ats == "none" else args.ats,
-               trackers=not args.no_trackers))
+               trackers=not args.no_trackers,
+               verify_budget=args.verify_budget,
+               verify_links=not args.no_verify))

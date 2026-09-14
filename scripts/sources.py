@@ -11,6 +11,8 @@ import re
 import time
 import urllib.request
 
+import links
+
 UA = {"User-Agent": "ML_Newgrad_2027/1.0 (+https://github.com/Tar-ive/ML_Newgrad_2027)"}
 TIMEOUT = 60
 
@@ -63,13 +65,25 @@ def is_usa(locations, title=""):
     return False
 
 
+def link(url):
+    """The employer's URL for a posting link, when it can be recovered offline.
+
+    Redirector links (zapply.jobs) are decoded and tracking parameters dropped
+    here, at parse time, so that the same requisition reached through two
+    trackers deduplicates to one row instead of two.
+    """
+    url = (url or "").strip()
+    decoded = links.employer_url(url)
+    return decoded if decoded and decoded.startswith("http") else url
+
+
 def record(company, title, url, locations, posted, source,
            company_url=None, category=None, salary=None, experience=None,
            description=None):
     return {
         "company": (company or "").strip(),
         "title": re.sub(r"\s+", " ", (title or "")).strip(),
-        "url": (url or "").strip(),
+        "url": link(url),
         "locations": [l.strip() for l in (locations or []) if l and l.strip()],
         # Day granularity: speedyapply exposes only a relative age, so a
         # finer timestamp would churn on every refresh without meaning.

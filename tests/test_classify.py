@@ -86,6 +86,7 @@ DROP = [
     ("AI Ops Engineer - GTM", None, "Tapcart"),
     ("AI Customer Insights Engineer", None, "Seeq"),
     ("Copilot Developer/AI Engineer", None, "Pyrovio"),
+    ("AI & ML Engineering Coach", None, "Leland"),
     # Not a full-time new-grad job.
     ("2027 Data Science Summer Analyst", None, "Blackstone"),
     ("Duales Studium Data Science und Kunstliche Intelligenz B.Sc. 2027", None, "Carrier"),

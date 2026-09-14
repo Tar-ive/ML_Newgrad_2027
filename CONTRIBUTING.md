@@ -60,6 +60,31 @@ Then add the source to [ATTRIBUTION.md](/ATTRIBUTION.md). Deduplication against
 existing sources is automatic. Prefer sources that link to the employer's own
 board — a redirect URL cannot be deduplicated against anything.
 
+## Fix a verification call
+
+Every posting in `data/listings.json` carries a `verification` block saying
+why it is shown or hidden — `status`, `via`, `reason`, and for experience
+calls the `evidence` sentence. Start there.
+
+- **A dead link is still listed** → find its `via`. If it is `page`, the site
+  needs a proper check in [`scripts/verify_ats.py`](/scripts/verify_ats.py):
+  add a `check_<ats>` function returning `verdict(...)` and register it in
+  `API_CHECKS`. Only mark a closure authoritative when the API's "gone" signal
+  cannot also mean "blocked" or "renamed".
+- **A live role is hidden as closed** → check `reason`. A soft signal that
+  closed it too eagerly wants more strikes, not a deleted check.
+- **A role is hidden as `too_senior` wrongly** → the evidence sentence shows
+  what [`scripts/experience.py`](/scripts/experience.py) misread. Add the
+  description to [`tests/test_experience.py`](/tests/test_experience.py) first.
+- **A redirector's links do not resolve** → teach `employer_url` in
+  [`scripts/links.py`](/scripts/links.py) (offline decoding), or add a
+  `resolve_*` there and call it from `check` (network resolution).
+
+When a rule changes, bump `VERSION` in [`scripts/verify.py`](/scripts/verify.py)
+so the next run re-verifies every posting instead of waiting for each to come
+due. Policy tests live in [`tests/test_verify.py`](/tests/test_verify.py) and
+run offline.
+
 ## Do not edit the tables by hand
 
 Everything between the `<!-- TABLE_*_START -->` markers is generated and will be

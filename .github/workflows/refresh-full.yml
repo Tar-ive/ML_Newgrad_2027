@@ -30,8 +30,11 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Classifier regression tests
-        run: python3 tests/test_classify.py
+      - name: Classifier, experience and verification tests
+        run: |
+          python3 tests/test_classify.py
+          python3 tests/test_experience.py
+          python3 tests/test_verify.py
 
       - name: Aggregate all sources
         id: aggregate

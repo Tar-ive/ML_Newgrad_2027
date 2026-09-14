@@ -5,7 +5,11 @@ to README.md survives the next refresh.
 """
 import json
 import os
+import sys
 import time
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import verify  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORE = os.path.join(ROOT, "data", "listings.json")
@@ -63,9 +67,14 @@ def row(rec, now):
         esc(rec["title"]),
         esc(locations_cell(rec)),
         age_cell(rec, now),
-        f'[Apply]({rec["url"]})' if rec.get("url") else "—",
+        f'[Apply]({apply_link(rec)})' if apply_link(rec) else "—",
     ]
     return "| " + " | ".join(cells) + " |"
+
+
+def apply_link(rec):
+    """The verified employer link when there is one, else the source link."""
+    return rec.get("apply_url") or rec.get("url")
 
 
 def table(records, now):
@@ -111,13 +120,14 @@ def collapse(records):
                 known.add(loc.lower())
         if sort_key(rec) < sort_key(kept):
             kept["url"], kept["date_posted"] = rec["url"], rec["date_posted"]
+            kept["apply_url"] = rec.get("apply_url")
     return list(groups.values())
 
 
 def main():
     now = int(time.time())
     with open(STORE) as f:
-        all_recs = [r for r in json.load(f) if r.get("active")]
+        all_recs = [r for r in json.load(f) if verify.visible(r, now)]
 
     for page in PAGES:
         path = os.path.join(ROOT, page["path"])
@@ -146,4 +156,4 @@ def main():
 
 
 if __name__ == "__main__":
-    print(f"{main()} active roles rendered")
+    print(f"{main()} verified roles rendered")

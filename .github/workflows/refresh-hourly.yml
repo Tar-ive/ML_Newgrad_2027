@@ -7,7 +7,12 @@ name: Hourly ATS refresh
 # day. That stopped being true once the source list grew -- zapplyjobs commits
 # every few minutes and ApplyGuy a couple of times an hour -- and fetching all
 # fourteen in parallel costs under two seconds, so the hourly job reads them
-# all. Runs in well under a minute.
+# all.
+#
+# Every stored posting is also re-verified against the employer's own ATS once
+# its check comes due (12h for live roles, 6h for unverifiable ones, at once for
+# new ones). The budget caps a cold start; a normal hour checks a few hundred
+# postings in well under two minutes.
 #
 # Public repositories get unlimited GitHub Actions minutes, so hourly costs
 # nothing. Scheduled workflows are disabled after 60 days without repository
@@ -31,7 +36,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -42,13 +47,16 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Classifier regression tests
-        run: python3 tests/test_classify.py
+      - name: Classifier, experience and verification tests
+        run: |
+          python3 tests/test_classify.py
+          python3 tests/test_experience.py
+          python3 tests/test_verify.py
 
       - name: Scrape ATS boards and trackers
         id: aggregate
         run: |
-          summary=$(python3 scripts/aggregate.py --ats fast | tail -1)
+          summary=$(python3 scripts/aggregate.py --ats fast --verify-budget 1200 | tail -1)
           echo "summary=$summary" >> "$GITHUB_OUTPUT"
 
       - name: Render tables

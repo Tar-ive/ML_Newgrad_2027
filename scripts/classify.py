@@ -99,7 +99,7 @@ EXCLUDE_FUNCTION = _rx(
     r"solutions? (consultant|engineer|architect)", r"sales engineer",
     r"product manager", r"program manager", r"project manager",
     r"\bpolicy\b", r"\bethics\b", r"\blegal\b", r"communications",
-    r"\bwriter\b", r"\bcontent\b", r"\btutor\b", r"\btrainer\b",
+    r"\bwriter\b", r"\bcontent\b", r"\btutor\b", r"\btrainer\b", r"\bcoach\b",
     # Data labeling and teleoperation. "Robotics Data Collection Operator" is
     # a person moving a robot arm, not an engineer.
     r"annotat", r"\blabeler\b", r"data (collection|contributor|operator)",

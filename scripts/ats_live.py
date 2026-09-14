@@ -20,6 +20,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import experience  # noqa: E402
 import sources  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -49,16 +50,6 @@ FAST_WORKERS = 12
 DESCRIPTIONS_FREE = {"greenhouse", "ashby", "lever", "workable",
                      "smartrecruiters", "rippling"}
 
-# Greenhouse and Ashby return descriptions inside the same payload as the
-# listing, so reading them costs nothing extra and is the only place a raw ATS
-# feed states how much experience a role wants.
-YEARS = re.compile(
-    r"(\d+)\s*(?:\+|-\s*\d+)?\s*(?:or more\s*)?years?(?:\s+of)?"
-    r"(?:\s+[\w-]+){0,3}\s+experience", re.I)
-NEW_GRAD_TEXT = re.compile(
-    r"new grad|recent(ly)? graduat|entry[- ]level|early career|final year|"
-    r"graduating (in|by)|0-2 years|no prior experience|university grad|"
-    r"currently (enrolled|pursuing).{0,40}(bachelor|master|phd)", re.I)
 TAGS = re.compile(r"<[^>]+>")
 
 
@@ -74,12 +65,19 @@ def clean_description(description):
     return html_mod.unescape(TAGS.sub(" ", str(description)))[:DESCRIPTION_CHARS]
 
 
-def read_experience(text):
-    """Return (min_years or None, has_new_grad_language) from a job description."""
-    if not text:
-        return None, False
-    years = [int(y) for y in YEARS.findall(text) if int(y) <= 30]
-    return (min(years) if years else None), bool(NEW_GRAD_TEXT.search(text))
+def read_experience(description):
+    """Return (years or None, has_new_grad_language) for the strict ATS gate.
+
+    Delegates to experience.read, which knows preferred from required and a
+    3-5 year range from a 3 year one. A disqualifying requirement is reported
+    as a figure far above classify.MAX_YEARS, so the gate drops it whatever
+    its exact lower bound.
+    """
+    read = experience.read(description)
+    if read["required"] is None:
+        return None, read["new_grad_language"]
+    years = read["required"][0] if read["acceptable"] else 99
+    return years, read["new_grad_language"]
 
 
 def load_companies(tier=None):
@@ -97,8 +95,11 @@ def _to_record(job, company):
     loc = getattr(job, "location", None)
     if loc:
         locations = [str(loc)]
-    description = clean_description(getattr(job, "description", None))
-    years, new_grad_text = read_experience(description)
+    raw_description = getattr(job, "description", None)
+    # Requirements sections often sit past the classifier's truncation point,
+    # so the experience reader gets the whole text.
+    years, new_grad_text = read_experience(raw_description)
+    description = clean_description(raw_description)
     # New-grad language in the body is worth more than a silent description, so
     # let it stand in for an explicit "0 years" figure.
     if years is None and new_grad_text:
@@ -137,6 +138,27 @@ def scrape_company(entry):
     except Exception as e:  # one dead board must not fail the run
         return [], f"{type(e).__name__}: {str(e)[:80]}"
     return [_to_record(j, entry["company"]) for j in jobs], None
+
+
+# Boards verified by membership rather than per job (see verify_ats.BOARD_ID).
+# A scrape this small is a partial failure, and absence from it proves nothing.
+MIN_BOARD_JOBS = 50
+
+
+def board_index(records):
+    """{board: set(job ids)} for the membership-verified boards in `records`.
+
+    Only boards that came back with a plausible number of jobs are included,
+    so a board that failed or paginated short is "not scraped" rather than
+    "every role closed".
+    """
+    import verify_ats
+    boards = {}
+    for rec in records:
+        key = verify_ats.board_key(rec["url"])
+        if key:
+            boards.setdefault(key[0], set()).add(key[1])
+    return {b: ids for b, ids in boards.items() if len(ids) >= MIN_BOARD_JOBS}
 
 
 def fetch(tier="fast", verbose=True):
