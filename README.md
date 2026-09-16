@@ -11,12 +11,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**556** open roles
+**554** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-16 17:09 UTC_
+_Last refreshed: 2026-09-16 20:15 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -31,12 +31,13 @@ cliff after the first few days of a posting being live.
 |---|---|---|---|---|
 | **Northrop Grumman** | Associate Data Scientist/Data Scientist | United States-California-Palmdale / Palmdale, CA | **today** | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493) |
 | **EnergyHub** | Energy Data Scientist | Remote - United States | **today** | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8747080002) |
-| **[BNY](https://simplify.jobs/c/BNY)** | Data Science Analyst - Engineering | Pittsburgh, PA | **today** | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) |
+| **[BNY](https://simplify.jobs/c/BNY)** | Data Science Analyst - Engineering | Pittsburgh, PA / Pittsburgh, PA, United States | **today** | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) |
 | **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Scientist I / II - Protein Design | San Francisco, CA / San Francisco, CA USA | **today** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) |
 | **[Lila Sciences](https://www.lila.ai/)** | ML Scientist I/II - AI for Protein Engineering | San Francisco, CA | **today** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4392245009) |
 | **[PayPal](https://www.paypal.com)** | Data Scientist - Payments Risk Management & Data Analytics | Chicago, IL +3 | **today** | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042) |
 | **[PayPal](https://www.paypal.com)** | Data Scientist | San Jose, CA +2 | **today** | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | Stafford, VA / San Antonio, TX | **today** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560) |
+| **Wells Fargo** | AI Research Scientist, Foundation Models & Agentic AI | CHARLOTTE, NC | **today** | [Apply](https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CHARLOTTE-NC/AI-Research-Scientist--Foundation-Models---Agentic-AI_R-572466) |
 | **[Tencent](https://www.tencent.com)** | Associate Data Scientist | — | **1d** | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/Singapore-CapitaSky/Associate-Data-Scientist_R108135) |
 | **Booz Allen Hamilton** | Data Scientist | Arlington, VA +2 | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0242010) |
 | **Radiance Technologies** | Data Scientist | Colorado Springs, CO | **1d** | [Apply](https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Colorado-Springs-CO/Data-Scientist_HR102380) |
@@ -130,7 +131,6 @@ cliff after the first few days of a posting being live.
 | **[GE Vernova](https://simplify.jobs/c/GE-Vernova)** | Data Scientist | Greenville, SC | **6d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Autonomous Systems Computer Engineer - 2027 Graduate | Laurel, MD | **6d** | [Apply](https://careers.jhuapl.edu/jobs/59762?icims=1) |
 | **[Noblis](https://simplify.jobs/c/Noblis)** | Artificial Intelligence Engineer | McLean, VA | **6d** | [Apply](https://careers.noblis.org/jobs/27812?icims=1) |
-| **Amazon** | Machine Learning Engineer, Prime Video ML Platform | Seattle, Washington, USA | **6d** | [Apply](https://www.amazon.jobs/en/jobs/10535739/machine-learning-engineer-prime-video-ml-platform) |
 | **Johns Hopkins Applied Physics Laboratory** | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | **6d** | [Apply](http://careers.jhuapl.edu/jobs/59817) |
 | **Google** | Post-Doctoral Researcher, PhD, 2026 Start (Fixed-Term Contract) | — | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/122538034422784710-postdoctoral-researcher-phd-2026-start-fixedterm-contract) |
 | **Google** | Life Sciences Research Associate, Debug | — | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/84016664776975046-life-sciences-research-associate-debug) |
@@ -241,7 +241,6 @@ and autonomy set.
 | **ByteDance** | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA / San Jose, California | **5d** | [Apply](https://joinbytedance.com/search/7667726338627356933) |
 | **Google** | Research Scientist, Frontier Health, DeepMind | United States | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/118553789589267142) |
 | **Spotify** | Data Scientist - Music Promotion | New York, NY | **6d** | [Apply](https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d) |
-| **Amazon** | Machine Learning Engineer, Prime Video ML Platform | Seattle, Washington, USA | **6d** | [Apply](https://www.amazon.jobs/en/jobs/10535739/machine-learning-engineer-prime-video-ml-platform) |
 | **Google** | Post-Doctoral Researcher, PhD, 2026 Start (Fixed-Term Contract) | — | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/122538034422784710-postdoctoral-researcher-phd-2026-start-fixedterm-contract) |
 | **Google** | Life Sciences Research Associate, Debug | — | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/84016664776975046-life-sciences-research-associate-debug) |
 | **Google** | UX Quantitative Researcher II | — | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/94927533123740358-ux-quantitative-researcher-ii) |
@@ -489,12 +488,13 @@ new grads.
 |---|---|---|---|---|
 | **Northrop Grumman** | Associate Data Scientist/Data Scientist | United States-California-Palmdale / Palmdale, CA | **today** | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493) |
 | **EnergyHub** | Energy Data Scientist | Remote - United States | **today** | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8747080002) |
-| **[BNY](https://simplify.jobs/c/BNY)** | Data Science Analyst - Engineering | Pittsburgh, PA | **today** | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) |
+| **[BNY](https://simplify.jobs/c/BNY)** | Data Science Analyst - Engineering | Pittsburgh, PA / Pittsburgh, PA, United States | **today** | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) |
 | **[Lila Sciences](https://www.lila.ai/)** | Machine Learning Scientist I / II - Protein Design | San Francisco, CA / San Francisco, CA USA | **today** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) |
 | **[Lila Sciences](https://www.lila.ai/)** | ML Scientist I/II - AI for Protein Engineering | San Francisco, CA | **today** | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4392245009) |
 | **[PayPal](https://www.paypal.com)** | Data Scientist - Payments Risk Management & Data Analytics | Chicago, IL +3 | **today** | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042) |
 | **[PayPal](https://www.paypal.com)** | Data Scientist | San Jose, CA +2 | **today** | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | Stafford, VA / San Antonio, TX | **today** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560) |
+| **Wells Fargo** | AI Research Scientist, Foundation Models & Agentic AI | CHARLOTTE, NC | **today** | [Apply](https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CHARLOTTE-NC/AI-Research-Scientist--Foundation-Models---Agentic-AI_R-572466) |
 | **[Tencent](https://www.tencent.com)** | Associate Data Scientist | — | **1d** | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/Singapore-CapitaSky/Associate-Data-Scientist_R108135) |
 | **Booz Allen Hamilton** | Data Scientist | Arlington, VA +2 | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0242010) |
 | **Radiance Technologies** | Data Scientist | Colorado Springs, CO | **1d** | [Apply](https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Colorado-Springs-CO/Data-Scientist_HR102380) |
@@ -729,7 +729,6 @@ new grads.
 | **Arizent** | Data & AI Engineer | New York City, NY | 47d | [Apply](https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5) |
 | **[The Brattle Group](https://simplify.jobs/c/TheBrattleGroup)** | Data and AI Engineer | Boston, MA | 47d | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) |
 | **[Bracebridge Capital](https://simplify.jobs/c/Bracebridge-Capital)** | Machine Learning Analyst | Boston, MA | 47d | [Apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) |
-| **[Hayden AI](https://www.hayden.ai/)** | Deep Learning Engineer | San Francisco, CA | 47d | [Apply](https://jobs.ashbyhq.com/haydenai/f9da378a-156e-4fa4-8d8c-34580a05b4c9) |
 | **fal** | Machine Learning Engineer - Reliability | Remote | 47d | [Apply](https://jobs.ashbyhq.com/fal-ai/1d9325cf-28da-4b78-af0d-eb0abe7b501d) |
 | **[Power Design, Inc](https://simplify.jobs/c/Power-Design-Inc)** | AI Innovation Engineer | St. Petersburg, FL | 48d | [Apply](https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer_R12316-2) |
 | **SpaceX** | Application Software Engineer, Applied AI | Cape Canaveral, FL +6 | 48d | [Apply](https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002) |
@@ -771,7 +770,6 @@ new grads.
 | **[Zillow](https://www.zillow.com)** | Machine Learning Engineer | Remote - Germany | 84d | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/zillow_group_external/job/Remote-Germany/Machine-Learning-Engineer_P750556-1) |
 | **[Hatch IT](https://simplify.jobs/c/Hatch-IT)** | NLP/Linguistics Software Engineer | Cambridge, MA | 85d | [Apply](https://jobs.lever.co/hatchit/a23a592b-edc0-498a-b90e-a521a706120e/apply) |
 | **[PIMCO](https://simplify.jobs/c/PIMCO)** | Quantitative Research Analyst - Client Solutions & Analytics | Newport Beach, CA | 86d | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106236) |
-| **Twilio** | Machine Learning Engineer | Remote - Spain / Remote - Ireland | 90d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8007455) |
 | **[Excellus BCBS](https://simplify.jobs/c/Excellus-BCBS)** | AI Engineer 1/2 | Rochester, NY +5 | 99d | [Apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/AI-Engineer-I-II_JR103556-2) |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Science Associate | Des Moines, IA | 105d | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000129992389) |
 | **[Caris](https://simplify.jobs/c/Caris)** | Data Scientist - Innovation | Irving, TX | 106d | [Apply](https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Data-Scientist---Innovation---PhD--Irving--TX-_JR104962) |
