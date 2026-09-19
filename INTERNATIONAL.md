@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-19 11:13 UTC_
+_Last refreshed: 2026-09-19 14:32 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -26,11 +26,11 @@ cliff after the first few days of a posting being live.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **Adobe** | Applied Scientist | Seattle / San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Applied-Scientist_R168308) |
-| **Guidehouse** | AI/ML Engineer | AL, Huntsville | **today** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
 | **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc) |
 | **Adobe** | Research Scientist/Engineer | Seattle | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Scientist-Engineer_R170713) |
 | **NVIDIA** | Research Scientist, Networking Research - PhD New College Grad 2026 | US, CA, Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) |
-| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **today** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **Guidehouse** | AI/ML Engineer | AL, Huntsville | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
+| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **1d** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
 | **Adobe** | Machine Learning Engineer 5 | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) |
 | **Adobe** | Research Engineer | Seattle | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Engineer_R166886) |
 | **HPE (University)** | AI and Machine Learning Engineer I Graduate | San Jose, California, United... | **1d** | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881) |
@@ -41,9 +41,9 @@ cliff after the first few days of a posting being live.
 | **Together AI** | Software Engineer, New Grad (2027) | San Francisco | **1d** | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **Adobe** | Research Scientist II | San Francisco | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Research-Scientist-II_R171628) |
 | **Apple** | Machine Learning Engineer | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200681112) |
-| **Guidehouse** | AI/ML Data Scientist | VA, Arlington | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/AI-ML-Data-Scientist_44337) |
 | **Squarepoint Capital** | Quantitative Researcher - Discretionary Oil | Houston | **1d** | [Apply](https://job-boards.greenhouse.io/squarepointcapital/jobs/8209423) |
 | **[Aera Technology](https://www.aeratechnology.com)** | Associate Data Scientist - Modeling - Analytics & Pipelines | Pune, India | **1d** | [Apply](https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617) |
+| **Guidehouse** | AI/ML Data Scientist | VA, Arlington | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/AI-ML-Data-Scientist_44337) |
 | **Caterpillar** | Data Scientist | East Peoria, Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Data-Scientist_R0000394837) |
 | **General Motors** | Data Scientist – Employee Research | 2 Locations | **2d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Data-Scientist---Employee-Research_JR-202618536) |
 | **Caterpillar** | Data Scientist I, Cat Digital | Chicago, Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255) |
@@ -308,16 +308,16 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Guidehouse** | AI/ML Engineer | AL, Huntsville | **today** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
 | **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc) |
-| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **today** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **Guidehouse** | AI/ML Engineer | AL, Huntsville | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
+| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **1d** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
 | **HPE (University)** | AI and Machine Learning Engineer I Graduate | San Jose, California, United... | **1d** | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881) |
 | **Guidehouse** | Data Scientist | VA, Arlington +4 | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist_44647) |
 | **Guidehouse** | Junior Data Scientist | VA Arlington +4 | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Junior-Data-Scientist_44662) |
 | **Lateral US** | Data Scientist I | Atlanta | **1d** | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Data-Scientist-I_26034343-1) |
-| **Guidehouse** | AI/ML Data Scientist | VA, Arlington | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/AI-ML-Data-Scientist_44337) |
 | **Squarepoint Capital** | Quantitative Researcher - Discretionary Oil | Houston | **1d** | [Apply](https://job-boards.greenhouse.io/squarepointcapital/jobs/8209423) |
 | **[Aera Technology](https://www.aeratechnology.com)** | Associate Data Scientist - Modeling - Analytics & Pipelines | Pune, India | **1d** | [Apply](https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617) |
+| **Guidehouse** | AI/ML Data Scientist | VA, Arlington | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/AI-ML-Data-Scientist_44337) |
 | **Caterpillar** | Data Scientist | East Peoria, Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Data-Scientist_R0000394837) |
 | **General Motors** | Data Scientist – Employee Research | 2 Locations | **2d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Data-Scientist---Employee-Research_JR-202618536) |
 | **Caterpillar** | Data Scientist I, Cat Digital | Chicago, Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255) |
