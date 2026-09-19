@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-19 20:51 UTC_
+_Last refreshed: 2026-09-19 23:15 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -25,13 +25,13 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Adobe** | Applied Scientist | Seattle / San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Applied-Scientist_R168308) |
 | **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc) |
 | **NVIDIA** | Research Scientist, Networking Research - PhD New College Grad 2026 | US, CA, Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) |
 | **Guidehouse** | Junior Data Scientist | US - VA, Arlington +4 | **today** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Junior-Data-Scientist_44662) |
 | **[NVIDIA](https://www.nvidia.com)** | AI Compiler Engineer- New College Grad 2027 | Remote - Santa Clara, CA +2 / CA Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) |
 | **[Bank of America](https://www.bankofamerica.com)** | Data Scientist I | Atlanta, GA +1 | **today** | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Atlanta/Data-Scientist-I_26034313-3) |
-| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **1d** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **today** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **Adobe** | Applied Scientist | Seattle / San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Applied-Scientist_R168308) |
 | **Adobe** | Research Scientist/Engineer | Seattle | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Scientist-Engineer_R170713) |
 | **Guidehouse** | AI/ML Engineer | AL, Huntsville | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
 | **Adobe** | Machine Learning Engineer 5 | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) |
@@ -159,9 +159,10 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Adobe** | Applied Scientist | Seattle / San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Applied-Scientist_R168308) |
 | **NVIDIA** | Research Scientist, Networking Research - PhD New College Grad 2026 | US, CA, Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) |
 | **[NVIDIA](https://www.nvidia.com)** | AI Compiler Engineer- New College Grad 2027 | Remote - Santa Clara, CA +2 / CA Santa Clara | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011) |
+| **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering | Markham, ON, Canada / Markham, ON | **today** | [Apply](https://qualcomm.eightfold.ai/careers/job/446721063770) |
+| **Adobe** | Applied Scientist | Seattle / San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Applied-Scientist_R168308) |
 | **Adobe** | Research Scientist/Engineer | Seattle | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Scientist-Engineer_R170713) |
 | **Adobe** | Machine Learning Engineer 5 | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) |
 | **Adobe** | Research Engineer | Seattle | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Engineer_R166886) |
@@ -195,7 +196,6 @@ and autonomy set.
 | **ByteDance** | Visual Generation & Multimodal Evaluation Researcher Graduate (AML-Ark-US) - 2027 Start (PhD) | Seattle, Washington / San Jose, California | 8d | [Apply](https://joinbytedance.com/search/7672392998192154885) |
 | **ByteDance** | Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027... | San Jose, California | 8d | [Apply](https://joinbytedance.com/search/7668208806895831349) |
 | **[Meta](https://simplify.jobs/c/Meta)** | Research Engineer - AI | Montreal, QC, Canada / Montréal, Canada | 8d | [Apply](https://www.metacareers.com/jobs/1395718268613427) |
-| **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering | Markham, ON, Canada | 8d | [Apply](https://qualcomm.eightfold.ai/careers/job/446721063770) |
 | **Apple** | Data Scientist, AI/ML Model Quality | Austin | 9d | [Apply](https://jobs.apple.com/en-us/details/200676435) |
 | **TikTok** | UX Researcher - Global E-Commerce (UK) | London, England, United Kingdom | 9d | [Apply](https://lifeattiktok.com/search/7657889445472913669) |
 | **TikTok** | Data Scientist (Platform Governance), TikTok E-Commerce | Singapore, Singapore, Singapore | 9d | [Apply](https://lifeattiktok.com/search/7603230803976014133) |
@@ -319,7 +319,9 @@ new grads.
 | **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc) |
 | **Guidehouse** | Junior Data Scientist | US - VA, Arlington +4 | **today** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Junior-Data-Scientist_44662) |
 | **[Bank of America](https://www.bankofamerica.com)** | Data Scientist I | Atlanta, GA +1 | **today** | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Atlanta/Data-Scientist-I_26034313-3) |
-| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **1d** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | **today** | [Apply](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
+| **[Capital One](https://simplify.jobs/c/Capital-One)** | Data Scientist New Grad | Toronto, ON, Canada / Toronto, ON | **today** | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) |
+| **[WallStreetQuants](https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872)** | Quantitative Researcher New Grad | London, UK | **today** | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/apply) |
 | **Guidehouse** | AI/ML Engineer | AL, Huntsville | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/AI-ML-Engineer_42933) |
 | **HPE (University)** | AI and Machine Learning Engineer I Graduate | San Jose, California, United... | **1d** | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881) |
 | **Guidehouse** | Data Scientist | VA, Arlington +4 | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist_44647) |
@@ -389,7 +391,6 @@ new grads.
 | **[BBVA](https://www.bbva.com)** | DATA SCIENTIST ASSOCIATE I | Lima, Peru | 8d | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00114539) |
 | **Etsy** | Coordinator, Machine Learning Product and Engineering | Brooklyn, New York | 8d | [Apply](https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Coordinator--Machine-Learning-Product-and-Engineering_JR5864) |
 | **Guidehouse** | Data Scientist - National Security | VA, Arlington | 8d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist---National-Security_44471) |
-| **[Capital One](https://simplify.jobs/c/Capital-One)** | Data Scientist New Grad | Toronto, ON, Canada / Toronto, ON | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) |
 | **[Roche](https://roche.com/)** | Machine Learning Engineer | Basel, Switzerland | 8d | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog_conf/job/Basel/Machine-Learning-Engineer_202608-121795-3) |
 | **Ns Eeh** | Data Scientist I - Epic Model Monitoring | NSO 4901 Searle Parkway Corporate Office Skokie | 8d | [Apply](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-4901-Searle-Parkway-Corporate-Office-Skokie/Data-Scientist-I---Epic-Model-Monitoring_R45241) |
 | **GE Vernova** | Data Scientist | Greenville | 8d | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Data-Scientist_R5051914-2) |
@@ -462,7 +463,6 @@ new grads.
 | **[PDI Technologies](https://pditechnologies.com/)** | Data Scientist I - BF5838 | Maidenhead, United Kingdom | 40d | [Apply](https://jobs.lever.co/pditechnologies/bb393451-f8da-4e57-9bd3-662af2fe51e4) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | 40d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Doctrine** | Junior / Intermediate Machine Learning Engineer - Squad Distribute | Paris | 40d | [Apply](https://jobs.lever.co/doctrine/4798ca9f-4635-4edc-96aa-81c979b99a94) |
-| **[WallStreetQuants](https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872)** | Quantitative Researcher New Grad | London, UK | 42d | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/apply) |
 | **Robert Half** | Software Engineer I, Generative AI Applications | NEW YORK MIDTOWN | 46d | [Apply](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/NEW-YORK-MIDTOWN/Software-Engineer-I--Generative-AI-Applications_JR-261077) |
 | **JPMorgan Chase** | 2027 Quantitative Research - Risk and... | New York, NY, Uni... | 47d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773978) |
 | **[Two95 International](http://two95intl.com/)** | GenAI / AI-ML Engineer | Gurugram, India | 50d | [Apply](https://apply.workable.com/two95-international-inc-3/j/2FB1670E86/) |
