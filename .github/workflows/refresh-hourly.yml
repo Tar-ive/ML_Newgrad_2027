@@ -62,10 +62,22 @@ jobs:
       - name: Render tables
         run: python3 scripts/render.py
 
+      # Author commits as the repo owner so they count on the contribution graph.
+      # GIT_COMMIT_EMAIL must be a verified email on the owner's GitHub account;
+      # if the variable is unset, fall back to the bot identity rather than fail.
       - name: Commit if changed
+        env:
+          GIT_COMMIT_EMAIL: ${{ vars.GIT_COMMIT_EMAIL }}
+          GIT_COMMIT_NAME: ${{ vars.GIT_COMMIT_NAME }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$GIT_COMMIT_EMAIL" ]]; then
+            git config user.email "$GIT_COMMIT_EMAIL"
+            git config user.name "${GIT_COMMIT_NAME:-${{ github.repository_owner }}}"
+          else
+            echo "::warning::GIT_COMMIT_EMAIL is unset; committing as github-actions[bot]"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          fi
           git add -A
           git diff --staged --quiet && echo "no changes" && exit 0
           git commit -m "chore: hourly refresh — ${{ steps.aggregate.outputs.summary }}"
