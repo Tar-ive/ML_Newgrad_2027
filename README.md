@@ -16,7 +16,7 @@ specialization**. Everything is new grad through roughly three years.
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-23 20:07 UTC_
+_Last refreshed: 2026-09-23 20:30 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -49,12 +49,12 @@ cliff after the first few days of a posting being live.
 | **Northrop Grumman** | Data Scientist | United States-Florida-Apopka | **today** | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Apopka/Data-Scientist_R10252532) |
 | **DoorDash** | Autonomy Platform Engineer | San Francisco, CA | **today** | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8225722) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad | San Francisco, CA | **today** | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
+| **Leidos** | Intelligence Analyst (AI/ML) | Hampton, VA | **today** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/Hampton-VA/Intelligence-Analytics-Instructor_R-00190605) |
 | **Southwest Airlines** | Associate Data Scientist - Direct College Hire | Dallas, TX | **1d** | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2026-72885) |
 | **Booz Allen Hamilton** | AI and ML Data Scientist | McLean, VA | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Data-Scientist_R0242343) |
 | **[Southwest](https://www.southwest.com)** | Associate Data Scientist - Direct College Hire | TX-Dallas | **1d** | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2026-72885) |
 | **[Striveworks](https://striveworks.com)** | Junior Machine Learning Engineer | Austin, TX | **1d** | [Apply](https://job-boards.greenhouse.io/striveworks/jobs/8002515003) |
 | **Bosch Group** | AI Research Scientist- Multimodal Foundational Models | Sunnyvale, CA | **1d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150800309) |
-| **[AbbVie](https://simplify.jobs/c/AbbVie)** | Associate AI Data Scientist 1 - FAiM Team | North Chicago, IL | **1d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) |
 | **Peraton** | Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 | MD | **1d** | [Apply](https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-laurel-maryland-171011-jobs--cms-scientific-research-analysis--) |
 | **[Avathon](https://simplify.jobs/c/Avathon)** | Associate AI Engineer - Physical AI | Pleasanton, CA | **1d** | [Apply](https://avathon.com/company/careers-job-listing/?gh_jid=4736834005) |
 | **[Draper](https://simplify.jobs/c/Draper)** | Machine Learning Engineer MTS1 | Cambridge, MA / Reston, VA | **1d** | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-MTS1_JR002949) |
@@ -63,12 +63,12 @@ cliff after the first few days of a posting being live.
 | **[Caterpillar](https://www.caterpillar.com)** | Autonomy Engineer | Irving, TX | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Autonomy-Engineer_R0000395840) |
 | **[CFD Research](https://www.cfd-research.com)** | Computer Vision Engineer | Dayton, OH | **1d** | [Apply](https://www.cfd-research.com/jobs?gh_jid=4411856009) |
 | **[Guidehouse](https://guidehouse.com)** | Data Scientist/Data Analyst | McLean, VA | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Data-Scientist-Data-Analyst_44615) |
+| **[AbbVie](https://simplify.jobs/c/AbbVie)** | Associate AI Data Scientist 1 - FAiM Team | North Chicago, IL | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) |
 | **ZoomInfo** | Machine Learning Engineer | Bethesda, Maryland, United States | **2d** | [Apply](https://job-boards.greenhouse.io/zoominfo/jobs/8769474002) |
 | **Spotify** | Research Scientist - Personalization | New York, NY | **2d** | [Apply](https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f) |
 | **AbbVie** | Data Scientist | North Chicago, IL | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015519736) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0248402) |
 | **Applied Materials** | Data Scientist | Santa Clara,CA | **2d** | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist_R2626821) |
-| **Leidos** | Intelligence Analyst (AI/ML) | Hampton, VA | **2d** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/Hampton-VA/Intelligence-Analytics-Instructor_R-00190605) |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | AI and ML Engineer | Chantilly, VA / McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044) |
 | **AbbVie** | Associate AI Data Scientist I | North Chicago, Illinois, United States / North Chicago, IL, United States | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268-associate-ai-data-scientist-i) |
 | **Google** | Research Scientist/Engineer, Frontier Reasoning, DeepMind | United States | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/102793884911706822) |
@@ -389,12 +389,12 @@ new grads.
 | **SpaceX** | Site Reliability Engineer (High Performance Computing) | Hawthorne, CA | **today** | [Apply](https://boards.greenhouse.io/spacex/jobs/8831632002?gh_jid=8831632002) |
 | **Booz Allen Hamilton** | AI and ML Engineer | McLean, VA / Lorton, VA | **today** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044) |
 | **Northrop Grumman** | Data Scientist | United States-Florida-Apopka | **today** | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Apopka/Data-Scientist_R10252532) |
+| **Leidos** | Intelligence Analyst (AI/ML) | Hampton, VA | **today** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/Hampton-VA/Intelligence-Analytics-Instructor_R-00190605) |
 | **Southwest Airlines** | Associate Data Scientist - Direct College Hire | Dallas, TX | **1d** | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2026-72885) |
 | **Booz Allen Hamilton** | AI and ML Data Scientist | McLean, VA | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Data-Scientist_R0242343) |
 | **[Southwest](https://www.southwest.com)** | Associate Data Scientist - Direct College Hire | TX-Dallas | **1d** | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2026-72885) |
 | **[Striveworks](https://striveworks.com)** | Junior Machine Learning Engineer | Austin, TX | **1d** | [Apply](https://job-boards.greenhouse.io/striveworks/jobs/8002515003) |
 | **Bosch Group** | AI Research Scientist- Multimodal Foundational Models | Sunnyvale, CA | **1d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150800309) |
-| **[AbbVie](https://simplify.jobs/c/AbbVie)** | Associate AI Data Scientist 1 - FAiM Team | North Chicago, IL | **1d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) |
 | **Peraton** | Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 | MD | **1d** | [Apply](https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-laurel-maryland-171011-jobs--cms-scientific-research-analysis--) |
 | **[Avathon](https://simplify.jobs/c/Avathon)** | Associate AI Engineer - Physical AI | Pleasanton, CA | **1d** | [Apply](https://avathon.com/company/careers-job-listing/?gh_jid=4736834005) |
 | **[Draper](https://simplify.jobs/c/Draper)** | Machine Learning Engineer MTS1 | Cambridge, MA / Reston, VA | **1d** | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-MTS1_JR002949) |
@@ -403,11 +403,11 @@ new grads.
 | **[Caterpillar](https://www.caterpillar.com)** | Autonomy Engineer | Irving, TX | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Autonomy-Engineer_R0000395840) |
 | **[CFD Research](https://www.cfd-research.com)** | Computer Vision Engineer | Dayton, OH | **1d** | [Apply](https://www.cfd-research.com/jobs?gh_jid=4411856009) |
 | **[Guidehouse](https://guidehouse.com)** | Data Scientist/Data Analyst | McLean, VA | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Data-Scientist-Data-Analyst_44615) |
+| **[AbbVie](https://simplify.jobs/c/AbbVie)** | Associate AI Data Scientist 1 - FAiM Team | North Chicago, IL | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) |
 | **ZoomInfo** | Machine Learning Engineer | Bethesda, Maryland, United States | **2d** | [Apply](https://job-boards.greenhouse.io/zoominfo/jobs/8769474002) |
 | **AbbVie** | Data Scientist | North Chicago, IL | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015519736) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0248402) |
 | **Applied Materials** | Data Scientist | Santa Clara,CA | **2d** | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist_R2626821) |
-| **Leidos** | Intelligence Analyst (AI/ML) | Hampton, VA | **2d** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/Hampton-VA/Intelligence-Analytics-Instructor_R-00190605) |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | AI and ML Engineer | Chantilly, VA / McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044) |
 | **AbbVie** | Associate AI Data Scientist I | North Chicago, Illinois, United States / North Chicago, IL, United States | **2d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268-associate-ai-data-scientist-i) |
 | **Disney** | Decision Science Graduate Associate, Spring 2027 | Lake Buena Vista, FL | **2d** | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Graduate-Associate--Spring-2027_10161248-1) |
