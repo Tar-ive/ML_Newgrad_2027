@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-26 17:17 UTC_
+_Last refreshed: 2026-09-26 19:58 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -28,8 +28,8 @@ cliff after the first few days of a posting being live.
 | **[KLA](https://www.kla.com)** | Data Scientist | Milpitas, CA +1 / Milpitas, CA | **today** | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Data-Scientist_2641332-1) |
 | **Lowe's** | Software Engineer - ML | Lowe's Charlotte Technology Hub... | **today** | [Apply](https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---AI_JR-02585888) |
 | **Ardian** | Data Scientist Analyst - Secondaries & Primaries | New York / San Francisco | **today** | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Analyst---Secondaries---Primaries_JR1001880) |
-| **Anduril** | Software Engineer- Machine Learning | Waltham, Massachusetts, United... | **1d** | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5248869007) |
-| **Apple** | AIML - Data Scientist, Evaluation | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200685687) |
+| **Anduril** | Software Engineer- Machine Learning | Waltham, Massachusetts, United... | **today** | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5248869007) |
+| **Apple** | AIML - Data Scientist, Evaluation | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200685687) |
 | **Discord** | Data Scientist - Client Platform | San Francisco Bay Area | **1d** | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) |
 | **OpenAI** | Machine Learning Engineer, Core Experimentation | Seattle | **1d** | [Apply](https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645) |
 | **Guidehouse** | Data Scientist - National Security | VA, Fairfax | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Fairfax/Data-Scientist---National-Security_44827) |
@@ -129,7 +129,7 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Apple** | AIML - Data Scientist, Evaluation | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200685687) |
+| **Apple** | AIML - Data Scientist, Evaluation | Cupertino | **today** | [Apply](https://jobs.apple.com/en-us/details/200685687) |
 | **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | **Apple** | Camera Machine Learning Engineer | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200684944) |
 | **Apple** | Machine Learning Video Engineer | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200618357) |
@@ -293,7 +293,7 @@ new grads.
 | **[KLA](https://www.kla.com)** | Data Scientist | Milpitas, CA +1 / Milpitas, CA | **today** | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Data-Scientist_2641332-1) |
 | **Lowe's** | Software Engineer - ML | Lowe's Charlotte Technology Hub... | **today** | [Apply](https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---AI_JR-02585888) |
 | **Ardian** | Data Scientist Analyst - Secondaries & Primaries | New York / San Francisco | **today** | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Analyst---Secondaries---Primaries_JR1001880) |
-| **Anduril** | Software Engineer- Machine Learning | Waltham, Massachusetts, United... | **1d** | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5248869007) |
+| **Anduril** | Software Engineer- Machine Learning | Waltham, Massachusetts, United... | **today** | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5248869007) |
 | **Discord** | Data Scientist - Client Platform | San Francisco Bay Area | **1d** | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) |
 | **Guidehouse** | Data Scientist - National Security | VA, Fairfax | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Fairfax/Data-Scientist---National-Security_44827) |
 | **USAA** | AI/ML Engineer II | Phoenix | **1d** | [Apply](https://usaa.wd1.myworkdayjobs.com/usaajobswd/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0121251) |

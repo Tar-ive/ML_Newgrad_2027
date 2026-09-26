@@ -11,12 +11,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**535** open roles
+**534** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-26 17:17 UTC_
+_Last refreshed: 2026-09-26 19:58 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -65,7 +65,6 @@ cliff after the first few days of a posting being live.
 | **[iManage](https://simplify.jobs/c/IManage)** | Applied AI Engineer New Grad | Chicago, IL | **2d** | [Apply](https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad) |
 | **Klaviyo** | AI Engineer I | Boston, MA | **2d** | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003) |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist New Grad - Bachelor's/Master's | Austin, TX | **2d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684) |
-| **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer | Seattle, WA | **2d** | [Apply](https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer - 2027 Graduate | Seattle, WA | **2d** | [Apply](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | Machine Learning Engineer New Grad | Seattle, WA +6 | **2d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | **Capgemini** | Data Scientist | — | **2d** | [Apply](https://career5.successfactors.eu/careers?company=capgemitecP3&career_ns=job_listing&career_job_req_id=547632) |
@@ -194,6 +193,7 @@ and autonomy set.
 | **Qualcomm** | GPU HW Research Engineer (San Diego/Boxborough) | Boxborough, Massachusetts, United States of America | 9d | [Apply](https://careers.qualcomm.com/careers/job/446716191606) |
 | **Qualcomm** | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | 9d | [Apply](https://careers.qualcomm.com/careers/job/446717859953) |
 | **Qualcomm** | CPU Performance Research Engineer | Santa Clara, California, United States of America | 9d | [Apply](https://careers.qualcomm.com/careers/job/446718593091) |
+| **Qualcomm** | QGOV Security Software Engineer | San Diego, California, United States of America | 9d | [Apply](https://careers.qualcomm.com/careers/job/446718664838) |
 | **Google** | Research Engineer, Advancing Agent Quality, DeepMind | United States | 11d | [Apply](https://www.google.com/about/careers/applications/jobs/results/115133712500171462) |
 | **Google** | Research Engineer, GenAI, Information Tasks, DeepMind | United States | 11d | [Apply](https://www.google.com/about/careers/applications/jobs/results/97490121065931462) |
 | **Amazon** | AI Platform Data Engineer, Ring Decision Science, Ring Decision Science | Hawthorne, California, USA | 11d | [Apply](https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science) |
@@ -430,7 +430,6 @@ new grads.
 | **[iManage](https://simplify.jobs/c/IManage)** | Applied AI Engineer New Grad | Chicago, IL | **2d** | [Apply](https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad) |
 | **Klaviyo** | AI Engineer I | Boston, MA | **2d** | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003) |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist New Grad - Bachelor's/Master's | Austin, TX | **2d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684) |
-| **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer | Seattle, WA | **2d** | [Apply](https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer - 2027 Graduate | Seattle, WA | **2d** | [Apply](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **Capgemini** | Data Scientist | — | **2d** | [Apply](https://career5.successfactors.eu/careers?company=capgemitecP3&career_ns=job_listing&career_job_req_id=547632) |
 | **[Booz Allen](https://www.boozallen.com)** | Data Scientist | Washington, DC +11 | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Data-Scientist_R0250185) |
@@ -480,7 +479,6 @@ new grads.
 | **Torch Technologies** | Junior Level Data Scientist | Colorado Springs, CO | **6d** | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Colorado-Springs-CO/Junior-Level-Data-Scientist_R1702) |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Science Associate | Des Moines, IA | **6d** | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000129992389) |
 | **[American International Group](https://www.aig.com)** | 2027 Early Careers: Analyst - Gen AI - Data Science - United States - Atlanta - GA | Atlanta, GA | **6d** | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1) |
-| **H&R Block** | Machine Learning Engineer | Remote - Missouri, USA | **7d** | [Apply](https://employees-hrblock.icims.com/jobs/76907/machine-learning-engineer/job) |
 | **[Squarepoint Capital](https://www.squarepoint-capital.com)** | Quantitative Researcher - Discretionary Oil | Houston, TX / New York City, NY | **7d** | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423) |
 | **[Caterpillar](https://www.caterpillar.com)** | Data Scientist I - Cat Digital | Chicago, IL | **7d** | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255) |
 | **[Rolls-Royce](https://simplify.jobs/c/Rolls-Royce)** | Junior Machine Learning Engineer | Indianapolis, IN | **7d** | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142) |
