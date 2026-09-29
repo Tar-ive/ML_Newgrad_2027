@@ -11,12 +11,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**533** open roles
+**518** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-09-29 21:34 UTC_
+_Last refreshed: 2026-09-29 23:03 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -37,24 +37,14 @@ cliff after the first few days of a posting being live.
 | **Rollsroyce** | Junior Machine Learning Engineer | Indianapolis, IN | **today** | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6159705) |
 | **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | Camp Lejeune, NC | **today** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Artificial-Intelligence-and-Machine-Learning-Engineer_R0250591) |
 | **Torc Robotics** | Machine Learning Engineer II - Learned Planning (Reinforcement Learning) | Remote - US, Ann Arbor, MI | **today** | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8852888002) |
-| **TikTok** | Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7325559906483996978) |
-| **TikTok** | Software Engineer - TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7674029284265838853) |
-| **TikTok** | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7665986019233958197) |
-| **TikTok** | Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7675829388634392837) |
-| **TikTok** | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668582086900680965) |
-| **TikTok** | Software Engineer, AI Agent | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7626968373985429765) |
-| **TikTok** | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668724383120804149) |
-| **TikTok** | Software Engineer, Pangle - SIA | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7639632990934960389) |
-| **TikTok** | Software Engineer, Ads Integrity | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7231665935751940413) |
-| **TikTok** | Software Engineer - Infrastructure, TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7280570149262117179) |
-| **TikTok** | Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD) | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7527441329384147208) |
+| **[GlobalFoundries](https://gf.com)** | AI/ML Analytics Engineer - 2027 New College Graduate | USA +2 / USA - New York - Malta | **today** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
+| **[Schonfeld](https://www.schonfeld.com)** | Entry Level Quantitative Researcher | New York City, NY +2 | **today** | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
+| **[Laminar](https://simplify.jobs/c/Laminar)** | Junior Machine Learning Engineer - ML - Developer | Somerville, MA | **today** | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
 | **Leidos** | Data Scientist (Applied AI – Performance Management) | 6314 Remote/Teleworker US | **1d** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Data-Scientist--Applied-AI---Performance-Management-_R-00193115) |
-| **[GlobalFoundries](https://gf.com)** | AI/ML Analytics Engineer - 2027 New College Graduate | USA +2 / USA - New York - Malta | **1d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
 | **Cigna** | Data Science Advisor - Hybrid | Austin, TX | **1d** | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Data-Science-Advisor---Hybrid_26010880) |
 | **General Motors** | Data Scientist | Warren, Michigan, United States... | **1d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Data-Scientist_JR-202620897) |
 | **Google** | Optimization Research Engineer, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/120898404719960774) |
 | **Google** | Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/126754223260869318) |
-| **[Schonfeld](https://www.schonfeld.com)** | Entry Level Quantitative Researcher | New York City, NY +2 | **1d** | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
 | **GlobalFoundries** | AI/ML Analytics Engineer (2027 New College Graduate) | USA - New York - Malta | **1d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
 | **Google** | Research Scientist/Engineer, Autonomous Security, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/136766307423920838) |
 | **Google** | Software Engineer, ML, Search Ads Creatives | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/92803434498925254) |
@@ -71,7 +61,7 @@ cliff after the first few days of a posting being live.
 | **Lightcast** | Economic Research Analyst / Junior Data Scientist - 1089 | Moscow, ID | **3d** | [Apply](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) |
 | **Aero** | 2026 Data Scientist | Colorado Springs, CO | **3d** | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833) |
 | **Dominos** | Data Scientist | Ann Arbor, MI, United States | **3d** | [Apply](https://jobs.smartrecruiters.com/Dominos/744000151957024-data-scientist?oga=true) |
-| **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +6 | **3d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
+| **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +7 | **3d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
 | **[TensorOps](https://media.licdn.com)** | Junior Data Scientist - Remote - Pakistan | Remote - Pakistan | **3d** | [Apply](https://job-boards.eu.greenhouse.io/tensorops/jobs/4987862101) |
 | **Glean** | Machine Learning Engineer, Search Quality | San Francisco, CA | **4d** | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4738120005) |
 | **[AppLovin](https://www.applovin.com)** | ML Data Infrastructure Engineer | Palo Alto, CA | **4d** | [Apply](https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006) |
@@ -94,13 +84,11 @@ cliff after the first few days of a posting being live.
 | **TikTok Inc.** | Machine Learning/Research Engineer Graduate (Monetization Technology-Ads Core Global) - 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-machine-learning-research-engineer-graduate-monetization-technology-ads-core-global-2027-start-phd) |
 | **TikTok Inc.** | Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-phd) |
 | **TikTok Inc.** | Video/Image AI/ML Software Engineer Graduate (Multimedia) - 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-video-image-ai-ml-software-engineer-graduate-multimedia-2027-start-phd) |
-| **Amazon** | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | Cupertino, California, USA +3 | **5d** | [Apply](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
+| **Amazon** | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | Cupertino, California, USA | **5d** | [Apply](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
 | **Google** | Sustainability Research Engineer, DeepMind | United States | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/74681275259986630) |
 | **[Optiver](https://simplify.jobs/c/Optiver)** | Quantitative Researcher Graduate | Austin, TX +4 | **5d** | [Apply](https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002) |
-| **[iManage](https://simplify.jobs/c/IManage)** | Applied AI Engineer New Grad | Chicago, IL | **5d** | [Apply](https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad) |
 | **Klaviyo** | AI Engineer I | Boston, MA | **5d** | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003) |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist New Grad - Bachelor's/Master's | Austin, TX | **5d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684) |
-| **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer | Seattle, WA | **5d** | [Apply](https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer - 2027 Graduate | Seattle, WA | **5d** | [Apply](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | Machine Learning Engineer New Grad | Seattle, WA +6 | **5d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | **U.S. Bank** | Software Engineer 1 (AI, Python, LLM, RAG, CI CD) | Irving, TX | **5d** | [Apply](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--AI--Python--LLM--RAG--CI-CD-_2026-0029593) |
@@ -109,7 +97,7 @@ cliff after the first few days of a posting being live.
 | **[REGENT](https://www.regentcraft.com/)** | Software Engineer II - Sensor Fusion & Autonomy | North Kingstown, RI | **6d** | [Apply](https://jobs.ashbyhq.com/regent/698d38b7-c47e-40a1-bf78-31d59c395c23) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Physical AI - Foundation Models - PhD New College Grad 2026 | Santa Clara, CA | **6d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
 | **[CVS Health](https://www.cvshealth.com/)** | Data Scientist - PBM Pricing Optimization and Advanced Analytics | — | **6d** | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Chicago-525-West-Monroe/Data-Scientist---PBM-Pricing-Optimization-and-Advanced-Analytics_R1049928) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live | LA +2 | **6d** | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live | LA / Los Angeles, CA | **6d** | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
 | **Google** | Research Engineer, Responsibility, DeepMind | United States | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/86802325804327622) |
 | **Denver Health** | Data Scientist | Denver, CO | **6d** | [Apply](https://denverhealth.wd1.myworkdayjobs.com/en-US/dhha-main/job/Administrative-Offices---601-Broadway-Denver-CO-80203/Data-Scientist_R18321-1) |
 | **Groundswell** | Associate Applied AI Engineer | Remote - Virginia, USA +47 | **6d** | [Apply](https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096) |
@@ -162,17 +150,6 @@ and autonomy set.
 | **Google** | Research Scientist, AI and Economics | United States | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/81035962842260166) |
 | **Google** | Audio Machine Learning Engineer, Google Beam | United States | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/106471308924986054) |
 | **Google** | Customer Engineer, Cloud AI, Financial Services, Google Cloud | United States | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/114146999598490310) |
-| **TikTok** | Backend Software Engineer, AI Infrastructure for SDLC - Engineering Efficiency | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7325559906483996978) |
-| **TikTok** | Software Engineer - TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7674029284265838853) |
-| **TikTok** | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7665986019233958197) |
-| **TikTok** | Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7675829388634392837) |
-| **TikTok** | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668582086900680965) |
-| **TikTok** | Software Engineer, AI Agent | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7626968373985429765) |
-| **TikTok** | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668724383120804149) |
-| **TikTok** | Software Engineer, Pangle - SIA | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7639632990934960389) |
-| **TikTok** | Software Engineer, Ads Integrity | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7231665935751940413) |
-| **TikTok** | Software Engineer - Infrastructure, TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7280570149262117179) |
-| **TikTok** | Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD) | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7527441329384147208) |
 | **Google** | Optimization Research Engineer, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/120898404719960774) |
 | **Google** | Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/126754223260869318) |
 | **Google** | Research Scientist/Engineer, Autonomous Security, DeepMind | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/136766307423920838) |
@@ -180,20 +157,20 @@ and autonomy set.
 | **Google** | Software Engineer, YouTube Ads Machine Learning Infrastructure | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/136571968743711430) |
 | **Google** | Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions | United States | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91223711167718086) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Hardware Development Engineer - AI/ML Server Development | Seattle, WA +2 | **3d** | [Apply](https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development) |
-| **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +6 | **3d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
+| **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +7 | **3d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
 | **Google** | Power Systems Research Engineer, DeepMind | United States | **4d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/79664588374581958) |
 | **[Adobe](https://www.adobe.com)** | New Grad 2026: Machine Learning Engineer | San Jose, CA +2 | **4d** | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | **Oracle** | Data Scientist 2 | Austin, TX, United States | **4d** | [Apply](https://careers.oracle.com/jobs/) |
 | **TikTok Inc.** | Machine Learning/Research Engineer Graduate (Monetization Technology-Ads Core Global) - 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-machine-learning-research-engineer-graduate-monetization-technology-ads-core-global-2027-start-phd) |
 | **TikTok Inc.** | Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-phd) |
 | **TikTok Inc.** | Video/Image AI/ML Software Engineer Graduate (Multimedia) - 2027 Start (PhD) | United States | **5d** | [Apply](https://career.virginia.edu/jobs/tiktok-inc-video-image-ai-ml-software-engineer-graduate-multimedia-2027-start-phd) |
-| **Amazon** | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | Cupertino, California, USA +3 | **5d** | [Apply](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
+| **Amazon** | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | Cupertino, California, USA | **5d** | [Apply](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
 | **Google** | Sustainability Research Engineer, DeepMind | United States | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/74681275259986630) |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | Machine Learning Engineer New Grad | Seattle, WA +6 | **5d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Physical AI - Foundation Models - PhD New College Grad 2026 | Santa Clara, CA | **6d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist – PhD New College Grad - Generative AI for Physical AI | Santa Clara, CA / US, CA, Santa Clara | **6d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
 | **Qualcomm** | DSP Applications Software Engineer | Austin, Texas, United States of America | **6d** | [Apply](https://careers.qualcomm.com/careers/job/446704270279) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live | LA +2 | **6d** | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live | LA / Los Angeles, CA | **6d** | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
 | **Google** | Research Engineer, Responsibility, DeepMind | United States | **6d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/86802325804327622) |
 | **DoorDash** | Autonomy Platform Engineer | San Francisco, CA | **6d** | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8225722) |
 | **TikTok** | Machine Learning Engineer, E-commerce Feed Recommendation | Seattle, Washington, United States of America / San Jose, California, United States of America | **6d** | [Apply](https://lifeattiktok.com/search/7276262058998368572) |
@@ -253,18 +230,18 @@ and autonomy set.
 | **Amazon** | Applied Scientist, Amazon Cryptographic Libraries | Seattle, Washington, USA | 28d | [Apply](https://account.amazon.jobs/jobs/10524924/apply) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist New Grad - Robotics Research | Seattle, WA / US, WA, Seattle | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | San Jose, CA +2 | 31d | [Apply](https://lifeattiktok.com/search/7679156878833682693) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate - Conversational AI | Seattle, WA / Seattle, Washington, United States of America | 31d | [Apply](https://lifeattiktok.com/search/7670681152383813893) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate - Conversational AI | Seattle, WA | 31d | [Apply](https://lifeattiktok.com/search/7670681152383813893) |
 | **ByteDance** | Research Engineer Graduate (AI Traini... | San Jose, CA | 31d | [Apply](https://joinbytedance.com/search/7671034858089040181) |
 | **Salesforce** | Research Scientist - Salesforce AI Re... | Palo Alto, CA | 31d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR214107-1) |
 | **Amazon** | Applied Scientist II | Sunnyvale, California, USA / North Reading, Massachusetts, USA | 32d | [Apply](https://account.amazon.jobs/jobs/10520542/apply) |
 | **Amazon** | Software Development Engineer, SageMaker HyperPod Data Plane | Santa Clara, California, USA | 33d | [Apply](https://www.amazon.jobs/en/jobs/10517662/software-development-engineer-sagemaker-hyperpod-data-plane) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | 35d | [Apply](https://jobs.bytedance.com/en/position/7675473897004861749/detail) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA / Seattle, Washington, United States of America | 36d | [Apply](https://lifeattiktok.com/search/7676650760662157621) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA / San Jose, California, United States of America | 36d | [Apply](https://lifeattiktok.com/search/7676647728043280645) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA | 36d | [Apply](https://lifeattiktok.com/search/7676650760662157621) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA | 36d | [Apply](https://lifeattiktok.com/search/7676647728043280645) |
 | **[Instacart](http://instacart.com)** | Machine Learning Engineer II - Ads - Response Prediction | Remote - Canada | 39d | [Apply](https://instacart.careers/job/?gh_jid=8143263) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | 40d | [Apply](https://lifeattiktok.com/search/7675841339440941317) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 40d | [Apply](https://lifeattiktok.com/search/7668854153882011957) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Engineer – Neural Graphics and World Models Graduate - Engine & Tools | San Jose, CA / San Jose, California, United States of America | 40d | [Apply](https://lifeattiktok.com/search/7668831188103481605) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Engineer – Neural Graphics and World Models Graduate - Engine & Tools | San Jose, CA | 40d | [Apply](https://lifeattiktok.com/search/7668831188103481605) |
 | **Amazon** | Research Scientist II - AMZ9898222 | New York, New York, USA | 40d | [Apply](https://account.amazon.jobs/jobs/10508073/apply) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Quantum Chemistry and Machine Learning | San Jose, CA | 41d | [Apply](https://jobs.bytedance.com/en/position/7668595575944186117/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Video Codec Algorithm | San Diego, CA | 41d | [Apply](https://jobs.bytedance.com/en/position/7626928937260665093/detail) |
@@ -276,26 +253,26 @@ and autonomy set.
 | **TikTok** | Software Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start | United States | 43d | [Apply](https://tsenta.com/jobs/tiktok-software-engineer-graduate-tiktok-global-e-commerc-d2e5bd42-ad4a-4cb9-adc9-614aa8d60fee) |
 | **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start | Bellevue, WA | 43d | [Apply](https://bandana.com/jobs/32a7741a-5220-430e-aef1-3556bf55c62e) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Data Scientist Graduate - Multimedia | San Jose, CA / San Jose, California, United States of America | 45d | [Apply](https://lifeattiktok.com/search/7670288355678177589) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist - PGC - TikTok | San Jose, CA / San Jose, California, United States of America | 45d | [Apply](https://lifeattiktok.com/search/7673215338318367029) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | LLM Post-Training Engineer Graduate - Research & Product | San Jose, CA / San Jose, California, United States of America | 46d | [Apply](https://lifeattiktok.com/search/7673672141012093189) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Data Science Graduate - Advertisement Team | San Jose, CA / San Jose, California, United States of America | 47d | [Apply](https://lifeattiktok.com/search/7673232905797880069) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist - PGC - TikTok | San Jose, CA | 45d | [Apply](https://lifeattiktok.com/search/7673215338318367029) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | LLM Post-Training Engineer Graduate - Research & Product | San Jose, CA | 46d | [Apply](https://lifeattiktok.com/search/7673672141012093189) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Data Science Graduate - Advertisement Team | San Jose, CA | 47d | [Apply](https://lifeattiktok.com/search/7673232905797880069) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Software Engineer Graduate - Recommendation Infrastructure | San Jose, CA +2 | 47d | [Apply](https://lifeattiktok.com/search/7673284715407886597) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Seed AI Foundation Model Infrastructure | San Jose, CA | 47d | [Apply](https://jobs.bytedance.com/en/position/7673268418623293749/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Engineer Graduate - Seed Infra | Seattle, WA | 47d | [Apply](https://jobs.bytedance.com/en/position/7673256063231854901/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD | San Jose, CA | 47d | [Apply](https://jobs.bytedance.com/en/position/7673264681083898165/detail) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure | Seattle, WA +2 | 47d | [Apply](https://lifeattiktok.com/search/7672530785573980421) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Governance - PhD | Seattle, WA / Seattle, Washington, United States of America | 47d | [Apply](https://lifeattiktok.com/search/7672928557537954053) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Large Language Model Post-training Engineer Graduate - Research & Product | San Jose, CA / San Jose, California, United States of America | 47d | [Apply](https://lifeattiktok.com/search/7670285949976201477) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD | Seattle, WA / Seattle, Washington, United States of America | 48d | [Apply](https://lifeattiktok.com/search/7672883737036654853) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Governance - PhD | Seattle, WA | 47d | [Apply](https://lifeattiktok.com/search/7672928557537954053) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Large Language Model Post-training Engineer Graduate - Research & Product | San Jose, CA | 47d | [Apply](https://lifeattiktok.com/search/7670285949976201477) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD | Seattle, WA | 48d | [Apply](https://lifeattiktok.com/search/7672883737036654853) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation | San Jose, CA +3 | 48d | [Apply](https://lifeattiktok.com/search/7672882500030138629) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD | Seattle, WA +3 | 48d | [Apply](https://lifeattiktok.com/search/7672877778696407301) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD | Seattle, WA / San Jose, CA | 48d | [Apply](https://lifeattiktok.com/search/7672877778696407301) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall | Seattle, WA +5 | 48d | [Apply](https://lifeattiktok.com/search/7672911151560296709) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD | Seattle, WA / San Jose, CA | 48d | [Apply](https://jobs.bytedance.com/en/position/7509248845324273938/detail) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | AI Infrastructure Engineer Graduate - Recommendation & LLM | San Jose, CA / San Jose, California, United States of America | 48d | [Apply](https://lifeattiktok.com/search/7672654026594093317) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Video/Image AI/ML Software Engineer Graduate - Multimedia | San Diego, CA | 48d | [Apply](https://jobs.bytedance.com/en/position/7670354624860703029/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist - LLM | San Jose, CA | 48d | [Apply](https://jobs.bytedance.com/en/position/7671033602288912645/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Foundation Model - Generative AI | San Jose, CA | 48d | [Apply](https://jobs.bytedance.com/en/position/7671030761623177477/detail) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Software Engineer Graduate - Recommendation | San Jose, CA / San Jose, California, United States of America | 48d | [Apply](https://lifeattiktok.com/search/7672517471946000645) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Software Engineer Graduate - Recommendation | San Jose, CA | 48d | [Apply](https://lifeattiktok.com/search/7672517471946000645) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Big Data Engineer Graduate - TikTok Recommendation Architecture | San Jose, CA +2 | 48d | [Apply](https://lifeattiktok.com/search/7672518398222387461) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - TikTok Vertical Recommendation | San Jose, CA +2 | 48d | [Apply](https://lifeattiktok.com/search/7672532275557583157) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA +2 | 48d | [Apply](https://lifeattiktok.com/search/7672532801686571317) |
@@ -329,27 +306,27 @@ and autonomy set.
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Data-Intelligent Creation-Vision and Graphics-Global GenAI | San Jose, CA | 54d | [Apply](https://jobs.bytedance.com/en/position/7668208806895831349/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Backend Inference Framework Engineer - AML Inference | San Jose, CA | 54d | [Apply](https://jobs.bytedance.com/en/position/7669670735275526453/detail) |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer - Machine Learning Engineering | San Diego, CA | 55d | [Apply](https://qualcomm.eightfold.ai/careers/job/446717859953) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer Graduate - Agentic Arch - PhD | Seattle, WA +3 | 55d | [Apply](https://lifeattiktok.com/search/7669824148794575109) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Brand Ads | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7668698260232702261) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist - Monetization Technology - Business Integrity | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7667770207780194613) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer Graduate - Agentic Arch - PhD | Seattle, WA / San Jose, CA | 55d | [Apply](https://lifeattiktok.com/search/7669824148794575109) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Brand Ads | San Jose, CA | 55d | [Apply](https://lifeattiktok.com/search/7668698260232702261) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist - Monetization Technology - Business Integrity | San Jose, CA | 55d | [Apply](https://lifeattiktok.com/search/7667770207780194613) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - App Ads and Gaming | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7669709290431236357) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Graduate Machine Learning Engineer | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7669702699627661573) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist Graduate - Trust and Safety | Seattle, WA / Seattle, Washington, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7665985896410368261) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Graduate Machine Learning Engineer | San Jose, CA | 55d | [Apply](https://lifeattiktok.com/search/7669702699627661573) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist Graduate - Trust and Safety | Seattle, WA | 55d | [Apply](https://lifeattiktok.com/search/7665985896410368261) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | AI Engineer Graduate - Client Architecture - 2027 Start | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7664978367107713333) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Commerce Ads - 2027 Start | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7669711968024430853) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Ads Signal & Measurement | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7669700358734170373) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Ads Creative | San Jose, CA / San Jose, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7668669015051405573) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Ads Creative | San Jose, CA | 55d | [Apply](https://lifeattiktok.com/search/7668669015051405573) |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Compiler Engineer - Machine Learning Engineering | Austin, TX +3 | 55d | [Apply](https://qualcomm.eightfold.ai/careers/job/446717346550) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA +2 | 56d | [Apply](https://lifeattiktok.com/search/7668592348941273349) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce | Seattle, WA / Seattle, Washington, United States of America | 56d | [Apply](https://lifeattiktok.com/search/7668384123840514309) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Performance Monetization | San Jose, CA / San Jose, California, United States of America | 56d | [Apply](https://lifeattiktok.com/search/7669691057987520773) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Performance Monetization | San Jose, CA | 56d | [Apply](https://lifeattiktok.com/search/7669691057987520773) |
 | **TikTok** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start | San Jose, CA | 56d | [Apply](https://lifeattiktok.com/search/7667035008003328309) |
 | **TikTok** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | San Jose, CA | 56d | [Apply](https://lifeattiktok.com/search/7667074822035261749) |
 | **Amazon** | ML Software Engineer, Data Plane | Cupertino, California, USA | 56d | [Apply](https://www.amazon.jobs/en/jobs/10491191/ml-software-engineer-data-plane) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7665797203155896581) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Search Quality | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7665793152026740997) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Data Search Basic Ranking | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7667344111675246901) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Data-Global E-Commerce-Search | Seattle, WA / Seattle, Washington, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7668389759463393589) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Search Quality | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7665793152026740997) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Data Search Basic Ranking | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7667344111675246901) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Data-Global E-Commerce-Search | Seattle, WA | 57d | [Apply](https://lifeattiktok.com/search/7668389759463393589) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Ads Delivery | San Jose, CA +2 | 57d | [Apply](https://lifeattiktok.com/search/7668660365135808821) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Ads Targeting | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7668629846058223877) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Computer Vision Research Engineer Graduate | San Jose, CA | 57d | [Apply](https://jobs.bytedance.com/en/position/7668433722454935861/detail) |
@@ -358,20 +335,18 @@ and autonomy set.
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist New Grad - Computational Imaging | San Jose, CA | 57d | [Apply](https://jobs.bytedance.com/en/position/7665836153219959093/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - AI Infra Compute | San Jose, CA | 57d | [Apply](https://jobs.bytedance.com/en/position/7667334521286035765/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Distributed NoSQL Database Systems | San Jose, CA | 57d | [Apply](https://jobs.bytedance.com/en/position/7668365756950137141/detail) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer Graduate - Monetization Technology - Business Integrity | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7667769079948347701) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Trust and Safety | San Jose, CA +3 | 57d | [Apply](https://lifeattiktok.com/search/7665973724622342453) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer Graduate - Monetization Technology - Business Integrity | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7667769079948347701) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Trust and Safety | San Jose, CA / Seattle, WA | 57d | [Apply](https://lifeattiktok.com/search/7665973724622342453) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Trust and Safety | Seattle, WA / Seattle, Washington, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7665994926854555909) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist New Grad - Trust and Safety | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7665989163791403269) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist New Grad - Recommendation | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7663389363824773381) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Multiple Teams | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7667767820142643461) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Recommendation | San Jose, CA / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7663388039600883973) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist New Grad - Trust and Safety | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7665989163791403269) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist New Grad - Recommendation | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7663389363824773381) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Multiple Teams | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7667767820142643461) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Recommendation | San Jose, CA | 57d | [Apply](https://lifeattiktok.com/search/7663388039600883973) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist | San Jose, CA | 57d | [Apply](https://jobs.bytedance.com/en/position/7667645514462480645/detail) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Infrastructure Engineer New Grad - Ads Infra | San Jose, CA +2 | 57d | [Apply](https://lifeattiktok.com/search/7668693662561634613) |
-| **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
-| **TikTok** | (General Hire) Research Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America | 57d | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
 | **Amazon** | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | 57d | [Apply](https://account.amazon.jobs/jobs/10490741/apply) |
 | **ByteDance** | Software Development Engineer - AI/LLM Network - Global Frontier Tech Research Program - 2027 Start (PhD) | Bellevue, WA | 58d | [Apply](https://bandana.com/jobs/ce274c9c-5425-4567-8f59-7bbac38275ea) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Data Scientist - Multiple Positions | Culver City, CA / San Jose, CA | 60d | [Apply](https://lifeattiktok.com/search/7660649494686976309) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Data Scientist - Multiple Positions | Culver City, CA +2 | 60d | [Apply](https://lifeattiktok.com/search/7660649494686976309) |
 | **Amazon** | EFA Network Software Engineer 1 - Annapurna Labs | Seattle, WA | 64d | [Apply](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) |
 | **Tesla** | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA | 67d | [Apply](https://www.tesla.com/careers/search/job/233307) |
 | **Tesla** | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA | 67d | [Apply](https://www.tesla.com/careers/search/job/259019) |
@@ -382,7 +357,7 @@ and autonomy set.
 | **Amazon** | Applied Scientist II - AMZ27580.1 | Nashville, Tennessee, USA | 67d | [Apply](https://account.amazon.jobs/jobs/10483724/apply) |
 | **ByteDance** | New Grad 2026: Software Engineer in ML Systems | San Jose, CA | 71d | [Apply](https://joinbytedance.com/search/7265752342699837757) |
 | **ByteDance** | Machine Learning Engineer Graduate - eCommerce User Growth | Seattle, WA | 71d | [Apply](https://joinbytedance.com/search/7542674819873081608) |
-| **[TikTok](https://www.tiktok.com)** | General Hire Research Scientist Graduate - TikTok Recommendation - 2027 Start | San Jose, CA / San Jose, California, United States of America | 74d | [Apply](https://lifeattiktok.com/search/7663389956951918853) |
+| **[TikTok](https://www.tiktok.com)** | General Hire Research Scientist Graduate - TikTok Recommendation - 2027 Start | San Jose, CA | 74d | [Apply](https://lifeattiktok.com/search/7663389956951918853) |
 | **Amazon** | Data Scientist II - AMZ27596.1 | Irving, Texas, USA | 77d | [Apply](https://account.amazon.jobs/jobs/10474326/apply) |
 | **[Tesla](https://simplify.jobs/c/Tesla)** | Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus | Palo Alto, CA | 85d | [Apply](https://www.tesla.com/careers/search/job/276000) |
 | **[Tesla](https://simplify.jobs/c/Tesla)** | AI Engineer - Whole Body Controls - Optimus | Palo Alto, CA | 85d | [Apply](https://www.tesla.com/careers/search/job/275999) |
@@ -424,11 +399,12 @@ new grads.
 | **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | Camp Lejeune, NC | **today** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Artificial-Intelligence-and-Machine-Learning-Engineer_R0250591) |
 | **U.S. Bank** | Software engineer 1 – AI/ML Engineer (Generative AI) | Chicago, IL | **today** | [Apply](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055) |
 | **Torc Robotics** | Machine Learning Engineer II - Learned Planning (Reinforcement Learning) | Remote - US, Ann Arbor, MI | **today** | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8852888002) |
+| **[GlobalFoundries](https://gf.com)** | AI/ML Analytics Engineer - 2027 New College Graduate | USA +2 / USA - New York - Malta | **today** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
+| **[Schonfeld](https://www.schonfeld.com)** | Entry Level Quantitative Researcher | New York City, NY +2 | **today** | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
+| **[Laminar](https://simplify.jobs/c/Laminar)** | Junior Machine Learning Engineer - ML - Developer | Somerville, MA | **today** | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
 | **Leidos** | Data Scientist (Applied AI – Performance Management) | 6314 Remote/Teleworker US | **1d** | [Apply](https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Data-Scientist--Applied-AI---Performance-Management-_R-00193115) |
-| **[GlobalFoundries](https://gf.com)** | AI/ML Analytics Engineer - 2027 New College Graduate | USA +2 / USA - New York - Malta | **1d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
 | **Cigna** | Data Science Advisor - Hybrid | Austin, TX | **1d** | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Data-Science-Advisor---Hybrid_26010880) |
 | **General Motors** | Data Scientist | Warren, Michigan, United States... | **1d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Data-Scientist_JR-202620897) |
-| **[Schonfeld](https://www.schonfeld.com)** | Entry Level Quantitative Researcher | New York City, NY +2 | **1d** | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
 | **GlobalFoundries** | AI/ML Analytics Engineer (2027 New College Graduate) | USA - New York - Malta | **1d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942) |
 | **Booz Allen Hamilton** | AI/ML Software Developer | Fort Meade, MD | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/AI-ML-Software-Developer_R0250448) |
 | **Carnegie Mellon University** | Associate Data Scientist | Pittsburgh, PA | **1d** | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Associate-Data-Scientist_2024499) |
@@ -459,10 +435,8 @@ new grads.
 | **Visa** | Forecasting Data Scientist | Foster City, CA | **5d** | [Apply](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Forecasting-Data-Scientist_REF088536W) |
 | **Accenture Federal Services** | Data Scientist | Washington, DC | **5d** | [Apply](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4713955006) |
 | **Northrop Grumman** | Mission Autonomy Software Developer | United States-California-El Segundo | **5d** | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-El-Segundo/Mission-Autonomy-Software-Developer_R10236655) |
-| **[iManage](https://simplify.jobs/c/IManage)** | Applied AI Engineer New Grad | Chicago, IL | **5d** | [Apply](https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad) |
 | **Klaviyo** | AI Engineer I | Boston, MA | **5d** | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003) |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | Data Scientist New Grad - Bachelor's/Master's | Austin, TX | **5d** | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684) |
-| **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer | Seattle, WA | **5d** | [Apply](https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **[Atlassian](https://simplify.jobs/c/Atlassian)** | Machine Learning Engineer - 2027 Graduate | Seattle, WA | **5d** | [Apply](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | **U.S. Bank** | Software Engineer 1 (AI, Python, LLM, RAG, CI CD) | Irving, TX | **5d** | [Apply](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--AI--Python--LLM--RAG--CI-CD-_2026-0029593) |
 | **[Seek](https://seekinsights.com/)** | Data Scientist - US Remote | — | **5d** | [Apply](https://seek.applytojob.com/apply/XWrIBJ2tlY/Data-Scientist-US-Remote) |
@@ -504,7 +478,6 @@ new grads.
 | **Torch Technologies** | Junior Level Data Scientist | Colorado Springs, CO | 9d | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Colorado-Springs-CO/Junior-Level-Data-Scientist_R1702) |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Science Associate | Des Moines, IA | 9d | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000129992389) |
 | **[American International Group](https://www.aig.com)** | 2027 Early Careers: Analyst - Gen AI - Data Science - United States - Atlanta - GA | Atlanta, GA | 9d | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1) |
-| **H&R Block** | Machine Learning Engineer | Remote - Missouri, USA | 10d | [Apply](https://employees-hrblock.icims.com/jobs/76907/machine-learning-engineer/job) |
 | **[Squarepoint Capital](https://www.squarepoint-capital.com)** | Quantitative Researcher - Discretionary Oil | Houston, TX / New York City, NY | 10d | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423) |
 | **Caterpillar** | Data Scientist I - Cat Digital | Chicago, IL | 10d | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255) |
 | **[Rolls-Royce](https://simplify.jobs/c/Rolls-Royce)** | Junior Machine Learning Engineer | Indianapolis, IN | 10d | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142) |
