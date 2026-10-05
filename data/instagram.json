@@ -1,6 +1,64 @@
 [
  {
   "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791221242,
+  "locations": [],
+  "posted": 1791220606,
+  "story_id": "4001370944895219369",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1610929233853451/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Disney Entertainment Television",
+  "first_seen": 1791221242,
+  "locations": [
+   "New York, New York"
+  ],
+  "posted": 1791220532,
+  "story_id": "4001370323626853983",
+  "title": "WABC-TV (ABC7) Technology Intern, Spring 2027",
+  "url": "https://www.disneycareers.com/en/job/new-york/wabc-tv-abc7-technology-intern-spring-2027/391/101572679040"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Khan Academy",
+  "first_seen": 1791221242,
+  "locations": [
+   "Remote (US + Canada Only)"
+  ],
+  "posted": 1791214510,
+  "story_id": "4001319809006545665",
+  "title": "Software Engineer Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA USA",
+  "first_seen": 1791221242,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "posted": 1791211352,
+  "story_id": "4001293315702903495",
+  "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA Corporation",
+  "first_seen": 1791221242,
+  "locations": [
+   "Santa Clara, CA,US"
+  ],
+  "posted": 1791210859,
+  "story_id": "4001289182250017056",
+  "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+  "url": "https://nvidia.eightfold.ai/careers/job/893397948510"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Bridgewater",
   "first_seen": 1791180644,
   "locations": [],
