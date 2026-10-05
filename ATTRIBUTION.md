@@ -20,6 +20,11 @@ that collection work.
 | zapplyjobs/New-Grad-Data-Science-Jobs-2027 | No license file — same good-faith basis as above | https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027 |
 | zapplyjobs/New-Grad-Software-Engineering-Jobs-2027 | No license file — same good-faith basis as above | https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027 |
 
+One source is not a repository: job links that creators share as Instagram
+story link stickers (currently [@zero2sudo](https://www.instagram.com/zero2sudo/)).
+Only the link is taken from the story; the company and title are read from the
+employer's own posting.
+
 Several of the newer sources are general new-grad or software-engineering
 lists rather than AI ones. They are read because a genuine ML role is often
 filed under "Software Engineering" upstream, and an AI-only list never

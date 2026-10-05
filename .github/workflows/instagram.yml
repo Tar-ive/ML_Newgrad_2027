@@ -1,0 +1,107 @@
+name: Instagram stories
+
+# Creators share new roles as story link stickers, and a story is gone 24 hours
+# after it is posted. This polls those accounts with instastoryhook, keeps the
+# link stickers, and commits them to data/instagram.json. The hourly refresh
+# reads that file as one more source, so a shared role still has to pass the
+# classifier and the employer check before it reaches the README.
+#
+# Every 4 hours catches each story at least five times before it expires, while
+# keeping the logged-in account's request rate low: Instagram is quicker to
+# challenge a session that polls often from a datacenter IP.
+#
+# Setup (once):
+#   secrets.INSTAGRAM_SESSION  contents of instastoryhook's data/session.json,
+#                              from `instastoryhook login` on your own machine.
+#                              When Instagram expires it, this job fails; log in
+#                              again and update the secret.
+#   secrets.INSTAGRAM_PROXY    optional residential proxy URL for the polling.
+
+on:
+  schedule:
+    - cron: "50 */4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  # Shared with the refresh jobs so the three never race to push.
+  group: listings-refresh
+  cancel-in-progress: false
+
+env:
+  ACCOUNTS: zero2sudo
+  # Pinned to a commit: this code runs with the Instagram session in hand.
+  INSTASTORYHOOK: git+https://github.com/imraghavojha/instastoryhook@cfc9587591fd5f9bd4f298c7e35ddace145e23d7
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install "instastoryhook @ $INSTASTORYHOOK"
+
+      - name: Instagram sync tests
+        run: python3 tests/test_instagram.py
+
+      # A fresh data directory every run means instastoryhook reports every
+      # active story each time; scripts/instagram.py dedupes against the store.
+      # Its output stays in a file: story events carry tracking links and
+      # nothing from the session belongs in a public log.
+      - name: Poll stories
+        env:
+          INSTAGRAM_SESSION: ${{ secrets.INSTAGRAM_SESSION }}
+          INSTAGRAM_PROXY: ${{ secrets.INSTAGRAM_PROXY }}
+        run: |
+          if [[ -z "$INSTAGRAM_SESSION" ]]; then
+            echo "::error::secrets.INSTAGRAM_SESSION is not set; see the setup notes in this workflow"
+            exit 1
+          fi
+          umask 077
+          mkdir -p "$RUNNER_TEMP/ig"
+          printf '%s' "$INSTAGRAM_SESSION" > "$RUNNER_TEMP/ig/session.json"
+          if [[ -n "$INSTAGRAM_PROXY" ]]; then export STORYHOOK_PROXY="$INSTAGRAM_PROXY"; fi
+          set +e
+          instastoryhook --data-dir "$RUNNER_TEMP/ig" run $ACCOUNTS --once > "$RUNNER_TEMP/events.jsonl"
+          code=$?
+          set -e
+          # Only status lines go to the log.
+          grep -v '"instagram.story.discovered"' "$RUNNER_TEMP/events.jsonl" || true
+          # 2 is a dead session or a fatal error; 1 is a partial poll, still worth syncing.
+          if [[ $code -eq 2 ]]; then
+            echo "::error::Instagram session rejected or poll failed; log in again and update secrets.INSTAGRAM_SESSION"
+            exit 1
+          fi
+
+      - name: Merge story links
+        id: merge
+        run: |
+          python3 scripts/instagram.py < "$RUNNER_TEMP/events.jsonl" | tee "$RUNNER_TEMP/merge.log"
+          echo "summary=$(tail -1 "$RUNNER_TEMP/merge.log")" >> "$GITHUB_OUTPUT"
+
+      # Same identity rules as the refresh jobs.
+      - name: Commit if changed
+        env:
+          GIT_COMMIT_EMAIL: ${{ vars.GIT_COMMIT_EMAIL }}
+          GIT_COMMIT_NAME: ${{ vars.GIT_COMMIT_NAME }}
+        run: |
+          if [[ -n "$GIT_COMMIT_EMAIL" ]]; then
+            git config user.email "$GIT_COMMIT_EMAIL"
+            git config user.name "${GIT_COMMIT_NAME:-${{ github.repository_owner }}}"
+          else
+            echo "::warning::GIT_COMMIT_EMAIL is unset; committing as github-actions[bot]"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          fi
+          git add data/instagram.json
+          git diff --staged --quiet && echo "no changes" && exit 0
+          git commit -m "chore: instagram stories — ${{ steps.merge.outputs.summary }}"
+          git pull --rebase --autostash
+          git push

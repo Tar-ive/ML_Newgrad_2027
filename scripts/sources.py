@@ -7,6 +7,7 @@ never has to know where a posting came from.
 import concurrent.futures as futures
 import datetime
 import json
+import os
 import re
 import time
 import urllib.request
@@ -290,6 +291,27 @@ def from_speedyapply(md_url, source, category=None):
     return out
 
 
+INSTAGRAM = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                         "data", "instagram.json")
+
+
+def from_instagram(path=INSTAGRAM):
+    """Story link stickers collected by scripts/instagram.py.
+
+    These are whatever a creator chose to share -- internships, competitions,
+    hardware roles -- so nothing is pre-filtered: the classifier decides, as it
+    does for the general trackers. Links whose title never resolved are skipped,
+    since a posting with no title cannot be classified.
+    """
+    try:
+        with open(path) as f:
+            rows = json.load(f)
+    except FileNotFoundError:
+        return []
+    return [record(r["company"], r["title"], r["url"], r.get("locations"), r.get("posted"),
+                   "instagram") for r in rows if r.get("title")]
+
+
 RAW = "https://raw.githubusercontent.com/{repo}/{{branch}}/{path}"
 
 
@@ -389,6 +411,9 @@ SOURCES = [
     ("zapply-swe", lambda: from_markdown_table(
         _gh("zapplyjobs/New-Grad-Software-Engineering-Jobs-2027", "README.md").format(branch="main"),
         "zapply")),
+    # Not a tracker: links shared in Instagram stories, committed to this repo
+    # by the instagram workflow.
+    ("instagram", from_instagram),
 ]
 
 

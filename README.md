@@ -696,6 +696,7 @@ repo does the scraping itself, in the open, in [`scripts/`](/scripts).
 ```
 sources.py    14 community trackers (SimplifyJobs, vanshb03, speedyapply,
               aprameyak, coconight01, WonOfAKind, zapplyjobs, and more)
+instagram.py  job links shared in Instagram stories (zero2sudo), every 4h
 ats_live.py   ~153 company ATS boards, scraped directly
    ↓
 classify.py   keep only genuine ML/DS roles at the new-grad level

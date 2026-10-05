@@ -35,6 +35,7 @@ jobs:
           python3 tests/test_classify.py
           python3 tests/test_experience.py
           python3 tests/test_verify.py
+          python3 tests/test_instagram.py
 
       - name: Aggregate all sources
         id: aggregate
