@@ -1,6 +1,160 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1791250343,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "posted": 1791244623,
+  "story_id": "4001572414932503823",
+  "title": "Engineering Intern - Electronics Design (Spring 2027 Co-Op)",
+  "url": "https://careers.rivian.com/careers-home/jobs/34040?icims=1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1791250343,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "posted": 1791244574,
+  "story_id": "4001572008974876171",
+  "title": "Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
+  "url": "https://careers.rivian.com/careers-home/jobs/33832?icims=1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rippling",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791244505,
+  "story_id": "4001571425732089632",
+  "title": "Software Engineer Intern: Agent Commerce | Root Insurance",
+  "url": "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Found Industries",
+  "first_seen": 1791250343,
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "posted": 1791244425,
+  "story_id": "4001570760170617092",
+  "title": "Data Engineer Co-op",
+  "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Atlassian",
+  "first_seen": 1791250343,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted": 1791244373,
+  "story_id": "4001570316857765056",
+  "title": "Data Engineer Intern, 2027 Summer U.S.",
+  "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern,-2027-summer-u.s./job?mobile=true&width=384&height=693&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Beamery",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791244019,
+  "story_id": "4001567347231905481",
+  "title": "Loading...",
+  "url": "https://flows.beamery.com/uber/university-of-washington-uber-networking-event-gs74depz4"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Docusign",
+  "first_seen": 1791250343,
+  "locations": [
+   "Seattle, Washington"
+  ],
+  "posted": 1791243696,
+  "story_id": "4001564649975464198",
+  "title": "Software Engineer Intern",
+  "url": "https://careers.docusign.com/careers-home/jobs/30468"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Eightfold",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791243105,
+  "story_id": "4001559679457024753",
+  "title": "Micron @ University of Washington Fall 2026 | Eightfold",
+  "url": "https://micron.eightfold.ai/events/candidate?plannedEventId=6zZanOG7"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Motorola Solutions, Inc.",
+  "first_seen": 1791250343,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted": 1791236218,
+  "story_id": "4001501919529055233",
+  "title": "Android Applications Developer Intern - Summer 2027",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791234777,
+  "story_id": "4001489819381406002",
+  "title": "Software Engineering Intern",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016392/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Eightfold",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791234209,
+  "story_id": "4001485052966001209",
+  "title": "Behind the Hardware: NVIDIA Tech Talk at UC Berkeley 10/6/26 | Eightfold",
+  "url": "https://nvidia.eightfold.ai/events/candidate/landing?plannedEventId=wwJ8qeVD9"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Cloudflare",
+  "first_seen": 1791250343,
+  "locations": [
+   "Hybrid"
+  ],
+  "posted": 1791229090,
+  "story_id": "4001442114793815216",
+  "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
+  "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791228692,
+  "story_id": "4001438776756937012",
+  "title": null,
+  "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Nuro",
+  "first_seen": 1791250343,
+  "locations": [],
+  "posted": 1791221791,
+  "story_id": "4001380886821915610",
+  "title": "Work at Nuro",
+  "url": "https://www.nuro.ai/careersitem?gh_jid=7351066"
+ },
+ {
+  "account": "zero2sudo",
   "company": null,
   "first_seen": 1791221242,
   "locations": [],
