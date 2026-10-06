@@ -1,6 +1,152 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Tensorwave",
+  "first_seen": 1791311958,
+  "locations": [
+   "Las Vegas, Nevada"
+  ],
+  "posted": 1791310427,
+  "story_id": "4002124419329680944",
+  "title": "Software Engineering Intern",
+  "url": "https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Boston Scientific",
+  "first_seen": 1791311958,
+  "locations": [
+   "Maple Grove, MN,US"
+  ],
+  "posted": 1791309904,
+  "story_id": "4002120045064665301",
+  "title": "Equipment Engineering Software Engineer Intern",
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Everpure",
+  "first_seen": 1791311958,
+  "locations": [
+   "Santa Clara, California"
+  ],
+  "posted": 1791309855,
+  "story_id": "4002119628813514277",
+  "title": "Software Engineer Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Niantic Spatial",
+  "first_seen": 1791311958,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "posted": 1791309659,
+  "story_id": "4002117984060277747",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?jr_id=6ac52d3a4ac55253f5d74fd2"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "ACT",
+  "first_seen": 1791311958,
+  "locations": [
+   "New York"
+  ],
+  "posted": 1791307886,
+  "story_id": "4002103101259377087",
+  "title": "Sales & Trading Summer Intern",
+  "url": "https://careers.actgroup.com/vacancies/sales-trading-summer-intern-new-york-8869267002?gh_jid=8869267002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791311958,
+  "locations": [],
+  "posted": 1791307830,
+  "story_id": "4002102637871782554",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1633096478817942/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Kkr",
+  "first_seen": 1791311958,
+  "locations": [],
+  "posted": 1791307751,
+  "story_id": "4002101970307341256",
+  "title": "Career Opportunities | KKR",
+  "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Westmonroe",
+  "first_seen": 1791311958,
+  "locations": [],
+  "posted": 1791307688,
+  "story_id": "4002101446908343782",
+  "title": "Job Details | West Monroe",
+  "url": "https://www.westmonroe.com/careers/job-details-students?gh_jid=6172721004"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791311958,
+  "locations": [],
+  "posted": 1791307646,
+  "story_id": "4002101094369457574",
+  "title": "Summer 2027 Data Management Internship",
+  "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791311958,
+  "locations": [],
+  "posted": 1791307363,
+  "story_id": "4002098717372859314",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1952991802037374/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Space Dynamics Laboratory",
+  "first_seen": 1791311958,
+  "locations": [
+   "North Logan, UT"
+  ],
+  "posted": 1791306340,
+  "story_id": "4002090137772695960",
+  "title": "Software Engineering Intern - AI Enabled Software Development",
+  "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Space Dynamics Laboratory",
+  "first_seen": 1791311958,
+  "locations": [
+   "North Logan, UT"
+  ],
+  "posted": 1791306279,
+  "story_id": "4002089619407503199",
+  "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+  "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Superhuman Platform Inc",
+  "first_seen": 1791311958,
+  "locations": [
+   "Hub - San Francisco"
+  ],
+  "posted": 1791300366,
+  "story_id": "4002040017961638500",
+  "title": "Software Engineering Intern - Summer 2027",
+  "url": "https://jobs.ashbyhq.com/superhuman platform inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?jr_id=6aa89116a77a53f5a157a0c1"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Perplexity",
   "first_seen": 1791286398,
   "locations": [
