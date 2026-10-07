@@ -1,6 +1,133 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Early Career",
+  "first_seen": 1791409113,
+  "locations": [
+   "Irving, Texas"
+  ],
+  "posted": 1791405078,
+  "story_id": "4002918409557945026",
+  "title": "Junior Generative AI Application Developer",
+  "url": "https://jobs.citi.com/job/-/-/287/94846498992"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "IF1690 Nexus Controls LLC",
+  "first_seen": 1791409113,
+  "locations": [
+   "Atlanta"
+  ],
+  "posted": 1791404977,
+  "story_id": "4002917559397704439",
+  "title": "SCS Commercial Intern - : AI Data Mining Agent",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-2?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Constellationspace",
+  "first_seen": 1791409113,
+  "locations": [
+   "Seattle"
+  ],
+  "posted": 1791404778,
+  "story_id": "4002915889745888109",
+  "title": "Software Engineering Intern (Winter/Spring)",
+  "url": "https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Bose Corporation, U.S.A",
+  "first_seen": 1791409113,
+  "locations": [
+   "US, MA - Framingham"
+  ],
+  "posted": 1791404740,
+  "story_id": "4002915570920077731",
+  "title": "Embedded Software Engineer Co-op - Audio Tech",
+  "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791409113,
+  "locations": [],
+  "posted": 1791404611,
+  "story_id": "4002914487749498952",
+  "title": null,
+  "url": "https://americas-cookmedical.icims.com/jobs/19550/intern,-applied-ai-&-full-stack-development/job?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA USA",
+  "first_seen": 1791409113,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "posted": 1791404472,
+  "story_id": "4002913328284491583",
+  "title": "Systems Software Engineer, AI and Cloud - New College Grad 2026",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Shieldai",
+  "first_seen": 1791409113,
+  "locations": [
+   "Washington, D.C."
+  ],
+  "posted": 1791404342,
+  "story_id": "4002912237295644725",
+  "title": "Engineer I, Simulation Framework (R6203)",
+  "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791409113,
+  "locations": [],
+  "posted": 1791404286,
+  "story_id": "4002911763993613411",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135839"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "First Citizens Bank",
+  "first_seen": 1791409113,
+  "locations": [
+   "New York, New York"
+  ],
+  "posted": 1791404223,
+  "story_id": "4002911231610637450",
+  "title": "2027 Summer Intern - Card Product Management/Business to Business Payments (NYC, NY)",
+  "url": "https://jobs.firstcitizens.com/jobs/35886?lang=en-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Otter",
+  "first_seen": 1791409113,
+  "locations": [],
+  "posted": 1791404064,
+  "story_id": "4002909907326231604",
+  "title": "Otter.ai Careers - Shape the Future of Work and Meetings",
+  "url": "https://otter.ai/job-detail?gh_jid=8016078003%3Futm_source%3Dzero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "HP",
+  "first_seen": 1791409113,
+  "locations": [
+   "Austin, TX,US",
+   "Fort Collins, CO,US"
+  ],
+  "posted": 1791403989,
+  "story_id": "4002909271939538114",
+  "title": "Software Product Management Intern",
+  "url": "https://apply.hp.com/careers/job/43321624?domain=hp.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Tenstorrent University Jobs",
   "first_seen": 1791388123,
   "locations": [
