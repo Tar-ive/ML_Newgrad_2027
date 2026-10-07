@@ -1,6 +1,50 @@
 [
  {
   "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791354883,
+  "locations": [],
+  "posted": 1791351137,
+  "story_id": "4002465917933965897",
+  "title": null,
+  "url": "https://youtube.com/@zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791354883,
+  "locations": [],
+  "posted": 1791335067,
+  "story_id": "4002331118020706113",
+  "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+  "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Figure",
+  "first_seen": 1791354883,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted": 1791334558,
+  "story_id": "4002326843386968544",
+  "title": "Security Engineer Intern [Winter 2027]",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006?source=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Sigma Computing",
+  "first_seen": 1791354883,
+  "locations": [
+   "New York, NY"
+  ],
+  "posted": 1791334506,
+  "story_id": "4002326408421055136",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Mach Industries",
   "first_seen": 1791331909,
   "locations": [
