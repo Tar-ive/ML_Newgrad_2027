@@ -1,6 +1,86 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Mach Industries",
+  "first_seen": 1791331909,
+  "locations": [
+   "Huntington Beach, California, United States"
+  ],
+  "posted": 1791321016,
+  "story_id": "4002213246811657443",
+  "title": "May 2027 New Graduate Engineer, Software",
+  "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791331909,
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted": 1791320760,
+  "story_id": "4002211101827846643",
+  "title": "Associate, Software Engineer, New Grad",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivet",
+  "first_seen": 1791331909,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted": 1791320293,
+  "story_id": "4002207173350426520",
+  "title": "Intern, Software Engineering (Summer 2027)",
+  "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791331909,
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted": 1791319411,
+  "story_id": "4002199785453025121",
+  "title": "Intern, Full Stack Software Engineer - Summer 2027",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Affirm",
+  "first_seen": 1791331909,
+  "locations": [
+   "New York, New York, United States"
+  ],
+  "posted": 1791316776,
+  "story_id": "4002177681982658603",
+  "title": "Software Engineer, Early Career (NYC)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791331909,
+  "locations": [],
+  "posted": 1791313412,
+  "story_id": "4002149454961538087",
+  "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+  "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Directconsideration",
+  "first_seen": 1791331909,
+  "locations": [],
+  "posted": 1791312376,
+  "story_id": "4002140765035682985",
+  "title": "Direct Consideration #010",
+  "url": "https://directconsideration.com/p/direct-consideration-010"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Tensorwave",
   "first_seen": 1791311958,
   "locations": [
