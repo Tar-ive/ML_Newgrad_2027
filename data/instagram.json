@@ -1,6 +1,74 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Tenstorrent University Jobs",
+  "first_seen": 1791388123,
+  "locations": [
+   "Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States"
+  ],
+  "posted": 1791384637,
+  "story_id": "4002746937526579355",
+  "title": "Hardware Intern - Architecture, AI HW & System on a Chip",
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Tenstorrent University Jobs",
+  "first_seen": 1791388123,
+  "locations": [
+   "Austin, Texas, United States; Santa Clara, California, United States"
+  ],
+  "posted": 1791384513,
+  "story_id": "4002745899403816778",
+  "title": "AI Software Intern",
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791388123,
+  "locations": [],
+  "posted": 1791384471,
+  "story_id": "4002745546662019151",
+  "title": "S&C Minimal Career Site Careers",
+  "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=intern&mode=job-location"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Akuna Capital",
+  "first_seen": 1791388123,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted": 1791384332,
+  "story_id": "4002744384428586175",
+  "title": "Software Engineer (Entry-Level) - C++",
+  "url": "https://akunacapital.com/careers/job/8013085/?gh_jid=8013085"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Cloudflare",
+  "first_seen": 1791388123,
+  "locations": [
+   "In-Office"
+  ],
+  "posted": 1791384033,
+  "story_id": "4002741870069357462",
+  "title": "Software Engineer Intern (2027)",
+  "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8245211"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Ibm",
+  "first_seen": 1791388123,
+  "locations": [],
+  "posted": 1791381922,
+  "story_id": "4002724159721116433",
+  "title": "Interview Readiness: Inside IBM Interviews",
+  "url": "https://careers.ibm.com/eventlisting/Eventdetail?jobId=131064&source=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
   "company": null,
   "first_seen": 1791354883,
   "locations": [],
