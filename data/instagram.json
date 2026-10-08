@@ -1,6 +1,82 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Ringcentral",
+  "first_seen": 1791495255,
+  "locations": [],
+  "posted": 1791490330,
+  "story_id": "4003633556643539716",
+  "title": "Pinterest ML Day Conference 2026",
+  "url": "https://events.ringcentral.com/events/pinterest-ml-day-conference-2026/registration"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Twosigma",
+  "first_seen": 1791495255,
+  "locations": [],
+  "posted": 1791490230,
+  "story_id": "4003632720089642647",
+  "title": "Matcha and Mentors Brunch - Grace Hopper Conference 2026",
+  "url": "https://careers.twosigma.com/events/EventDetail?jobId=14286"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Replit",
+  "first_seen": 1791495255,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "posted": 1791488956,
+  "story_id": "4003622034244514342",
+  "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
+  "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Twosigma",
+  "first_seen": 1791495255,
+  "locations": [],
+  "posted": 1791481612,
+  "story_id": "4003560430504865636",
+  "title": "Software Engineering Full-Time Campus Hire (Houston)",
+  "url": "https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Point72",
+  "first_seen": 1791495255,
+  "locations": [
+   "Stamford, Stamford"
+  ],
+  "posted": 1791479777,
+  "story_id": "4003545038902395906",
+  "title": "Point72 Academy Coffee Chats\u2014Class of 2029 (US)",
+  "url": "https://careers.point72.com/CSJobDetail?jobName=point72-academy-coffee-chats-class-of-2029-us-&jobCode=CPA-0015229&location=Stamford&locale=English&retURL=%2FCSCareerSearch"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "IMC",
+  "first_seen": 1791495255,
+  "locations": [
+   "New York, United States"
+  ],
+  "posted": 1791479384,
+  "story_id": "4003541734453579159",
+  "title": "Machine Learning Engineer Intern - Summer 2027",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791495255,
+  "locations": [],
+  "posted": 1791477310,
+  "story_id": "4003524331144497996",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/953481613947450/?jr_id=6ac7bf3ea444ac5d36f8577f"
+ },
+ {
+  "account": "zero2sudo",
   "company": "LEIDOS, INC.",
   "first_seen": 1791474813,
   "locations": [
