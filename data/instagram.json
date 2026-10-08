@@ -1,6 +1,110 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Broccoli AI",
+  "first_seen": 1791441751,
+  "locations": [
+   "San Francisco, California"
+  ],
+  "posted": 1791439345,
+  "story_id": "4003205862626651554",
+  "title": "Software Engineer - New Grad",
+  "url": "https://jobs.ashbyhq.com/broccoli/c44b5990-9c3c-4cd8-a1ff-848e32942d6a"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Eightfold",
+  "first_seen": 1791441751,
+  "locations": [],
+  "posted": 1791437865,
+  "story_id": "4003193446982366561",
+  "title": "NVIDIA HLN: Unidos, Somos M\u00e1s: Celebrating Hispanic & Latino Excellence | Eightfold",
+  "url": "https://nvidia.eightfold.ai/events/candidate?plannedEventId=XR3pxKKgY"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791441751,
+  "locations": [],
+  "posted": 1791434845,
+  "story_id": "4003168116364095083",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1866862250969693/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Est\u00e9e Lauder Companies",
+  "first_seen": 1791441751,
+  "locations": [
+   "New York, NY,US"
+  ],
+  "posted": 1791434021,
+  "story_id": "4003161202574013279",
+  "title": "Lauder Summer 2027 Intern, Technology, Data & Analytics",
+  "url": "https://careers.elcompanies.com/careers/job/1168275751295?domain=elcompanies.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "PDT Partners",
+  "first_seen": 1791441751,
+  "locations": [
+   "New York, NY"
+  ],
+  "posted": 1791433187,
+  "story_id": "4003154208563883588",
+  "title": "Summer 2027 Quantitative Research Intern",
+  "url": "http://job-boards.greenhouse.io/pdtpartners/jobs/8263031"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Powertown",
+  "first_seen": 1791441751,
+  "locations": [
+   "Boston"
+  ],
+  "posted": 1791433144,
+  "story_id": "4003153837678350127",
+  "title": "Machine Learning Engineer, Intern (Term-Time)",
+  "url": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Chalk",
+  "first_seen": 1791441751,
+  "locations": [
+   "SF"
+  ],
+  "posted": 1791413973,
+  "story_id": "4002993017761778459",
+  "title": "Software Engineer - New Grad",
+  "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "IXL Learning",
+  "first_seen": 1791441751,
+  "locations": [
+   "San Mateo, California"
+  ],
+  "posted": 1791413889,
+  "story_id": "4002992322597838536",
+  "title": "Software Engineer, New Grad",
+  "url": "https://www.ixl.com/company/careers?gh_jid=8862043002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "IXL Learning",
+  "first_seen": 1791441751,
+  "locations": [
+   "San Mateo, California"
+  ],
+  "posted": 1791413808,
+  "story_id": "4002991634723572726",
+  "title": "Software Engineer, Intern",
+  "url": "https://www.ixl.com/company/careers?gh_jid=8862214002"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Early Career",
   "first_seen": 1791409113,
   "locations": [
