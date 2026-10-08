@@ -1,6 +1,62 @@
 [
  {
   "account": "zero2sudo",
+  "company": "LEIDOS, INC.",
+  "first_seen": 1791474813,
+  "locations": [
+   "Atlantic City, NJ"
+  ],
+  "posted": 1791472548,
+  "story_id": "4003484394123612006",
+  "title": "Systems, Integration and Software Engineer Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rugged Robotics",
+  "first_seen": 1791474813,
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted": 1791472409,
+  "story_id": "4003483285132693795",
+  "title": "Robotic Software Intern/Co-op (Spring or Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Synopsys",
+  "first_seen": 1791474813,
+  "locations": [
+   "Sunnyvale, California"
+  ],
+  "posted": 1791472279,
+  "story_id": "4003482145801360054",
+  "title": "AI & Automation Engineering Internship - Summer 2027",
+  "url": "https://careers.synopsys.com/job/-/-/44408/101631905360"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791474813,
+  "locations": [],
+  "posted": 1791472181,
+  "story_id": "4003481311293383982",
+  "title": "Business Intelligence Engineer Internship - 2027 (US)",
+  "url": "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1791474813,
+  "locations": [],
+  "posted": 1791471643,
+  "story_id": "4003476799724514213",
+  "title": "DoorDash USA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Broccoli AI",
   "first_seen": 1791441751,
   "locations": [
