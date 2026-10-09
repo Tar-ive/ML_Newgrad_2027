@@ -1,6 +1,96 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Monolithic Power Systems Inc.",
+  "first_seen": 1791528555,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted": 1791524526,
+  "story_id": "4003920410387863349",
+  "title": "Applications Engineering Intern",
+  "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineering-Intern_R-2041"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Viget",
+  "first_seen": 1791528555,
+  "locations": [
+   "Boulder, CO"
+  ],
+  "posted": 1791524435,
+  "story_id": "4003919649415234509",
+  "title": "Software Developer Intern (2027)",
+  "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791528555,
+  "locations": [],
+  "posted": 1791524366,
+  "story_id": "4003919065667883428",
+  "title": null,
+  "url": "https://www.tesla.com/careers/search/job/286127?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Docusign",
+  "first_seen": 1791528555,
+  "locations": [
+   "Seattle, Washington"
+  ],
+  "posted": 1791524263,
+  "story_id": "4003918205273760439",
+  "title": "Software Engineer Intern - Observability (Platform)",
+  "url": "https://careers.docusign.com/jobs/30510?lang=en-us&ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Eightfold",
+  "first_seen": 1791528555,
+  "locations": [],
+  "posted": 1791502800,
+  "story_id": "4003738154767238589",
+  "title": "ABK Early Careers | Press Play: Activision Blizzard King 2027 Internship Overview",
+  "url": "https://activision.eightfold.ai/events/candidate/registration?plannedEventId=yP3rGJpz"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Redfin Corporation",
+  "first_seen": 1791528555,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted": 1791501415,
+  "story_id": "4003726553733090858",
+  "title": "Software Developer I",
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Pinterestcareers",
+  "first_seen": 1791528555,
+  "locations": [],
+  "posted": 1791499321,
+  "story_id": "4003708976696861552",
+  "title": "Solutions Engineer Intern 2027 (USA)",
+  "url": "https://www.pinterestcareers.com/jobs/8214788/solutions-engineer-intern-2027-usa/?gh_jid=8214788"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Perpay - Career's Page",
+  "first_seen": 1791528555,
+  "locations": [
+   "Philadelphia, Pennsylvania, United States"
+  ],
+  "posted": 1791497431,
+  "story_id": "4003693122008729040",
+  "title": "Super Day - Data Science Internship",
+  "url": "https://job-boards.greenhouse.io/perpay/jobs/5260960007"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Ringcentral",
   "first_seen": 1791495255,
   "locations": [],
