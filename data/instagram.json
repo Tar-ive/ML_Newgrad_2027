@@ -1,6 +1,203 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Capstone Investment Advisors",
+  "first_seen": 1791580854,
+  "locations": [
+   "London"
+  ],
+  "posted": 1791576506,
+  "story_id": "4004356452596717650",
+  "title": "Summer 2027 - Quant Internship",
+  "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791576408,
+  "story_id": "4004355626343998694",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1772445513807075/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Armadin",
+  "first_seen": 1791580854,
+  "locations": [
+   "Palo Alto"
+  ],
+  "posted": 1791574611,
+  "story_id": "4004340547803263809",
+  "title": "Summer 2027 Internship - Member of Technical Staff - Frontend",
+  "url": "https://jobs.ashbyhq.com/armadin/65b0796c-7490-4f92-91aa-5240b65e5211/application?src=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Arcesium LLC",
+  "first_seen": 1791580854,
+  "locations": [
+   "New York"
+  ],
+  "posted": 1791574467,
+  "story_id": "4004339340162451512",
+  "title": "Infrastructure Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1791580854,
+  "locations": [
+   "Redmond, WA,US",
+   "Mountain View, CA,US"
+  ],
+  "posted": 1791572919,
+  "story_id": "4004326354891806685",
+  "title": "AI Software Engineering Intern",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891?domain=microsoft.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Coinbase",
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791572647,
+  "story_id": "4004324074725570243",
+  "title": "Forward Deployed Engineer Intern (HR Technology)",
+  "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791567022,
+  "story_id": "4004276898569856149",
+  "title": "Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV",
+  "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791566904,
+  "story_id": "4004275906760206660",
+  "title": null,
+  "url": "https://fall2026hrthardwaretechtalkuta.splashthat.com/https://fall2026hrthardwaretechtalkuta.splashthat.com/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Aurelian",
+  "first_seen": 1791580854,
+  "locations": [
+   "Seattle"
+  ],
+  "posted": 1791566812,
+  "story_id": "4004275139470705601",
+  "title": "Software Engineer (New Grad)",
+  "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e?ref=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791565996,
+  "story_id": "4004268291245731948",
+  "title": null,
+  "url": "https://www.tesla.com/careers/search/job/internship-program-manager-lifecycle-communications-winter-spring-2027-285950"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791565700,
+  "story_id": "4004265835992345434",
+  "title": null,
+  "url": "https://events.atmeta.com/metadatacenterinfosession"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791564755,
+  "story_id": "4004257878533564485",
+  "title": "Intro to Quant Investing - Marshall Wace - New York",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=mwamevents&token=8881027002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Ashbyhq",
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791564210,
+  "story_id": "4004253303144658973",
+  "title": "Jobs",
+  "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Anduril Industries",
+  "first_seen": 1791580854,
+  "locations": [
+   "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States"
+  ],
+  "posted": 1791564124,
+  "story_id": "4004252580926297695",
+  "title": "2027 Early Career Systems Engineer",
+  "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791563972,
+  "story_id": "4004251302251276528",
+  "title": "Microsoft Virtual Events Powered by Teams",
+  "url": "https://events.teams.microsoft.com/event/dbaeeff0-9eab-43c4-94d8-ef9badbcd62a@56b731a8-a2ac-4c32-bf6b-616810e913c6?source=copyLinkOneEventsShareDialog"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Schonfeld ",
+  "first_seen": 1791580854,
+  "locations": [
+   "Austin, Texas, United States"
+  ],
+  "posted": 1791563864,
+  "story_id": "4004250405174211029",
+  "title": "2027 Quantitative Research Intern",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Schonfeld ",
+  "first_seen": 1791580854,
+  "locations": [
+   "Austin, Texas, United States"
+  ],
+  "posted": 1791563806,
+  "story_id": "4004249910505265411",
+  "title": "2027 Quantitative Developer Intern",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791580854,
+  "locations": [],
+  "posted": 1791563720,
+  "story_id": "4004249195393213284",
+  "title": null,
+  "url": "https://wing.com/careers/8872482002?gh_jid=8872482002"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Monolithic Power Systems Inc.",
   "first_seen": 1791528555,
   "locations": [
