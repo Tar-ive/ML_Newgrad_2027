@@ -1,6 +1,38 @@
 [
  {
   "account": "zero2sudo",
+  "company": "sephora.com",
+  "first_seen": 1791663636,
+  "locations": [
+   "San Francisco, CA,US"
+  ],
+  "posted": 1791645492,
+  "story_id": "4004935143529452679",
+  "title": "Intern, AI/ML Engineering",
+  "url": "https://join.sephora.com/careers/job/790318857461"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791663636,
+  "locations": [],
+  "posted": 1791645424,
+  "story_id": "4004934573439768472",
+  "title": "Operations Finance (OFRP) Intern - Summer 2027, Amazon Finance Rotational Program (AFRP)",
+  "url": "https://www.amazon.jobs/en/jobs/10575231/operations-finance-ofrp-intern-summer-2027-amazon-finance-rotational-program-afrp"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791663636,
+  "locations": [],
+  "posted": 1791645384,
+  "story_id": "4004934241024319230",
+  "title": "Program Manager Intern \u2013 Summer 2027",
+  "url": "https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Affirm",
   "first_seen": 1791613632,
   "locations": [
