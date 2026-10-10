@@ -1,6 +1,84 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Affirm",
+  "first_seen": 1791613632,
+  "locations": [
+   "San Francisco, California, United States"
+  ],
+  "posted": 1791599575,
+  "story_id": "4004549966542170822",
+  "title": "IT Engineer Intern (Early Careers Summer 2027)",
+  "url": "http://job-boards.greenhouse.io/affirm/jobs/8011375003"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791613632,
+  "locations": [],
+  "posted": 1791592307,
+  "story_id": "4004488996050506710",
+  "title": "Like no Place You\u2019ve Ever Worked",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Docusign",
+  "first_seen": 1791613632,
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "posted": 1791591398,
+  "story_id": "4004481375260210107",
+  "title": "Software Engineer Intern",
+  "url": "https://careers.docusign.com/careers-home/jobs/30497?lang=en-us&iis=Job+board&iisn=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791613632,
+  "locations": [],
+  "posted": 1791588132,
+  "story_id": "4004453970625909208",
+  "title": "Workday is currently unavailable.",
+  "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Decagon",
+  "first_seen": 1791613632,
+  "locations": [
+   "San Francisco"
+  ],
+  "posted": 1791586759,
+  "story_id": "4004442454526772634",
+  "title": "Engineering Intern (Summer 2027)",
+  "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1791613632,
+  "locations": [],
+  "posted": 1791585484,
+  "story_id": "4004431757700070989",
+  "title": "2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+  "url": "https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics?cmpid=bsp-amazon-science"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Capstone Investment Advisors",
+  "first_seen": 1791613632,
+  "locations": [
+   "New York, New York"
+  ],
+  "posted": 1791584789,
+  "story_id": "4004425929496562803",
+  "title": "Summer 2027 - Execution Tech Internship",
+  "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Capstone Investment Advisors",
   "first_seen": 1791580854,
   "locations": [
