@@ -1,6 +1,312 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "first_seen": 1791751076,
+  "locations": [
+   "Laurel, Maryland"
+  ],
+  "posted": 1791749832,
+  "story_id": "4005810407751156889",
+  "title": "2027 Internship - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+  "url": "https://careers.jhuapl.edu/jobs/60432"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Carnegie Mellon University",
+  "first_seen": 1791751076,
+  "locations": [
+   "Pittsburgh, PA"
+  ],
+  "posted": 1791749730,
+  "story_id": "4005809550888446916",
+  "title": "AI Security Research Intern \u2013 Summer 2027",
+  "url": "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Carnegie Mellon University",
+  "first_seen": 1791751076,
+  "locations": [
+   "Pittsburgh, PA"
+  ],
+  "posted": 1791749616,
+  "story_id": "4005808607581051308",
+  "title": "AI Security Software Engineer Intern \u2013 Summer 2027",
+  "url": "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Faire",
+  "first_seen": 1791751076,
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "posted": 1791749566,
+  "story_id": "4005808182773606007",
+  "title": "Applied AI/ML Scientist, Intern",
+  "url": "https://job-boards.greenhouse.io/faire/jobs/8870975002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Micron Idaho Semiconductor Manufacturing (Triton) LLC",
+  "first_seen": 1791751076,
+  "locations": [
+   "Boise, ID - Main Site"
+  ],
+  "posted": 1791749531,
+  "story_id": "4005807886387297103",
+  "title": "Intern - IT Software Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "UPS",
+  "first_seen": 1791751076,
+  "locations": [
+   "ALPHARETTA, Georgia"
+  ],
+  "posted": 1791749489,
+  "story_id": "4005807534728476311",
+  "title": "UPS Digital Summer 2027 Internship - Alpharetta, GA",
+  "url": "https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR26037255EXTERNALENGLOBAL/UPS-Digital-Summer-2027-Internship-Alpharetta-GA"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791749442,
+  "story_id": "4005807145799001757",
+  "title": "Software Engineering Intern",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016392"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "General Motors LLC",
+  "first_seen": 1791751076,
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted": 1791742760,
+  "story_id": "4005751088951013343",
+  "title": "2027 Summer Intern, Data Scaling, Embodied AI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "General Motors LLC",
+  "first_seen": 1791751076,
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted": 1791742699,
+  "story_id": "4005750571994673099",
+  "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "General Motors LLC",
+  "first_seen": 1791751076,
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted": 1791742632,
+  "story_id": "4005750014429051152",
+  "title": "2027 Summer Intern, SEAM, Embodied AI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "General Motors LLC",
+  "first_seen": 1791751076,
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted": 1791742564,
+  "story_id": "4005749442393103715",
+  "title": "2027 Summer Intern, AI Research, Embodied AI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1791751076,
+  "locations": [
+   "Palo Alto, California",
+   "Irvine, California",
+   "Atlanta, Georgia",
+   "Normal, Illinois",
+   "Plymouth, Michigan"
+  ],
+  "posted": 1791742196,
+  "story_id": "4005746360267517174",
+  "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+  "url": "https://careers.rivian.com/careers-home/jobs/34313?lang=en-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1791751076,
+  "locations": [
+   "Palo Alto, California",
+   "Irvine, California",
+   "Plymouth, Michigan",
+   "Atlanta, Georgia",
+   "Normal, Illinois"
+  ],
+  "posted": 1791742131,
+  "story_id": "4005745811719564036",
+  "title": "Computer Vision Software - Summer 2027 Internships",
+  "url": "https://careers.rivian.com/careers-home/jobs/34315?lang=en-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1791751076,
+  "locations": [
+   "Palo Alto, California",
+   "Atlanta, Georgia",
+   "Irvine, California",
+   "Normal, Illinois",
+   "Plymouth, Michigan"
+  ],
+  "posted": 1791742097,
+  "story_id": "4005745526079153458",
+  "title": "Software Engineering - Summer 2027 Internships",
+  "url": "https://careers.rivian.com/careers-home/jobs/34303?lang=en-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741705,
+  "story_id": "4005742243634480011",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135601"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741673,
+  "story_id": "4005741966457116297",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741635,
+  "story_id": "4005741657194859557",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136608"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741598,
+  "story_id": "4005741337655757647",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136613"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Joinbytedance",
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741200,
+  "story_id": "4005738001598442547",
+  "title": "Software Engineer Project Intern (Developer Infrastructure) - 2027 Start",
+  "url": "https://joinbytedance.com/search/7678555814927730949"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Lifeattiktok",
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741131,
+  "story_id": "4005737418673937254",
+  "title": "Machine Learning Engineer Intern (Monetization Technology - Ads Core Global) - 2027 Summer",
+  "url": "https://lifeattiktok.com/search/7687630614472149301"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741086,
+  "story_id": "4005737044550571980",
+  "title": null,
+  "url": "https://lifeattiktok.com/search/7693732178706974981"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Lifeattiktok",
+  "first_seen": 1791751076,
+  "locations": [],
+  "posted": 1791741038,
+  "story_id": "4005736636025289145",
+  "title": "Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start",
+  "url": "https://lifeattiktok.com/search/7649673091993454853"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791751076,
+  "locations": [
+   "USA, CA, Pleasanton"
+  ],
+  "posted": 1791740905,
+  "story_id": "4005735526757651755",
+  "title": "Cybersecurity Engineer Intern",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791751076,
+  "locations": [
+   "USA, CA, Pleasanton"
+  ],
+  "posted": 1791740863,
+  "story_id": "4005735169370452201",
+  "title": "Machine Learning Engineer Intern",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791751076,
+  "locations": [
+   "USA, CA, Pleasanton"
+  ],
+  "posted": 1791740818,
+  "story_id": "4005734794188996463",
+  "title": "Software Development Engineer Intern",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791751076,
+  "locations": [
+   "USA, CA, Pleasanton"
+  ],
+  "posted": 1791740771,
+  "story_id": "4005734399396906321",
+  "title": "Product Manager Intern",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Gem",
   "first_seen": 1791700327,
   "locations": [],
