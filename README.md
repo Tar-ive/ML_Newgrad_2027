@@ -6,6 +6,8 @@ Machine learning, AI research, data science, and applied science roles for new
 graduates — filtered down from the general new-grad lists so you are not scrolling
 past 3,000 backend jobs to find the twelve that train models.
 
+Check out if any of these companies sponsor full time students or not here : https://docs.google.com/spreadsheets/d/1SYiR9CzGJQ8JOu_BOhQvEZP1RS5eXjOlsQPCQjN_CYA/edit?usp=sharing
+
 Four kinds of role make the list, and nothing else does: **ML/AI**, **data science**,
 **data engineering with an ML specialization**, and **software engineering with an ML
 specialization**. Everything is new grad through roughly three years.
