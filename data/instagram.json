@@ -1,6 +1,102 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Databricks",
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791825998,
+  "story_id": "4006449334593647044",
+  "title": "Software Engineering Intern (2027) - Databricks",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791825078,
+  "story_id": "4006441615622996036",
+  "title": "Job Application for Software Engineering Intern (2027) at Databricks",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=databricks&token=6865687002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791820994,
+  "story_id": "4006407387174498850",
+  "title": "DoorDash USA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Proxima Beta U.S. LLC",
+  "first_seen": 1791828909,
+  "locations": [
+   "US-California-Palo Alto"
+  ],
+  "posted": 1791815956,
+  "story_id": "4006365108657813611",
+  "title": "Data Science Intern",
+  "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Wolverine",
+  "first_seen": 1791828909,
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "posted": 1791815614,
+  "story_id": "4006362233202723139",
+  "title": "C++ Software Engineer (Early Career)",
+  "url": "https://careers.wolve.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA USA",
+  "first_seen": 1791828909,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "posted": 1791815490,
+  "story_id": "4006361185188258113",
+  "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Recsolu",
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791815066,
+  "story_id": "4006357636756736846",
+  "title": "2027 Analyst Program - Information Security",
+  "url": "https://smbc.recsolu.com/jobs/5YHuyfrzxTH5ujNCOk0WMg?job_board_id=eaXXV_6DqjCnE-NZ7B8R6A"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Recsolu",
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791815033,
+  "story_id": "4006357354547139263",
+  "title": "2027 Analyst Program - Data Strategy",
+  "url": "https://smbc.recsolu.com/jobs/8oPuOYNMC9plmJn78aZ7Eg?job_board_id=eaXXV_6DqjCnE-NZ7B8R6A"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791828909,
+  "locations": [],
+  "posted": 1791814767,
+  "story_id": "4006355129116468684",
+  "title": null,
+  "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027"
+ },
+ {
+  "account": "zero2sudo",
   "company": "C&S Wholesale Grocers, LLC",
   "first_seen": 1791763309,
   "locations": [
