@@ -1,6 +1,18 @@
 [
  {
   "account": "zero2sudo",
+  "company": "C&S Wholesale Grocers, LLC",
+  "first_seen": 1791763309,
+  "locations": [
+   "Edison, NJ"
+  ],
+  "posted": 1791751236,
+  "story_id": "4005822192227086378",
+  "title": "IS Internship - Data Analytics & Data Science",
+  "url": "https://cswg.wd1.myworkdayjobs.com/en-US/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Johns Hopkins Applied Physics Laboratory",
   "first_seen": 1791751076,
   "locations": [
