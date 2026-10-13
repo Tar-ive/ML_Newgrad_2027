@@ -1,6 +1,76 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Smartrecruiters",
+  "first_seen": 1791935887,
+  "locations": [],
+  "posted": 1791932514,
+  "story_id": "4007342862366434629",
+  "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+  "url": "https://jobs.smartrecruiters.com/servicenow/744000155345889"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Gallup",
+  "first_seen": 1791935887,
+  "locations": [
+   "San Francisco"
+  ],
+  "posted": 1791932079,
+  "story_id": "4007339205169037203",
+  "title": "Data Engineering Intern \u2014 Summer 2027",
+  "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Belvederetrading",
+  "first_seen": 1791935887,
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "posted": 1791932036,
+  "story_id": "4007338846194597623",
+  "title": "Quantitative Researcher - Entry Level 2027",
+  "url": "https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Jain Global, LLC",
+  "first_seen": 1791935887,
+  "locations": [
+   "New York, New York"
+  ],
+  "posted": 1791932005,
+  "story_id": "4007338597212469167",
+  "title": "Quantitative Developer Intern (Summer 2027 - New York)",
+  "url": "https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Netflix",
+  "first_seen": 1791935887,
+  "locations": [
+   "Los Gatos, CA,US"
+  ],
+  "posted": 1791931916,
+  "story_id": "4007337850877838794",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA Corporation",
+  "first_seen": 1791935887,
+  "locations": [
+   "Santa Clara, CA,US"
+  ],
+  "posted": 1791927076,
+  "story_id": "4007297245401713091",
+  "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+  "url": "https://nvidia.eightfold.ai/careers/job/893397828680"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Openai",
   "first_seen": 1791920072,
   "locations": [],
