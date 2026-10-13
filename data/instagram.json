@@ -1,6 +1,118 @@
 [
  {
   "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791857762,
+  "locations": [],
+  "posted": 1791846566,
+  "story_id": "4006621884393172557",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1134883748976209/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA USA",
+  "first_seen": 1791857762,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "posted": 1791845545,
+  "story_id": "4006613317804056988",
+  "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1791857762,
+  "locations": [
+   "Redmond, WA,US"
+  ],
+  "posted": 1791836817,
+  "story_id": "4006540091245897920",
+  "title": "Cloud Network Engineering Internship Oportunities",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557037856"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "KLA Corporation",
+  "first_seen": 1791857762,
+  "locations": [
+   "Ann Arbor, MI"
+  ],
+  "posted": 1791836469,
+  "story_id": "4006537171423088897",
+  "title": "AI/ML Software Engineer - Intern",
+  "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "IMC",
+  "first_seen": 1791857762,
+  "locations": [
+   "New York, United States"
+  ],
+  "posted": 1791834644,
+  "story_id": "4006521860024083368",
+  "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "DV Trading",
+  "first_seen": 1791857762,
+  "locations": [
+   "Chicago"
+  ],
+  "posted": 1791833300,
+  "story_id": "4006510601126877831",
+  "title": "Data Center Engineer Intern - Summer 2027",
+  "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791857762,
+  "locations": [],
+  "posted": 1791833054,
+  "story_id": "4006508531623739157",
+  "title": null,
+  "url": "https://salesforceinfosessionberkeley.splashthat.com/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Smartrecruiters",
+  "first_seen": 1791857762,
+  "locations": [],
+  "posted": 1791830152,
+  "story_id": "4006484184016969099",
+  "title": "Versant Summer Internships: Technology, Product, Design & Engineering (GolfNow, Full Swing, Rotten Tomatoes, Fandango)",
+  "url": "https://jobs.smartrecruiters.com/Versant3/744000155082139"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Figure",
+  "first_seen": 1791857762,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted": 1791830097,
+  "story_id": "4006483723314598614",
+  "title": "Deployment Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1791857762,
+  "locations": [],
+  "posted": 1791830051,
+  "story_id": "4006483334922327493",
+  "title": "Product Management & Product Operations Internship",
+  "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Databricks",
   "first_seen": 1791828909,
   "locations": [],
