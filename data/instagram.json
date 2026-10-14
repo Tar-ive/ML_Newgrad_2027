@@ -1,6 +1,178 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Posting Date:13/ 10/2026",
+  "first_seen": 1792009285,
+  "locations": [
+   "Toronto, Ontario"
+  ],
+  "posted": 1792008389,
+  "story_id": "4007979338552145697",
+  "title": "Intern, Data Scientist - Winter 2027",
+  "url": "https://www.capitalonecareers.ca/job/-/-/234/100354366000?p_sid=1Q6temb&p_uid=0QKmPSzCbc&source=rd_linkedin_job_posting_CA_tm&ss=paid"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "GE Vernova",
+  "first_seen": 1792009285,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "posted": 1792006967,
+  "story_id": "4007967416587909937",
+  "title": "GE Vernova \u2013 AGI \u2013 AI Evaluation & Benchmarking Intern - Summer 2027",
+  "url": "https://careers.gevernova.com/ge-vernova-agi-ai-evaluation-benchmarking-intern-summer-2027/job/R5054821"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Salesforce, Inc.",
+  "first_seen": 1792009285,
+  "locations": [
+   "California - San Francisco"
+  ],
+  "posted": 1792006424,
+  "story_id": "4007962856381174914",
+  "title": "Software Engineering AMTS (College Grad)",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "CORP-Corporate Office",
+  "first_seen": 1792009285,
+  "locations": [
+   "United States-Texas-San Antonio"
+  ],
+  "posted": 1792006379,
+  "story_id": "4007962482844832928",
+  "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
+  "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Oraclecloud",
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1792006264,
+  "story_id": "4007961516812777397",
+  "title": "2027 AI Research Associate Program - Internship",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210800354"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792009285,
+  "locations": [
+   "Cambridge, MA,US"
+  ],
+  "posted": 1792006186,
+  "story_id": "4007960858491589693",
+  "title": "Research Intern - Machine Learning for Biology and Healthcare",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792009285,
+  "locations": [
+   "Cambridge, MA,US",
+   "Redmond, WA,US"
+  ],
+  "posted": 1792006133,
+  "story_id": "4007960420790824114",
+  "title": "Research Intern - Machine Learning and Statistics",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rippling",
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1792003264,
+  "story_id": "4007936357657731600",
+  "title": "Software Engineer Intern | Golden Analytics",
+  "url": "https://ats.rippling.com/en-CA/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5?jobSite=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1792002726,
+  "story_id": "4007931844603353352",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1758435721926913/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rbc",
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1791997640,
+  "story_id": "4007889177744108164",
+  "title": "Event Details",
+  "url": "https://jobs.rbc.com/ca/en/event/6ace31d2073f30c6e1bb1ea3/Discover-RBC-New-York-2026"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1791989263,
+  "story_id": "4007818908639682855",
+  "title": null,
+  "url": "https://events.riviancareers.com/plugin-internships2027"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792009285,
+  "locations": [],
+  "posted": 1791989079,
+  "story_id": "4007817356646330156",
+  "title": null,
+  "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Boston Consulting Group",
+  "first_seen": 1792009285,
+  "locations": [
+   "Boston, Massachusetts",
+   "New York, New York",
+   "Los Angeles, California",
+   "Chicago, Illinois"
+  ],
+  "posted": 1791988907,
+  "story_id": "4007815919191538260",
+  "title": "Forward Deployed AI Scientist, Internship, Campus, United States - BCG X",
+  "url": "https://careers.bcg.com/global/en/job/BCG1US59703EXTERNALENGLOBAL/Forward-Deployed-AI-Scientist-Internship-Campus-United-States-BCG-X"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Point72 ",
+  "first_seen": 1792009285,
+  "locations": [
+   "New York, NY"
+  ],
+  "posted": 1791988172,
+  "story_id": "4007809753781653685",
+  "title": "2027 Summer Internship \u2013 Software Engineer",
+  "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792009285,
+  "locations": [
+   "Redmond, WA,US"
+  ],
+  "posted": 1791987104,
+  "story_id": "4007800793978479298",
+  "title": "Research Intern - Agentic Data Memory",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344?domain=microsoft.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
   "company": null,
   "first_seen": 1791986739,
   "locations": [],
