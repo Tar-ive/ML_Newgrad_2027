@@ -1,6 +1,26 @@
 [
  {
   "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791986739,
+  "locations": [],
+  "posted": 1791984237,
+  "story_id": "4007776741724950175",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/1084023187741651/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1791986739,
+  "locations": [],
+  "posted": 1791984186,
+  "story_id": "4007776342075152734",
+  "title": null,
+  "url": "https://www.metacareers.com/profile/job_details/4596319193960098/"
+ },
+ {
+  "account": "zero2sudo",
   "company": "NVIDIA Corporation",
   "first_seen": 1791955810,
   "locations": [
