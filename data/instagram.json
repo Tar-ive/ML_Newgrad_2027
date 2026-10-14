@@ -1,6 +1,88 @@
 [
  {
   "account": "zero2sudo",
+  "company": "HITACHI AMERICA, LTD.",
+  "first_seen": 1792020603,
+  "locations": [
+   "Santa Clara, California, United States"
+  ],
+  "posted": 1792014244,
+  "story_id": "4008028458683858856",
+  "title": "Research Intern, Knowledge Engineering & Generative AI",
+  "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792020603,
+  "locations": [],
+  "posted": 1792014154,
+  "story_id": "4008027706452183875",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1792020603,
+  "locations": [
+   "Kansas City, MO"
+  ],
+  "posted": 1792014120,
+  "story_id": "4008027416483181157",
+  "title": "Data Pipeline Engineer Intern",
+  "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Skydio",
+  "first_seen": 1792020603,
+  "locations": [
+   "San Mateo, California, United States"
+  ],
+  "posted": 1792014030,
+  "story_id": "4008026664050197071",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "General Motors LLC",
+  "first_seen": 1792020603,
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted": 1792013957,
+  "story_id": "4008026053711824975",
+  "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "National Life Insurance Company",
+  "first_seen": 1792020603,
+  "locations": [
+   "Addison, TX; Montpelier, VT"
+  ],
+  "posted": 1792011273,
+  "story_id": "4008003539662161616",
+  "title": "Data Science Intern \u2013 Summer 2027",
+  "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "BNRE US Services LLC",
+  "first_seen": 1792020603,
+  "locations": [
+   "New York, New York"
+  ],
+  "posted": 1792010575,
+  "story_id": "4007997673818993308",
+  "title": "Intern, Analytics Modelling ~ Brookfield Wealth Solutions",
+  "url": "https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Posting Date:13/ 10/2026",
   "first_seen": 1792009285,
   "locations": [
