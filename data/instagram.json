@@ -1,6 +1,164 @@
 [
  {
   "account": "zero2sudo",
+  "company": "NVIDIA Corporation",
+  "first_seen": 1791955810,
+  "locations": [
+   "Santa Clara, CA,US"
+  ],
+  "posted": 1791949652,
+  "story_id": "4007486627119989061",
+  "title": "SoC Software Engineer - New College Grad 2027",
+  "url": "https://jobs.nvidia.com/careers/job/893397905459?domain=nvidia.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA Corporation",
+  "first_seen": 1791955810,
+  "locations": [
+   "Santa Clara, CA,US"
+  ],
+  "posted": 1791949596,
+  "story_id": "4007486160569786673",
+  "title": "SoC Software Engineer \u2013 New College Graduate 2026",
+  "url": "https://jobs.nvidia.com/careers/job/893398092324?domain=nvidia.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Ubs",
+  "first_seen": 1791955810,
+  "locations": [],
+  "posted": 1791948916,
+  "story_id": "4007480454219278411",
+  "title": "Choose your sign in option {{dynamicStrings.Button_LogIn}} You can sign in using social media or with your {{LoginBoxUsername}} and password.",
+  "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=352589"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Bendingspoons",
+  "first_seen": 1791955810,
+  "locations": [],
+  "posted": 1791948228,
+  "story_id": "4007474673780100950",
+  "title": "Jobs at Bending Spoons",
+  "url": "https://jobs.bendingspoons.com/positions/6ace4e547cbcd6cf9947b5b0"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Cloud",
+  "first_seen": 1791955810,
+  "locations": [],
+  "posted": 1791946677,
+  "story_id": "4007461662428581286",
+  "title": "Microsoft Forms",
+  "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=in5PNecSb0G8QAass3T1jfK1vf5fEzZPqnap-j6ZzmVUQlcwUEpUTFY4OVlVOTRINkRLTUczUzJHSC4u&route=shorturl"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1791955810,
+  "locations": [],
+  "posted": 1791943795,
+  "story_id": "4007437492240155522",
+  "title": "Software Engineering Intern, Summer 2027",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=wing&token=8872476002&jr_id=6aceaa5c680c80c8753be27a"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Anduril Industries",
+  "first_seen": 1791955810,
+  "locations": [
+   "Costa Mesa, California, United States"
+  ],
+  "posted": 1791939883,
+  "story_id": "4007404681164646165",
+  "title": "2027 Product Designer Intern",
+  "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1791955810,
+  "locations": [
+   "Indianapolis"
+  ],
+  "posted": 1791938225,
+  "story_id": "4007390769841492952",
+  "title": "Cloud Engineering Intern",
+  "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Cloud-Engineering-Intern_JR6161470"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "DataRobot, Inc.",
+  "first_seen": 1791955810,
+  "locations": [
+   "Boston, Massachusetts, US"
+  ],
+  "posted": 1791938192,
+  "story_id": "4007390491163539821",
+  "title": "Deep Learning Research Engineer Intern",
+  "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/datarobot_external_careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "KLA Corporation",
+  "first_seen": 1791955810,
+  "locations": [
+   "Ann Arbor, MI"
+  ],
+  "posted": 1791938113,
+  "story_id": "4007389825846021522",
+  "title": "Software Engineering Intern",
+  "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "KLA Corporation",
+  "first_seen": 1791955810,
+  "locations": [
+   "Ann Arbor, MI"
+  ],
+  "posted": 1791938078,
+  "story_id": "4007389537814283570",
+  "title": "Software Engineer Intern - AI",
+  "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Kyndryl, Inc.",
+  "first_seen": 1791955810,
+  "locations": [
+   "Dallas (USDALFRI) Frisco AI HUB"
+  ],
+  "posted": 1791938040,
+  "story_id": "4007389210374662560",
+  "title": "Forward Deployed Engineer",
+  "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Smartrecruiters",
+  "first_seen": 1791955810,
+  "locations": [],
+  "posted": 1791937980,
+  "story_id": "4007388712316818643",
+  "title": "Data Scientist",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000155345139"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Hasbro",
+  "first_seen": 1791955810,
+  "locations": [
+   "Renton, Washington, United States"
+  ],
+  "posted": 1791937863,
+  "story_id": "4007387728836318470",
+  "title": "2027 Summer IT & Software Internships",
+  "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Smartrecruiters",
   "first_seen": 1791935887,
   "locations": [],
