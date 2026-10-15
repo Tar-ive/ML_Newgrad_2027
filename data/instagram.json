@@ -1,6 +1,54 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Humana Inc.",
+  "first_seen": 1792041579,
+  "locations": [
+   "Louisville, KY"
+  ],
+  "posted": 1792028853,
+  "story_id": "4008151009016455035",
+  "title": "Humana Technology Internship \u2013 Summer 2027 - Society of Women Engineers Conference 2026",
+  "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Anduril Industries",
+  "first_seen": 1792041579,
+  "locations": [
+   "Santa Ana, California, United States"
+  ],
+  "posted": 1792028755,
+  "story_id": "4008150187771811230",
+  "title": "Winter 2027 Research Engineer Co-op",
+  "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5265127007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "The Boeing Company",
+  "first_seen": 1792041579,
+  "locations": [
+   "USA - Tinker AFB, OK"
+  ],
+  "posted": 1792027536,
+  "story_id": "4008139964700813474",
+  "title": "Entry Level Software Engineer\u2013Developer (Development)",
+  "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "The Boeing Company",
+  "first_seen": 1792041579,
+  "locations": [
+   "USA - Tinker AFB, OK"
+  ],
+  "posted": 1792027405,
+  "story_id": "4008138865214603316",
+  "title": "Entry Level B1 Software Systems Engineer",
+  "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2"
+ },
+ {
+  "account": "zero2sudo",
   "company": "HITACHI AMERICA, LTD.",
   "first_seen": 1792020603,
   "locations": [
