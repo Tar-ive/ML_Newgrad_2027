@@ -1,6 +1,50 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Duolingo",
+  "first_seen": 1792106425,
+  "locations": [],
+  "posted": 1792103445,
+  "story_id": "4008776732651786754",
+  "title": "Duolingo Careers",
+  "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Greenhouse",
+  "first_seen": 1792106425,
+  "locations": [],
+  "posted": 1792103382,
+  "story_id": "4008776201770341109",
+  "title": "Machine Learning Intern",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=7077280"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Muon Space",
+  "first_seen": 1792106425,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted": 1792103336,
+  "story_id": "4008775819820214950",
+  "title": "Ground Software Engineering Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1792106425,
+  "locations": [
+   "Boise, ID - Main Site"
+  ],
+  "posted": 1792095637,
+  "story_id": "4008711226364401285",
+  "title": "New College Grad - Computer Engineer, Central Engineering",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Amazon",
   "first_seen": 1792094671,
   "locations": [],
