@@ -1,6 +1,76 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1792094671,
+  "locations": [],
+  "posted": 1792092805,
+  "story_id": "4008687482609702271",
+  "title": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+  "url": "https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "NVIDIA USA",
+  "first_seen": 1792094671,
+  "locations": [
+   "US, CA, Santa Clara"
+  ],
+  "posted": 1792092654,
+  "story_id": "4008686220644267331",
+  "title": "Product Management MBA Intern, Laptop - Summer 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Duolingo University Recruitment",
+  "first_seen": 1792094671,
+  "locations": [
+   "Pittsburgh, PA"
+  ],
+  "posted": 1792092612,
+  "story_id": "4008685862492663532",
+  "title": "Product Manager, MBA Intern",
+  "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Palantir",
+  "first_seen": 1792094671,
+  "locations": [
+   "New York, NY"
+  ],
+  "posted": 1792087753,
+  "story_id": "4008645098539936979",
+  "title": "Meritocracy Fellowship",
+  "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Salesforce, Inc.",
+  "first_seen": 1792094671,
+  "locations": [
+   "New York - New York"
+  ],
+  "posted": 1792073799,
+  "story_id": "4008528037301491011",
+  "title": "Summer 2027 Intern - Solution Engineer",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "ATOMS Careers page",
+  "first_seen": 1792094671,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted": 1792073686,
+  "story_id": "4008527090731012710",
+  "title": "Software Engineering Intern - 2027 Winter Term",
+  "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Humana Inc.",
   "first_seen": 1792041579,
   "locations": [
