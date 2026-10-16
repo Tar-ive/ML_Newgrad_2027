@@ -1,6 +1,249 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Nutanix",
+  "first_seen": 1792179841,
+  "locations": [],
+  "posted": 1792179735,
+  "story_id": "4009416703850162244",
+  "title": "Support Analytics & Operations Intern (Summer 2027)",
+  "url": "https://careers.nutanix.com/en/jobs/32663/support-analytics-operations-intern-summer-2027/?__jvst=JobBoard&__jvsd=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "MEMX",
+  "first_seen": 1792179841,
+  "locations": [
+   "United States"
+  ],
+  "posted": 1792179693,
+  "story_id": "4009416347946685157",
+  "title": "Data Engineering Intern, Summer 2027 (Hybrid, NYC)",
+  "url": "http://job-boards.greenhouse.io/memx/jobs/5450442008"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Stryker",
+  "first_seen": 1792179841,
+  "locations": [
+   "San Jose, CA",
+   "Fremont, CA"
+  ],
+  "posted": 1792177456,
+  "story_id": "4009397585064187850",
+  "title": "Summer 2027 Internship - Software Engineering - California",
+  "url": "https://careers.stryker.com/summer-2027-internship-software-engineering-california/job/AD504118D57D0CC2CEDCB21F5D61BC48?source=LinkedIn"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "LE130 Unity Technologies SF",
+  "first_seen": 1792179841,
+  "locations": [
+   "Mountain View, CA, USA"
+  ],
+  "posted": 1792175044,
+  "story_id": "4009377340819714210",
+  "title": "Machine Learning Engineer-Internship",
+  "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Pinpointhq",
+  "first_seen": 1792179841,
+  "locations": [],
+  "posted": 1792174918,
+  "story_id": "4009376284391992108",
+  "title": "Enterprise Software Engineer Intern (Summer 2027)",
+  "url": "https://impulsespace.pinpointhq.com/postings/66981a77-8e79-4050-9818-4ed4209c5579/applications/new"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Waabi",
+  "first_seen": 1792179841,
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted": 1792174804,
+  "story_id": "4009375329256691736",
+  "title": "Safety Methodologies Internship/Co-op 2027",
+  "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply?source=zero2sudo"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Angel City ",
+  "first_seen": 1792179841,
+  "locations": [
+   "Santa Monica, CA"
+  ],
+  "posted": 1792173093,
+  "story_id": "4009360983193908954",
+  "title": "Data Analytics Intern",
+  "url": "https://job-boards.greenhouse.io/wfclainc/jobs/6226220004"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Liberty Mutual Insurance",
+  "first_seen": 1792179841,
+  "locations": [
+   "Boston, MA,US"
+  ],
+  "posted": 1792173046,
+  "story_id": "4009360588014518561",
+  "title": "2027 Data Science Summer Internship Program - Current Master's",
+  "url": "https://searchjobs.libertymutualgroup.com/careers/job/618519159490-2027-data-science-summer-internship-program-current-master-s-boston-massachusetts-united-states"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Applied Materials",
+  "first_seen": 1792179841,
+  "locations": [
+   "Santa Clara, CA,US"
+  ],
+  "posted": 1792172993,
+  "story_id": "4009360143267363117",
+  "title": "Product Management II New College Grad- Master's (Santa Clara, CA)",
+  "url": "https://appliedmaterials.eightfold.ai/careers/job/790318838118"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Cfsenergy",
+  "first_seen": 1792179841,
+  "locations": [
+   "Devens, MA"
+  ],
+  "posted": 1792172931,
+  "story_id": "4009359618148707122",
+  "title": "Intern - AI & Infrastructure Engineer - Spring 2027",
+  "url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Axiom Space",
+  "first_seen": 1792179841,
+  "locations": [
+   "Houston"
+  ],
+  "posted": 1792172854,
+  "story_id": "4009358970540909730",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "url": "https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1792179841,
+  "locations": [
+   "Spring, Texas, United States of America"
+  ],
+  "posted": 1792172772,
+  "story_id": "4009358290743558822",
+  "title": "AI & HPC Performance Engineering Intern",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792179841,
+  "locations": [],
+  "posted": 1792172683,
+  "story_id": "4009357539821038325",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137428"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Wikimedia Foundation",
+  "first_seen": 1792179841,
+  "locations": [
+   "Remote"
+  ],
+  "posted": 1792172604,
+  "story_id": "4009356879722410617",
+  "title": "Software Engineering Internship Program (2027)",
+  "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Blue Origin Personnel, LLC",
+  "first_seen": 1792179841,
+  "locations": [
+   "Kent, WA"
+  ],
+  "posted": 1792172541,
+  "story_id": "4009356350324716756",
+  "title": "Summer 2027 Terawave Product Management Internship - MBA",
+  "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Together AI",
+  "first_seen": 1792179841,
+  "locations": [
+   "San Francisco"
+  ],
+  "posted": 1792172453,
+  "story_id": "4009355616087392490",
+  "title": "Hardware Security Engineer, New Grad (2027)",
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792179841,
+  "locations": [],
+  "posted": 1792167611,
+  "story_id": "4009314997196625065",
+  "title": null,
+  "url": "https://deepmind.google/student-researcher-program/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Together AI",
+  "first_seen": 1792179841,
+  "locations": [
+   "San Francisco"
+  ],
+  "posted": 1792164434,
+  "story_id": "4009288347243980118",
+  "title": "Hardware Security Engineer Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1792179841,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "posted": 1792164371,
+  "story_id": "4009287817956385374",
+  "title": "Software Engineering Intern - Machine Learning Research, Perception (Spring 2027 Co-Op)",
+  "url": "https://careers.rivian.com/careers-home/jobs/33801"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Lifeattiktok",
+  "first_seen": 1792179841,
+  "locations": [],
+  "posted": 1792164314,
+  "story_id": "4009287339889094229",
+  "title": "Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer",
+  "url": "https://lifeattiktok.com/search/7673636206961641781"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792179841,
+  "locations": [
+   "Redmond, WA,US"
+  ],
+  "posted": 1792164264,
+  "story_id": "4009286918822724699",
+  "title": "Research Intern - Efficient AI Software Systems",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
+ },
+ {
+  "account": "zero2sudo",
   "company": "T-Mobile USA, Inc.",
   "first_seen": 1792127376,
   "locations": [
