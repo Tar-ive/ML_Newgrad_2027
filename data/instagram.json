@@ -1,6 +1,28 @@
 [
  {
   "account": "zero2sudo",
+  "company": "T-Mobile USA, Inc.",
+  "first_seen": 1792127376,
+  "locations": [
+   "Bellevue, Washington"
+  ],
+  "posted": 1792111918,
+  "story_id": "4008847809897389186",
+  "title": "Summer 2027 Software Engineering Intern",
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Acadian Asset",
+  "first_seen": 1792127376,
+  "locations": [],
+  "posted": 1792110441,
+  "story_id": "4008835416232748181",
+  "title": "Open Positions",
+  "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Duolingo",
   "first_seen": 1792106425,
   "locations": [],
