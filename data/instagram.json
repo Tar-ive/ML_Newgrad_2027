@@ -1,6 +1,166 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Booz Allen Hamilton_United States",
+  "first_seen": 1792191817,
+  "locations": [
+   "Fayetteville, NC"
+  ],
+  "posted": 1792191260,
+  "story_id": "4009513378489782718",
+  "title": "University, Software Engineer Intern",
+  "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792191200,
+  "story_id": "4009512869024466250",
+  "title": null,
+  "url": "https://www.tesla.com/careers/search/job/287024"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Invesco Advisors Inc.",
+  "first_seen": 1792191817,
+  "locations": [
+   "Boston, Massachusetts"
+  ],
+  "posted": 1792191120,
+  "story_id": "4009512198011305219",
+  "title": "Quantitative Intern - Portfolio Engineering and Analytics",
+  "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Schneider Electric",
+  "first_seen": 1792191817,
+  "locations": [
+   "Foxboro, Massachusetts"
+  ],
+  "posted": 1792185492,
+  "story_id": "4009464988829928458",
+  "title": "AI Quality & Continuous Improvement Intern",
+  "url": "https://careers.se.com/jobs/136783"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Lumen Technologies",
+  "first_seen": 1792191817,
+  "locations": [
+   "Remote, OR,US"
+  ],
+  "posted": 1792185447,
+  "story_id": "4009464613926256233",
+  "title": "AI & Automation Builders - Summer 2027 Internship Pathway",
+  "url": "https://careers.lumen.com/careers/job/1133916332538"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792185378,
+  "story_id": "4009464033258412169",
+  "title": null,
+  "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137269"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "6084-Janssen Research & Development, LLC Legal Entity",
+  "first_seen": 1792191817,
+  "locations": [
+   "Cambridge, Massachusetts, United States of America"
+  ],
+  "posted": 1792185319,
+  "story_id": "4009463550703704728",
+  "title": "Summer intern, Digital Signal/ Imaging AI",
+  "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "US: Mastercard Technologies, LLC",
+  "first_seen": 1792191817,
+  "locations": [
+   "O'Fallon, Missouri"
+  ],
+  "posted": 1792185280,
+  "story_id": "4009463212391150548",
+  "title": "Platform Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Boston Scientific",
+  "first_seen": 1792191817,
+  "locations": [
+   "Maple Grove, MN,US"
+  ],
+  "posted": 1792185239,
+  "story_id": "4009462872946144618",
+  "title": "AI/Data Science Intern",
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129"
+ },
+ {
+  "account": "zero2sudo",
+  "company": null,
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792183701,
+  "story_id": "4009449972667945599",
+  "title": null,
+  "url": "https://www.citadel.com/careers/details/trader-power-renewables-trader-flexpower-a-citadel-company-university-graduate-emea/"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Intuit",
+  "first_seen": 1792191817,
+  "locations": [
+   "Mountain View, California",
+   "San Diego, California",
+   "New York, New York",
+   "Charlotte, North Carolina",
+   "Atlanta, Georgia"
+  ],
+  "posted": 1792182286,
+  "story_id": "4009438093308466320",
+  "title": "Software Engineer 1",
+  "url": "https://jobs.intuit.com/job/-/-/27595/102012325536?cid=pjob_li_click_us_swe-other-fy27_cn_text_job_int-tm&p_sid=VECiPGb&p_uid=TMD2Pej1rP&ss=paid"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Eightfold",
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792182111,
+  "story_id": "4009436624530312031",
+  "title": "Connect, Learn & Explore Opportunities at NVIDIA | Eightfold",
+  "url": "https://nvidia.eightfold.ai/events/candidate/landing?plannedEventId=xgdnJ1Ge5"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Myworkdayjobs",
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792182018,
+  "story_id": "4009435846419834545",
+  "title": "Careers",
+  "url": "https://gunvor.wd3.myworkdayjobs.com/en-US/Gunvor_Careers/event/1e03a784202a1001dae4c343e62e0000/register"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Harvey",
+  "first_seen": 1792191817,
+  "locations": [],
+  "posted": 1792181847,
+  "story_id": "4009434417412050010",
+  "title": "Software Engineering Intern (Winter 2027)",
+  "url": "https://www.harvey.ai/company/careers/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Nutanix",
   "first_seen": 1792179841,
   "locations": [],
