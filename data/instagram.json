@@ -1,6 +1,115 @@
 [
  {
   "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792263194,
+  "locations": [
+   "Redmond, WA,US",
+   "Mountain View, CA,US"
+  ],
+  "posted": 1792257068,
+  "story_id": "4010065411399644730",
+  "title": "Research Intern - Gray Systems Lab (GSL)",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557041730?domain=microsoft.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792263194,
+  "locations": [
+   "Redmond, WA,US"
+  ],
+  "posted": 1792254760,
+  "story_id": "4010046051314687932",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406?domain=microsoft.com&hl=en"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "CORP-Corporate Office",
+  "first_seen": 1792263194,
+  "locations": [
+   "United States-Colorado-Aurora"
+  ],
+  "posted": 1792254633,
+  "story_id": "4010044990734888720",
+  "title": "2027 Software Engineering Intern - Aurora CO",
+  "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "CORP-Corporate Office",
+  "first_seen": 1792263194,
+  "locations": [
+   "United States-Colorado-Colorado Springs"
+  ],
+  "posted": 1792254587,
+  "story_id": "4010044599942585330",
+  "title": "2027 Software Engineering Intern - Colorado Springs",
+  "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "CORP-Corporate Office",
+  "first_seen": 1792263194,
+  "locations": [
+   "United States-Colorado-Boulder"
+  ],
+  "posted": 1792254555,
+  "story_id": "4010044334150118319",
+  "title": "2027 Software Engineering Intern - Boulder CO",
+  "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Rivian",
+  "first_seen": 1792263194,
+  "locations": [
+   "Palo Alto, California"
+  ],
+  "posted": 1792254486,
+  "story_id": "4010043753833812158",
+  "title": "Engineering Intern - Technical Program Management (Spring 2027 Co-op)",
+  "url": "https://careers.rivian.com/careers-home/jobs/34505"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Amazon",
+  "first_seen": 1792263194,
+  "locations": [],
+  "posted": 1792254432,
+  "story_id": "4010043299473551668",
+  "title": "Systems Development Engineer, Early Career \u2013 2026 (US)",
+  "url": "https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792263194,
+  "locations": [
+   "Redmond, WA,US",
+   "New York, NY,US"
+  ],
+  "posted": 1792254358,
+  "story_id": "4010042678692368394",
+  "title": "Research Intern - MSR AI Interaction and Learning",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
+ },
+ {
+  "account": "zero2sudo",
+  "company": "Microsoft",
+  "first_seen": 1792263194,
+  "locations": [
+   "New York, NY,US",
+   "Cambridge, MA,US"
+  ],
+  "posted": 1792254312,
+  "story_id": "4010042289049363903",
+  "title": "Research Intern - Machine Learning at MSR NYC",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+ },
+ {
+  "account": "zero2sudo",
   "company": "Booz Allen Hamilton_United States",
   "first_seen": 1792191817,
   "locations": [
