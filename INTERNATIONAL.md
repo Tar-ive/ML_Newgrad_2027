@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-17 17:20 UTC_
+_Last refreshed: 2026-10-17 19:35 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -29,9 +29,9 @@ cliff after the first few days of a posting being live.
 | **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **1d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **Together AI** | Hardware Security Engineer, New Grad (2027) | San Francisco | **1d** | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
 | **CUBICMIND AI** | Junior+ ML Engineer (Model Architecture, Training and Edge Optimisation) | Ukraine | **1d** | [Apply](https://djinni.co/jobs/853621-junior-ml-engineer-model-architecture-trainin/) |
-| **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **1d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
 | **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland +2 | **1d** | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W) |
 | **[Teya](https://simplify.jobs/c/Teya)** | Data Scientist | London, UK | **1d** | [Apply](https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application?embed=true) |
+| **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **2d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
 | **[Airbus](https://www.airbus.com)** | STAGE 2027 - Data Scientist - H/F | Marseille, France | **2d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036) |
 | **[AlgaeCal](http://algaecal.com/)** | Associate Data Scientist | Vancouver, Canada | **2d** | [Apply](https://apply.workable.com/algaecal/j/6AD2FD571B/) |
 | **[AppZen](https://www.appzen.com)** | AI/ML Engineer | Pune, India | **2d** | [Apply](https://jobs.lever.co/appzen/cce93662-196a-4814-b80c-bfa0b37384af) |
@@ -251,9 +251,9 @@ new grads.
 | **[Thomson Reuters](https://www.thomsonreuters.com)** | Applied Scientist I | Bengaluru, India | **1d** | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/private_external_career_site/job/India-Bengaluru-Karnataka/Applied-Scientist-I_JREQ204431) |
 | **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **1d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **CUBICMIND AI** | Junior+ ML Engineer (Model Architecture, Training and Edge Optimisation) | Ukraine | **1d** | [Apply](https://djinni.co/jobs/853621-junior-ml-engineer-model-architecture-trainin/) |
-| **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **1d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
 | **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland +2 | **1d** | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W) |
 | **[Teya](https://simplify.jobs/c/Teya)** | Data Scientist | London, UK | **1d** | [Apply](https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application?embed=true) |
+| **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **2d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
 | **[Airbus](https://www.airbus.com)** | STAGE 2027 - Data Scientist - H/F | Marseille, France | **2d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036) |
 | **[AlgaeCal](http://algaecal.com/)** | Associate Data Scientist | Vancouver, Canada | **2d** | [Apply](https://apply.workable.com/algaecal/j/6AD2FD571B/) |
 | **[AppZen](https://www.appzen.com)** | AI/ML Engineer | Pune, India | **2d** | [Apply](https://jobs.lever.co/appzen/cce93662-196a-4814-b80c-bfa0b37384af) |

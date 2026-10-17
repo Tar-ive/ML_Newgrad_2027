@@ -18,7 +18,7 @@ specialization**. Everything is new grad through roughly three years.
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-17 17:20 UTC_
+_Last refreshed: 2026-10-17 19:35 UTC_
 <!-- UPDATED_END -->
 
 ---
