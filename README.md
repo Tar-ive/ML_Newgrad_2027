@@ -13,12 +13,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**483** open roles
+**479** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-19 04:55 UTC_
+_Last refreshed: 2026-10-19 10:58 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -31,6 +31,7 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Conviva](https://simplify.jobs/c/Conviva)** | AI/ML Engineer | Foster City, CA | **today** | [Apply](https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003) |
 | **TikTok** | Data Scientist (Quant Modeling) - TikTok | San Jose, California, United States of America | **2d** | [Apply](https://lifeattiktok.com/search/7464840513293912327) |
 | **Apple** | Machine Learning Engineer, Creative Intelligence Systems | Cupertino, California, 95014, United States | **2d** | [Apply](https://jobs.apple.com/en-us/details/200687729) |
 | **[Quora](https://simplify.jobs/c/Quora)** | Machine Learning Engineer New Grad | Remote in USA +3 | **2d** | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
@@ -54,14 +55,12 @@ cliff after the first few days of a posting being live.
 | **Quora** | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations | **4d** | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
 | **[Daimler Truck](https://www.daimlertruck.com)** | Data Science and Business Intelligence Generalist I | Detroit, MI | **4d** | [Apply](https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Detroit-MI-US/Data-Science-and-Business-Intelligence-Generalist-I_DT-20066-2) |
 | **[Nike](https://nike.com)** | Machine Learning Engineer I | Beaverton, OR | **4d** | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1) |
-| **Booz Allen Hamilton** | AI Researcher | Chantilly, VA | **4d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-Researcher_R0244539) |
+| **Booz Allen Hamilton** | AI Researcher | Chantilly, VA | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-Researcher_R0244539) |
 | **Cmu** | Associate Data Scientist | Pittsburgh, PA | **5d** | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Associate-Data-Scientist_2025156-2) |
 | **TikTok** | UX Researcher - Global Monetization Product and Technology | Seattle, Washington, United States of America | **5d** | [Apply](https://lifeattiktok.com/search/7592534982809929989) |
-| **Amgen** | CD&A Data Scientist, Obesity - Associate - Hybrid - Thousand Oaks | Thousand Oaks, CA | **5d** | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217) |
 | **Nimble** | Outbound AI Engineer | New York City, NY | **5d** | [Apply](https://www.nimbleway.com/open-position?outbound-ai-engineer=&uid=54.270) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA | **5d** | [Apply](https://lifeattiktok.com/search/7670335888371927349) |
 | **[Daimler Truck](https://simplify.jobs/c/Daimler-Truck)** | Data Science and Business Intelligence Generalist 1 | Detroit, MI | **5d** | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Data-Science-and-Business-Intelligence-Generalist-I_DT-20066-2) |
-| **[Amgen](https://simplify.jobs/c/Amgen)** | Commercial Data and Analytics Data Scientist - Obesity | Thousand Oaks, CA | **5d** | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217) |
 | **EXL Talent Acquisition Team** | Junior AI Engineer | United States | **5d** | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21550) |
 | **Google** | Software Engineer, Multimodal AI, XR | San Jose, CA, USA | **5d** | [Apply](https://google.com/about/careers/applications/jobs/results/138552354541576902) |
 | **SAIC** | Data Scientist | Camp Smith, HI, United States / Chantilly, VA, United States | **5d** | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2617967) |
@@ -70,8 +69,8 @@ cliff after the first few days of a posting being live.
 | **Harriscomputer** | AI Engineer | Remote - Costa Rica | **5d** | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/GBS/job/Remote---Costa-Rica/AI-Engineer_R0046936-1) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate | Seattle, WA | **5d** | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad | Seattle, WA | **5d** | [Apply](https://lifeattiktok.com/search/7695927144126253317) |
-| **University of Texas at Austin** | Biostatistician I | AUSTIN, TX | **5d** | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Biostatistician-I_R_00047316) |
-| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | **5d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/R-D-Researcher---AI-and-Machine-Learning_JR-202621474) |
+| **University of Texas at Austin** | Biostatistician I | AUSTIN, TX | **6d** | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Biostatistician-I_R_00047316) |
+| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | **6d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/R-D-Researcher---AI-and-Machine-Learning_JR-202621474) |
 | **Becoming** | Applied AI Engineer | San Francisco, CA | **6d** | [Apply](https://apply.workable.com/becoming/j/15A6DEBBF1) |
 | **[GoodPower](https://simplify.jobs/c/GoodPower)** | Machine Learning Scientist | Remote in USA | **6d** | [Apply](https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist) |
 | **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 | Chicago, IL / Chicago, Illinois | **6d** | [Apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
@@ -157,7 +156,7 @@ and autonomy set.
 | **Qualcomm** | #Machine Learning Engineer – Agentic AI | San Diego, California, United States of America | 26d | [Apply](https://careers.qualcomm.com/careers/job/446721159438) |
 | **[TikTok](https://www.tiktok.com)** | US Ecosystem Analyst Graduate - LLM/Enforcement - TikTok LIVE - 2026 Start | Los Angeles, CA | 27d | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | San Jose, CA +4 | 29d | [Apply](https://lifeattiktok.com/search/7686999927260105013) |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist New Grad - Robotics Research | Seattle, WA / US, WA, Seattle | 31d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist New Grad - Robotics Research | Seattle, WA / US, WA, Seattle | 30d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
 | **Qualcomm** | GPU Research Engineer | San Diego, California, United States of America | 32d | [Apply](https://careers.qualcomm.com/careers/job/446718710590) |
 | **Qualcomm** | Software Engineer, Robotics Simulation & AI Infrastructure | San Diego, California, United States of America | 32d | [Apply](https://careers.qualcomm.com/careers/job/446720880729) |
 | **Qualcomm** | Video Research Engineer (Multiple Levels) | San Diego, California, United States of America | 32d | [Apply](https://careers.qualcomm.com/careers/job/446716320059) |
@@ -341,6 +340,7 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Conviva](https://simplify.jobs/c/Conviva)** | AI/ML Engineer | Foster City, CA | **today** | [Apply](https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003) |
 | **[Quora](https://simplify.jobs/c/Quora)** | Machine Learning Engineer New Grad | Remote in USA +3 | **2d** | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | **[Veepee](https://www.veepee.com)** | Stage - Data Scientist - H/F/X - Janvier 2027 | Saint-Denis | **2d** | [Apply](https://jobs.lever.co/veepee/8b71e60f-7032-48b1-a325-f3d1c660c0d0) |
 | **Globalizationpartners** | AI Engineer I | Ireland (Remote-First) / United Kingdom (Remote-First) | **3d** | [Apply](https://job-boards.greenhouse.io/globalizationpartners/jobs/8034410003) |
@@ -359,21 +359,19 @@ new grads.
 | **Quora** | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations | **4d** | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
 | **[Daimler Truck](https://www.daimlertruck.com)** | Data Science and Business Intelligence Generalist I | Detroit, MI | **4d** | [Apply](https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Detroit-MI-US/Data-Science-and-Business-Intelligence-Generalist-I_DT-20066-2) |
 | **[Nike](https://nike.com)** | Machine Learning Engineer I | Beaverton, OR | **4d** | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1) |
-| **Booz Allen Hamilton** | AI Researcher | Chantilly, VA | **4d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-Researcher_R0244539) |
+| **Booz Allen Hamilton** | AI Researcher | Chantilly, VA | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-Researcher_R0244539) |
 | **Cmu** | Associate Data Scientist | Pittsburgh, PA | **5d** | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Associate-Data-Scientist_2025156-2) |
 | **[NewRocket](https://simplify.jobs/c/NewRocket)** | AI Engineer Graduate Level | Remote in USA / Remote - USA | **5d** | [Apply](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) |
-| **Amgen** | CD&A Data Scientist, Obesity - Associate - Hybrid - Thousand Oaks | Thousand Oaks, CA | **5d** | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217) |
 | **Nimble** | Outbound AI Engineer | New York City, NY | **5d** | [Apply](https://www.nimbleway.com/open-position?outbound-ai-engineer=&uid=54.270) |
 | **[Daimler Truck](https://simplify.jobs/c/Daimler-Truck)** | Data Science and Business Intelligence Generalist 1 | Detroit, MI | **5d** | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Data-Science-and-Business-Intelligence-Generalist-I_DT-20066-2) |
-| **[Amgen](https://simplify.jobs/c/Amgen)** | Commercial Data and Analytics Data Scientist - Obesity | Thousand Oaks, CA | **5d** | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217) |
 | **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Machine-Learning-Engineer_R0251266) |
 | **EXL Talent Acquisition Team** | Junior AI Engineer | United States | **5d** | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21550) |
 | **SAIC** | Data Scientist | Camp Smith, HI, United States / Chantilly, VA, United States | **5d** | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2617967) |
 | **Booz Allen Hamilton** | Palantir Data Scientist | Springfield, VA | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0251630) |
 | **American Express** | Agentic AI Engineer - Core Platforms | New York, NY, United States | **5d** | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015091) |
 | **Harriscomputer** | AI Engineer | Remote - Costa Rica | **5d** | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/GBS/job/Remote---Costa-Rica/AI-Engineer_R0046936-1) |
-| **University of Texas at Austin** | Biostatistician I | AUSTIN, TX | **5d** | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Biostatistician-I_R_00047316) |
-| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | **5d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/R-D-Researcher---AI-and-Machine-Learning_JR-202621474) |
+| **University of Texas at Austin** | Biostatistician I | AUSTIN, TX | **6d** | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Biostatistician-I_R_00047316) |
+| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | **6d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/R-D-Researcher---AI-and-Machine-Learning_JR-202621474) |
 | **Becoming** | Applied AI Engineer | San Francisco, CA | **6d** | [Apply](https://apply.workable.com/becoming/j/15A6DEBBF1) |
 | **AbbVie** | Associate Data Scientist I | North Chicago, IL +2 | **6d** | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016070676) |
 | **[GoodPower](https://simplify.jobs/c/GoodPower)** | Machine Learning Scientist | Remote in USA | **6d** | [Apply](https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist) |
@@ -385,14 +383,11 @@ new grads.
 | **[SimVentions](https://simplify.jobs/c/SimVentions)** | AI/Machine Learning Engineer - RAG Pipeline Development | Dahlgren, VA | **6d** | [Apply](https://simventions.jibeapply.com/jobs/1650?icims=1) |
 | **Icfexternal** | Data Scientist - Remote USA | Reston, VA | **6d** | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453) |
 | **[General Motors](https://www.gm.com)** | Entry-Level - AI and Machine Learning for Automation Researcher | Warren, MI | **6d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769) |
-| **[Regeneron](https://regeneron.com/)** | Associate Process Data Scientist | — | **6d** | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/careers/job/RENSS---TECH-VALLEY/Associate-Process-Data-Scientist_R51442) |
-| **General Motors** | Entry-Level – AI and Machine Learning for Automation Researcher | Warren, Michigan, United States... | **6d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769) |
+| **General Motors** | Entry-Level – AI and Machine Learning for Automation Researcher | Warren, Michigan, United States... | **7d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769) |
 | **[General Motors](https://simplify.jobs/c/General-Motors)** | AI/Machine Learning Researcher | Mountain View, CA | **7d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) |
-| **[Regeneron Pharmaceuticals](https://simplify.jobs/c/Regeneron-Pharmaceuticals)** | Associate IOPS AI Engineer | United States | **7d** | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Assoc-IOPS-AI-Engineer_R51390) |
 | **Brillio** | AI Engineer | Dallas, Texas, United States / Dallas, TX | **7d** | [Apply](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2) |
 | **Working At Signature Aviation** | Data Scientist | Orlando, FL, United States | **7d** | [Apply](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16933) |
 | **Gartner** | Associate Data Scientist - Spring 2027 Master's level graduates | Stamford, CT | 8d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311) |
-| **[Xcel Energy](https://simplify.jobs/c/Xcel-Energy)** | Associate Data Scientist | Denver, CO | 9d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2) |
 | **[Squarepoint Capital](https://www.squarepoint-capital.com)** | Quantitative Researcher - Volatility - Medium-Frequency | New York City, NY / Houston, TX | 9d | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346) |
 | **[Amgen](https://www.amgen.com)** | Data Scientist | Remote - USA | 9d | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Data-Scientist_R-257589) |
 | **[Toyota](https://www.toyota.com)** | AI/ML Platform Engineer | Plano, TX | 9d | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna_professional/job/Plano-North/AI-ML-Platform-Engineer_10337203-2) |

@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**288** open roles
+**282** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-19 04:55 UTC_
+_Last refreshed: 2026-10-19 10:58 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -25,8 +25,9 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **[Thomson Reuters](https://www.thomsonreuters.com)** | Applied Scientist I | Bengaluru, India | **2d** | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/private_external_career_site/job/India-Bengaluru-Karnataka/Applied-Scientist-I_JREQ204431) |
-| **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **2d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
+| **[Wise](https://simplify.jobs/c/Wise)** | Graduate Data Scientist | London, UK | **today** | [Apply](https://jobs.smartrecruiters.com/Wise/744000156265098) |
+| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Data Scientist 1 - Competitive Intelligence | London, UK | **today** | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Competitive-Intelligence_R-110175-1) |
+| **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **3d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **Together AI** | Hardware Security Engineer, New Grad (2027) | San Francisco | **3d** | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
 | **CUBICMIND AI** | Junior+ ML Engineer (Model Architecture, Training and Edge Optimisation) | Ukraine | **3d** | [Apply](https://djinni.co/jobs/853621-junior-ml-engineer-model-architecture-trainin/) |
 | **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland +2 | **3d** | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W) |
@@ -35,11 +36,9 @@ cliff after the first few days of a posting being live.
 | **Lateral US** | AI Engineer - Data Scientist I | New York | **3d** | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/AI-Engineer---Data-Scientist-I_26038294) |
 | **Wustl** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical Campus | **3d** | [Apply](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **3d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
-| **[Airbus](https://www.airbus.com)** | STAGE 2027 - Data Scientist - H/F | Marseille, France | **3d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036) |
 | **[AlgaeCal](http://algaecal.com/)** | Associate Data Scientist | Vancouver, Canada | **3d** | [Apply](https://apply.workable.com/algaecal/j/6AD2FD571B/) |
 | **[AppZen](https://www.appzen.com)** | AI/ML Engineer | Pune, India | **3d** | [Apply](https://jobs.lever.co/appzen/cce93662-196a-4814-b80c-bfa0b37384af) |
 | **[Bosch](https://www.bosch.com/)** | Data Scientist | Bengaluru, India | **3d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155709908-data-scientist?oga=true) |
-| **[Grab](http://www.grab.com)** | Data Scientist | Cluj-Napoca, Romania | **3d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000155742629-data-scientist?oga=true) |
 | **[IQVIA](https://www.iqvia.com)** | Scientifique des données associé - confidentialité et désidentification/ Associate Data Scientist - Privacy and De-identification | Ottawa, Canada | **3d** | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification--Associate-Data-Scientist--Privacy-and-De-identification_R1569257) |
 | **[PA Consulting](https://www.paconsulting.com)** | 2027 Graduate - Applied Scientist - Physics - Cambridge | Melbourn, United Kingdom | **3d** | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000155684599-2027-graduate-applied-scientist-physics-cambridge?oga=true) |
 | **[Apple](https://simplify.jobs/c/Apple)** | Generative AI Research Engineer - Siri Speech | Cambridge, UK | **4d** | [Apply](https://jobs.apple.com/en-us/details/200688766) |
@@ -57,12 +56,9 @@ cliff after the first few days of a posting being live.
 | **European Dynamics** | Junior AI/ML Engineer - Python Developer | Athens, Attica, Greece | **5d** | [Apply](https://apply.workable.com/european-dynamics/j/D53EAA65D5/) |
 | **[State Street](https://statestreet.com)** | Artificial Intelligence & Machine Learning - Officer | Quincy, MA +3 | **5d** | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/Quincy-Massachusetts/Artificial-Intelligence---Machine-Learning--AVP_R-797812) |
 | **[Comm-IT](https://www.comm-it.com)** | AI/ML Research Scientist | Ukraine +2 | **5d** | [Apply](https://www.comm-it.com/commit-jobs) |
-| **[Gartner](https://gartner.com)** | Specialist - Data Engineer - Python - SQL - Databricks - AI/LLM | Gurugram, India | **5d** | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Specialist--Data-Engineer_114332) |
 | **[Mize](https://www.mize.tech)** | Junior Data Scientist | Tel Aviv, Israel | **5d** | [Apply](https://mize.tech/careers/co/tel-aviv/AC.377/junior-data-scientist/all/) |
 | **[Continental AG](https://www.continental.com)** | Computer Vision Engineer | Hefei, China | **5d** | [Apply](https://jobs.smartrecruiters.com/Continental/744000155159729-computer-vision-engineer?oga=true) |
 | **[ICF](https://www.icf.com)** | Associate Data Scientist | London, United Kingdom | **5d** | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/London-GB80/Associate-Data-Scientist_R2603454-1) |
-| **[Roche](https://roche.com/)** | Analytical Data Science Programmer | Mississauga, Canada | **5d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/Analytical-Data-Science-Programmer_202610-125390-1) |
-| **[Roche](https://roche.com/)** | DSX Data Scientist | Mississauga, Canada | **5d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/DSX-Data-Scientist_202610-125978-1) |
 | **[Trainline](https://www.trainlinegroup.com/careers)** | Junior Machine Learning Engineer | London, United Kingdom | **5d** | [Apply](https://jobs.ashbyhq.com/trainline/529e124d-d65d-4aa2-bde3-be81750cc521) |
 | **[KNOREX](https://knorex.com)** | MLOps Engineer | Ho Chi Minh City, Vietnam | **5d** | [Apply](https://apply.workable.com/knorex/j/D80BDF2F84/) |
 | **[Zalando](https://zalando.com/)** | Junior Applied Scientist - all genders | Berlin, Germany | **5d** | [Apply](https://zalando.wd3.myworkdayjobs.com/en-US/zalandositewd/job/Berlin/Junior-Applied-Scientist--all-genders-_2726009) |
@@ -236,8 +232,9 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **[Thomson Reuters](https://www.thomsonreuters.com)** | Applied Scientist I | Bengaluru, India | **2d** | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/private_external_career_site/job/India-Bengaluru-Karnataka/Applied-Scientist-I_JREQ204431) |
-| **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **2d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
+| **[Wise](https://simplify.jobs/c/Wise)** | Graduate Data Scientist | London, UK | **today** | [Apply](https://jobs.smartrecruiters.com/Wise/744000156265098) |
+| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Data Scientist 1 - Competitive Intelligence | London, UK | **today** | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Competitive-Intelligence_R-110175-1) |
+| **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | **3d** | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **CUBICMIND AI** | Junior+ ML Engineer (Model Architecture, Training and Edge Optimisation) | Ukraine | **3d** | [Apply](https://djinni.co/jobs/853621-junior-ml-engineer-model-architecture-trainin/) |
 | **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland +2 | **3d** | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W) |
 | **[Teya](https://simplify.jobs/c/Teya)** | Data Scientist | London, UK | **3d** | [Apply](https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application?embed=true) |
@@ -245,11 +242,9 @@ new grads.
 | **Lateral US** | AI Engineer - Data Scientist I | New York | **3d** | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/AI-Engineer---Data-Scientist-I_26038294) |
 | **Wustl** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical Campus | **3d** | [Apply](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Research-Statistician-I---Data-Scientist---Anesthesiology_JR98120) |
 | **Tower Research Capital** | Quantitative Researcher (Mulitple Openings) | New York, New York | **3d** | [Apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8286910) |
-| **[Airbus](https://www.airbus.com)** | STAGE 2027 - Data Scientist - H/F | Marseille, France | **3d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036) |
 | **[AlgaeCal](http://algaecal.com/)** | Associate Data Scientist | Vancouver, Canada | **3d** | [Apply](https://apply.workable.com/algaecal/j/6AD2FD571B/) |
 | **[AppZen](https://www.appzen.com)** | AI/ML Engineer | Pune, India | **3d** | [Apply](https://jobs.lever.co/appzen/cce93662-196a-4814-b80c-bfa0b37384af) |
 | **[Bosch](https://www.bosch.com/)** | Data Scientist | Bengaluru, India | **3d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155709908-data-scientist?oga=true) |
-| **[Grab](http://www.grab.com)** | Data Scientist | Cluj-Napoca, Romania | **3d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000155742629-data-scientist?oga=true) |
 | **[IQVIA](https://www.iqvia.com)** | Scientifique des données associé - confidentialité et désidentification/ Associate Data Scientist - Privacy and De-identification | Ottawa, Canada | **3d** | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification--Associate-Data-Scientist--Privacy-and-De-identification_R1569257) |
 | **[PA Consulting](https://www.paconsulting.com)** | 2027 Graduate - Applied Scientist - Physics - Cambridge | Melbourn, United Kingdom | **3d** | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000155684599-2027-graduate-applied-scientist-physics-cambridge?oga=true) |
 | **Abby Care** | Applied AI Engineer | San Francisco | **4d** | [Apply](https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89) |
@@ -266,12 +261,9 @@ new grads.
 | **Thumbtack** | Software Engineer, AI/ML Infrastructure | Remote, Ontario | **5d** | [Apply](https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35) |
 | **[State Street](https://statestreet.com)** | Artificial Intelligence & Machine Learning - Officer | Quincy, MA +3 | **5d** | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/Quincy-Massachusetts/Artificial-Intelligence---Machine-Learning--AVP_R-797812) |
 | **[Comm-IT](https://www.comm-it.com)** | AI/ML Research Scientist | Ukraine +2 | **5d** | [Apply](https://www.comm-it.com/commit-jobs) |
-| **[Gartner](https://gartner.com)** | Specialist - Data Engineer - Python - SQL - Databricks - AI/LLM | Gurugram, India | **5d** | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Specialist--Data-Engineer_114332) |
 | **[Mize](https://www.mize.tech)** | Junior Data Scientist | Tel Aviv, Israel | **5d** | [Apply](https://mize.tech/careers/co/tel-aviv/AC.377/junior-data-scientist/all/) |
 | **[Continental AG](https://www.continental.com)** | Computer Vision Engineer | Hefei, China | **5d** | [Apply](https://jobs.smartrecruiters.com/Continental/744000155159729-computer-vision-engineer?oga=true) |
 | **[ICF](https://www.icf.com)** | Associate Data Scientist | London, United Kingdom | **5d** | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/London-GB80/Associate-Data-Scientist_R2603454-1) |
-| **[Roche](https://roche.com/)** | Analytical Data Science Programmer | Mississauga, Canada | **5d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/Analytical-Data-Science-Programmer_202610-125390-1) |
-| **[Roche](https://roche.com/)** | DSX Data Scientist | Mississauga, Canada | **5d** | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/DSX-Data-Scientist_202610-125978-1) |
 | **[Trainline](https://www.trainlinegroup.com/careers)** | Junior Machine Learning Engineer | London, United Kingdom | **5d** | [Apply](https://jobs.ashbyhq.com/trainline/529e124d-d65d-4aa2-bde3-be81750cc521) |
 | **[KNOREX](https://knorex.com)** | MLOps Engineer | Ho Chi Minh City, Vietnam | **5d** | [Apply](https://apply.workable.com/knorex/j/D80BDF2F84/) |
 | **[Zalando](https://zalando.com/)** | Junior Applied Scientist - all genders | Berlin, Germany | **5d** | [Apply](https://zalando.wd3.myworkdayjobs.com/en-US/zalandositewd/job/Berlin/Junior-Applied-Scientist--all-genders-_2726009) |
@@ -282,10 +274,9 @@ new grads.
 | **[Accenture](https://www.accenture.com)** | S&C Global Network - AI - Hi Tech - Data Science Associate | Bengaluru, India | **6d** | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bengaluru/S-C-Global-Network---AI---Hi-Tech---Data-Science-Associate_R00361602) |
 | **[Accenture](https://www.accenture.com)** | S&C Global Network - AI - Hi Tech - Data Science Associate 3 | Bengaluru, India | **6d** | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bengaluru/S-C-Global-Network---AI---Hi-Tech---Data-Science-Associate-3_R00361605) |
 | **[Cermati](http://www.cermati.com)** | Data Scientist - Risk Analytics & Modelling | Jakarta, Indonesia | **6d** | [Apply](https://jobs.smartrecruiters.com/Cermaticom/744000154953329-data-scientist-risk-analytics-modelling?oga=true) |
-| **[CNX](http://www.cnx.com)** | Analyst Forecasting/Data Scientist | Gurugram, India | **6d** | [Apply](https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/IND-Gurugram/Analyst-Forecasting-Data-Scientist_R1736443) |
 | **[Digitals.ai](http://www.digitals.ai/)** | Generative AI Engineer - Freshers 2026/27 - Computer Science or AI Only | Hyderabad, India | **6d** | [Apply](https://apply.workable.com/digitals/j/4A9A4E7C8A/) |
 | **[Lloyds Banking Group](https://www.lloydsbankinggroup.com)** | Data Science & AI Graduate Scheme - London | London, United Kingdom | **6d** | [Apply](https://lbg.wd3.myworkdayjobs.com/en-US/graduate_careers/job/London/Data-Science---AI-Graduate-Scheme--London-_163352-1) |
-| **General Motors** | Entry-Level – AI/Machine Learning Researcher | Mountain View, California,... | **6d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) |
+| **General Motors** | Entry-Level – AI/Machine Learning Researcher | Mountain View, California,... | **7d** | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) |
 | **Artellence** | Strong junior Machine learning engineer | Ukraine | **7d** | [Apply](https://djinni.co/jobs/842742-strong-junior-machine-learning-engineer/) |
 | **NVIDIA USA** | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 | US, CA, Santa Clara | **7d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) |
 | **DOIT Software** | Junior-Middle Backend Developer (Node.js, LLM/RAG, MCP, AI agents) | Ukraine | **7d** | [Apply](https://djinni.co/jobs/852855-junior-middle-backend-developer-node-js-llm-r/) |
@@ -297,7 +288,6 @@ new grads.
 | **[Bosch](https://www.bosch.com/)** | Research Engineer: AI/ML enhanced control engineering | Bengaluru, India | 10d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154399049-research-engineer-ai-ml-enhanced-control-engineering?oga=true) |
 | **[Bureau](https://bureau.id/)** | Associate Data Scientist | Bengaluru, India | 10d | [Apply](https://jobs.ashbyhq.com/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08) |
 | **[Niantic Spatial](https://simplify.jobs/c/Niantic-Spatial)** | AI Engineer - Computer Vision | SF | 11d | [Apply](https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application?embed=true) |
-| **[Citi](https://simplify.jobs/c/Citigroup)** | Junior Software Engineer - Generative AI Platforms | London, UK | 11d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233) |
 | **[Hedra](https://simplify.jobs/c/Hedra)** | Inference Optimization Engineer | SF | 11d | [Apply](https://jobs.ashbyhq.com/hedra/f28645f7-2bed-4754-9da2-a3aaa7d6aa27/application?embed=true) |
 | **[Vattenfall](https://group.vattenfall.com)** | Junior ML Engineer | Hamburg, Germany / Berlin, Germany | 11d | [Apply](https://jobs.smartrecruiters.com/Vattenfall/744000154113269--junior-ml-engineer?oga=true) |
 | **Northeastern** | Associate Data Scientist, DIBI | Boston, MA (Main Campus) | 11d | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Data-Scientist--DIBI_R142889) |
