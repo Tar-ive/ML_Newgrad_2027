@@ -13,12 +13,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**488** open roles
+**489** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-24 16:43 UTC_
+_Last refreshed: 2026-10-24 19:35 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -35,7 +35,9 @@ cliff after the first few days of a posting being live.
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist New Grad - Video and Edge - Multimedia Lab | San Jose, CA | **today** | [Apply](https://jobs.bytedance.com/en/position/7670374385110599989/detail) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Algorithms - Pricing - Rider Engagement | San Francisco, CA | **1d** | [Apply](https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002) |
 | **Resolv.Global** | Junior AI/ML Engineer | Remote - Colombia | **1d** | [Apply](https://www.comeet.com/jobs/resolvglobal/BA.006/junior-aiml-engineer/65.471-4A.602) |
+| **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Engineer 1 - AI/ML Network Infrastructure | Cupertino, CA +3 | **1d** | [Apply](https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
 | **[ServiceNow](https://careers.servicenow.com/engineering)** | Machine Learning Engineer | Santa Clara, CA +2 | **1d** | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000156637254-machine-learning-engineer?oga=true) |
+| **Amazon** | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | **1d** | [Apply](https://account.amazon.jobs/jobs/10584797/apply) |
 | **Amazon** | Applied Scientist II | North Reading, Massachusetts, USA | **1d** | [Apply](https://account.amazon.jobs/jobs/10585203/apply) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | High-Performance LLM Training Engineer New Grad | Canada +4 | **1d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) |
 | **Qualcomm** | #Computer Vision Software Engineer | San Diego, California, United States of America | **1d** | [Apply](https://careers.qualcomm.com/careers/job/446721598022) |
@@ -74,6 +76,7 @@ cliff after the first few days of a posting being live.
 | **[AECOM](https://simplify.jobs/c/AECOM)** | Entry-Level Environmental Statistician | Grand Rapids, MI / Novi, MI | **1d** | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157479969) |
 | **[Otis](https://www.otis.com)** | Data Science & Analytics - Early Career Digital Technology Rising Leaders Program | Remote - Connecticut, USA | **1d** | [Apply](https://otis.wd504.myworkdayjobs.com/en-US/rec_ext_gateway/job/OTCTH-Connecticut-Home-Offices-Remote-Location-Remote-City-CT-06032-USA/Data-Science---Analytics---Early-Career-Digital-Technology-Rising-Leaders-Program_20170326) |
 | **Blue Origin** | HLS Autonomy Software Systems Engineer ll - Lunar Permanence | Denver, CO | **1d** | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Denver-CO/HLS-Software-Systems-Engineer-ll---Lunar-Permanence_R72468) |
+| **Amazon** | Software Development Engineer, ML Symphony, ML-Symphony | Santa Clara, California, USA | **1d** | [Apply](https://www.amazon.jobs/en/jobs/10587772/software-development-engineer-ml-symphony-ml-symphony) |
 | **[Lightcast](https://simplify.jobs/c/Lightcast)** | Associate Applied Machine Learning Scientist | Moscow, ID | **1d** | [Apply](https://jobs.lever.co/economicmodeling/ac72eba1-48f4-46e5-b0c6-93b6780b2618/apply) |
 | **[State Employees' Credit Union](https://simplify.jobs/c/SECU)** | Associate Credit Review Data Scientist | Wake Forest, NC | **1d** | [Apply](https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16697) |
 | **Schumacher Homes** | Associate Data Scientist | Canton, OH | **1d** | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4609498) |
@@ -134,6 +137,8 @@ and autonomy set.
 | **TikTok** | User Researcher | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7699070278786058549) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist New Grad - Video and Edge - Multimedia Lab | San Jose, CA | **today** | [Apply](https://jobs.bytedance.com/en/position/7670374385110599989/detail) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Algorithms - Pricing - Rider Engagement | San Francisco, CA | **1d** | [Apply](https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002) |
+| **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Engineer 1 - AI/ML Network Infrastructure | Cupertino, CA +3 | **1d** | [Apply](https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
+| **Amazon** | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | **1d** | [Apply](https://account.amazon.jobs/jobs/10584797/apply) |
 | **Amazon** | Applied Scientist II | North Reading, Massachusetts, USA | **1d** | [Apply](https://account.amazon.jobs/jobs/10585203/apply) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | High-Performance LLM Training Engineer New Grad | Canada +4 | **1d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) |
 | **Qualcomm** | #Computer Vision Software Engineer | San Diego, California, United States of America | **1d** | [Apply](https://careers.qualcomm.com/careers/job/446721598022) |
@@ -165,9 +170,9 @@ and autonomy set.
 | **Google** | Software Engineer, Generative AI, Geo Data | New York, NY, USA | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/93217840860930758) |
 | **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 | **1d** | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
 | **Amazon** | Software Development Engineer, Neuron Collectives, Annapurna Labs | Cupertino, California, USA | **1d** | [Apply](https://www.amazon.jobs/en/jobs/10587264/software-development-engineer-neuron-collectives-annapurna-labs) |
-| **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Engineer 1 - AI/ML Network Infrastructure | Cupertino, CA +2 | **1d** | [Apply](https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Applied Scientist - Amazon Cryptographic Libraries | Seattle, WA | **1d** | [Apply](https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries) |
 | **TikTok** | Machine Learning Engineer, E-commerce Feed Recommendation | San Jose, California, United States of America / Seattle, Washington, United States of America +2 +2 +2 +2 +2 | **1d** | [Apply](https://lifeattiktok.com/search/7236829563632257337) |
+| **Amazon** | Software Development Engineer, ML Symphony, ML-Symphony | Santa Clara, California, USA | **1d** | [Apply](https://www.amazon.jobs/en/jobs/10587772/software-development-engineer-ml-symphony-ml-symphony) |
 | **TikTok** | Data Scientist (Quant Modeling) - TikTok | San Jose, California, United States of America | **1d** | [Apply](https://lifeattiktok.com/search/7464840513293912327) |
 | **TikTok** | UX Researcher - Global E-Commerce - LATAM Market (US) | Seattle, Washington, United States of America | **1d** | [Apply](https://lifeattiktok.com/search/7696701395914869045) |
 | **TikTok** | UX Researcher - Global Monetization Product and Technology | Seattle, Washington, United States of America | **1d** | [Apply](https://lifeattiktok.com/search/7592534982809929989) |
@@ -328,7 +333,6 @@ and autonomy set.
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Trust and Safety | Seattle, WA / Seattle, Washington, United States of America | 82d | [Apply](https://lifeattiktok.com/search/7665994926854555909) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Scientist New Grad - Trust and Safety | San Jose, CA | 82d | [Apply](https://lifeattiktok.com/search/7665989163791403269) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Infrastructure Engineer New Grad - Ads Infra | San Jose, CA +2 | 82d | [Apply](https://lifeattiktok.com/search/7668693662561634613) |
-| **Amazon** | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | 82d | [Apply](https://account.amazon.jobs/jobs/10490741/apply) |
 | **TikTok** | Data Scientist - Multiple Positions | Seattle, WA / San Jose, CA | 85d | [Apply](https://lifeattiktok.com/search/7660238838679832837) |
 <!-- TABLE_BIGTECH_END -->
 

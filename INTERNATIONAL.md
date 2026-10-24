@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**317** open roles
+**318** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-24 16:43 UTC_
+_Last refreshed: 2026-10-24 19:35 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -32,7 +32,6 @@ cliff after the first few days of a posting being live.
 | **Regeneron** | Process Data Scientist | RENSS - TECH VALLEY | **1d** | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---TECH-VALLEY/Process-Data-Scientist_R51674) |
 | **[GSK](https://simplify.jobs/c/GSK)** | Analyst AI ML and Cloud Security | London, UK | **1d** | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1) |
 | **ByteDance** | Research Scientist" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD) | San Jose, California | **1d** | [Apply](https://joinbytedance.com/search/7670374385110599989) |
-| **Apple** | AIML - Machine Learning Researcher, MLR | Cambridge | **1d** | [Apply](https://jobs.apple.com/en-us/details/200691018) |
 | **[Applied Underwriters](https://simplify.jobs/c/Applied-Underwriters)** | AI Engineer - Data Science | NYC | **1d** | [Apply](https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5/apply) |
 | **[State Employees' Credit Union](https://simplify.jobs/c/SECU)** | Associate Credit Review Data Scientist | North Carolina | **1d** | [Apply](https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16696) |
 | **Jerry.ai** | Associate Data Scientist | New York, New York | **1d** | [Apply](https://jobs.ashbyhq.com/jerry.ai/705c618f-72b7-455e-a88b-2da217141de8) |
@@ -42,6 +41,7 @@ cliff after the first few days of a posting being live.
 | **RSMCareers** | AI Machine Learning Engineer | Chicago | **1d** | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103) |
 | **Magna** | Junior AI Engineer | Troy, Michigan, US | **1d** | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1) |
 | **GSKCareers** | Analyst, AI ML and Cloud Security | UK – London – New Oxford Street | **1d** | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1) |
+| **Apple** | AIML - Machine Learning Researcher, MLR | Cambridge | **2d** | [Apply](https://jobs.apple.com/en-us/details/200691018) |
 | **[Bosch](https://www.bosch.com/)** | Promotion - Foundation Models und Agentic AI für die industrielle Automatisierung | Botswana | **2d** | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000157051179-promotion-foundation-models-und-agentic-ai-fur-die-industrielle-automatisierung?oga=true) |
 | **[Citech](https://citech.fr)** | Ingénieur Vision Industrielle & IA - C# / Computer Vision - H/F | Fos-sur-Mer, France | **2d** | [Apply](https://jobs.smartrecruiters.com/CITECH/744000157081691-ingenieur-vision-industrielle-ia-c-computer-vision-h-f-?oga=true) |
 | **[Intel](https://www.intel.com)** | AI System Performance Engineer | Bengaluru, India | **2d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/India-Bangalore/AI-System-Performance-Engineer_JR0288211) |
@@ -69,6 +69,7 @@ cliff after the first few days of a posting being live.
 | **Imh** | Artificial Intelligence (AI) & Machine Learning (ML) Engineer | Key Bank Tower | **4d** | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019) |
 | **Gapinc** | Data Scientist, Product to Market (P2M) Optimization | SF - 2 Folsom | **4d** | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Data-Scientist--Product-to-Market--P2M--Optimization_R223710) |
 | **Mercor** | Mercor AI Research Fund Grants: Economics of AI | San Francisco | **4d** | [Apply](https://jobs.ashbyhq.com/mercor/c34c84d9-b7f8-436e-ae8d-a9a9120cecac) |
+| **Amazon** | ML Data Associate, AGIDS-IVA, AGIDS-IVA | Chennai, Tamil Nadu, IND | **4d** | [Apply](https://account.amazon.jobs/jobs/10583661/apply) |
 | **ServiceNow** | Software Engineer - Federal | Santa Clara, CALIFORNIA | **4d** | [Apply](https://jobs.smartrecruiters.com/servicenow/744000156619374) |
 | **ServiceNow** | Machine Learning Engineer | Santa Clara, CALIFORNIA | **4d** | [Apply](https://jobs.smartrecruiters.com/servicenow/744000156637254) |
 | **[Zurich Insurance](https://simplify.jobs/c/Zurich-Insurance)** | Machine Learning Engineer | Toronto, ON, Canada | **4d** | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
@@ -111,13 +112,14 @@ and autonomy set.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **ByteDance** | Research Scientist" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD) | San Jose, California | **1d** | [Apply](https://joinbytedance.com/search/7670374385110599989) |
-| **Apple** | AIML - Machine Learning Researcher, MLR | Cambridge | **1d** | [Apply](https://jobs.apple.com/en-us/details/200691018) |
 | **Amazon** | Data Scientist I, Central Learning Solutions Science | US, WA, Bellevue | **1d** | [Apply](https://www.amazon.jobs/en/jobs/10588066/data-scientist-i-central-learning-solutions-science) |
+| **Apple** | AIML - Machine Learning Researcher, MLR | Cambridge | **2d** | [Apply](https://jobs.apple.com/en-us/details/200691018) |
 | **[Intel](https://www.intel.com)** | AI System Performance Engineer | Bengaluru, India | **2d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/India-Bangalore/AI-System-Performance-Engineer_JR0288211) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start | San Jose, California | **2d** | [Apply](https://joinbytedance.com/search/7698902624003229957) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD) | San Jose, California | **2d** | [Apply](https://joinbytedance.com/search/7698902624389482757) |
 | **Apple** | Software Engineering (AI/ML), Retail and Marcom Engineering | Austin | **2d** | [Apply](https://jobs.apple.com/en-us/details/200690683) |
 | **NVIDIA** | High-Performance LLM Training Engineer - New College Grad 2027 | US, CA, Santa Clara | **3d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) |
+| **Amazon** | ML Data Associate, AGIDS-IVA, AGIDS-IVA | Chennai, Tamil Nadu, IND | **4d** | [Apply](https://account.amazon.jobs/jobs/10583661/apply) |
 | **Salesforce** | Software Engineer (MTS), Frontier Strike (EntSecTech) | Washington - Bellevue | **5d** | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861) |
 | **[Microsoft](https://www.microsoft.com)** | Research Scientist - Economist | Redmond, WA +1 / Washington, DC +1 | **7d** | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557024073) |
 | **Apple** | Platform Engineer, Privacy Preserving ML | Cupertino | 8d | [Apply](https://jobs.apple.com/en-us/details/200658504/platform-engineer-privacy-preserving-ml?team=SFTWR) |
