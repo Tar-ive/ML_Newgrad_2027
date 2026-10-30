@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**278** open roles
+**266** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-10-30 11:38 UTC_
+_Last refreshed: 2026-10-30 16:04 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -27,18 +27,16 @@ cliff after the first few days of a posting being live.
 |---|---|---|---|---|
 | **[NVIDIA](https://www.nvidia.com)** | Compute System Arch Engineer - AI Infra - New College Grad 2027 | Shanghai, China | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) |
 | **Amazon** | ML Data Associate-II, Artificial General Intelligence | Hyderabad, Telangana, IND | **today** | [Apply](https://account.amazon.jobs/jobs/10584405/apply) |
-| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Guidehouse** | Mathematical Biostatistician | MD, Bethesda | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Mathematical-Biostatistician_46061) |
 | **Intel** | Compiler Engineer for AI DSLs | Austin, TX +3 | **1d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433) |
 | **Roche** | Machine Learning Engineer (AI Enablement) | South San Francisco | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer--AI-Enablement-_202610-127752) |
 | **[Encora](https://www.encora.com)** | Junior Applied AI Engineer - LLM Systems | Cali, Colombia +1 | **1d** | [Apply](https://job-boards.greenhouse.io/encora10/jobs/5275331007) |
-| **[MiniMed](http://www.minimed.com/)** | AI/Data Science Eng I - Databricks - SQL - Python | Hyderabad, India +1 | **1d** | [Apply](https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Hyderabad-Telangana-India/AI-Data-Science-Eng-I---Databricks--SQL--Python_R-802018-1) |
 | **[Airbus](https://www.airbus.com)** | STAGE 2027 Machine Learning pour la cybersécurité | Toulouse, France | **1d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Toulouse-Area/STAGE-2027-Machine-Learning-pour-la-cyberscurit_JR10445650) |
-| **Guidehouse** | Junior Data Scientist | US - DC, Washington / DC, Washington | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Junior-Data-Scientist_45736) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Machine Learning Infrastructure Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/6083239DEE/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Research Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/8CDFCF8DEA/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Research Scientist | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/8F52198151/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Machine Learning Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/B4B389F0C9/apply) |
+| **Guidehouse** | Junior Data Scientist | US - DC, Washington / DC, Washington | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Junior-Data-Scientist_45736) |
 | **TD Bank** | Technical Product Owner (Layer 6) - AI & Machine Learning Solutions | New York, New York | **2d** | [Apply](https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Technical-Product-Owner--Layer-6----AI---Machine-Learning-Solutions_R_1517682) |
 | **[Humble Robotics](https://simplify.jobs/c/Humble-Robotics)** | Autonomy Engineer - Data | SF | **2d** | [Apply](https://jobs.lever.co/humble-robotics/93ca2ae3-c549-402f-b6a6-ff0b84f554f9/apply) |
 | **[Jerry](https://www.jerry.ai/)** | Associate Data Scientist | New York City, NY +3 | **2d** | [Apply](https://jobs.ashbyhq.com/jerry.ai/271b73bc-2b1a-4be6-b3dc-d72d806b8e35) |
@@ -49,20 +47,15 @@ cliff after the first few days of a posting being live.
 | **U.S. Census Bureau** | Data Scientist (Recent Graduate) | Suitland, Maryland | **3d** | [Apply](https://usajobs.gov/job/889950600) |
 | **GE Vernova** | GE Vernova AI Engineer | Greenville | **3d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2) |
 | **GE Vernova** | GE Vernova Data Scientist | Greenville | **3d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2) |
-| **[ASML](https://www.asml.com)** | Mathematics Machine Learning Engineer | Veldhoven, The Netherlands | **3d** | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Mathematics-Machine-Learning-Engineer_J-00348388-2) |
 | **Encora** | Junior Applied AI Engineer (LLM Systems) | Latin America | **3d** | [Apply](https://job-boards.greenhouse.io/encora10/jobs/5275331007) |
 | **[Micron Technology](https://www.micron.com/)** | DATA SCIENTIST | Singapore | **3d** | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642) |
 | **[Ohmium](https://ohmium.com)** | Associate - Data Scientist | Bengaluru, India | **3d** | [Apply](https://ohmium.wd12.myworkdayjobs.com/en-US/ohmium_careers/job/Bengaluru-India/Associate--Data-Scientist_R-101125-1) |
 | **[Qode](http://qode.world/)** | Computer Vision Engineer | Hanoi, Vietnam | **3d** | [Apply](https://apply.workable.com/qodeworld/j/C47B3B051E/) |
-| **[Motia](https://simplify.jobs/c/Motia)** | Graduate Data Scientist | Leeds, UK | **4d** | [Apply](https://apply.workable.com/motia/j/137370758D/apply) |
 | **Photoroom** | Product ML Engineer | Paris | **4d** | [Apply](https://jobs.ashbyhq.com/photoroom/41ba8841-a50e-49a2-947a-15dff61bbd55/application) |
-| **Reply** | Edge AI/Computer Vision Engineer | Chicago, IL / Michigan | **4d** | [Apply](https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply) |
-| **[International Flavors & Fragrances](https://simplify.jobs/c/International-Flavors-Fragrances)** | Industrial AI Decision Scientist | Haverhill, UK | **4d** | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Haverhill-United-Kingdom/Industrial-AI-Decision-Scientist_R22895) |
 | **Centerfield** | Data Scientist | Los Angeles, California | **4d** | [Apply](https://jobs.ashbyhq.com/centerfield/600782a4-45ae-424f-ade2-f8217825ae32) |
 | **The Home Depot** | Associate Data Scientist, Merchandise Execution Team (MET) | STORE SUPPORT CENTER, ATLANTA - 9090 | **4d** | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209) |
 | **Jerry.ai** | Associate Data Scientist | New York, New York | **4d** | [Apply](https://jobs.ashbyhq.com/jerry.ai/271b73bc-2b1a-4be6-b3dc-d72d806b8e35) |
 | **Microsoft** | Data Scientist - Product Analytics - XBOX Growth | Redmond, WA +1 | **5d** | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988108) |
-| **RSM** | AI Machine Learning Engineer | Chicago, IL +6 | **5d** | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103) |
 | **[Digitals.ai](http://www.digitals.ai/)** | Generative AI Engineer - Freshers 2026/27 - Computer Science or AI Only | Hyderabad, India | **5d** | [Apply](https://apply.workable.com/digitals/j/0881A18C3A/) |
 <!-- TABLE_NEW_END -->
 
@@ -95,13 +88,13 @@ and autonomy set.
 |---|---|---|---|---|
 | **[NVIDIA](https://www.nvidia.com)** | Compute System Arch Engineer - AI Infra - New College Grad 2027 | Shanghai, China | **today** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) |
 | **Amazon** | ML Data Associate-II, Artificial General Intelligence | Hyderabad, Telangana, IND | **today** | [Apply](https://account.amazon.jobs/jobs/10584405/apply) |
-| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Intel** | Compiler Engineer for AI DSLs | Austin, TX +3 | **1d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433) |
 | **[Microsoft](https://www.microsoft.com)** | Applied Scientist - Agentic AI-PhD Graduate | Australia | **2d** | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557045599) |
 | **[Microsoft](https://www.microsoft.com)** | Applied Scientist - Computer Vision-PhD Graduate | Australia | **2d** | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557045606) |
 | **Microsoft** | Data Scientist - Product Analytics - XBOX Growth | Redmond, WA +1 | **5d** | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556988108) |
 | **Amazon** | Software Development Engineer 1 - AI/ML Network Infrastructure | Cupertino, CA +2 | **7d** | [Apply](https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
 | **ByteDance** | Research Scientist" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD) | San Jose, California | **7d** | [Apply](https://joinbytedance.com/search/7670374385110599989) |
+| **Apple** | AIML - Machine Learning Researcher, MLR | Cambridge | 8d | [Apply](https://jobs.apple.com/en-us/details/200691018) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start | San Jose, California | 8d | [Apply](https://joinbytedance.com/search/7698902624003229957) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD) | San Jose, California | 8d | [Apply](https://joinbytedance.com/search/7698902624389482757) |
 | **Apple** | Software Engineering (AI/ML), Retail and Marcom Engineering | Austin | 8d | [Apply](https://jobs.apple.com/en-us/details/200690683) |
@@ -116,7 +109,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 29d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Decisions - Mapping | Toronto, Canada | 29d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 35d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 36d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 36d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 37d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 44d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
 | **ByteDance** | Research Scientist Graduate (DPU & AI Infra) - 2027 Start (PhD) | Seattle, Washington / San Jose, California | 45d | [Apply](https://joinbytedance.com/search/7673946040656267573) |
@@ -154,14 +147,14 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 52d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 52d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 52d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 65d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 65d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 | **Google** | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Multiple U.S. locations | 67d | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start) |
 | **[NVIDIA](https://www.nvidia.com)** | NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China | Shanghai, China +2 | 69d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
 | **Amazon** | Applied Scientist (2026-27 Campus, International Technology Team), Shanghai | Shanghai, CHN | 73d | [Apply](https://account.amazon.jobs/jobs/10504493/apply) |
 | **Amazon** | Systems Development Engineer, AI/ML Amazon Dedicated Cloud | US, VA, Herndon | 80d | [Apply](https://www.amazon.jobs/en/jobs/10499158/systems-development-engineer-ai-ml-amazon-dedicated-cloud) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 84d | [Apply](https://lifeattiktok.com/search/7670832868019030277) |
-| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Responsibility-Data Science - 2027 Start | Singapore / Singapore, Singapore, Singapore | 84d | [Apply](https://lifeattiktok.com/search/7670831846025136389) |
-| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok BRIC Singapore - 2027 Start | Singapore / Singapore, Singapore, Singapore | 87d | [Apply](https://lifeattiktok.com/search/7669769460664174901) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Safety - 2027 Start - PhD | Singapore | 84d | [Apply](https://lifeattiktok.com/search/7670832868019030277) |
+| **[TikTok](https://www.tiktok.com)** | Data Scientist Graduate - TikTok Platform Responsibility-Data Science - 2027 Start | Singapore | 84d | [Apply](https://lifeattiktok.com/search/7670831846025136389) |
+| **[TikTok](https://www.tiktok.com)** | Machine Learning Engineer Graduate - TikTok BRIC Singapore - 2027 Start | Singapore | 87d | [Apply](https://lifeattiktok.com/search/7669769460664174901) |
 | **Amazon** | Applied Scientist (2026-27 Campus, International Technology Team), Beijing | Beijing, CHN | 88d | [Apply](https://account.amazon.jobs/jobs/10489936/apply) |
 <!-- TABLE_BIGTECH_END -->
 
@@ -196,18 +189,15 @@ new grads.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **Guidehouse** | Mathematical Biostatistician | MD, Bethesda | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Mathematical-Biostatistician_46061) |
-| **ServiceNow** | Machine Learning Engineer | Santa Clara, CALIFORNIA | **1d** | [Apply](https://jobs.smartrecruiters.com/servicenow/744000156637254) |
 | **Roche** | Machine Learning Engineer (AI Enablement) | South San Francisco | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer--AI-Enablement-_202610-127752) |
 | **[Encora](https://www.encora.com)** | Junior Applied AI Engineer - LLM Systems | Cali, Colombia +1 | **1d** | [Apply](https://job-boards.greenhouse.io/encora10/jobs/5275331007) |
-| **[MiniMed](http://www.minimed.com/)** | AI/Data Science Eng I - Databricks - SQL - Python | Hyderabad, India +1 | **1d** | [Apply](https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Hyderabad-Telangana-India/AI-Data-Science-Eng-I---Databricks--SQL--Python_R-802018-1) |
-| **[Gartner](https://gartner.com)** | Associate Data Scientist | Gurugram, India | **1d** | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Associate-Data-Scientist_113044) |
 | **[CNX](http://www.cnx.com)** | Analyst Forecasting/Data Scientist | Gurugram, India | **1d** | [Apply](https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/IND-Gurugram/Analyst-Forecasting-Data-Scientist_R1736443) |
 | **[Airbus](https://www.airbus.com)** | STAGE 2027 Machine Learning pour la cybersécurité | Toulouse, France | **1d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Toulouse-Area/STAGE-2027-Machine-Learning-pour-la-cyberscurit_JR10445650) |
-| **Guidehouse** | Junior Data Scientist | US - DC, Washington / DC, Washington | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Junior-Data-Scientist_45736) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Machine Learning Infrastructure Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/6083239DEE/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Research Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/8CDFCF8DEA/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Research Scientist | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/8F52198151/apply) |
 | **[Raydar](https://simplify.jobs/c/Raydar)** | Machine Learning Engineer | SF | **1d** | [Apply](https://apply.workable.com/raydar/j/B4B389F0C9/apply) |
+| **Guidehouse** | Junior Data Scientist | US - DC, Washington / DC, Washington | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Junior-Data-Scientist_45736) |
 | **TD Bank** | Technical Product Owner (Layer 6) - AI & Machine Learning Solutions | New York, New York | **2d** | [Apply](https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Technical-Product-Owner--Layer-6----AI---Machine-Learning-Solutions_R_1517682) |
 | **[Humble Robotics](https://simplify.jobs/c/Humble-Robotics)** | Autonomy Engineer - Data | SF | **2d** | [Apply](https://jobs.lever.co/humble-robotics/93ca2ae3-c549-402f-b6a6-ff0b84f554f9/apply) |
 | **Guidehouse** | Data Scientist | US - MD, Bethesda / Bethesda, MD +1 | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Data-Scientist_44617) |
@@ -220,21 +210,16 @@ new grads.
 | **U.S. Census Bureau** | Data Scientist (Recent Graduate) | Suitland, Maryland | **3d** | [Apply](https://usajobs.gov/job/889950600) |
 | **GE Vernova** | GE Vernova AI Engineer | Greenville | **3d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2) |
 | **GE Vernova** | GE Vernova Data Scientist | Greenville | **3d** | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2) |
-| **[ASML](https://www.asml.com)** | Mathematics Machine Learning Engineer | Veldhoven, The Netherlands | **3d** | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Mathematics-Machine-Learning-Engineer_J-00348388-2) |
 | **Encora** | Junior Applied AI Engineer (LLM Systems) | Latin America | **3d** | [Apply](https://job-boards.greenhouse.io/encora10/jobs/5275331007) |
 | **[Micron Technology](https://www.micron.com/)** | DATA SCIENTIST | Singapore | **3d** | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642) |
 | **[Ohmium](https://ohmium.com)** | Associate - Data Scientist | Bengaluru, India | **3d** | [Apply](https://ohmium.wd12.myworkdayjobs.com/en-US/ohmium_careers/job/Bengaluru-India/Associate--Data-Scientist_R-101125-1) |
 | **[Qode](http://qode.world/)** | Computer Vision Engineer | Hanoi, Vietnam | **3d** | [Apply](https://apply.workable.com/qodeworld/j/C47B3B051E/) |
-| **[Motia](https://simplify.jobs/c/Motia)** | Graduate Data Scientist | Leeds, UK | **4d** | [Apply](https://apply.workable.com/motia/j/137370758D/apply) |
 | **Photoroom** | Product ML Engineer | Paris | **4d** | [Apply](https://jobs.ashbyhq.com/photoroom/41ba8841-a50e-49a2-947a-15dff61bbd55/application) |
 | **Artellence** | Strong junior Machine learning engineer | Ukraine | **4d** | [Apply](https://djinni.co/jobs/842742-strong-junior-machine-learning-engineer/) |
-| **Reply** | Edge AI/Computer Vision Engineer | Chicago, IL / Michigan | **4d** | [Apply](https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply) |
-| **[International Flavors & Fragrances](https://simplify.jobs/c/International-Flavors-Fragrances)** | Industrial AI Decision Scientist | Haverhill, UK | **4d** | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Haverhill-United-Kingdom/Industrial-AI-Decision-Scientist_R22895) |
 | **Centerfield** | Data Scientist | Los Angeles, California | **4d** | [Apply](https://jobs.ashbyhq.com/centerfield/600782a4-45ae-424f-ade2-f8217825ae32) |
 | **The Home Depot** | Associate Data Scientist - Generative BI | STORE SUPPORT CENTER, ATLANTA - 9090 | **4d** | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Generative-BI_Req192214) |
 | **The Home Depot** | Associate Data Scientist, Merchandise Execution Team (MET) | STORE SUPPORT CENTER, ATLANTA - 9090 | **4d** | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209) |
 | **Jerry.ai** | Associate Data Scientist | New York, New York | **4d** | [Apply](https://jobs.ashbyhq.com/jerry.ai/271b73bc-2b1a-4be6-b3dc-d72d806b8e35) |
-| **RSM** | AI Machine Learning Engineer | Chicago, IL +6 | **5d** | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103) |
 | **[Digitals.ai](http://www.digitals.ai/)** | Generative AI Engineer - Freshers 2026/27 - Computer Science or AI Only | Hyderabad, India | **5d** | [Apply](https://apply.workable.com/digitals/j/0881A18C3A/) |
 | **[Sun Life](https://www.sunlife.com)** | Data Scientist | Toronto, Canada +1 | **6d** | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241) |
 | **[Plaud](http://plaud.ai/)** | Machine Learning Engineer - Speech/Audio - Singapore | Singapore, Singapore | **6d** | [Apply](https://jobs.ashbyhq.com/plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8) |
@@ -244,7 +229,6 @@ new grads.
 | **[Niantic Spatial](https://simplify.jobs/c/Niantic-Spatial)** | AI Engineer - Computer Vision | SF / San Francisco, CA | **7d** | [Apply](https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application?embed=true) |
 | **Regeneron** | Process Data Scientist | RENSS - TECH VALLEY | **7d** | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---TECH-VALLEY/Process-Data-Scientist_R51674) |
 | **[GSK](https://simplify.jobs/c/GSK)** | Analyst AI ML and Cloud Security | London, UK | **7d** | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1) |
-| **[State Employees' Credit Union](https://simplify.jobs/c/SECU)** | Associate Credit Review Data Scientist | North Carolina | **7d** | [Apply](https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16696) |
 | **GSKCareers** | Analyst, AI ML and Cloud Security | UK – London – New Oxford Street | **7d** | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1) |
 | **[Resolv.Global](https://resolv.global)** | Junior AI/ML Engineer | Remote - Oaxaca, Mexico +18 | **7d** | [Apply](https://www.comeet.com/jobs/resolvglobal/BA.006/junior-aiml-engineer/65.471-99.608) |
 | **Makai Labs** | AI Engineer | New York | **7d** | [Apply](https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223) |
@@ -254,19 +238,17 @@ new grads.
 | **[Maersk](https://www.maersk.com/)** | Associate AI/ML Engineer | Chengdu, China | **7d** | [Apply](https://maersk.wd3.myworkdayjobs.com/en-US/maersk_careers/job/China-Sichuan-Chengdu-610041/AI-ML-Engineer-1_R198118) |
 | **[Moomoo](https://www.moomoo.com/)** | 2027 Fresh Grad Hire - Data Scientist | Hong Kong, Hong Kong +1 | **7d** | [Apply](https://apply.workable.com/moomoo/j/8B0263D75A/) |
 | **[TD Bank](https://td.com/)** | Applied Machine Learning Scientist I ATH# 5645 - Tabular Deep Learning Model Validation | Toronto, Canada | **7d** | [Apply](https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I-ATH--5645--Tabular-Deep-Learning-Model-Validation-_R_1514923) |
-| **[Verizon](https://verizon.com/)** | Engr II-Data Science | Chennai, India +1 | **7d** | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Chennai-India/Engr-II-Data-Science_R-1102771) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | 2 Locations | 8d | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560) |
 | **TransUnion** | Data Scientist | Chicago, Illinois | 8d | [Apply](https://transunion.wd5.myworkdayjobs.com/transunion/job/Chicago-Illinois/Data-Scientist_19042997) |
 | **New Relic** | Software Engineer 2 | Barcelona, Spain | 8d | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5458286008) |
 | **[CoStar Group](https://simplify.jobs/c/CoStar)** | AI Engineer 1 | Glasgow, UK | 8d | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191) |
 | **[Tanium](https://www.tanium.com)** | AI Research Scientist | Emeryville, CA +4 | 8d | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8232146) |
 | **[Brain Co.](https://simplify.jobs/c/Brain-Co)** | Machine Learning Engineer New Grad | SF / San Francisco, CA | 9d | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true) |
-| **[TD Bank](https://td.com/)** | Research Machine Learning Scientist II | Toronto, Canada | 9d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Research-Machine-Learning-Scientist-II_R_1516855-1) |
 | **[University Health Network](https://www.uhn.ca/)** | Data Science Analyst - Data Integration | Toronto, Canada | 9d | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000156608069-data-science-analyst-data-integration-?oga=true) |
 | **[Graphcore](https://simplify.jobs/c/Graphcore)** | Graduate Machine Learning Engineer | Bristol, UK / Bristol, United Kingdom | 9d | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894041002) |
 | **[Vanguard](https://www.vanguard.com)** | AI/ML Scientist | Malvern, PA +1 | 9d | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/AI-ML-Scientist_183101) |
 | **[Bertelsmann](https://www.bertelsmann.com)** | Data Scientist - w/m/d - Applied AI | Berlin, Germany | 9d | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000156502834-data-scientist-w-m-d-applied-ai?oga=true) |
-| **[Loblaw Companies](http://loblaw.ca/)** | Data Science Analyst | Brampton, Canada | 9d | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Data-Science-Analyst_R2000720014) |
+| **ServiceNow** | Machine Learning Engineer | Santa Clara, CALIFORNIA | 10d | [Apply](https://jobs.smartrecruiters.com/servicenow/744000156637254) |
 | **[Graphcore](https://www.graphcore.ai/)** | Graduate Machine Learning Engineer 2027 | Bristol, United Kingdom | 10d | [Apply](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002) |
 | **Imh** | Artificial Intelligence (AI) & Machine Learning (ML) Engineer | Key Bank Tower | 10d | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019) |
 | **Northmark** | AI Engineer I | Dallas TX | 10d | [Apply](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/AI-Engineer-I_R13431) |
@@ -274,7 +256,6 @@ new grads.
 | **ServiceNow** | Software Engineer - Federal | Santa Clara, CALIFORNIA | 10d | [Apply](https://jobs.smartrecruiters.com/servicenow/744000156619374) |
 | **Northeastern** | Associate Data Scientist, DIBI | Boston, MA (Main Campus) | 10d | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Data-Scientist--DIBI_R142889) |
 | **[Zurich Insurance](https://simplify.jobs/c/Zurich-Insurance)** | Machine Learning Engineer | Toronto, ON, Canada | 10d | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
-| **[FIS](https://www.fisglobal.com)** | Data Scientist | Milwaukee, WI +1 | 10d | [Apply](https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-GA-ATL-201-STE-900/Data-Scientist_JR0308876-1) |
 | **[Graviton](https://simplify.jobs/c/Graviton)** | Quantitative Researcher | London, UK +4 | 10d | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002) |
 | **[Generac](https://www.generac.com)** | Data Scientist I | Pune, India | 10d | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/externalcareers/job/Pune-India/Data-Scientist-I_JR17579) |
 | **[ICF](https://www.icf.com)** | Associate Data Scientist | Madrid, Spain / London, United Kingdom | 10d | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Madrid-Spain-ES01/Associate-Data-Scientist_R2603575) |
