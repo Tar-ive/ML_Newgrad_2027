@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-12 12:58 UTC_
+_Last refreshed: 2026-11-12 13:59 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -27,6 +27,7 @@ cliff after the first few days of a posting being live.
 |---|---|---|---|---|
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **today** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Amazon** | AI/ML Engineer, AB EU | Munich, Bavaria, DEU | **1d** | [Apply](https://account.amazon.jobs/jobs/10601315/apply) |
 | **[Jerry](https://www.jerry.ai/)** | Associate Data Scientist | New York City, NY +3 / New York, NY | **1d** | [Apply](https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea) |
 | **[The Hartford](https://www.thehartford.com)** | Associate Data Scientist - Personal Lines | Charlotte, NC +3 | **1d** | [Apply](https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) |
@@ -81,6 +82,7 @@ and autonomy set.
 |---|---|---|---|---|
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **today** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Amazon** | AI/ML Engineer, AB EU | Munich, Bavaria, DEU | **1d** | [Apply](https://account.amazon.jobs/jobs/10601315/apply) |
 | **Amazon** | Applied Scientist I, Tablet Product Software | US, WA, Seattle | **2d** | [Apply](https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software) |
 | **Amazon** | Data Scientist I, NEST | US, WA, Bellevue | **3d** | [Apply](https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest) |
@@ -116,7 +118,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 42d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Decisions - Mapping | Toronto, Canada | 42d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 / San Jose | 48d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 49d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 49d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 50d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 50d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 57d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -149,7 +151,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 65d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 65d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 65d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 78d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 78d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 | **[NVIDIA](https://www.nvidia.com)** | NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China | Shanghai, China +2 | 82d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist - 2026-27 Campus - International Technology Team - Shanghai | Shanghai, China | 85d | [Apply](https://www.amazon.jobs/jobs/10504493/apply) |
 <!-- TABLE_BIGTECH_END -->
@@ -196,7 +198,6 @@ new grads.
 | **Pramaana Labs** | Software Engineer, Full-Stack ML Infrastructure | Palo Alto | **2d** | [Apply](https://jobs.ashbyhq.com/pramaana-labs/c27f2903-133c-4f4e-8c44-b302223ff23d) |
 | **Artellence** | Strong junior Machine learning engineer | Ukraine | **3d** | [Apply](https://djinni.co/jobs/842742-strong-junior-machine-learning-engineer/) |
 | **[Tesco](https://simplify.jobs/c/Tesco)** | Data Scientist - Simulation & Digital Twins | United Kingdom | **3d** | [Apply](https://tesco.avature.net/en_GB/careers/JobDetail/210371) |
-| **Cvshealth** | Data Scientist - Pharmacy Benefits | 2 Locations | **3d** | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Scientist---Pharmacy-Benefits_R1069422-1) |
 | **Jerry.ai** | Associate Data Scientist | New York, New York | **3d** | [Apply](https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea) |
 | **ORNL** | Data Systems AI / ML Engineer | Tennessee (TN) | **3d** | [Apply](https://career-hcm20.ns2cloud.com/career?career_ns=job_listing&company=utbattelleP&career_job_req_id=17411) |
 | **HyrEzy Talent Solutions** | AI Engineer - Remote | India | **4d** | [Apply](https://app.pyjamahr.com/careers?company=HyrEzyTalentSolutions&job_id=425936&company_uuid=7B6B24193C) |
