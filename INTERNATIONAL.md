@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**264** open roles
+**270** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-13 13:26 UTC_
+_Last refreshed: 2026-11-13 17:53 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -25,7 +25,13 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
+| **DRW** | Quantitative Researcher | Chicago, New York | **today** | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214) |
+| **Two Sigma** | Quantitative Researcher - Full-Time Campus Hire | New York | **today** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) |
+| **Jane Street** | Quantitative Researcher | New York | **today** | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002) |
+| **Optiver** | Graduate Quantitative Researcher, PhD (2027 Start) | New York | **today** | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) |
+| **Jane Street** | Machine Learning Researcher | New York | **today** | [Apply](https://www.janestreet.com/join-jane-street/position/8384490002) |
+| **Susquehanna International Group** | Machine Learning Discovery Summit (On-site) | New York | **today** | [Apply](https://careers.sig.com/jobs/11692) |
+| **Two Sigma** | Data Scientist - Campus Full-Time | New York | **today** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **Micron** | New College Grad - Software Engineer | Boise, ID - Main Site | **1d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **1d** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
@@ -82,7 +88,6 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **1d** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
 | **Amazon** | AI/ML Engineer, AB EU | Munich, Bavaria, DEU | **2d** | [Apply](https://account.amazon.jobs/jobs/10601315/apply) |
@@ -119,7 +124,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 43d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Decisions - Mapping | Toronto, Canada | 43d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 / San Jose | 49d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 50d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 50d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 51d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 51d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 58d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -152,7 +157,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 66d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 66d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 66d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 79d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 79d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 | **[NVIDIA](https://www.nvidia.com)** | NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China | Shanghai, China +2 | 83d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist - 2026-27 Campus - International Technology Team - Shanghai | Shanghai, China | 86d | [Apply](https://www.amazon.jobs/jobs/10504493/apply) |
 <!-- TABLE_BIGTECH_END -->
@@ -166,11 +171,17 @@ Quant research and ML roles at trading firms. These pay the most and close the f
 <!-- TABLE_QUANT_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **Jane Street** | Machine Learning Engineer | New York / NYC | **today** | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002) |
+| **DRW** | Quantitative Researcher | Chicago, New York | **today** | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214) |
+| **Two Sigma** | Quantitative Researcher - Full-Time Campus Hire | New York | **today** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) |
+| **Jane Street** | Quantitative Researcher | New York | **today** | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002) |
+| **Optiver** | Graduate Quantitative Researcher, PhD (2027 Start) | New York | **today** | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) |
+| **Jane Street** | Machine Learning Researcher | New York | **today** | [Apply](https://www.janestreet.com/join-jane-street/position/8384490002) |
+| **Two Sigma** | Data Scientist - Campus Full-Time | New York | **today** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) |
 | **[Flow Traders](http://www.flowtraders.com)** | PhD Graduate Quantitative Researcher | Amsterdam, The Netherlands +2 | 34d | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8266897) |
 | **DRW** | AI Inference Platform Engineer | Chicago | 45d | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) |
 | **[DV Trading](https://www.dvtrading.co)** | 2027 Quantitative Researcher Graduate - DV QES | Hong Kong | 49d | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005) |
 | **Jane Street** | Machine Learning Research Engineer | NYC | 64d | [Apply](https://www.janestreet.com/join-jane-street/position/6485460002/) |
-| **Jane Street** | Machine Learning Engineer | NYC | 64d | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) |
 | **DRW** | Platform Engineer - AI Engineering | Chicago | 65d | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8186711) |
 | **[Akuna Capital](https://akunacapital.com)** | Junior Quantitative Researcher - Deep Learning - Time Series | Shanghai, China | 69d | [Apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
 | **[Flow Traders](https://simplify.jobs/c/Flow-Traders)** | Quantitative Researcher | NYC / Amsterdam, The Netherlands +3 | 79d | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8156203) |
@@ -186,6 +197,8 @@ new grads.
 <!-- TABLE_OTHER_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **[Marshall Wace](https://simplify.jobs/c/Marshall-Wace)** | Quant Research - Quantitative Associate Programme | London, UK +2 | **today** | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) |
+| **Susquehanna International Group** | Machine Learning Discovery Summit (On-site) | New York | **today** | [Apply](https://careers.sig.com/jobs/11692) |
 | **Micron** | New College Grad - Software Engineer | Boise, ID - Main Site | **1d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
 | **[Genentech](https://simplify.jobs/c/Genentech)** | Machine Learning Scientist - Multiple Teams | South SF | **1d** | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905) |
 | **Guidehouse** | Jr. Data Scientist | US - VA, McLean | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Jr-Data-Scientist_44767) |
@@ -360,7 +373,6 @@ new grads.
 | **[Embedding VC](https://simplify.jobs/c/Embedding-VC)** | AI Engineer - Early Career | SF / San Francisco, CA | 77d | [Apply](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true) |
 | **[Iambic Therapeutics](https://simplify.jobs/c/Iambic-Therapeutics)** | Machine Learning Scientist - Large Multimodal Models - Post-Training | Bristol, UK | 78d | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/1232cf39-832c-494f-99b9-1b4ee7266a42/application?embed=true) |
 | **Glsllc** | Data Scientist - December 2026 - May 2027 Grads | Greenville, South Carolina | 78d | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07) |
-| **[Marshall Wace](https://simplify.jobs/c/Marshall-Wace)** | Quant Research - Quantitative Associate Programme | London, UK / NYC | 79d | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) |
 | **Embedding Vc** | AI Engineer (Early Career) | San Francisco Bay Area | 79d | [Apply](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1) |
 | **Cummins** | Data Scientist AU24 | India | 81d | [Apply](https://fa-espx-test-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2427186) |
 | **Pangramlabs** | Machine Learning Engineer (Junior) | Brooklyn | 88d | [Apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
