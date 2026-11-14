@@ -13,12 +13,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**493** open roles
+**502** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-14 14:18 UTC_
+_Last refreshed: 2026-11-14 19:19 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -33,8 +33,9 @@ cliff after the first few days of a posting being live.
 |---|---|---|---|---|
 | **[Ravelin](http://www.ravelin.com/)** | Junior Data Scientist | Remote | **today** | [Apply](https://ravelin.pinpointhq.com/en/postings/f1ee34f5-4260-43c8-b86d-b585a6c9bd9e) |
 | **Google** | Software Engineer, Geo, Computer Vision | Mountain View, CA, USA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) |
+| **[Google](https://www.google.com)** | Research Scientist - AI Safety and Alignment - DeepMind | Seattle, WA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/112836257989436102) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose, California, United States of America / San Jose, California, United States of America / San Jose, CA, United States | **1d** | [Apply](https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist) |
-| **[Senseye](https://simplify.jobs/c/Senseye)** | AI Engineer | Austin, TX | **1d** | [Apply](https://apply.workable.com/senseye/j/56F6BB2046/apply) |
+| **[Senseye](https://simplify.jobs/c/Senseye)** | AI Engineer | Austin, TX / Austin, Texas, United States | **1d** | [Apply](https://apply.workable.com/senseye/j/56F6BB2046/apply) |
 | **[SAIC](https://simplify.jobs/c/SAIC)** | Data Scientist Associate | Upper Marlboro, MD +2 | **1d** | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778) |
 | **Flowcode** | Applied AI Engineer: Product & Experience | New York, NY | **1d** | [Apply](https://boards.greenhouse.io/flowcode/jobs/4753183005) |
 | **Flowcode** | Applied AI Engineer: Solutions & Infrastructure | New York, NY | **1d** | [Apply](https://boards.greenhouse.io/flowcode/jobs/4753182005) |
@@ -48,9 +49,11 @@ cliff after the first few days of a posting being live.
 | **Google** | Associate Data Scientist, Causal Machine Learning, Decision Science Systems, gReach Program (Japanese, English) | — | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462-associate-data-scientist-causal-machine-learning-decision-science-systems-greach-program-japanese-english) |
 | **[LiteLLM](https://www.litellm.ai/)** | ML Engineer | San Francisco, CA | **1d** | [Apply](https://jobs.ashbyhq.com/litellm/ee96c797-fb2b-4f91-9639-6017ae73c34c) |
 | **Bask** | Junior Applied AI Engineer | USA | **1d** | [Apply](https://apply.workable.com/bask-health-1/j/B5B71C8A22) |
-| **[Adobe](https://simplify.jobs/c/Adobe)** | Data Scientist New Grad | San Jose, CA +2 | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **[Capital One](https://www.capitalone.com)** | Associate - Data Scientist - US Card | McLean, VA | **1d** | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1) |
-| **[Guidehouse](https://guidehouse.com)** | Jr. Data Scientist | McLean, VA | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767) |
+| **[Veolia](https://veolia.com/)** | Data Analyst / Data Scientist Junior | — | **1d** | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161468359-data-analyst-data-scientist-junior?oga=true) |
+| **Booz Allen Hamilton** | AI/ML Engineer | USA, VA, McLean (8283 Greensboro Dr Hamilton) - Direct Charge / McLean, VA | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/ai-ml-engineer_r0253445) |
+| **[Adobe](https://simplify.jobs/c/Adobe)** | Data Scientist New Grad | San Jose, CA +2 | **2d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| **[Guidehouse](https://guidehouse.com)** | Jr. Data Scientist | McLean, VA | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767) |
 | **Shield AI** | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Remote (US) / United States | **2d** | [Apply](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af) |
 | **[Amazon](https://www.amazon.com)** | Data Scientist I - NEST | Bellevue, WA / Bellevue, Washington, USA | **2d** | [Apply](https://www.amazon.jobs/jobs/10600616/apply) |
 | **Qualcomm** | AI/ML Software Engineer – Gateway & Edge AI | San Diego, California, United States of America | **2d** | [Apply](https://careers.qualcomm.com/careers/job/446721614073) |
@@ -63,10 +66,10 @@ cliff after the first few days of a posting being live.
 | **Qualcomm** | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 | San Diego, California, United States of America | **2d** | [Apply](https://careers.qualcomm.com/careers/job/446722098332) |
 | **[Pragmatike](https://simplify.jobs/c/Pragmatike)** | Research Engineer - Synthetic Data | SF +3 | **2d** | [Apply](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) |
 | **Military Spouse Corporate Career Network** | Junior Data Scientist - Fairfax VA | Fairfax, Virginia, United States | **2d** | [Apply](https://sjobs.brassring.com/tgnewui/search/home/homewithpreload?partnerid=16030&siteid=6100&pagetype=jobdetails&jobid=3398386) |
-| **Booz Allen Hamilton** | AI/ML Engineer | McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-ML-Engineer_R0253445) |
 | **GRiT Solutions** | Data Engineer - Machine Learning on Azure | — | **2d** | [Apply](https://www.itjobs.pt/oferta/518857/data-engineer-machine-learning-on-azure) |
 | **Shield AI** | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Remote (US) / United States | **2d** | [Apply](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12) |
-| **[Amazon](https://www.amazon.com)** | Applied Scientist I - Tablet Product Software | Seattle, WA | **2d** | [Apply](https://www.amazon.jobs/jobs/10601943/apply) |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | Computational Automation and Data Science Scientist | Livermore, CA | **2d** | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016808996-computational-automation-and-data-science-scientist?oga=true) |
+| **[Amazon](https://www.amazon.com)** | Applied Scientist I - Tablet Product Software | Seattle, WA | **3d** | [Apply](https://www.amazon.jobs/jobs/10601943/apply) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference | Cupertino, CA +2 | **3d** | [Apply](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Engineer 2 New Grad - Software - Perception | United States | **3d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
 | **Amazon** | Applied Scientist II (AMZ1513176) | Seattle, Washington, USA | **3d** | [Apply](https://account.amazon.jobs/jobs/10601059/apply) |
@@ -90,6 +93,8 @@ cliff after the first few days of a posting being live.
 | **SS&C** | Generative AI Developer / Engineer/Analyst | Remote - Karnataka | **3d** | [Apply](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/remote---karnataka/generative-ai-developer---engineer-analyst_r46242) |
 | **[Google](https://www.google.com)** | Research Scientist - Gemini Agent Safety Post Training - DeepMind | Mountain View, CA | **3d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/96566779332960966) |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Science Associate | Des Moines, IA | **3d** | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000160931919) |
+| **[CDPHP](https://simplify.jobs/c/CDPHP)** | AI Engineer | Rochester, NY +5 | **3d** | [Apply](https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556) |
+| **[Systems Planning and Analysis](https://spa.com)** | Jr. Data Scientist | Alexandria, VA | **3d** | [Apply](https://careers-spa.icims.com/jobs/23821/job) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer I, Inference models optimization, AWS Neuron Inference | Cupertino, CA | **4d** | [Apply](https://go.vansh.nyc/1v5) |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Perception | Washington, DC | **4d** | [Apply](https://go.vansh.nyc/1p5) |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Autonomy Capabilities | Remote | **4d** | [Apply](https://go.vansh.nyc/1p7) |
@@ -98,17 +103,17 @@ cliff after the first few days of a posting being live.
 | **SambaNova** | New Grad: ML Infrastructure Engineer | Austin, TX +2 | **4d** | [Apply](https://go.vansh.nyc/1qn) |
 | **Wellmark** | Data Science Associate - FEP | Des Moines, IA | **4d** | [Apply](https://go.vansh.nyc/1rG) |
 | **Wise** | New Grad 2027: Data Scientist | Austin, TX | **4d** | [Apply](https://go.vansh.nyc/1su) |
-| **Selffinancial** | Data Scientist | Austin, TX | **4d** | [Apply](https://boards.greenhouse.io/selffinancial/jobs/6252143004) |
+| **Selffinancial** | Data Scientist | Austin, TX | **4d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
 | **STR** | Applied AI Engineer | Woburn, MA | **4d** | [Apply](https://boards.greenhouse.io/systemstechnologyresearch/jobs/4728298006) |
 | **Amazon** | Data Scientist I, NEST | Bellevue, Washington, USA | **4d** | [Apply](https://amazon.jobs/jobs/10600616) |
-| **[Self Financial](https://self.inc)** | Data Scientist | Austin, TX | **4d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
-| **[Google](https://www.google.com)** | Research Scientist - Neutral Atoms - Quantum AI | Boulder, CO | **4d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) |
+| **Thehartford** | Associate Data Scientist, Personal Lines | Charlotte, NC | **4d** | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) |
+| **[Self Financial](https://self.inc)** | Data Scientist | Austin, TX | **5d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
+| **[Google](https://www.google.com)** | Research Scientist - Neutral Atoms - Quantum AI | Boulder, CO | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States | **5d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Engineer 1 New Grad - Software - Perception | Washington, DC / Washington, DC / Washington, D.C. | **5d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) |
 | **Morgan Stanley** | Associate, Software Engineer | Alpharetta, Georgia, United States of America | **5d** | [Apply](https://morganstanley.eightfold.ai/careers/job/549800008226) |
 | **System Technology Research** | Applied AI Engineer | Woburn, MA | **5d** | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4728298006) |
-| **Shield AI** | New Grad 2027: Engineer I, Software - Autonomy Capabilities | Remote | **6d** | [Apply](https://go.vansh.nyc/1nj) |
-| **[Amazon](https://www.amazon.com)** | Software Development Engineer I - Inference models optimization - AWS Neuron Inference | Cupertino, CA | 13d | [Apply](https://www.amazon.jobs/jobs/10598223/apply) |
+| **[Amazon](https://www.amazon.com)** | Software Development Engineer I - Inference models optimization - AWS Neuron Inference | Cupertino, CA | 14d | [Apply](https://www.amazon.jobs/jobs/10598223/apply) |
 <!-- TABLE_NEW_END -->
 
 ---
@@ -127,7 +132,7 @@ and autonomy set.
 | **[Normal Computing](https://simplify.jobs/c/NormalComputing)** | AI Research Resident | Palo Alto, CA +3 | 22d | [Apply](https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad | San Francisco, CA | 52d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Scale AI** | Software Engineer - New Grad | San Francisco, CA | 71d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
-| **[Applied Intuition](https://appliedintuition.com)** | Research Scientist - Humanoid Robotics | Sunnyvale, CA | 83d | [Apply](https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1) |
+| **[Applied Intuition](https://appliedintuition.com)** | Research Scientist - Humanoid Robotics | Sunnyvale, CA | 84d | [Apply](https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1) |
 <!-- TABLE_AI_LAB_END -->
 
 ---
@@ -138,7 +143,8 @@ and autonomy set.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **Google** | Software Engineer, Geo, Computer Vision | Mountain View, CA, USA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) |
-| **Google** | Software Engineer, Generative Media AI, Apparel ML | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) |
+| **Google** | Software Engineer, Generative Media AI, Apparel ML | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) |
+| **[Google](https://www.google.com)** | Research Scientist - AI Safety and Alignment - DeepMind | Seattle, WA | **today** | [Apply](https://www.google.com/about/careers/applications/jobs/results/112836257989436102) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose, California, United States of America / San Jose, California, United States of America / San Jose, CA, United States | **1d** | [Apply](https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Data Search Visual Search | San Jose, CA / San Jose, California, United States of America | **1d** | [Apply](https://lifeattiktok.com/search/7667349591747758341) |
 | **TikTok** | Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start | Seattle, Washington, United States of America / Seattle, WA | **1d** | [Apply](https://lifeattiktok.com/search/7668390999147776309) |
@@ -146,13 +152,13 @@ and autonomy set.
 | **TikTok** | Machine Learning Engineer Graduate - Data-Global E-Commerce-Search - 2027 Start - PhD | Seattle, WA | **1d** | [Apply](https://lifeattiktok.com/search/7668389759463393589) |
 | **Google** | Associate Data Scientist, Causal Machine Learning, Decision Science Systems, gReach Program (Japanese, English) | — | **1d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462-associate-data-scientist-causal-machine-learning-decision-science-systems-greach-program-japanese-english) |
 | **TikTok** | New Grad 2027: Machine Learning MLOps Engineer | San Jose, CA | **1d** | [Apply](https://go.vansh.nyc/16J) |
-| **[Adobe](https://simplify.jobs/c/Adobe)** | Data Scientist New Grad | San Jose, CA +2 | **1d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **Qualcomm** | CPU Performance Research Engineer | Santa Clara, California, United States of America | **1d** | [Apply](https://careers.qualcomm.com/careers/job/446718593091) |
+| **[Adobe](https://simplify.jobs/c/Adobe)** | Data Scientist New Grad | San Jose, CA +2 | **2d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **[Amazon](https://www.amazon.com)** | Data Scientist I - NEST | Bellevue, WA / Bellevue, Washington, USA | **2d** | [Apply](https://www.amazon.jobs/jobs/10600616/apply) |
 | **Qualcomm** | AI/ML Software Engineer – Gateway & Edge AI | San Diego, California, United States of America | **2d** | [Apply](https://careers.qualcomm.com/careers/job/446721614073) |
 | **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +7 | **2d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
 | **Qualcomm** | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 | San Diego, California, United States of America | **2d** | [Apply](https://careers.qualcomm.com/careers/job/446722098332) |
-| **[Amazon](https://www.amazon.com)** | Applied Scientist I - Tablet Product Software | Seattle, WA | **2d** | [Apply](https://www.amazon.jobs/jobs/10601943/apply) |
+| **[Amazon](https://www.amazon.com)** | Applied Scientist I - Tablet Product Software | Seattle, WA | **3d** | [Apply](https://www.amazon.jobs/jobs/10601943/apply) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference | Cupertino, CA +2 | **3d** | [Apply](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference) |
 | **Amazon** | Applied Scientist II (AMZ1513176) | Seattle, Washington, USA | **3d** | [Apply](https://account.amazon.jobs/jobs/10601059/apply) |
 | **Pinterest** | New Grad 2027: Machine Learning Engineer (Master's) | San Francisco, CA +4 | **3d** | [Apply](https://go.vansh.nyc/1uk) |
@@ -167,9 +173,9 @@ and autonomy set.
 | **[Google](https://simplify.jobs/c/Google)** | Software Engineer - AI/Machine Learning - PhD | Madison, WI +11 | **3d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) |
 | **Adobe** | Data Science Engineer New Grad | San Jose, CA | **4d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) |
 | **Amazon** | Data Scientist I, NEST | Bellevue, Washington, USA | **4d** | [Apply](https://amazon.jobs/jobs/10600616) |
-| **[Google](https://www.google.com)** | Research Scientist - Neutral Atoms - Quantum AI | Boulder, CO | **4d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) |
+| **[Google](https://www.google.com)** | Research Scientist - Neutral Atoms - Quantum AI | Boulder, CO | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model - Vision | San Jose, CA | **6d** | [Apply](https://go.vansh.nyc/14S) |
-| **[NVIDIA](https://www.nvidia.com)** | PhD Research Scientist - Fundamental Generative AI - New College Grad 2026 | Santa Clara, CA | **7d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) |
+| **[NVIDIA](https://www.nvidia.com)** | PhD Research Scientist - Fundamental Generative AI - New College Grad 2026 | Santa Clara, CA | 8d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist - Fundamental Generative AI | Santa Clara, CA +2 | 8d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer - Agentic Video Editing | San Jose, CA | 8d | [Apply](https://lifeattiktok.com/search/7704036750285867269) |
 | **Google** | Software Engineer, AI/ML, Technical Delivery, Google Public Sector | Reston, VA, USA, Washington D.C., DC, USA | 8d | [Apply](https://www.google.com/about/careers/applications/jobs/results/116649057224401606) |
@@ -177,9 +183,9 @@ and autonomy set.
 | **Google** | Post-Doctoral Researcher, PhD, DeepMind, 2026 Start (Fixed-Term Contract) | — | 10d | [Apply](https://www.google.com/about/careers/applications/jobs/results/129129141264884422-postdoctoral-researcher-phd-deepmind-2026-start-fixedterm-contract) |
 | **Amazon** | UX Researcher II - AMZ27151.2 | Sunnyvale, California, USA | 10d | [Apply](https://account.amazon.jobs/jobs/10592726/apply) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab | San Jose, CA | 10d | [Apply](https://jobs.bytedance.com/en/position/7704089625815468293/detail) |
+| **[Meta](https://about.meta.com)** | Research Scientist - Central Applied Science | Menlo Park, CA | 10d | [Apply](https://www.metacareers.com/jobs/1768080781159715) |
 | **TikTok** | Machine Learning Engineer, E-commerce Feed Recommendation | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | 11d | [Apply](https://lifeattiktok.com/search/7276262058998368572) |
 | **Google** | Software Engineer, AI/ML, Ads Quality | New York, NY, USA | 12d | [Apply](https://www.google.com/about/careers/applications/jobs/results/125520823275397830) |
-| **[Amazon](https://www.amazon.com)** | Software Development Engineer I - Inference models optimization - AWS Neuron Inference | Cupertino, CA | 13d | [Apply](https://www.amazon.jobs/jobs/10598223/apply) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Large Language Model Inference System Engineer New Grad - Applied Machine Learning | San Jose, CA | 13d | [Apply](https://jobs.bytedance.com/en/position/7667726338627356933/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Backend Inference Runtime Engineer New Grad - AML Inference | San Jose, CA | 13d | [Apply](https://jobs.bytedance.com/en/position/7669789046777940229/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Backend Inference Framework Engineer - AML Inference | San Jose, CA | 13d | [Apply](https://jobs.bytedance.com/en/position/7669670735275526453/detail) |
@@ -236,6 +242,7 @@ and autonomy set.
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Visual Search | San Jose, CA | 13d | [Apply](https://go.vansh.nyc/17j) |
 | **TikTok** | New Grad 2027: Software Engineer, Recommendation Infrastructure | San Jose, CA | 13d | [Apply](https://go.vansh.nyc/17l) |
 | **TikTok** | New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture | San Jose, CA | 13d | [Apply](https://go.vansh.nyc/17m) |
+| **[Amazon](https://www.amazon.com)** | Software Development Engineer I - Inference models optimization - AWS Neuron Inference | Cupertino, CA | 14d | [Apply](https://www.amazon.jobs/jobs/10598223/apply) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist New Grad - ML Systems | Seattle, WA +4 | 14d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Research Scientist New Grad - Robotics Research | Seattle, WA +2 | 14d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Robotics Research - PhD New College Grad 2026 | Seattle, WA | 14d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
@@ -245,7 +252,7 @@ and autonomy set.
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Fundamental Generative AI - New College Grad 2026 | Santa Clara, CA / US, CA, Santa Clara | 15d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | **[Intel](https://simplify.jobs/c/Intel)** | Compiler Engineer for AI DSLs | Austin, TX +4 | 16d | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433) |
 | **Oracle** | [Remote] Machine Learning Engineer | United States | 16d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334693) |
-| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Electronic Design Automation - New College Grad 2026 | Santa Clara, CA | 17d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
+| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Electronic Design Automation - New College Grad 2026 | Santa Clara, CA | 18d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 | **Qualcomm** | #Software Engineer | San Diego, California, United States of America | 18d | [Apply](https://careers.qualcomm.com/careers/job/446721756080) |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Conversational AI | Seattle, WA +2 | 19d | [Apply](https://go.vansh.nyc/HY) |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph | Seattle, WA | 19d | [Apply](https://go.vansh.nyc/HR) |
@@ -272,8 +279,8 @@ and autonomy set.
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer - Machine Learning Engineering | San Diego, CA | 22d | [Apply](https://qualcomm.eightfold.ai/careers/job/446717859953) |
 | **AMD** | Field Applications Engineer, AI Infrastructure | Austin, Texas, United States | 22d | [Apply](https://careers.amd.com/jobs/91746?lang=en-us) |
 | **Google** | Data Scientist | New York, NY, USA | 22d | [Apply](https://www.google.com/about/careers/applications/jobs/results/93873755381473990) |
-| **TikTok** | (General Hire) Research Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States | 22d | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
-| **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States | 22d | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
+| **TikTok** | (General Hire) Research Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States / San Jose, CA, United States | 22d | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
+| **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States / San Jose, CA, United States | 22d | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Applied Scientist - Amazon Cryptographic Libraries | Seattle, WA | 22d | [Apply](https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries) |
 | **TikTok** | UX Researcher - Global E-Commerce (US) | Seattle, Washington, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7631119520405309701) |
 | **TikTok** | Data Scientist - TikTok LIVE | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7389873473475479817) |
@@ -282,12 +289,13 @@ and autonomy set.
 | **TikTok** | UX Researcher - Global Monetization Product and Technology | Seattle, Washington, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7592534982809929989) |
 | **TikTok** | Machine Learning Engineer, Multimodal - Intelligent Integrity | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7603315698139744517) |
 | **TikTok** | Data Scientist, Post Purchase Experience - TikTok Shop | Seattle, Washington, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7680411766715959605) |
+| **TikTok** | Data Scientist - TikTok Integrity and Safety (San Jose) | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7551286590381263111) |
 | **TikTok** | (General Hire) Multi-modal Machine Learning Engineer - Trust and Safety | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7615352357392697653) |
 | **TikTok** | Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7509598272319719687) |
 | **TikTok** | Machine Learning Engineer (LLM)- E-commerce Risk Control | Seattle, Washington, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7538573630772726034) |
 | **TikTok** | Software Engineer - Recommendation Infrastructure, TikTok Video Social | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7600582133919189253) |
 | **TikTok** | (General Hire) Machine Learning Engineer, TikTok Recommendation | San Jose, California, United States of America | 22d | [Apply](https://lifeattiktok.com/search/7359084648250493210) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA / San Diego, CA +2 | 22d | [Apply](https://lifeattiktok.com/search/7670335888371927349) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA / San Diego, CA / San Diego, CA +2 | 22d | [Apply](https://lifeattiktok.com/search/7670335888371927349) |
 | **ByteDance** | Research Engineer Graduate (AI Infra ... | San Jose, CA +4 | 22d | [Apply](https://joinbytedance.com/search/7667334521286035765) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | 22d | [Apply](https://jobs.bytedance.com/en/position/7675473897004861749/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Quantum Chemistry and Machine Learning | San Jose, CA | 22d | [Apply](https://jobs.bytedance.com/en/position/7668595575944186117/detail) |
@@ -297,24 +305,24 @@ and autonomy set.
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | 22d | [Apply](https://jobs.bytedance.com/en/position/7673941558289205509/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist | San Jose, CA | 23d | [Apply](https://jobs.bytedance.com/en/position/7667645514462480645/detail) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA +2 | 25d | [Apply](https://lifeattiktok.com/search/7668592348941273349) |
-| **[Amazon](https://www.amazon.com)** | Data Scientist I - PXT Central Science | Arlington, VA | 30d | [Apply](https://www.amazon.jobs/jobs/10579474/apply) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate | Seattle, WA | 31d | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad | Seattle, WA | 31d | [Apply](https://lifeattiktok.com/search/7695927144126253317) |
+| **[Amazon](https://www.amazon.com)** | Data Scientist I - PXT Central Science | Arlington, VA | 31d | [Apply](https://www.amazon.jobs/jobs/10579474/apply) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate | Seattle, WA | 32d | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad | Seattle, WA | 32d | [Apply](https://lifeattiktok.com/search/7695927144126253317) |
 | **[Duolingo](https://simplify.jobs/c/Duolingo)** | AI Research Engineer New Grad | Pittsburgh, PA +3 | 32d | [Apply](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Conversational AI | San Jose, CA +4 | 35d | [Apply](https://lifeattiktok.com/search/7670686314588801333) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Conversational AI | San Jose, CA | 35d | [Apply](https://lifeattiktok.com/search/7670685496821713205) |
-| **[Amazon](https://www.amazon.com)** | Data Scientist II - AMZ10564056 | Culver City, CA | 35d | [Apply](https://www.amazon.jobs/jobs/10574837/apply) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce User Growth | Seattle, WA +2 | 36d | [Apply](https://lifeattiktok.com/search/7694346612567214389) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - E-Commerce User Growth | San Jose, CA +3 | 36d | [Apply](https://lifeattiktok.com/search/7694352871949682997) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | Seattle, WA +5 | 36d | [Apply](https://lifeattiktok.com/search/7694054165508557109) |
-| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Autonomous Systems and Physical AI Research - PhD New College Grad 2026 | Santa Clara, CA | 37d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) |
+| **[Amazon](https://www.amazon.com)** | Data Scientist II - AMZ10564056 | Culver City, CA | 36d | [Apply](https://www.amazon.jobs/jobs/10574837/apply) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce User Growth | Seattle, WA +2 | 37d | [Apply](https://lifeattiktok.com/search/7694346612567214389) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - E-Commerce User Growth | San Jose, CA +3 | 37d | [Apply](https://lifeattiktok.com/search/7694352871949682997) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | Seattle, WA +5 | 37d | [Apply](https://lifeattiktok.com/search/7694054165508557109) |
+| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Autonomous Systems and Physical AI Research - PhD New College Grad 2026 | Santa Clara, CA | 38d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Algorithms - Dynamic Pricing | San Francisco, CA | 43d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002) |
 | **[Pinterest](https://simplify.jobs/c/Pinterest)** | Master's University Graduate Data Scientist | Palo Alto, CA +12 | 43d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Qualcomm** | Modem Software Engineer | San Diego, California, United States of America | 43d | [Apply](https://careers.qualcomm.com/careers/job/446721373024) |
-| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Physical AI - Foundation Models - PhD New College Grad 2026 | Santa Clara, CA | 51d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
+| **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Physical AI - Foundation Models - PhD New College Grad 2026 | Santa Clara, CA | 52d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
 | **Qualcomm** | DSP Applications Software Engineer | Austin, Texas, United States of America | 52d | [Apply](https://careers.qualcomm.com/careers/job/446718053556) |
-| **[TikTok](https://www.tiktok.com)** | US Ecosystem Analyst Graduate - LLM/Enforcement - TikTok LIVE - 2026 Start | Los Angeles, CA | 53d | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | San Jose, CA +4 | 55d | [Apply](https://lifeattiktok.com/search/7686999927260105013) |
+| **[TikTok](https://www.tiktok.com)** | US Ecosystem Analyst Graduate - LLM/Enforcement - TikTok LIVE - 2026 Start | Los Angeles, CA | 54d | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | San Jose, CA +4 | 56d | [Apply](https://lifeattiktok.com/search/7686999927260105013) |
 | **Qualcomm** | Software Engineer, Robotics Simulation & AI Infrastructure | San Diego, California, United States of America | 58d | [Apply](https://careers.qualcomm.com/careers/job/446720880729) |
 | **Qualcomm** | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | 58d | [Apply](https://careers.qualcomm.com/careers/job/446717859953) |
 | **ByteDance** | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA +2 | 64d | [Apply](https://joinbytedance.com/search/7667726338627356933) |
@@ -324,7 +332,7 @@ and autonomy set.
 | **TikTok** | Machine Learning Engineer - E-commerce Risk Control | Seattle, Washington, United States of America | 67d | [Apply](https://lifeattiktok.com/search/7356377079648487731) |
 | **TikTok** | Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (PhD) | San Jose, California, United States of America | 67d | [Apply](https://lifeattiktok.com/search/7514842976109365512) |
 | **TikTok** | Machine Learning Engineer, Recommendation, E-Commerce Alliance | San Jose, California, United States of America | 67d | [Apply](https://lifeattiktok.com/search/7153294049829849351) |
-| **[Snowflake](https://simplify.jobs/c/Snowflake)** | AI Research Scientist New Grad - Agents & Reinforcement Learning | Bellevue, WA | 70d | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application) |
+| **[Snowflake](https://simplify.jobs/c/Snowflake)** | AI Research Scientist New Grad - Agents & Reinforcement Learning | Bellevue, WA | 71d | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Performance Monetization | San Jose, CA / San Jose, California, United States of America | 74d | [Apply](https://lifeattiktok.com/search/7669691374918011141) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad | Seattle, WA / Seattle, Washington, United States of America | 74d | [Apply](https://lifeattiktok.com/search/7668376903708281141) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA / San Jose, California, United States of America | 74d | [Apply](https://lifeattiktok.com/search/7665991852209932597) |
@@ -366,7 +374,7 @@ new grads.
 |---|---|---|---|---|
 | **[Ravelin](http://www.ravelin.com/)** | Junior Data Scientist | Remote | **today** | [Apply](https://ravelin.pinpointhq.com/en/postings/f1ee34f5-4260-43c8-b86d-b585a6c9bd9e) |
 | **Equifax** | Data Scientist - Alternative Finance | USA - Georgia - Alpharetta - 30005 +3 +2 | **today** | [Apply](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Alternative-Finance_J00180061) |
-| **[Senseye](https://simplify.jobs/c/Senseye)** | AI Engineer | Austin, TX | **1d** | [Apply](https://apply.workable.com/senseye/j/56F6BB2046/apply) |
+| **[Senseye](https://simplify.jobs/c/Senseye)** | AI Engineer | Austin, TX / Austin, Texas, United States | **1d** | [Apply](https://apply.workable.com/senseye/j/56F6BB2046/apply) |
 | **[SAIC](https://simplify.jobs/c/SAIC)** | Data Scientist Associate | Upper Marlboro, MD +2 | **1d** | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778) |
 | **Flowcode** | Applied AI Engineer: Product & Experience | New York, NY | **1d** | [Apply](https://boards.greenhouse.io/flowcode/jobs/4753183005) |
 | **Flowcode** | Applied AI Engineer: Solutions & Infrastructure | New York, NY | **1d** | [Apply](https://boards.greenhouse.io/flowcode/jobs/4753182005) |
@@ -377,14 +385,16 @@ new grads.
 | **Experian** | Data Scientist, Fraud Risk Detection | United States, UNITED STATES, United States | **1d** | [Apply](https://jobs.smartrecruiters.com/Experian/744000161186552-data-scientist-fraud-risk-detection?oga=true) |
 | **HPE** | Data Scientist (Houston, Texas) | Houston, Texas, United States of America | **1d** | [Apply](https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Houston-Texas-United-States-of-America/Data-Scientist--Houston--Texas-_1212936-2) |
 | **SSC** | Generative AI Developer / Engineer/Analyst | Remote - Karnataka | **1d** | [Apply](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/remote---karnataka/generative-ai-developer---engineer-analyst_r46242) |
-| **[Shield AI](http://www.shield.ai)** | Engineer I - Software - Perception - New Grad - 6135 | Washington, DC / Washington, D.C. | **1d** | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) |
+| **Shield AI** | Engineer I - Software - Perception - New Grad - 6135 | Washington, DC / Washington, D.C. | **1d** | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) |
 | **[LiteLLM](https://www.litellm.ai/)** | ML Engineer | San Francisco, CA | **1d** | [Apply](https://jobs.ashbyhq.com/litellm/ee96c797-fb2b-4f91-9639-6017ae73c34c) |
 | **Bask** | Junior Applied AI Engineer | USA | **1d** | [Apply](https://apply.workable.com/bask-health-1/j/B5B71C8A22) |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Data Scientist | Honolulu, HI +12 | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282) |
 | **[Capital One](https://www.capitalone.com)** | Associate - Data Scientist - US Card | McLean, VA | **1d** | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1) |
-| **[Upstart](https://simplify.jobs/c/Upstart)** | Applied Scientist | Remote in USA / Remote - USA | **1d** | [Apply](https://careers.upstart.com/jobs?gh_jid=8360595) |
-| **[Grand Casino](https://grandcasinomn.com/)** | ML Players Club Ambassador FT/SW $16 to $24 Bonus $1 -000 | — | **1d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Players-Club-Ambassador-FT-SW--16-to--24-Bonus--1-000_R09443) |
-| **[Guidehouse](https://guidehouse.com)** | Jr. Data Scientist | McLean, VA | **1d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767) |
+| **[Veolia](https://veolia.com/)** | Data Analyst / Data Scientist Junior | — | **1d** | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161468359-data-analyst-data-scientist-junior?oga=true) |
+| **Booz Allen Hamilton** | AI/ML Engineer | USA, VA, McLean (8283 Greensboro Dr Hamilton) - Direct Charge / McLean, VA | **1d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/ai-ml-engineer_r0253445) |
+| **[Upstart](https://simplify.jobs/c/Upstart)** | Applied Scientist | Remote in USA / Remote - USA | **2d** | [Apply](https://careers.upstart.com/jobs?gh_jid=8360595) |
+| **[Grand Casino](https://grandcasinomn.com/)** | ML Players Club Ambassador FT/SW $16 to $24 Bonus $1 -000 | — | **2d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Players-Club-Ambassador-FT-SW--16-to--24-Bonus--1-000_R09443) |
+| **[Guidehouse](https://guidehouse.com)** | Jr. Data Scientist | McLean, VA | **2d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767) |
 | **Shield AI** | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Remote (US) / United States | **2d** | [Apply](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af) |
 | **Cyngn** | Software Engineer, Autonomy - Calibration, Mapping & Localization | Mountain View, CA | **2d** | [Apply](https://ats.rippling.com/cyngn/jobs/97edf572-a9ef-4ea6-a643-ee7b30226b6a) |
 | **Booz Allen Hamilton** | Agentic AI Engineer | USA, VA, Arlington (1550 Crystal Dr Suite 300) non-client / Arlington, VA +2 | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/arlington-va/agentic-ai-engineer_r0253281) |
@@ -395,9 +405,9 @@ new grads.
 | **[Pragmatike](https://simplify.jobs/c/Pragmatike)** | Research Engineer - Synthetic Data | SF +3 | **2d** | [Apply](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) |
 | **Usbank** | Software engineer 1 – AI/ML Engineer (MLOps) | Chicago, IL | **2d** | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055) |
 | **Military Spouse Corporate Career Network** | Junior Data Scientist - Fairfax VA | Fairfax, Virginia, United States | **2d** | [Apply](https://sjobs.brassring.com/tgnewui/search/home/homewithpreload?partnerid=16030&siteid=6100&pagetype=jobdetails&jobid=3398386) |
-| **Booz Allen Hamilton** | AI/ML Engineer | McLean, VA | **2d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-ML-Engineer_R0253445) |
 | **GRiT Solutions** | Data Engineer - Machine Learning on Azure | — | **2d** | [Apply](https://www.itjobs.pt/oferta/518857/data-engineer-machine-learning-on-azure) |
 | **Shield AI** | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Remote (US) / United States | **2d** | [Apply](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12) |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | Computational Automation and Data Science Scientist | Livermore, CA | **2d** | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016808996-computational-automation-and-data-science-scientist?oga=true) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Engineer 2 New Grad - Software - Perception | United States | **3d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
 | **[Techstra Solutions](https://simplify.jobs/c/Techstra-Solutions)** | AI Engineer | Pittsburgh, PA | **3d** | [Apply](https://techstrasolutions.applytojob.com/apply/h0W1v7gpzI/AI-Engineer) |
 | **[Wise](https://simplify.jobs/c/Wise)** | Graduate Data Scientist | Austin, TX / Austin, , United States | **3d** | [Apply](https://jobs.smartrecruiters.com/Wise/744000160933600) |
@@ -410,32 +420,34 @@ new grads.
 | **MITRE** | Associate Data Scientist | Clarksburg, WV / McLean, VA | **3d** | [Apply](https://go.vansh.nyc/1w6) |
 | **Medpace, Inc.** | AI Engineer | Cincinnati, OH | **3d** | [Apply](https://uscareers-medpace.icims.com/jobs/12103/job?in_iframe=1) |
 | **SS&C** | Generative AI Developer / Engineer/Analyst | Remote - Karnataka | **3d** | [Apply](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/remote---karnataka/generative-ai-developer---engineer-analyst_r46242) |
-| **[Grand Casino](https://grandcasinomn.com/)** | ML Players Club Ambassador PT Rotating $16 to $24 | — | **3d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Players-Club-Ambassador-PT-SW--16-to--24_R09565-1) |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Science Associate | Des Moines, IA | **3d** | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000160931919) |
 | **[Micron Technology](https://www.micron.com/)** | New College Grad - Data Scientist - AI for Business Functions | Boise, ID / Boise, ID - Main Site | **3d** | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) |
+| **[CDPHP](https://simplify.jobs/c/CDPHP)** | AI Engineer | Rochester, NY +5 | **3d** | [Apply](https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556) |
+| **[Systems Planning and Analysis](https://spa.com)** | Jr. Data Scientist | Alexandria, VA | **3d** | [Apply](https://careers-spa.icims.com/jobs/23821/job) |
+| **[Grand Casino](https://grandcasinomn.com/)** | ML Players Club Ambassador PT Rotating $16 to $24 | — | **4d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Players-Club-Ambassador-PT-SW--16-to--24_R09565-1) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer I, Inference models optimization, AWS Neuron Inference | Cupertino, CA | **4d** | [Apply](https://go.vansh.nyc/1v5) |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Perception | Washington, DC | **4d** | [Apply](https://go.vansh.nyc/1p5) |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Autonomy Capabilities | Remote | **4d** | [Apply](https://go.vansh.nyc/1p7) |
 | **Wellmark** | Data Science Associate - FEP | Des Moines, IA | **4d** | [Apply](https://go.vansh.nyc/1rG) |
 | **Wise** | New Grad 2027: Data Scientist | Austin, TX | **4d** | [Apply](https://go.vansh.nyc/1su) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Perception Engineer - Multimodal & Embodied AI | San Diego, CA | **4d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true) |
-| **Selffinancial** | Data Scientist | Austin, TX | **4d** | [Apply](https://boards.greenhouse.io/selffinancial/jobs/6252143004) |
+| **Selffinancial** | Data Scientist | Austin, TX | **4d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
 | **STR** | Applied AI Engineer | Woburn, MA | **4d** | [Apply](https://boards.greenhouse.io/systemstechnologyresearch/jobs/4728298006) |
-| **[Vistra](https://vistracorp.com/)** | Data Scientist | Irving, TX | **4d** | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1) |
-| **[Self Financial](https://self.inc)** | Data Scientist | Austin, TX | **4d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
+| **Thehartford** | Associate Data Scientist, Personal Lines | Charlotte, NC | **4d** | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) |
+| **[Vistra](https://vistracorp.com/)** | Data Scientist | Irving, TX | **5d** | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1) |
+| **[Self Financial](https://self.inc)** | Data Scientist | Austin, TX | **5d** | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States | **5d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Engineer 1 New Grad - Software - Perception | Washington, DC / Washington, DC / Washington, D.C. | **5d** | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) |
 | **Morgan Stanley** | Associate, Software Engineer | Alpharetta, Georgia, United States of America | **5d** | [Apply](https://morganstanley.eightfold.ai/careers/job/549800008226) |
 | **System Technology Research** | Applied AI Engineer | Woburn, MA | **5d** | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4728298006) |
 | **[GTS](https://gtsx.com)** | Quantitative Researcher - Algorithmic Trading | New York City, NY | **6d** | [Apply](https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job) |
 | **Fuel Cycle** | Associate AI Engineer - Onsite in Los Angeles | Los Angeles, CA | **6d** | [Apply](https://jobs.ashbyhq.com/Fuel-Cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d) |
-| **Shield AI** | New Grad 2027: Engineer I, Software - Autonomy Capabilities | Remote | **6d** | [Apply](https://go.vansh.nyc/1nj) |
-| **[CubeSmart](https://cubesmart.com)** | Data Scientist | Malvern, PA | **6d** | [Apply](https://corpjobs-cubesmart.icims.com/jobs/27445/job) |
+| **[CubeSmart](https://cubesmart.com)** | Data Scientist | Malvern, PA | **7d** | [Apply](https://corpjobs-cubesmart.icims.com/jobs/27445/job) |
 | **Mount Sinai Health Systems** | Data Scientist I - Windreich Department for AI & Human Health Research | United States | **7d** | [Apply](https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044234) |
 | **Carnegie Mellon University** | Associate Data Scientist | Pittsburgh, PA | **7d** | [Apply](https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/associate-data-scientist_2025156) |
 | **Cleveland Clinic** | Data Scientist I - Center for Diagnostics and Artificial Intelligence | Remote Location / Remote | **7d** | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735) |
 | **[Grand Casino](https://grandcasinomn.com/)** | ML Barista FT/DA $14 to $21 | — | **7d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Barista-FT-DA--14-to--21_R09591-1) |
-| **[Grand Casino](https://grandcasinomn.com/)** | ML Hotel Housekeeping Supervisor FT/DA $20 to $30 | — | **7d** | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Hotel-Housekeeping-Supervisor-FT-DA--20-to--30_R09555) |
+| **[Grand Casino](https://grandcasinomn.com/)** | ML Hotel Housekeeping Supervisor FT/DA $20 to $30 | — | 8d | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Hotel-Housekeeping-Supervisor-FT-DA--20-to--30_R09555) |
 | **[BetterHelp](https://simplify.jobs/c/BetterHelp)** | Data Science Extern | Remote in USA | 8d | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) |
 | **[neurohire.ai](https://simplify.jobs/c/Neurohire-Ai)** | Data Scientist | Remote in USA | 8d | [Apply](https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply) |
 | **WEBXLOO** | AI Engineer | Remote | 8d | [Apply](https://djinni.co/jobs/783546-ai-engineer) |
@@ -446,28 +458,29 @@ new grads.
 | **[Oak View Group](https://simplify.jobs/c/Oak-View-Group)** | Game Night Statistician | Palm Desert, CA | 9d | [Apply](https://careers-ovg.icims.com/jobs/35511/job) |
 | **Booz Allen Hamilton** | Health Data Scientist | Atlanta, GA | 9d | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Health-Data-Scientist_R0252701) |
 | **Gdit** | Healthcare Data Scientist (Medicare/Medicaid) | Any Location / Remote | 9d | [Apply](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Healthcare-Data-Scientist--Medicare-Medicaid-_RQ231484-1) |
-| **[SambaNova Systems](https://simplify.jobs/c/SambaNova-Systems)** | AI Performance Engineer New Grad | Austin, TX +4 | 9d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
+| **[SambaNova Systems](https://simplify.jobs/c/SambaNova-Systems)** | AI Performance Engineer New Grad | Austin, TX +5 | 9d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **[Rockstar](http://www.tryrockstar.com/)** | Backend Software Engineer - ML Infra | San Francisco, CA | 9d | [Apply](https://apply.workable.com/rockstar-3/j/F8E3C78E76/) |
 | **JeffreyM Consulting** | Founding Applied AI Engineer | San Francisco, CA | 9d | [Apply](https://apply.workable.com/jeffreym-consulting/j/3680F24D2F) |
-| **[Grand Casino](https://grandcasinomn.com/)** | ML Hotel Gift Shop Supervisor FT/SW $18 to $27 | — | 9d | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Hotel-Gift-Shop-Supervisor-FT-SW--18-to--27_R09583) |
-| **[Santander](https://www.santanderbank.com)** | ARG JR Data Scientist | — | 9d | [Apply](https://santander.wd3.myworkdayjobs.com/en-US/santandercareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152) |
+| **[Grand Casino](https://grandcasinomn.com/)** | ML Hotel Gift Shop Supervisor FT/SW $18 to $27 | — | 10d | [Apply](https://mlcv.wd1.myworkdayjobs.com/en-US/mlcv_external_careers/job/Grand-Casino-Mille-Lacs/ML-Hotel-Gift-Shop-Supervisor-FT-SW--18-to--27_R09583) |
+| **[Santander](https://www.santanderbank.com)** | ARG JR Data Scientist | — | 10d | [Apply](https://santander.wd3.myworkdayjobs.com/en-US/santandercareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152) |
 | **[ShadowDragon](https://simplify.jobs/c/ShadowDragon)** | Junior AI/Machine Learning Engineer | Remote in USA +2 | 10d | [Apply](https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c) |
 | **Pfizer** | Data Science Associate, CMO | New York, NY | 10d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Data-Science-Associate--CMO_4966542-1) |
 | **PayPal** | Data Scientist | San Jose, California, United States of America +2 +3 | 10d | [Apply](https://paypal.eightfold.ai/careers/job/274922421821) |
 | **[Polished Snow](https://simplify.jobs/c/Polished-Snow)** | Research Engineer - Inference | Palo Alto, CA | 10d | [Apply](https://jobs.ashbyhq.com/plsn/fc551b74-07b0-4dfe-b830-d4c437995100/application?embed=true) |
 | **[Pacific Northwest National Laboratory](https://simplify.jobs/c/Pacific-Northwest-National-Laboratory)** | Post-Masters Research Associate - Large Language Models | United States | 10d | [Apply](https://careers.pnnl.gov/jobs/12956?icims=1) |
+| **Philips** | Associate Data & AI Engineer - Medical Imaging (Bedford, MA) | Bedford, Massachusetts, United States | 10d | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180) |
 | **S&P Global** | Machine Learning Engineer | New York City, NY / New York, NY / New York City, NY | 10d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/New-York-NY/Machine-Learning-Engineer_330796-2) |
 | **Home Depot** | MACHINE LEARNING ENGIENEER II - REMOTE | Remote - Georgia, USA | 10d | [Apply](https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/MACHINE-LEARNING-ENGIENEER-II--REMOTE-_Req196650-1) |
-| **[SpaceX](https://www.spacex.com)** | Data Scientist - Starlink | Redmond, WA | 10d | [Apply](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002) |
+| **[SpaceX](https://www.spacex.com)** | Data Scientist - Starlink | Redmond, WA | 11d | [Apply](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002) |
 | **Integer Consulting** | Data Engineer (Machine Learning) | — | 11d | [Apply](https://www.itjobs.pt/oferta/518766/data-engineer-machine-learning) |
 | **SpaceX** | Software Engineer, Full Stack (Data & Video Analysis) | Hawthorne, CA | 11d | [Apply](https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002) |
 | **[Morning Consult](https://simplify.jobs/c/MorningConsult)** | Research Associate | Washington, DC +2 | 11d | [Apply](https://jobs.ashbyhq.com/morningconsult/ef45d90e-877e-4bfb-9635-29de8881aa89/application?embed=true) |
 | **[Shield AI](https://simplify.jobs/c/Shield-AI)** | Autonomous Software Engineer New Grad | San Diego, CA | 11d | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) |
-| **[NASCAR](https://careers.nascar.com/)** | Junior Data Scientist | Daytona Beach, FL | 11d | [Apply](https://nascar.wd1.myworkdayjobs.com/en-US/nascar/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445) |
+| **[NASCAR](https://careers.nascar.com/)** | Junior Data Scientist | Daytona Beach, FL | 12d | [Apply](https://nascar.wd1.myworkdayjobs.com/en-US/nascar/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445) |
 | **Gdit** | Data Scientist | USA FL Hurlburt Field - 229 Cody Ave (FLC017) / USA +2 | 12d | [Apply](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Data-Scientist_RQ230485-1) |
 | **SAIC** | AI/ML Developer | Chantilly, VA +2 | 12d | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618534) |
 | **[Integration Innovation (i3)](https://simplify.jobs/c/I3)** | Junior Machine Learning Engineer | Arlington County, Arlington, VA | 12d | [Apply](https://i3-corps.jibeapply.com/jobs/5417?icims=1) |
-| **[Steampunk](https://simplify.jobs/c/Steampunk)** | Associate Data Scientist | McLean, VA | 12d | [Apply](https://careers-steampunk.icims.com/jobs/5916/job?mobile=true&needsRedirect=false) |
+| **[Steampunk](https://simplify.jobs/c/Steampunk)** | Associate Data Scientist | McLean, VA | 13d | [Apply](https://careers-steampunk.icims.com/jobs/5916/job?mobile=true&needsRedirect=false) |
 | **Northeastern University** | Associate Data Scientist, DIBI | Boston, MA | 13d | [Apply](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Associate-Data-Scientist--DIBI_R142889) |
 | **Vantor** | Junior Data Scientist | Remote (US) | 13d | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/Junior-Data-Scientist_R24603) |
 | **[Network Bio](https://simplify.jobs/c/Network-Bio)** | AI Scientist | Palo Alto, CA +2 | 14d | [Apply](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) |
@@ -475,12 +488,12 @@ new grads.
 | **Applied Materials** | New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027) | Santa Clara,CA | 15d | [Apply](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376) |
 | **Evowill** | Junior Data Scientist | Remote | 15d | [Apply](https://djinni.co/jobs/855937-junior-data-scientist) |
 | **Neotalent Conclusion** | Data Scientist | — | 15d | [Apply](https://www.itjobs.pt/oferta/517690/data-scientist) |
-| **[Penta Group](https://pentagroup.co/)** | Quantitative Research Associate | Washington, DC | 15d | [Apply](https://jobs.lever.co/pentagrp/32e124e9-1980-452e-9e03-6e98ccf094a9) |
+| **[Penta Group](https://pentagroup.co/)** | Quantitative Research Associate | Washington, DC | 16d | [Apply](https://jobs.lever.co/pentagrp/32e124e9-1980-452e-9e03-6e98ccf094a9) |
 | **[Micron Technology](https://simplify.jobs/c/Micron-Technology)** | Data Scientist - AI for Business Functions | Boise, ID / Boise, ID - Main Site | 16d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) |
 | **[Drug Hunter](https://simplify.jobs/c/Drug-Hunter)** | Research Associate - Data Curation | Remote in USA | 16d | [Apply](https://apply.workable.com/drug-hunter/j/A2FD4EB245/apply) |
 | **Penske** | Data Scientist | Reading, PA, United States | 16d | [Apply](https://fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/2612946) |
-| **[PIMCO](https://simplify.jobs/c/PIMCO)** | Quantitative Research Analyst - Client Solutions & Analytics | Newport Beach, CA | 16d | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106236) |
-| **[Richmond University Medical Center](https://www.rumcsi.org/)** | Data Scientist | Staten Island, NY | 16d | [Apply](https://rumcsi.wd5.myworkdayjobs.com/en-US/rumc/job/Richmond-University-Medical-Center-Staten-Island-NY/Data-Scientist_JR102737) |
+| **[PIMCO](https://simplify.jobs/c/PIMCO)** | Quantitative Research Analyst - Client Solutions & Analytics | Newport Beach, CA | 17d | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106236) |
+| **[Richmond University Medical Center](https://www.rumcsi.org/)** | Data Scientist | Staten Island, NY | 17d | [Apply](https://rumcsi.wd5.myworkdayjobs.com/en-US/rumc/job/Richmond-University-Medical-Center-Staten-Island-NY/Data-Scientist_JR102737) |
 | **[Fanduel](https://www.fanduel.com)** | Data Scientist - Risk | Jersey City, NJ +2 | 17d | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8303304) |
 | **Jobs Onsemi** | AI Engineer | Scottsdale, AZ, United States | 17d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767) |
 | **[Fab2](https://simplify.jobs/c/Fab2)** | Computer Vision Software Engineer | Austin, TX | 17d | [Apply](https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true) |
@@ -495,11 +508,11 @@ new grads.
 | **ID.me** | New Grad 2027: Data Scientist (Master's) | Mountain View, CA | 19d | [Apply](https://go.vansh.nyc/Ky) |
 | **Brain Co.** | New Grad 2027: AI/ML Engineer | San Francisco, CA | 20d | [Apply](https://go.vansh.nyc/As) |
 | **[DraftKings](https://simplify.jobs/c/DraftKings)** | Data Science Engineer | Boston, MA | 21d | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
-| **[DraftKings](https://draftkings.com/)** | Data Science Engineer - December 2026 Grads | Boston, MA | 21d | [Apply](https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
-| **[MBDA](https://www.mbda-systems.com)** | Computer Vision and Artificial Intelligence Engineer - Summer Placement 2027 | — | 21d | [Apply](https://mbda.wd3.myworkdayjobs.com/en-US/virtual-posting/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483-1) |
+| **[DraftKings](https://draftkings.com/)** | Data Science Engineer - December 2026 Grads | Boston, MA | 22d | [Apply](https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
+| **[MBDA](https://www.mbda-systems.com)** | Computer Vision and Artificial Intelligence Engineer - Summer Placement 2027 | — | 22d | [Apply](https://mbda.wd3.myworkdayjobs.com/en-US/virtual-posting/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483-1) |
 | **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | 22d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/R-D-Researcher---AI-and-Machine-Learning_JR-202621474) |
 | **University of Texas at Austin** | Biostatistician I | AUSTIN, TX | 22d | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Biostatistician-I_R_00047316) |
-| **Resolv.Global** | Junior AI/ML Engineer | Remote - Colombia / Remote - Mexico | 22d | [Apply](https://www.comeet.com/jobs/resolvglobal/BA.006/junior-aiml-engineer/65.471-4A.602) |
+| **[Resolv.Global](https://resolv.global)** | Junior AI/ML Engineer | Remote - Colombia / Remote - Mexico | 22d | [Apply](https://www.comeet.com/jobs/resolvglobal/BA.006/junior-aiml-engineer/65.471-4A.602) |
 | **[Quora](https://simplify.jobs/c/Quora)** | Machine Learning Engineer New Grad | Remote in USA +4 | 22d | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | **EXL** | Junior AI Engineer | Remote (US) / Remote (US) / United States | 22d | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550) |
 | **[NewRocket](https://simplify.jobs/c/NewRocket)** | AI Engineer Graduate Level | Remote in USA +3 | 22d | [Apply](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) |
@@ -547,43 +560,44 @@ new grads.
 | **[Draper](https://simplify.jobs/c/Draper)** | Software Machine Learning Engineer - GNSS - Software Defined Radio | Cambridge, MA | 23d | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064) |
 | **NorthMark Strategies** | AI Engineer I | Dallas, TX | 24d | [Apply](https://northmark.wd108.myworkdayjobs.com/en-US/nms/job/Dallas-TX/AI-Engineer-I_R13431) |
 | **[Orbis Operations](https://simplify.jobs/c/Orbis-Operations)** | Research Engineer - AI | Remote in USA | 24d | [Apply](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | Artificial Intelligence - AI & Machine Learning - ML Engineer | — | 24d | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019) |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | Artificial Intelligence - AI & Machine Learning - ML Engineer | — | 25d | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019) |
 | **[Scopely](https://www.scopely.com/)** | Software Engineer - Machine Learning | San Francisco, CA | 25d | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008) |
 | **[ITC Federal](https://simplify.jobs/c/ITC-Federal)** | Data Scientist | Springfield, VA +2 | 25d | [Apply](https://careers-itcfederal.icims.com/jobs/1618/job?mobile=true&needsRedirect=false) |
-| **[Node.Digital](https://simplify.jobs/c/Node-Digital)** | Junior AI/ML Engineer | Herndon, VA | 25d | [Apply](https://apply.workable.com/node/j/2E183FDDB9/apply) |
+| **[Node.Digital](https://simplify.jobs/c/Node-Digital)** | Junior AI/ML Engineer | Herndon, VA | 26d | [Apply](https://apply.workable.com/node/j/2E183FDDB9/apply) |
 | **[Conviva](https://simplify.jobs/c/Conviva)** | AI/ML Engineer | Foster City, CA | 26d | [Apply](https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003) |
 | **Scopely** | Software Engineer, Machine Learning | US - San Francisco, California, United States | 26d | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008) |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Signal Processing/Computer Science/Algorithm Development/AI-ML | Laurel, MD | 26d | [Apply](https://go.vansh.nyc/TN) |
-| **[Aurora Innovation](https://aurora.tech)** | Software Engineer II - Perception | Pittsburgh, PA | 27d | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/70b6130c-1207-47bc-8bba-06ad3a1d4154) |
-| **[Hive](https://hivedata.com)** | Machine Learning Engineer | Seattle, WA / San Francisco, CA | 28d | [Apply](https://jobs.lever.co/hive/8977b31f-787d-4b17-ab00-5825764774fe) |
-| **[Veepee](https://www.veepee.com)** | Stage - Data Scientist - H/F/X - Janvier 2027 | Saint-Denis | 29d | [Apply](https://jobs.lever.co/veepee/8b71e60f-7032-48b1-a325-f3d1c660c0d0) |
+| **[Aurora Innovation](https://aurora.tech)** | Software Engineer II - Perception | Pittsburgh, PA | 28d | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/70b6130c-1207-47bc-8bba-06ad3a1d4154) |
+| **[Hive](https://hivedata.com)** | Machine Learning Engineer | Seattle, WA / San Francisco, CA | 29d | [Apply](https://jobs.lever.co/hive/8977b31f-787d-4b17-ab00-5825764774fe) |
+| **[Veepee](https://www.veepee.com)** | Stage - Data Scientist - H/F/X - Janvier 2027 | Saint-Denis | 30d | [Apply](https://jobs.lever.co/veepee/8b71e60f-7032-48b1-a325-f3d1c660c0d0) |
 | **[Michelin](https://simplify.jobs/c/Michelin)** | Data Scientist | Woodburn, IN | 30d | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/WOODBURN-IN/Data-Scientist_R-2026029871-1) |
 | **Quora** | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations | 30d | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
 | **Booz Allen Hamilton** | Palantir Data Scientist | Springfield, VA | 31d | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0251630) |
 | **Becoming** | Applied AI Engineer | San Francisco, CA | 32d | [Apply](https://apply.workable.com/becoming/j/15A6DEBBF1) |
 | **[Coherent Solutions](https://coherentsolutions.lt)** | ML Engineer | Georgia, USA +1 / Georgia, USA +2 | 32d | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4975295101) |
+| **[ICF International](https://simplify.jobs/c/ICF-International)** | Junior Data Scientist | Remote in USA | 32d | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453) |
 | **Brillio** | AI Engineer | Dallas, Texas, United States / Dallas, TX | 33d | [Apply](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2) |
 | **[Squarepoint Capital](https://www.squarepoint-capital.com)** | Quantitative Researcher - Volatility - Medium-Frequency | New York City, NY / Houston, TX | 35d | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346) |
-| **[Petra Security](https://petrasecurity.com/)** | Quantitative Researcher | San Francisco, CA | 35d | [Apply](https://jobs.ashbyhq.com/petra-security/0cdef9cc-124c-4317-9df3-8423dfe33b30) |
-| **[MBDA](https://www.mbda-systems.com)** | Computer Vision and Artificial Intelligence Engineer - Graduate Programme 2027 | — | 35d | [Apply](https://mbda.wd3.myworkdayjobs.com/en-US/virtual-posting/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479-1) |
-| **[Artera](https://artera.ai)** | Machine Learning Scientist - Computational Pathology | Remote - USA | 36d | [Apply](https://jobs.lever.co/artera/e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1) |
+| **[Petra Security](https://petrasecurity.com/)** | Quantitative Researcher | San Francisco, CA | 36d | [Apply](https://jobs.ashbyhq.com/petra-security/0cdef9cc-124c-4317-9df3-8423dfe33b30) |
+| **[MBDA](https://www.mbda-systems.com)** | Computer Vision and Artificial Intelligence Engineer - Graduate Programme 2027 | — | 36d | [Apply](https://mbda.wd3.myworkdayjobs.com/en-US/virtual-posting/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479-1) |
+| **[Artera](https://artera.ai)** | Machine Learning Scientist - Computational Pathology | Remote - USA | 37d | [Apply](https://jobs.lever.co/artera/e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1) |
 | **Ringcentral** | Pinterest ML Day Conference 2026 | — | 37d | [Apply](https://events.ringcentral.com/events/pinterest-ml-day-conference-2026/registration) |
 | **Innodatainc** | Gen AI Engineer | Remote - Canada | 37d | [Apply](https://job-boards.greenhouse.io/innodatainc/jobs/4438341009) |
-| **[SteerBridge](https://www.steerbridge.com/)** | Junior NLP Data Scientist | Vienna, VA | 38d | [Apply](https://jobs.lever.co/steerbridge/16c834c5-5462-46dd-bd83-da94dc2f0101) |
+| **[SteerBridge](https://www.steerbridge.com/)** | Junior NLP Data Scientist | Vienna, VA | 39d | [Apply](https://jobs.lever.co/steerbridge/16c834c5-5462-46dd-bd83-da94dc2f0101) |
 | **[Teserac](https://simplify.jobs/c/Teserac)** | AI Engineer | Santa Clara, CA | 39d | [Apply](https://apply.workable.com/teserac-inc/j/01F1C3E218/apply) |
 | **Blackcanyonconsulting** | Junior Data Scientist | Bethesda, MD | 40d | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8012994003) |
-| **[Church & Dwight](https://churchdwight.com/)** | Associate Data Scientist | Ewing, NJ | 42d | [Apply](https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/Associate-Data-Scientist_R2026-15739-1) |
+| **[Church & Dwight](https://churchdwight.com/)** | Associate Data Scientist | Ewing, NJ | 43d | [Apply](https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/Associate-Data-Scientist_R2026-15739-1) |
 | **Atlassian** | Data Scientist, 2027 Graduate U.S. | Seattle, WA | 43d | [Apply](https://www.tealhq.com/job/data-scientist_7ea1a3b5a8d6bb49f27360e521930c7d9258f) |
 | **[iManage](https://simplify.jobs/c/IManage)** | Applied AI Engineer New Grad | Chicago, IL | 43d | [Apply](https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad) |
 | **[Striveworks](https://striveworks.com)** | Junior Machine Learning Engineer | Austin, TX / Austin, Texas, United States | 43d | [Apply](https://job-boards.greenhouse.io/striveworks/jobs/8002515003) |
 | **[Interdigital](https://simplify.jobs/c/Interdigital)** | Research Engineer - 6G AI-Enabled Systems and Testbeds | Conshohocken, PA | 43d | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144) |
-| **[Quantifind](https://www.quantifind.com)** | Associate Data Scientist | Palo Alto, CA | 43d | [Apply](https://www.quantifind.com/open-positions/?gh_jid=8241359) |
-| **[LSEG](https://www.lseg.com)** | Associate Data Scientist | — | 43d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Associate-Data-Scientist_R0121709-1) |
-| **[Laminar](https://simplify.jobs/c/Laminar)** | Junior Machine Learning Engineer - ML - Developer | Somerville, MA +2 | 45d | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
-| **[PingWind](http://www.pingwind.com/)** | Data Scientist I | Remote | 45d | [Apply](https://jobs.lever.co/pingwind/6929b4ea-eb16-47be-b83d-8ea5a02a7864) |
+| **[Quantifind](https://www.quantifind.com)** | Associate Data Scientist | Palo Alto, CA | 44d | [Apply](https://www.quantifind.com/open-positions/?gh_jid=8241359) |
+| **[LSEG](https://www.lseg.com)** | Associate Data Scientist | — | 44d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Associate-Data-Scientist_R0121709-1) |
+| **[Laminar](https://simplify.jobs/c/Laminar)** | Junior Machine Learning Engineer - ML - Developer | Somerville, MA +2 | 46d | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
+| **[PingWind](http://www.pingwind.com/)** | Data Scientist I | Remote | 46d | [Apply](https://jobs.lever.co/pingwind/6929b4ea-eb16-47be-b83d-8ea5a02a7864) |
 | **Quora** | Software Engineer, Machine Learning Platform | Remote / Remote, Canada | 49d | [Apply](https://go.vansh.nyc/Lc) |
-| **[AppLovin](https://www.applovin.com)** | ML Data Infrastructure Engineer | Palo Alto, CA | 49d | [Apply](https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006) |
-| **[About You](https://www.aboutyou.de)** | Backend Engineer - Recommendation - all genders | Hamburg Oder Berlin, DE | 49d | [Apply](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000151832959-backend-engineer-recommendation-all-genders-?oga=true) |
+| **[AppLovin](https://www.applovin.com)** | ML Data Infrastructure Engineer | Palo Alto, CA | 50d | [Apply](https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006) |
+| **[About You](https://www.aboutyou.de)** | Backend Engineer - Recommendation - all genders | Hamburg Oder Berlin, DE | 50d | [Apply](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000151832959-backend-engineer-recommendation-all-genders-?oga=true) |
 | **Navy Federal** | Associate Data Scientist | Vienna, VA | 50d | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32743) |
 | **Quora** | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Remote - Multiple Locations | 50d | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
 | **Economicmodeling** | Economic Research Analyst / Junior Data Scientist - 1089 | Moscow, ID | 50d | [Apply](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) |
@@ -591,7 +605,7 @@ new grads.
 | **Groundswell** | Applied AI Engineer | Remote - Virginia, USA +47 | 52d | [Apply](https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095) |
 | **SpaceX** | Site Reliability Engineer (High Performance Computing) | Hawthorne, CA | 52d | [Apply](https://boards.greenhouse.io/spacex/jobs/8831632002?gh_jid=8831632002) |
 | **[Reach3 Insights](https://simplify.jobs/c/Reach3-Insights)** | Research Associate | Chicago, IL | 52d | [Apply](https://job-boards.greenhouse.io/reach3insights/jobs/5433674008) |
-| **[CFD Research](https://www.cfd-research.com)** | Computer Vision Engineer - TS/SCI | Dayton, OH | 52d | [Apply](https://www.cfd-research.com/jobs?gh_jid=4411856009) |
+| **[CFD Research](https://www.cfd-research.com)** | Computer Vision Engineer - TS/SCI | Dayton, OH | 53d | [Apply](https://www.cfd-research.com/jobs?gh_jid=4411856009) |
 | **Peraton** | Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 | MD | 53d | [Apply](https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-laurel-maryland-171011-jobs--cms-scientific-research-analysis--) |
 | **[Peraton](https://simplify.jobs/c/Peraton)** | Artificial Intelligence/Machine Learning Engineer 1 | Laurel, MD | 53d | [Apply](https://peraton.jibeapply.com/jobs/171011?icims=1) |
 | **Lila Sciences** | Machine Learning Scientist I / II - Protein Design | San Francisco, CA | 59d | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) |
@@ -600,8 +614,8 @@ new grads.
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | AI Researcher - Artificial Intelligence and Complex Systems | Laurel, MD | 60d | [Apply](https://careers.jhuapl.edu/jobs/60075?icims=1) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Neural Engineering Researcher | Laurel, MD | 60d | [Apply](https://careers.jhuapl.edu/jobs/60053?icims=1) |
 | **[Major League Baseball](https://simplify.jobs/c/MLB)** | Data Scientist - Baseball Research & Development | Cleveland, OH | 60d | [Apply](https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8770570002) |
-| **[Lloyds Banking Group](https://www.lloydsbankinggroup.com)** | Data Science & AI Graduate Scheme - Manchester | — | 64d | [Apply](https://lbg.wd3.myworkdayjobs.com/en-US/graduate_careers/job/Manchester/Data-Science---AI-Graduate-Scheme--Manchester-_163346-1) |
 | **[Lloyds Banking Group](https://www.lloydsbankinggroup.com)** | Data Science & AI Graduate Scheme - Bristol | — | 64d | [Apply](https://lbg.wd3.myworkdayjobs.com/en-US/graduate_careers/job/Bristol/Data-Science---AI-Graduate-Scheme--Bristol-_163351-1) |
+| **[Lloyds Banking Group](https://www.lloydsbankinggroup.com)** | Data Science & AI Graduate Scheme - Manchester | — | 65d | [Apply](https://lbg.wd3.myworkdayjobs.com/en-US/graduate_careers/job/Manchester/Data-Science---AI-Graduate-Scheme--Manchester-_163346-1) |
 | **[GE Vernova](https://simplify.jobs/c/GE-Vernova)** | Data Scientist | Greenville, SC | 65d | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3) |
 | **[Noblis](https://simplify.jobs/c/Noblis)** | Artificial Intelligence Engineer | McLean, VA | 65d | [Apply](https://careers.noblis.org/jobs/27812?icims=1) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Robotics & Autonomous Systems Engineer - Tailored Autonomous Systems | Laurel, MD | 65d | [Apply](https://careers.jhuapl.edu/jobs/59984?icims=1) |
@@ -620,11 +634,11 @@ new grads.
 | **[American Express](https://simplify.jobs/c/American-Express)** | AI Engineer | Phoenix, AZ | 74d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) |
 | **[American Express](https://simplify.jobs/c/American-Express)** | AI Engineer 1 - Graduate | Phoenix, AZ | 74d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Artificial Intelligence Engineer New Grad - Intelligent Autonomous Systems | Laurel, MD | 74d | [Apply](https://careers.jhuapl.edu/jobs/59848?icims=1) |
-| **[Avalore](http://avalore.ai/)** | Data Scientist | Arlington, VA | 74d | [Apply](https://apply.workable.com/avalore/j/D80A182DA1/) |
+| **[Avalore](http://avalore.ai/)** | Data Scientist | Arlington, VA | 75d | [Apply](https://apply.workable.com/avalore/j/D80A182DA1/) |
 | **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise)** | Data Science New Grad | Andover, MA +9 | 78d | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631) |
 | **Dark Wolf Solutions** | Junior AI Software Engineer | Chantilly, VA / Herndon, VA | 78d | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
 | **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise)** | Data Science Graduate | Andover, MA +9 | 78d | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1) |
-| **[Global Lending Services](https://simplify.jobs/c/Global-Lending-Services)** | Data Scientist - December 2026 | Greenville, SC | 78d | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply) |
+| **[Global Lending Services](https://simplify.jobs/c/Global-Lending-Services)** | Data Scientist - December 2026 | Greenville, SC | 79d | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Graduate - Data Science - System Performance Evaluation | Laurel, MD | 79d | [Apply](https://careers.jhuapl.edu/jobs/59799?icims=1) |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Data Science, System Performance Evaluation | Laurel, MD | 79d | [Apply](https://go.vansh.nyc/Pv) |
 | **[NucleusTeq](https://nucleusteq.com)** | Data Scientist | Phoenix, AZ | 79d | [Apply](https://nucleusteq.breezy.hr/p/3ec39441be0e-data-scientist) |
@@ -633,16 +647,16 @@ new grads.
 | **Highmetric** | AI Engineer/Anthropic-Campus Hire - US West | USA - Remote | 80d | [Apply](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) |
 | **Accenture Federal Services** | Jr. AI/ML Engineer | Annapolis Junction, MD | 80d | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006) |
 | **Highmetric** | AI Engineer-Anthropic-University/Graduate Level - UK | UK - Remote | 80d | [Apply](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) |
-| **[P&G - Procter & Gamble](https://us.pg.com)** | Data Science - Master’s degree - 2027 Grads | Cincinnati, OH | 80d | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919) |
+| **[P&G - Procter & Gamble](https://us.pg.com)** | Data Science - Master’s degree - 2027 Grads | Cincinnati, OH | 81d | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919) |
 | **[Sciemo](https://simplify.jobs/c/Sciemo)** | Data Scientist | Research Triangle Park, Durham, NC +3 | 81d | [Apply](https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application?embed=true) |
 | **[KLA](https://simplify.jobs/c/KLA)** | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | 81d | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582) |
 | **[Johns Hopkins Applied Physics Laboratory](https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory)** | Software Engineering/ML/Data Scientist New Grad - Intelligence Systems | Laurel, MD | 81d | [Apply](https://careers.jhuapl.edu/jobs/59654?icims=1) |
 | **[Procter & Gamble](https://simplify.jobs/c/Procter-Gamble-Company)** | Data Science New Grad - Master’s degree | Cincinnati, OH | 82d | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919) |
 | **Procter & Gamble** | New Grad 2027: Data Science (Master's) | Cincinnati, OH | 82d | [Apply](https://go.vansh.nyc/Pj) |
-| **[Avalore](http://avalore.ai/)** | AI/ML Engineer | Arlington, VA | 84d | [Apply](https://apply.workable.com/avalore/j/236521B2C0/) |
+| **[Avalore](http://avalore.ai/)** | AI/ML Engineer | Arlington, VA | 85d | [Apply](https://apply.workable.com/avalore/j/236521B2C0/) |
 | **SpaceX** | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | 87d | [Apply](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002) |
 | **Northeastern University** | Associate Research Scientist | Boston, MA | 87d | [Apply](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R141382-2) |
-| **[Pangram Labs](https://www.pangram.com/)** | Machine Learning Engineer - Junior | New York City, NY | 87d | [Apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
+| **[Pangram Labs](https://www.pangram.com/)** | Machine Learning Engineer - Junior | New York City, NY | 88d | [Apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
 | **[Vanguard](https://simplify.jobs/c/Vanguard)** | Data Scientist - Data & Analytics | Charlotte, NC / Malvern, PA | 89d | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Data---Analytics--Scientist----NC_180093-1) |
 | **Arizent** | Data & AI Engineer | New York City, NY | 106d | [Apply](https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5) |
 | **Thumbtack** | Software Engineer - AI/ML Infrastructure - US-Based | San Francisco, CA | 106d | [Apply](https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b) |
