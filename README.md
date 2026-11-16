@@ -13,12 +13,12 @@ Four kinds of role make the list, and nothing else does: **ML/AI**, **data scien
 specialization**. Everything is new grad through roughly three years.
 
 <!-- COUNT_START -->
-**497** open roles
+**507** open roles
 <!-- COUNT_END -->
 in the US · [🌍 International roles](/INTERNATIONAL.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-16 02:53 UTC_
+_Last refreshed: 2026-11-16 03:04 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -31,6 +31,16 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668582542044072245) |
+| **TikTok** | Software Engineer - TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7674029284265838853) |
+| **TikTok** | Software Engineer, AI Agent | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7626968373985429765) |
+| **TikTok** | Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7675829388634392837) |
+| **TikTok** | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7665986019233958197) |
+| **TikTok** | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668724383120804149) |
+| **TikTok** | Software Engineer, Pangle - SIA | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7639632990934960389) |
+| **TikTok** | Software Engineer, Ads Integrity | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7231665935751940413) |
+| **TikTok** | Software Engineer - Infrastructure, TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7280570149262117179) |
+| **TikTok** | Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD) | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7527441329384147208) |
 | **[Ravelin](http://www.ravelin.com/)** | Junior Data Scientist | Remote | **2d** | [Apply](https://ravelin.pinpointhq.com/en/postings/f1ee34f5-4260-43c8-b86d-b585a6c9bd9e) |
 | **Google** | Software Engineer, Geo, Computer Vision | Mountain View, CA, USA | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) |
 | **[Google](https://www.google.com)** | Research Scientist - AI Safety and Alignment - DeepMind | Seattle, WA | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/112836257989436102) |
@@ -137,6 +147,16 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668582542044072245) |
+| **TikTok** | Software Engineer - TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7674029284265838853) |
+| **TikTok** | Software Engineer, AI Agent | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7626968373985429765) |
+| **TikTok** | Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7675829388634392837) |
+| **TikTok** | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7665986019233958197) |
+| **TikTok** | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7668724383120804149) |
+| **TikTok** | Software Engineer, Pangle - SIA | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7639632990934960389) |
+| **TikTok** | Software Engineer, Ads Integrity | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7231665935751940413) |
+| **TikTok** | Software Engineer - Infrastructure, TikTok Search Engine | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7280570149262117179) |
+| **TikTok** | Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD) | San Jose, California, United States of America | **today** | [Apply](https://lifeattiktok.com/search/7527441329384147208) |
 | **Google** | Software Engineer, Geo, Computer Vision | Mountain View, CA, USA | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/139205347142181574) |
 | **Google** | Software Engineer, Generative Media AI, Apparel ML | Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA / Mountain View, CA, USA, Seattle, WA, USA, New York, NY, USA | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/101544438928417478) |
 | **[Google](https://www.google.com)** | Research Scientist - AI Safety and Alignment - DeepMind | Seattle, WA | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/112836257989436102) |
@@ -144,12 +164,13 @@ and autonomy set.
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose, California, United States of America / San Jose, California, United States of America / San Jose, CA, United States | **3d** | [Apply](https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Data Search Visual Search | San Jose, CA / San Jose, California, United States of America | **3d** | [Apply](https://lifeattiktok.com/search/7667349591747758341) |
 | **TikTok** | Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start | Seattle, Washington, United States of America / Seattle, WA | **3d** | [Apply](https://lifeattiktok.com/search/7668390999147776309) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Search Quality | San Jose, CA | **3d** | [Apply](https://lifeattiktok.com/search/7665793152026740997) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Search Quality | San Jose, CA / San Jose, California, United States of America | **3d** | [Apply](https://lifeattiktok.com/search/7665793152026740997) |
 | **TikTok** | Machine Learning Engineer Graduate - Data-Global E-Commerce-Search - 2027 Start - PhD | Seattle, WA | **3d** | [Apply](https://lifeattiktok.com/search/7668389759463393589) |
 | **Google** | Associate Data Scientist, Causal Machine Learning, Decision Science Systems, gReach Program (Japanese, English) | — | **3d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462-associate-data-scientist-causal-machine-learning-decision-science-systems-greach-program-japanese-english) |
 | **Qualcomm** | CPU Performance Research Engineer | Santa Clara, California, United States of America | **3d** | [Apply](https://careers.qualcomm.com/careers/job/446718593091) |
 | **TikTok** | New Grad 2027: Machine Learning MLOps Engineer | San Jose, CA | **3d** | [Apply](https://go.vansh.nyc/16J) |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | Data Scientist New Grad | San Jose, CA +2 | **3d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| **Amazon** | Applied Scientist II | North Reading, Massachusetts, USA +2 | **3d** | [Apply](https://account.amazon.jobs/jobs/10585203/apply) |
 | **[Amazon](https://www.amazon.com)** | Data Scientist I - NEST | Bellevue, WA / Bellevue, Washington, USA | **4d** | [Apply](https://www.amazon.jobs/jobs/10600616/apply) |
 | **Qualcomm** | AI/ML Software Engineer – Gateway & Edge AI | San Diego, California, United States of America | **4d** | [Apply](https://careers.qualcomm.com/careers/job/446721614073) |
 | **Adobe** | 2027 University Graduate - Machine Learning Engineer | San Jose, California, United States of America +7 | **4d** | [Apply](https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer) |
@@ -180,7 +201,7 @@ and autonomy set.
 | **Google** | Post-Doctoral Researcher, PhD, DeepMind, 2026 Start (Fixed-Term Contract) | — | 12d | [Apply](https://www.google.com/about/careers/applications/jobs/results/129129141264884422-postdoctoral-researcher-phd-deepmind-2026-start-fixedterm-contract) |
 | **Amazon** | UX Researcher II - AMZ27151.2 | Sunnyvale, California, USA | 12d | [Apply](https://account.amazon.jobs/jobs/10592726/apply) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab | San Jose, CA | 12d | [Apply](https://jobs.bytedance.com/en/position/7704089625815468293/detail) |
-| **TikTok** | Machine Learning Engineer, E-commerce Feed Recommendation | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | 13d | [Apply](https://lifeattiktok.com/search/7276262058998368572) |
+| **TikTok** | Machine Learning Engineer, E-commerce Feed Recommendation | Seattle, Washington, United States of America / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 | 13d | [Apply](https://lifeattiktok.com/search/7276262058998368572) |
 | **Google** | Software Engineer, AI/ML, Ads Quality | New York, NY, USA | 14d | [Apply](https://www.google.com/about/careers/applications/jobs/results/125520823275397830) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Large Language Model Inference System Engineer New Grad - Applied Machine Learning | San Jose, CA | 15d | [Apply](https://jobs.bytedance.com/en/position/7667726338627356933/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Backend Inference Runtime Engineer New Grad - AML Inference | San Jose, CA | 15d | [Apply](https://jobs.bytedance.com/en/position/7669789046777940229/detail) |
@@ -251,7 +272,6 @@ and autonomy set.
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video | San Jose, CA | 21d | [Apply](https://go.vansh.nyc/KU) |
 | **TikTok** | User Researcher | San Jose, California, United States of America | 23d | [Apply](https://lifeattiktok.com/search/7699070278786058549) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist New Grad - Video and Edge - Multimedia Lab | San Jose, CA | 23d | [Apply](https://jobs.bytedance.com/en/position/7670374385110599989/detail) |
-| **Amazon** | Applied Scientist II | North Reading, Massachusetts, USA / North Reading, MA | 24d | [Apply](https://account.amazon.jobs/jobs/10585203/apply) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Algorithms - Pricing - Rider Engagement | San Francisco, CA | 24d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002) |
 | **TikTok** | Data Scientist, PGC Traffic Strategy and CRP - TikTok | San Jose, California, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7495869430037186834) |
 | **Qualcomm** | #Machine Learning Engineer - Generative AI | San Diego, California, United States of America | 24d | [Apply](https://careers.qualcomm.com/careers/job/446721429496) |
@@ -270,8 +290,8 @@ and autonomy set.
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | Machine Learning Engineer - Machine Learning Engineering | San Diego, CA | 24d | [Apply](https://qualcomm.eightfold.ai/careers/job/446717859953) |
 | **AMD** | Field Applications Engineer, AI Infrastructure | Austin, Texas, United States | 24d | [Apply](https://careers.amd.com/jobs/91746?lang=en-us) |
 | **Google** | Data Scientist | New York, NY, USA | 24d | [Apply](https://www.google.com/about/careers/applications/jobs/results/93873755381473990) |
-| **TikTok** | (General Hire) Research Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States | 24d | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
-| **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States | 24d | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
+| **TikTok** | (General Hire) Research Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 | 24d | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
+| **TikTok** | (General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD) | San Jose, CA, United States / San Jose, California, United States of America +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 / San Jose, CA, United States +2 +2 / San Jose, CA, United States / San Jose, CA, United States +2 +2 +2 +2 +2 / San Jose, CA, United States +2 +2 +2 +2 | 24d | [Apply](https://lifeattiktok.com/search/7516697794956478738) |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Applied Scientist - Amazon Cryptographic Libraries | Seattle, WA | 24d | [Apply](https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries) |
 | **TikTok** | UX Researcher - Global E-Commerce (US) | Seattle, Washington, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7631119520405309701) |
 | **TikTok** | Data Scientist - TikTok LIVE | San Jose, California, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7389873473475479817) |
@@ -286,7 +306,7 @@ and autonomy set.
 | **TikTok** | Machine Learning Engineer (LLM)- E-commerce Risk Control | Seattle, Washington, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7538573630772726034) |
 | **TikTok** | Software Engineer - Recommendation Infrastructure, TikTok Video Social | San Jose, California, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7600582133919189253) |
 | **TikTok** | (General Hire) Machine Learning Engineer, TikTok Recommendation | San Jose, California, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7359084648250493210) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA | 24d | [Apply](https://lifeattiktok.com/search/7670335888371927349) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA / San Diego, California, United States of America | 24d | [Apply](https://lifeattiktok.com/search/7670335888371927349) |
 | **ByteDance** | Research Engineer Graduate (AI Infra ... | San Jose, CA +4 | 24d | [Apply](https://joinbytedance.com/search/7667334521286035765) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | 24d | [Apply](https://jobs.bytedance.com/en/position/7675473897004861749/detail) |
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist Graduate - Quantum Chemistry and Machine Learning | San Jose, CA | 24d | [Apply](https://jobs.bytedance.com/en/position/7668595575944186117/detail) |
@@ -297,13 +317,13 @@ and autonomy set.
 | **[ByteDance](https://simplify.jobs/c/ByteDance)** | Research Scientist | San Jose, CA | 25d | [Apply](https://jobs.bytedance.com/en/position/7667645514462480645/detail) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA +2 | 27d | [Apply](https://lifeattiktok.com/search/7668592348941273349) |
 | **[Amazon](https://www.amazon.com)** | Data Scientist I - PXT Central Science | Arlington, VA | 32d | [Apply](https://www.amazon.jobs/jobs/10579474/apply) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate | Seattle, WA | 33d | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad | Seattle, WA | 33d | [Apply](https://lifeattiktok.com/search/7695927144126253317) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate | Seattle, WA / Seattle, Washington, United States of America | 33d | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad | Seattle, WA / Seattle, Washington, United States of America | 33d | [Apply](https://lifeattiktok.com/search/7695927144126253317) |
 | **[Duolingo](https://simplify.jobs/c/Duolingo)** | AI Research Engineer New Grad | Pittsburgh, PA +3 | 34d | [Apply](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Conversational AI | San Jose, CA +4 | 37d | [Apply](https://lifeattiktok.com/search/7670686314588801333) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Conversational AI | San Jose, CA | 37d | [Apply](https://lifeattiktok.com/search/7670685496821713205) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist New Grad - Conversational AI | San Jose, CA / San Jose, California, United States of America | 37d | [Apply](https://lifeattiktok.com/search/7670685496821713205) |
 | **[Amazon](https://www.amazon.com)** | Data Scientist II - AMZ10564056 | Culver City, CA | 37d | [Apply](https://www.amazon.jobs/jobs/10574837/apply) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce User Growth | Seattle, WA +2 | 38d | [Apply](https://lifeattiktok.com/search/7694346612567214389) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce User Growth | Seattle, WA +3 | 38d | [Apply](https://lifeattiktok.com/search/7694346612567214389) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - E-Commerce User Growth | San Jose, CA +3 | 38d | [Apply](https://lifeattiktok.com/search/7694352871949682997) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | Seattle, WA +5 | 38d | [Apply](https://lifeattiktok.com/search/7694054165508557109) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Autonomous Systems and Physical AI Research - PhD New College Grad 2026 | Santa Clara, CA | 39d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) |
@@ -313,7 +333,7 @@ and autonomy set.
 | **Qualcomm** | Modem Software Engineer | San Diego, California, United States of America | 45d | [Apply](https://careers.qualcomm.com/careers/job/446721373024) |
 | **[NVIDIA](https://www.nvidia.com)** | Research Scientist - Physical AI - Foundation Models - PhD New College Grad 2026 | Santa Clara, CA | 53d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) |
 | **Qualcomm** | DSP Applications Software Engineer | Austin, Texas, United States of America | 54d | [Apply](https://careers.qualcomm.com/careers/job/446718053556) |
-| **[TikTok](https://www.tiktok.com)** | US Ecosystem Analyst Graduate - LLM/Enforcement - TikTok LIVE - 2026 Start | Los Angeles, CA | 55d | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
+| **[TikTok](https://www.tiktok.com)** | US Ecosystem Analyst Graduate - LLM/Enforcement - TikTok LIVE - 2026 Start | Los Angeles, CA / Los Angeles, California, United States of America | 55d | [Apply](https://lifeattiktok.com/search/7687813753283332357) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | San Jose, CA +4 | 57d | [Apply](https://lifeattiktok.com/search/7686999927260105013) |
 | **Qualcomm** | Software Engineer, Robotics Simulation & AI Infrastructure | San Diego, California, United States of America | 60d | [Apply](https://careers.qualcomm.com/careers/job/446720880729) |
 | **Qualcomm** | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | 60d | [Apply](https://careers.qualcomm.com/careers/job/446717859953) |
@@ -329,12 +349,12 @@ and autonomy set.
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad | Seattle, WA / Seattle, Washington, United States of America | 76d | [Apply](https://lifeattiktok.com/search/7668376903708281141) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA / San Jose, California, United States of America | 76d | [Apply](https://lifeattiktok.com/search/7665991852209932597) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer New Grad - Recommendation | San Jose, CA +2 | 76d | [Apply](https://lifeattiktok.com/search/7663389745178757429) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate - Conversational AI | Seattle, WA | 79d | [Apply](https://lifeattiktok.com/search/7670681152383813893) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA | 79d | [Apply](https://lifeattiktok.com/search/7676647728043280645) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA | 84d | [Apply](https://lifeattiktok.com/search/7676650760662157621) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist Graduate - Conversational AI | Seattle, WA / Seattle, Washington, United States of America | 79d | [Apply](https://lifeattiktok.com/search/7670681152383813893) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA / San Jose, California, United States of America | 79d | [Apply](https://lifeattiktok.com/search/7676647728043280645) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA / Seattle, Washington, United States of America | 84d | [Apply](https://lifeattiktok.com/search/7676650760662157621) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 88d | [Apply](https://lifeattiktok.com/search/7668854153882011957) |
 | **[TikTok](https://simplify.jobs/c/TikTok)** | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | 88d | [Apply](https://lifeattiktok.com/search/7675841339440941317) |
-| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Engineer – Neural Graphics and World Models Graduate - Engine & Tools | San Jose, CA | 88d | [Apply](https://lifeattiktok.com/search/7668831188103481605) |
+| **[TikTok](https://simplify.jobs/c/TikTok)** | Research Scientist/Engineer – Neural Graphics and World Models Graduate - Engine & Tools | San Jose, CA / San Jose, California, United States of America | 88d | [Apply](https://lifeattiktok.com/search/7668831188103481605) |
 <!-- TABLE_BIGTECH_END -->
 
 ---
