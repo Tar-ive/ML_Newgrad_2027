@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**263** open roles
+**264** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-16 11:46 UTC_
+_Last refreshed: 2026-11-16 13:59 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -26,6 +26,7 @@ cliff after the first few days of a posting being live.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **[AMS](https://simplify.jobs/c/AMS-Growth-Partner)** | Data Science Associate | Manhattan, NYC | **today** | [Apply](https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Photoroom** | Product ML Engineer | Paris | **1d** | [Apply](https://jobs.ashbyhq.com/photoroom/866bdfdb-a1d8-4d68-b9d1-66219f5f2d59/application) |
 | **Turo** | Data Scientist, Dynamic Pricing | San Francisco | **2d** | [Apply](https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Data-Scientist--Dynamic-Pricing_R-102761) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
@@ -39,6 +40,7 @@ cliff after the first few days of a posting being live.
 | **Optiver** | Graduate Quantitative Researcher, PhD (2027 Start) | New York | **3d** | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) |
 | **Jane Street** | Machine Learning Researcher | New York | **3d** | [Apply](https://www.janestreet.com/join-jane-street/position/8384490002) |
 | **Susquehanna International Group** | Machine Learning Discovery Summit (On-site) | New York | **3d** | [Apply](https://careers.sig.com/jobs/11692) |
+| **Two Sigma** | Data Scientist - Campus Full-Time | New York | **3d** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) |
 | **Apple** | Machine Learning Engineer | Cupertino | **3d** | [Apply](https://jobs.apple.com/en-us/details/200694852/machine-learning-engineer?team=SFTWR) |
 | **Equinix** | AI/Machine Learning Experience Engineer | Dallas Infomart Office DAI | **3d** | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Dallas-Infomart-Office-DAI/AI-Machine-Learning-Experience-Engineer_JR-164652) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Ads and Demand Optimization - Contract | Singapore, Singapore | **3d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true) |
@@ -94,6 +96,7 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | **2d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
 | **Apple** | Machine Learning Engineer | Cupertino | **3d** | [Apply](https://jobs.apple.com/en-us/details/200694852/machine-learning-engineer?team=SFTWR) |
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **4d** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
@@ -127,7 +130,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 46d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Decisions - Mapping | Toronto, Canada | 46d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 / 7 Locations | 52d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 53d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 53d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 54d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 54d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 61d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -160,7 +163,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 69d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 69d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 69d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 82d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 82d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 | **[NVIDIA](https://www.nvidia.com)** | NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China | Shanghai, China +2 | 86d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
 <!-- TABLE_BIGTECH_END -->
 
@@ -179,6 +182,7 @@ Quant research and ML roles at trading firms. These pay the most and close the f
 | **Jane Street** | Quantitative Researcher | New York | **3d** | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002) |
 | **Optiver** | Graduate Quantitative Researcher, PhD (2027 Start) | New York | **3d** | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) |
 | **Jane Street** | Machine Learning Researcher | New York | **3d** | [Apply](https://www.janestreet.com/join-jane-street/position/8384490002) |
+| **Two Sigma** | Data Scientist - Campus Full-Time | New York | **3d** | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) |
 | **[Flow Traders](http://www.flowtraders.com)** | PhD Graduate Quantitative Researcher | Amsterdam, The Netherlands +2 | 37d | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8266897) |
 | **DRW** | AI Inference Platform Engineer | Chicago | 48d | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) |
 | **[DV Trading](https://www.dvtrading.co)** | 2027 Quantitative Researcher Graduate - DV QES | Hong Kong | 52d | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005) |
@@ -294,7 +298,6 @@ new grads.
 | **[TD Bank](https://td.com/)** | Applied Machine Learning Scientist I ATH# 5645 - Tabular Deep Learning Model Validation | Toronto, Canada | 24d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I-ATH--5645--Tabular-Deep-Learning-Model-Validation-_R_1514923) |
 | **[CoStar Group](https://simplify.jobs/c/CoStar)** | AI Engineer 1 | Glasgow, UK | 25d | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191) |
 | **[Tanium](https://www.tanium.com)** | AI Research Scientist | Emeryville, CA +4 | 25d | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8232146) |
-| **Gapinc** | Data Scientist, Product to Market (P2M) Optimization | SF - 2 Folsom | 26d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Data-Scientist--Product-to-Market--P2M--Optimization_R223710) |
 | **Northeastern** | Associate Data Scientist, DIBI | Boston, MA (Main Campus) | 26d | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Data-Scientist--DIBI_R142889) |
 | **Imh** | Artificial Intelligence (AI) & Machine Learning (ML) Engineer | Key Bank Tower | 27d | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019) |
 | **Northmark** | AI Engineer I | Dallas TX | 27d | [Apply](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/AI-Engineer-I_R13431) |
