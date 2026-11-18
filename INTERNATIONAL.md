@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-18 04:35 UTC_
+_Last refreshed: 2026-11-18 14:18 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -31,11 +31,11 @@ cliff after the first few days of a posting being live.
 | **[Senstar](https://simplify.jobs/c/Senstar)** | Machine Learning Developer | Waterloo, ON, Canada / Waterloo, Canada | **1d** | [Apply](https://senstar.bamboohr.com/careers/183/) |
 | **[Flexspring](https://simplify.jobs/c/Flexspring)** | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada / Montreal, Canada | **1d** | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | **[Capital Group](https://www.capitalgroup.com/)** | AI Scientist | Los Angeles, CA +1 | **1d** | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/AI-Scientist_JR7703) |
-| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Lending | Singapore, Singapore | **1d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true) |
 | **[Manulife](https://www.manulife.ca)** | Associate Machine Learning Engineer | Toronto, Canada | **1d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26110418-1) |
 | **[Raytheon](https://www.rtx.com)** | Associate Engineer - AI/ML | Hyderabad, India | **1d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Associate-Engineer---AI-ML_01889499) |
 | **[SEB](https://sebgroup.com/)** | SEB Tech Trainee Programme 2027-28: AI Research Analyst - SEB - Stockholm | Stockholm, Sweden | **1d** | [Apply](https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d) |
+| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[AMS](https://simplify.jobs/c/AMS-Growth-Partner)** | Data Science Associate | Manhattan, NYC | **2d** | [Apply](https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49) |
 | **[Unique](https://simplify.jobs/c/Unique)** | Data Scientist - Wealth Graph | NYC | **2d** | [Apply](https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d) |
 | **[Equinix](https://www.equinix.com)** | AI/Machine Learning Experience Engineer | Dallas, TX +1 / Dallas Infomart Office DAI | **2d** | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/AI-Machine-Learning-Experience-Engineer_JR-164652) |
@@ -59,11 +59,11 @@ cliff after the first few days of a posting being live.
 | **Apple** | CAD Automation and ML Engineer | Austin | **5d** | [Apply](https://jobs.apple.com/en-us/details/200694953/cad-automation-and-ml-engineer?team=HRDWR) |
 | **Micron** | New College Grad - Software Engineer | Boise, ID - Main Site | **5d** | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
 | **Booz Allen Hamilton** | AI/ML Engineer | 3 Locations | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-ML-Engineer_R0253445) |
-| **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **5d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Ads and Demand Optimization - Contract | Singapore, Singapore | **5d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true) |
 | **[CERN](http://home.cern)** | Machine Learning Engineer - TE-DPS-AIM-2026-223-LD | Geneva, Switzerland | **5d** | [Apply](https://jobs.smartrecruiters.com/CERN/744000161227765-machine-learning-engineer-te-dps-aim-2026-223-ld-?oga=true) |
 | **[Booz Allen](https://www.boozallen.com)** | AI/ML Engineer | McLean, VA +2 | **5d** | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/AI-ML-Engineer_R0253445) |
 | **[Alexander Group](https://alexandergroup.com)** | Associate Commercial Data Scientist | Amancio, Cuba | **5d** | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3117795) |
+| **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **6d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **6d** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
 | **Guidehouse** | Jr. Data Scientist | 2 Locations | **6d** | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Jr-Data-Scientist_44767) |
 | **[Genentech](https://simplify.jobs/c/Genentech)** | Machine Learning Scientist - Multiple Teams | South SF | **6d** | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905) |
@@ -97,7 +97,7 @@ and autonomy set.
 | **[Intel](https://www.intel.com)** | AI Frameworks Engineer | Folsom, CA +1 | **4d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/AI-Frameworks-Engineer_JR0289178) |
 | **Apple** | Machine Learning Engineer | Cupertino | **5d** | [Apply](https://jobs.apple.com/en-us/details/200694852/machine-learning-engineer?team=SFTWR) |
 | **Apple** | CAD Automation and ML Engineer | Austin | **5d** | [Apply](https://jobs.apple.com/en-us/details/200694953/cad-automation-and-ml-engineer?team=HRDWR) |
-| **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **5d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| **Adobe** | 2027 University Graduate - Data Scientist | San Jose | **6d** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
 | **Apple** | Machine Learning Researcher: Agentic Post-Training for On-Device Models | Sunnyvale | **6d** | [Apply](https://jobs.apple.com/en-us/details/200694656) |
 | **Amazon** | AI/ML Engineer, AB EU | Munich, Bavaria, DEU | **7d** | [Apply](https://account.amazon.jobs/jobs/10601315/apply) |
 | **Amazon** | Applied Scientist I, Tablet Product Software | US, WA, Seattle | 8d | [Apply](https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software) |
@@ -208,11 +208,11 @@ new grads.
 | **[Senstar](https://simplify.jobs/c/Senstar)** | Machine Learning Developer | Waterloo, ON, Canada / Waterloo, Canada | **1d** | [Apply](https://senstar.bamboohr.com/careers/183/) |
 | **[Flexspring](https://simplify.jobs/c/Flexspring)** | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada / Montreal, Canada | **1d** | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | **[Capital Group](https://www.capitalgroup.com/)** | AI Scientist | Los Angeles, CA +1 | **1d** | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/AI-Scientist_JR7703) |
-| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **1d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Lending | Singapore, Singapore | **1d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true) |
 | **[Manulife](https://www.manulife.ca)** | Associate Machine Learning Engineer | Toronto, Canada | **1d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26110418-1) |
 | **[Raytheon](https://www.rtx.com)** | Associate Engineer - AI/ML | Hyderabad, India | **1d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Associate-Engineer---AI-ML_01889499) |
 | **[SEB](https://sebgroup.com/)** | SEB Tech Trainee Programme 2027-28: AI Research Analyst - SEB - Stockholm | Stockholm, Sweden | **1d** | [Apply](https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d) |
+| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[AMS](https://simplify.jobs/c/AMS-Growth-Partner)** | Data Science Associate | Manhattan, NYC | **2d** | [Apply](https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49) |
 | **Artellence** | Strong junior Machine learning engineer | Ukraine | **2d** | [Apply](https://djinni.co/jobs/842742-strong-junior-machine-learning-engineer/) |
 | **[Unique](https://simplify.jobs/c/Unique)** | Data Scientist - Wealth Graph | NYC | **2d** | [Apply](https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d) |
