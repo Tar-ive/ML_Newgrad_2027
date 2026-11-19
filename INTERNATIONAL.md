@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**273** open roles
+**270** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-19 03:41 UTC_
+_Last refreshed: 2026-11-19 04:30 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -32,11 +32,11 @@ cliff after the first few days of a posting being live.
 | **[Xperteez Technology](https://xperteez.co.in)** | Junior Data Scientist - Remote - Contract | Worldwide | **today** | [Apply](https://app.dover.io/apply/job/c68ec7e8-b507-4858-8086-cc2616d3207f/) |
 | **[Xperteez Technology](https://xperteez.co.in)** | 🌍 Junior Machine Learning Engineer - Remote- Contract | Worldwide | **today** | [Apply](https://app.dover.io/apply/job/b0cb887b-de0b-464d-9916-ffae837a7116/) |
 | **[LiteLLM](https://www.litellm.ai/)** | Backend LLM Engineer | Berkeley, CA +17 | **today** | [Apply](https://app.dover.io/apply/job/33874c7d-3ffb-415c-a200-46f7ac246bd1/) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **ServiceNow** | Software Engineer, Agentic Systems - Moveworks | Mountain View, CALIFORNIA | **1d** | [Apply](https://jobs.smartrecruiters.com/servicenow/744000162190099) |
 | **[Pallet](https://pallet.com)** | Associate Deployment Strategist - AI/ML Product | New York City, NY +1 | **1d** | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5265290007) |
 | **VeraData** | Junior Data Scientist | Europe | **1d** | [Apply](https://djinni.co/jobs/258565-junior-data-scientist/) |
 | **[Crowe](https://crowe.com)** | Junior Machine Learning Engineer | Hyderabad, India | **1d** | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Junior-Machine-Learning-Engineer_R-52640) |
-| **[Manulife](https://www.manulife.ca)** | Associate Data Scientist | Chengdu, China | **1d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217) |
 | **[General Robotics](https://generalrobotics.company/)** | Systems Engineer - Robotics ML Infrastructure | Singapore | **1d** | [Apply](https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Payments | Singapore, Singapore | **1d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true) |
 | **[IQVIA](https://www.iqvia.com)** | Scientifique des données associé - confidentialité et désidentification/ Associate Data Scientist - Privacy and De-identification | Ottawa, Canada | **1d** | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification--Associate-Data-Scientist--Privacy-and-De-identification_R1569255) |
@@ -53,7 +53,6 @@ cliff after the first few days of a posting being live.
 | **San Diego Association of Governments** | Data Scientist I/II | 1011 Union Street, San Diego | **2d** | [Apply](https://governmentjobs.com/jobs/5547223) |
 | **Jobgether** | Machine Learning Engineer | India | **2d** | [Apply](https://jobs.lever.co/jobgether/91039256-8f74-4fc2-9a29-53c447fb550e) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Lending | Singapore, Singapore | **2d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true) |
-| **[Manulife](https://www.manulife.ca)** | Associate Machine Learning Engineer | Toronto, Canada | **2d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26110418-1) |
 | **[SEB](https://sebgroup.com/)** | SEB Tech Trainee Programme 2027-28: AI Research Analyst - SEB - Stockholm | Stockholm, Sweden | **2d** | [Apply](https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d) |
 | **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[AMS](https://simplify.jobs/c/AMS-Growth-Partner)** | Data Science Associate | Manhattan, NYC | **3d** | [Apply](https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49) |
@@ -101,6 +100,7 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | **5d** | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
 | **Apple** | Machine Learning Engineer | Cupertino | **6d** | [Apply](https://jobs.apple.com/en-us/details/200694852/machine-learning-engineer?team=SFTWR) |
 | **Apple** | CAD Automation and ML Engineer | Austin | **6d** | [Apply](https://jobs.apple.com/en-us/details/200694953/cad-automation-and-ml-engineer?team=HRDWR) |
@@ -136,7 +136,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 49d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Lyft](https://www.lyft.com)** | Data Scientist - Decisions - Mapping | Toronto, Canada | 49d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 55d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 56d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 56d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 57d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 57d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 64d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -169,7 +169,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 72d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 72d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 72d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 85d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 85d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 <!-- TABLE_BIGTECH_END -->
 
 ---
@@ -218,7 +218,6 @@ new grads.
 | **[Pallet](https://pallet.com)** | Associate Deployment Strategist - AI/ML Product | New York City, NY +1 | **1d** | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5265290007) |
 | **VeraData** | Junior Data Scientist | Europe | **1d** | [Apply](https://djinni.co/jobs/258565-junior-data-scientist/) |
 | **[Crowe](https://crowe.com)** | Junior Machine Learning Engineer | Hyderabad, India | **1d** | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Junior-Machine-Learning-Engineer_R-52640) |
-| **[Manulife](https://www.manulife.ca)** | Associate Data Scientist | Chengdu, China | **1d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217) |
 | **[Cisco](https://www.cisco.com/)** | AI Researcher | Alpharetta, GA +1 | **1d** | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Alpharetta-Georgia-US/AI-Researcher_2028324) |
 | **[General Robotics](https://generalrobotics.company/)** | Systems Engineer - Robotics ML Infrastructure | Singapore | **1d** | [Apply](https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Payments | Singapore, Singapore | **1d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true) |
@@ -236,7 +235,6 @@ new grads.
 | **San Diego Association of Governments** | Data Scientist I/II | 1011 Union Street, San Diego | **2d** | [Apply](https://governmentjobs.com/jobs/5547223) |
 | **Jobgether** | Machine Learning Engineer | India | **2d** | [Apply](https://jobs.lever.co/jobgether/91039256-8f74-4fc2-9a29-53c447fb550e) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services - Lending | Singapore, Singapore | **2d** | [Apply](https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true) |
-| **[Manulife](https://www.manulife.ca)** | Associate Machine Learning Engineer | Toronto, Canada | **2d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26110418-1) |
 | **[SEB](https://sebgroup.com/)** | SEB Tech Trainee Programme 2027-28: AI Research Analyst - SEB - Stockholm | Stockholm, Sweden | **2d** | [Apply](https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d) |
 | **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[AMS](https://simplify.jobs/c/AMS-Growth-Partner)** | Data Science Associate | Manhattan, NYC | **3d** | [Apply](https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49) |
@@ -261,7 +259,6 @@ new grads.
 | **[XMSTART](http://www.xmstart.com/)** | Data Scientist | Chantilly, VA +1 | **7d** | [Apply](https://apply.workable.com/xm-start/j/EED8E65806/) |
 | **[ImagineArt](https://www.imagine.art/)** | Associate Machine Learning Engineer | Islamabad, Pakistan | **7d** | [Apply](https://jobs.ashbyhq.com/imagineart/5123d166-c1d8-4c23-a18b-b9c10080702b) |
 | **[Northbridge Financial](https://www.nbfc.com/)** | Data Scientist | Toronto, Canada | **7d** | [Apply](https://northbridgefinancial.wd3.myworkdayjobs.com/en-US/nbfc/job/Toronto-ON/Data-Scientist_R5220-1) |
-| **Huron** | GenAI Engineer, Associate | Chicago - 550 Van Buren | 8d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/GenAI-Engineer--Associate_JR-0015456) |
 | **[Brain Co.](https://simplify.jobs/c/Brain-Co)** | Machine Learning Engineer New Grad | SF / San Francisco, CA | 8d | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true) |
 | **f7d8749a-72d6-407c-bf98-292ea630c73a** | Software Engineer II, Autonomy Behaviors (R5202) | Boston, Massachusetts | 8d | [Apply](https://jobs.ashbyhq.com/shield/6d47a056-8e71-4ffc-80d1-2ac8206325f1) |
 | **Litellm** | ML Engineer | San Francisco | 8d | [Apply](https://jobs.ashbyhq.com/litellm/ee96c797-fb2b-4f91-9639-6017ae73c34c) |
@@ -282,7 +279,7 @@ new grads.
 | **[Bosch](https://www.bosch.com/)** | Development Engineer - Machine Learning - f/m/div. | Cacia, Portugal | 12d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160171804-development-engineer-machine-learning-f-m-div-?oga=true) |
 | **Thales** | AI Engineer - Graduate | Orlando | 13d | [Apply](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
 | **[Bosch](https://www.bosch.com/)** | Data Scientist - f/m/div. | Braga, Portugal | 13d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159923639-data-scientist-f-m-div-?oga=true) |
-| **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland / London, United Kingdom | 13d | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W-2) |
+| **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland | 13d | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W-2) |
 | **[Western Digital](https://www.westerndigital.com)** | Scientist 2 - Data Science | Singapore, Singapore | 14d | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true) |
 | **Guidehouse** | Data Scientist - Jr. | US - VA, Arlington | 15d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist---Jr_43991) |
 | **Booz Allen Hamilton** | Reinforcement Learning AI Engineer | 4 Locations | 15d | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Reinforcement-Learning-AI-Engineer_R0245112) |
@@ -360,7 +357,6 @@ new grads.
 | **Schrödinger** | Scientific Machine Learning Engineer | New York | 50d | [Apply](https://job-boards.greenhouse.io/schrdinger/jobs/8008663003) |
 | **[Quantcast](https://simplify.jobs/c/Quantcast)** | Machine Learning Engineer | London, UK / London, United Kingdom | 50d | [Apply](https://jobs.ashbyhq.com/quantcast/c7c68a81-188a-463c-96b7-0bdfac6be655/application?embed=true) |
 | **[DBS Bank](https://www.dbs.com)** | 2027 Management Associate Programme - Technology and AI & Data Science | Singapore | 54d | [Apply](https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186) |
-| **Analog Devices** | Associate Machine Learning Engineer | US, MA, Boston | 57d | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1) |
 | **Tripadvisor** | ML Ops Engineer II (Experiences) | UK | 58d | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8222892) |
 | **[Mitsubishi Heavy Industries](https://simplify.jobs/c/Mitsubishi-Heavy-Industries)** | AI and Machine Learning Engineer | Leeds, UK | 58d | [Apply](https://jobs.smartrecruiters.com/MitsubishiPowerEMEA/744000151007599) |
 | **Dell Technologies** | Software Engineer 1 - IT | Texas | 61d | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784) |
