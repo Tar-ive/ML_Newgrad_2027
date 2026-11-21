@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**271** open roles
+**274** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-21 19:30 UTC_
+_Last refreshed: 2026-11-21 22:22 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -26,6 +26,7 @@ cliff after the first few days of a posting being live.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **OpenAI** | Researcher, Cyber Safety Training | San Francisco | **today** | [Apply](https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **[Omnimed](https://simplify.jobs/c/Omnimed)** | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada | **1d** | [Apply](https://omnimed.bamboohr.com/careers/73/) |
 | **[MD Analytics](https://simplify.jobs/c/MD-Analytics)** | Market Research Associate | Montreal, QC, Canada / Toronto, ON, Canada | **1d** | [Apply](https://mdanalytics.bamboohr.com/careers/85/) |
 | **[OctaiPipe](https://simplify.jobs/c/OctaiPipe)** | Applied Scientist - Machine Learning | London, UK | **1d** | [Apply](https://octaipipe.bamboohr.com/careers/49/) |
@@ -41,8 +42,8 @@ cliff after the first few days of a posting being live.
 | **GlobalFoundries** | AI/ML Device Modeling Engineer (2027 New College Graduate) | Texas Austin | **2d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083) |
 | **RTX (Raytheon)** | Algorithm Developer Research Engineer II - (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | **2d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Algorithm-Developer-Research-Engineer-II----Onsite-_01889945) |
 | **Vistra** | Data Scientist | Sierra / Irving, Texas | **2d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/irving-texas/data-scientist_40016989-1) |
-| **Integra FEC** | Junior Data Scientist | Austin, Texas | **2d** | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | **Txu** | Data Scientist | Irving, Texas | **2d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/Irving-Texas/Data-Scientist_40016989-1) |
+| **Integra FEC** | Junior Data Scientist | Austin, Texas | **3d** | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | **[Airbus](https://www.airbus.com)** | Stage 2027 - ML Ops & AI Systems - All Gender | Toulouse, France | **3d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Toulouse-Area/Stage-2027---ML-Ops---AI-Systems--All-Gender-_JR10450408) |
 | **[MedTourEasy](https://medtoureasy.com)** | Machine Learning Engineer | Worldwide +4 | **3d** | [Apply](https://app.dover.io/apply/job/926aa209-0f66-40de-aff2-677a4040e9ff/) |
 | **[MedTourEasy](https://medtoureasy.com)** | Data Scientist | Worldwide +4 | **3d** | [Apply](https://app.dover.io/apply/job/106f5f19-65f2-4524-955f-75f2405fba48/) |
@@ -106,8 +107,10 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Apple** | Data Science, Conversion Optimization, Apple Retail Online | Cupertino | **1d** | [Apply](https://jobs.apple.com/en-us/details/200696094) |
 | **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | **1d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) |
+| **[Intel](https://www.intel.com)** | AI Frameworks Engineer | Folsom, CA +1 | **7d** | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/AI-Frameworks-Engineer_JR0289178) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | 8d | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
 | **Apple** | CAD Automation and ML Engineer | Austin | 8d | [Apply](https://jobs.apple.com/en-us/details/200694953/cad-automation-and-ml-engineer?team=HRDWR) |
 | **Adobe** | 2027 University Graduate - Data Scientist | San Jose | 9d | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
@@ -127,7 +130,6 @@ and autonomy set.
 | **ByteDance** | Research Scientist - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD) | San Jose, California | 29d | [Apply](https://joinbytedance.com/search/7670374385110599989) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start | San Jose, California | 30d | [Apply](https://joinbytedance.com/search/7698902624003229957) |
 | **ByteDance** | Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD) | San Jose, California | 30d | [Apply](https://joinbytedance.com/search/7698902624389482757) |
-| **Apple** | Platform Engineer, Privacy Preserving ML | Cupertino | 36d | [Apply](https://jobs.apple.com/en-us/details/200658504/platform-engineer-privacy-preserving-ml?team=SFTWR) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - International Seller Services | Bengaluru, India | 38d | [Apply](https://www.amazon.jobs/jobs/10595857/apply) |
 | **ByteDance** | Machine Learning System Scheduling Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, California | 42d | [Apply](https://joinbytedance.com/search/7667727006294214965) |
 | **Microsoft** | Research Scientist - Economist | Washington, DC +1 | 44d | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557024073) |
@@ -137,7 +139,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start | San Jose, California / Seattle, Washington | 51d | [Apply](https://joinbytedance.com/search/7673268418623293749) |
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 51d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 57d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 59d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 59d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 59d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 60d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 66d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -170,7 +172,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 74d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 74d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 74d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 88d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 88d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 <!-- TABLE_BIGTECH_END -->
 
 ---
@@ -188,6 +190,7 @@ Quant research and ML roles at trading firms. These pay the most and close the f
 | **Jane Street** | Quantitative Researcher | New York | 8d | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002) |
 | **Optiver** | Graduate Quantitative Researcher, PhD (2027 Start) | New York | 8d | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start) |
 | **Jane Street** | Machine Learning Researcher | New York | 8d | [Apply](https://www.janestreet.com/join-jane-street/position/8384490002) |
+| **Two Sigma** | Data Scientist - Campus Full-Time | New York | 8d | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) |
 | **[Flow Traders](http://www.flowtraders.com)** | PhD Graduate Quantitative Researcher | Amsterdam, The Netherlands +2 | 43d | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8266897) |
 | **DRW** | AI Inference Platform Engineer | Chicago | 53d | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) |
 | **[DV Trading](https://www.dvtrading.co)** | 2027 Quantitative Researcher Graduate - DV QES | Hong Kong | 58d | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4736954005) |
@@ -224,8 +227,8 @@ new grads.
 | **GlobalFoundries** | AI/ML Device Modeling Engineer (2027 New College Graduate) | Texas Austin | **2d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083) |
 | **RTX (Raytheon)** | Algorithm Developer Research Engineer II - (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | **2d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Algorithm-Developer-Research-Engineer-II----Onsite-_01889945) |
 | **Vistra** | Data Scientist | Sierra / Irving, Texas | **2d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/irving-texas/data-scientist_40016989-1) |
-| **Integra FEC** | Junior Data Scientist | Austin, Texas | **2d** | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | **Txu** | Data Scientist | Irving, Texas | **2d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/Irving-Texas/Data-Scientist_40016989-1) |
+| **Integra FEC** | Junior Data Scientist | Austin, Texas | **3d** | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | **[Airbus](https://www.airbus.com)** | Stage 2027 - ML Ops & AI Systems - All Gender | Toulouse, France | **3d** | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Toulouse-Area/Stage-2027---ML-Ops---AI-Systems--All-Gender-_JR10450408) |
 | **[MedTourEasy](https://medtoureasy.com)** | Machine Learning Engineer | Worldwide +4 | **3d** | [Apply](https://app.dover.io/apply/job/926aa209-0f66-40de-aff2-677a4040e9ff/) |
 | **[MedTourEasy](https://medtoureasy.com)** | Data Scientist | Worldwide +4 | **3d** | [Apply](https://app.dover.io/apply/job/106f5f19-65f2-4524-955f-75f2405fba48/) |
@@ -286,6 +289,7 @@ new grads.
 | **[Airbus](https://www.airbus.com)** | Stage 2027 - Data Scientist Modélisation des risques indus sur la production d’avions - All Gender | Toulouse, France | 10d | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Toulouse-Area/Stage-2027---Data-Scientist--Modlisation-des-risques-indus-sur-la-production-d-avions--All-Gender-_JR10450399) |
 | **[The Hartford](https://www.thehartford.com)** | Associate Data Scientist - Personal Lines | Charlotte, NC +3 | 10d | [Apply](https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) |
 | **[Handshake](https://simplify.jobs/c/Handshake)** | Machine Learning Engineer 1 | SF / San Francisco, CA | 11d | [Apply](https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true) |
+| **[Tesco](https://simplify.jobs/c/Tesco)** | Data Scientist - Simulation & Digital Twins | United Kingdom | 12d | [Apply](https://tesco.avature.net/en_GB/careers/JobDetail/210371) |
 | **[Netholabs](https://simplify.jobs/c/Netholabs)** | Junior AI/ML Engineer | SF | 12d | [Apply](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true) |
 | **[The Brattle Group](https://simplify.jobs/c/TheBrattleGroup)** | Data and AI Engineer | SF +3 | 14d | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) |
 | **Thales** | AI Engineer - Graduate | Orlando | 14d | [Apply](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
