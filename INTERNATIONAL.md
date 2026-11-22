@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-22 08:12 UTC_
+_Last refreshed: 2026-11-22 13:38 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -25,6 +25,7 @@ cliff after the first few days of a posting being live.
 <!-- TABLE_NEW_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **OpenAI** | Researcher, Cyber Safety Training | San Francisco | **1d** | [Apply](https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000) |
 | **Apple** | Data Science, Conversion Optimization, Apple Retail Online | Cupertino | **2d** | [Apply](https://jobs.apple.com/en-us/details/200696094) |
 | **[Omnimed](https://simplify.jobs/c/Omnimed)** | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada | **2d** | [Apply](https://omnimed.bamboohr.com/careers/73/) |
@@ -34,10 +35,10 @@ cliff after the first few days of a posting being live.
 | **Astrion** | Machine Learning Engineer | Huntsville | **2d** | [Apply](https://astrioncareers-astrion.icims.com/jobs/23844/job?in_iframe=1) |
 | **HyrEzy Talent Solutions** | AI Engineer - Remote | India | **2d** | [Apply](https://app.pyjamahr.com/careers?company=HyrEzyTalentSolutions&job_id=430306&company_uuid=7B6B24193C) |
 | **Weekday 1** | Video Gen AI Engineer | India | **2d** | [Apply](https://apply.workable.com/weekday-1/j/E4A4A60693/) |
-| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[Continental AG](https://www.continental.com)** | Bachelor angewandte Mathematik & Data Science - Fachrichtung Technomathematik ab 01.09.2027 - m/w/d - Tires | Hannover, Germany | **2d** | [Apply](https://jobs.smartrecruiters.com/Continental/744000162544998-bachelor-angewandte-mathematik-data-science-fachrichtung-technomathematik-ab-01-09-2027-m-w-d-tires?oga=true) |
 | **[Fiserv](https://www.fiserv.com)** | Data Scientist - Professional I | Thāne, India | **2d** | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Thane-India/Data-Scientist---Professional-I_R-10401131) |
 | **[Sigmoid](https://www.sigmoid.com)** | Data Scientist | Bengaluru, India | **2d** | [Apply](https://job-boards.greenhouse.io/sigmoid/jobs/8951153002) |
+| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **3d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **GlobalFoundries** | AI/ML Device Modeling Engineer (2027 New College Graduate) | Texas Austin | **3d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083) |
 | **RTX (Raytheon)** | Algorithm Developer Research Engineer II - (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | **3d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Algorithm-Developer-Research-Engineer-II----Onsite-_01889945) |
 | **Vistra** | Data Scientist | Sierra / Irving, Texas | **3d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/irving-texas/data-scientist_40016989-1) |
@@ -106,8 +107,9 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Apple** | Data Science, Conversion Optimization, Apple Retail Online | Cupertino | **2d** | [Apply](https://jobs.apple.com/en-us/details/200696094) |
-| **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | **2d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) |
+| **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | **3d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) |
 | **[Intel](https://www.intel.com)** | AI Frameworks Engineer | Folsom, CA +1 | 8d | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/AI-Frameworks-Engineer_JR0289178) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | 8d | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
 | **Apple** | CAD Automation and ML Engineer | Austin | 9d | [Apply](https://jobs.apple.com/en-us/details/200694953/cad-automation-and-ml-engineer?team=HRDWR) |
@@ -138,7 +140,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start | San Jose, California / Seattle, Washington | 52d | [Apply](https://joinbytedance.com/search/7673268418623293749) |
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 52d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 58d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 59d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 59d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 60d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 60d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 67d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -171,7 +173,7 @@ and autonomy set.
 | **TikTok** | Algorithm Engineer - Global Live - LLM Strategy (Singapore) | Singapore, Singapore, Singapore | 75d | [Apply](https://lifeattiktok.com/search/7567265216904464693) |
 | **TikTok** | Machine Learning Engineer - Feed E-Commerce - Singapore | Singapore, Singapore, Singapore | 75d | [Apply](https://lifeattiktok.com/search/7520194141885401351) |
 | **TikTok** | Backend Engineer, TikTok ShortText Recommendation Architecture | Singapore, Singapore, Singapore | 75d | [Apply](https://lifeattiktok.com/search/7203541954381646139) |
-| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore | 88d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
+| **[TikTok](https://www.tiktok.com)** | LLM Agents Platform R&D Graduate - AI Innovation Center - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 88d | [Apply](https://lifeattiktok.com/search/7677848679684655413) |
 <!-- TABLE_BIGTECH_END -->
 
 ---
@@ -210,7 +212,7 @@ new grads.
 |---|---|---|---|---|
 | **FIS Global** | Data Scientist | US GA ATL 201 STE 900 | **1d** | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-ATL-201-STE-900/Data-Scientist_JR0308876-1) |
 | **Toyota Motor North America** | AI/ML Platform Engineer | Plano North | **1d** | [Apply](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-North/AI-ML-Platform-Engineer_10337203) |
-| **Hitachi** | Data Scientist I (MAD-BS-OR) | (HTA) NCP | **1d** | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Data-Scientist-I-or-II--MAD-BS-OR-_R0128931) |
+| **Hitachi** | Data Scientist I (MAD-BS-OR) | (HTA) NCP | **2d** | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Data-Scientist-I-or-II--MAD-BS-OR-_R0128931) |
 | **[Omnimed](https://simplify.jobs/c/Omnimed)** | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada | **2d** | [Apply](https://omnimed.bamboohr.com/careers/73/) |
 | **[MD Analytics](https://simplify.jobs/c/MD-Analytics)** | Market Research Associate | Montreal, QC, Canada / Toronto, ON, Canada | **2d** | [Apply](https://mdanalytics.bamboohr.com/careers/85/) |
 | **[OctaiPipe](https://simplify.jobs/c/OctaiPipe)** | Applied Scientist - Machine Learning | London, UK | **2d** | [Apply](https://octaipipe.bamboohr.com/careers/49/) |
@@ -218,10 +220,10 @@ new grads.
 | **Astrion** | Machine Learning Engineer | Huntsville | **2d** | [Apply](https://astrioncareers-astrion.icims.com/jobs/23844/job?in_iframe=1) |
 | **HyrEzy Talent Solutions** | AI Engineer - Remote | India | **2d** | [Apply](https://app.pyjamahr.com/careers?company=HyrEzyTalentSolutions&job_id=430306&company_uuid=7B6B24193C) |
 | **Weekday 1** | Video Gen AI Engineer | India | **2d** | [Apply](https://apply.workable.com/weekday-1/j/E4A4A60693/) |
-| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **2d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **[Continental AG](https://www.continental.com)** | Bachelor angewandte Mathematik & Data Science - Fachrichtung Technomathematik ab 01.09.2027 - m/w/d - Tires | Hannover, Germany | **2d** | [Apply](https://jobs.smartrecruiters.com/Continental/744000162544998-bachelor-angewandte-mathematik-data-science-fachrichtung-technomathematik-ab-01-09-2027-m-w-d-tires?oga=true) |
 | **[Fiserv](https://www.fiserv.com)** | Data Scientist - Professional I | Thāne, India | **2d** | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Thane-India/Data-Scientist---Professional-I_R-10401131) |
 | **[Sigmoid](https://www.sigmoid.com)** | Data Scientist | Bengaluru, India | **2d** | [Apply](https://job-boards.greenhouse.io/sigmoid/jobs/8951153002) |
+| **Caterpillar** | Autonomy Systems Engineering Specialist | East Peoria Illinois | **3d** | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Senior-Autonomy-Systems-Engineering-Specialist_R0000398223) |
 | **GlobalFoundries** | AI/ML Device Modeling Engineer (2027 New College Graduate) | Texas Austin | **3d** | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083) |
 | **RTX (Raytheon)** | Algorithm Developer Research Engineer II - (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | **3d** | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Algorithm-Developer-Research-Engineer-II----Onsite-_01889945) |
 | **Vistra** | Data Scientist | Sierra / Irving, Texas | **3d** | [Apply](https://vst.wd5.myworkdayjobs.com/txu_careers/job/irving-texas/data-scientist_40016989-1) |
@@ -272,7 +274,6 @@ new grads.
 | **Photoroom** | Product ML Engineer | Paris | **7d** | [Apply](https://jobs.ashbyhq.com/photoroom/866bdfdb-a1d8-4d68-b9d1-66219f5f2d59/application) |
 | **Turo** | Data Scientist, Dynamic Pricing | San Francisco | **7d** | [Apply](https://turo.wd12.myworkdayjobs.com/turo_careers/job/san-francisco/data-scientist--dynamic-pricing_r-102761) |
 | **[Grab](http://www.grab.com)** | Data Scientist - Analytics - Financial Services | Singapore, Singapore | 8d | [Apply](https://jobs.smartrecruiters.com/Grab/744000161431919-data-scientist-analytics-financial-services?oga=true) |
-| **[Monks](https://www.monks.com)** | Junior Data Scientist | London, United Kingdom | 8d | [Apply](https://www.monks.com/careers/6229302004/job?gh_jid=6229302004) |
 | **[Alexander Group](https://alexandergroup.com)** | Associate Commercial Data Scientist | Amancio, Cuba | 8d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3117795) |
 | **[Marshall Wace](https://simplify.jobs/c/Marshall-Wace)** | Quant Research - Quantitative Associate Programme | London, UK +2 | 9d | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) |
 | **Susquehanna International Group** | Machine Learning Discovery Summit (On-site) | New York | 9d | [Apply](https://careers.sig.com/jobs/11692) |
