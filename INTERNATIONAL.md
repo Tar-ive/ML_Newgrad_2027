@@ -12,7 +12,7 @@ to find the twelve that train models.
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-24 02:22 UTC_
+_Last refreshed: 2026-11-24 03:29 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -26,6 +26,7 @@ cliff after the first few days of a posting being live.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **Adobe** | 2027 University Graduate - Research Scientist | San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Statista** | Junior Analyst - International Ranking Projects (m/f/d) | Hamburg or Berlin | **1d** | [Apply](https://jobs.ashbyhq.com/statista/8bf15ee7-ba41-4117-afc1-eac0dc082d4d/application) |
 | **LyraTechAI** | Junior/Middle AI Engineer | Ukraine | **1d** | [Apply](https://djinni.co/jobs/859437-junior-middle-ai-engineer/) |
 | **OpenAI** | Researcher, Cyber Safety Training | San Francisco | **3d** | [Apply](https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000) |
@@ -96,6 +97,7 @@ and autonomy set.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **Adobe** | 2027 University Graduate - Research Scientist | San Jose | **today** | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
 | **Apple** | Data Science, Conversion Optimization, Apple Retail Online | Cupertino | **4d** | [Apply](https://jobs.apple.com/en-us/details/200696094) |
 | **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | **4d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) |
 | **[Google](https://www.google.com)** | Associate Data Scientist - Causal Machine Learning - Decision Science Systems - gReach Program - Japanese - English | Tokyo, Japan | 10d | [Apply](https://www.google.com/about/careers/applications/jobs/results/91377141089739462) |
@@ -127,7 +129,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start | San Jose, California / Seattle, Washington | 54d | [Apply](https://joinbytedance.com/search/7673268418623293749) |
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 54d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 60d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 61d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 61d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 62d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 62d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 69d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
@@ -280,7 +282,6 @@ new grads.
 | **Thales** | AI Engineer - Graduate | Orlando | 17d | [Apply](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
 | **[Bosch](https://www.bosch.com/)** | Development Engineer - Machine Learning - f/m/div. | Cacia, Portugal | 17d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160171804-development-engineer-machine-learning-f-m-div-?oga=true) |
 | **[MSD](https://www.msd.com)** | Associate Specialist - Imaging and Data Science | Singapore | 17d | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Biomedical-Grove/Associate-Specialist--Imaging-and-Data-Science_R424503) |
-| **[Aristocrat](https://www.aristocrat.com)** | Data Scientist | Barcelona, Spain | 17d | [Apply](https://aristocrat.wd3.myworkdayjobs.com/en-US/aristocratexternalcareerssite/job/Barcelona-Spain/Data-Scientist_R0023128-1) |
 | **[Bosch](https://www.bosch.com/)** | Data Scientist - f/m/div. | Braga, Portugal | 18d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159923639-data-scientist-f-m-div-?oga=true) |
 | **[Visa](https://visa.com/)** | Data Science Graduate | Warsaw, Poland | 18d | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/PL---Warsaw-Poland/Data-Science-Graduate_REF089534W-2) |
 | **[Western Digital](https://www.westerndigital.com)** | Scientist 2 - Data Science | Singapore, Singapore | 19d | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true) |
