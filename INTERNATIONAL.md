@@ -7,12 +7,12 @@ down from the general new-grad lists so you are not scrolling past 3,000 backend
 to find the twelve that train models.
 
 <!-- COUNT_START -->
-**253** open roles
+**255** open roles
 <!-- COUNT_END -->
 outside the US · [🇺🇸 US roles](/README.md) · **refreshed hourly**
 
 <!-- UPDATED_START -->
-_Last refreshed: 2026-11-27 15:20 UTC_
+_Last refreshed: 2026-11-27 15:33 UTC_
 <!-- UPDATED_END -->
 
 ---
@@ -26,6 +26,9 @@ cliff after the first few days of a posting being live.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | **[MSD](https://www.msd.com)** | Associate Specialist Data Science | Maharashtra, India +2 | **today** | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Maharashtra---Pune-Wework/Associate-Specialist-Data-Science_R429379-1) |
+| **Amazon** | Data Scientist II | Bengaluru, Karnataka, IND | **today** | [Apply](https://account.amazon.jobs/jobs/10615771/apply) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
+| **TikTok** | Algorithm Engineer Graduate (Global Live - Strategy) - 2026 Start (PhD) | Singapore, Singapore, Singapore | **today** | [Apply](https://lifeattiktok.com/search/7534919145475557639) |
 | **[Manulife](https://www.manulife.ca)** | Associate Data Scientist | Boston, MA +1 / Boston, Massachusetts | **1d** | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981) |
 | **Deepintent** | Applied AI Engineer | New York, New York | **1d** | [Apply](https://job-boards.greenhouse.io/deepintent/jobs/6268434004) |
 | **[BBVA](https://www.bbva.com)** | DATA SCIENTIST ASSOCIATE I | Lima, Peru | **1d** | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE-I_JR00121124) |
@@ -76,6 +79,9 @@ and autonomy set.
 <!-- TABLE_BIGTECH_START -->
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| **Amazon** | Data Scientist II | Bengaluru, Karnataka, IND | **today** | [Apply](https://account.amazon.jobs/jobs/10615771/apply) |
+| **TikTok** | Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS) | Sydney, New South Wales, Australia | **today** | [Apply](https://lifeattiktok.com/search/7657821105365027077) |
+| **TikTok** | Algorithm Engineer Graduate (Global Live - Strategy) - 2026 Start (PhD) | Singapore, Singapore, Singapore | **today** | [Apply](https://lifeattiktok.com/search/7534919145475557639) |
 | **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | **1d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) |
 | **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | **2d** | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) |
 | **Apple** | Data Science, Conversion Optimization, Apple Retail Online | Cupertino | **7d** | [Apply](https://jobs.apple.com/en-us/details/200696094) |
@@ -91,7 +97,6 @@ and autonomy set.
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Buyer Risk Prevention - BRP | Bengaluru, India | 23d | [Apply](https://www.amazon.jobs/jobs/10596351/apply) |
 | **Amazon** | Applied Scientist I, International Seller Services | Bengaluru, Karnataka, IND / Hyderabad, Telangana, IND | 24d | [Apply](https://account.amazon.jobs/jobs/10595857/apply) |
 | **Apple** | Machine Learning Engineer, Siri Speech | Cupertino | 24d | [Apply](https://jobs.apple.com/en-us/details/200693064/machine-learning-engineer-siri-speech?team=SFTWR) |
-| **Amazon** | Data Scientist II | Bengaluru, Karnataka, IND | 25d | [Apply](https://account.amazon.jobs/jobs/10593723/apply) |
 | **Amazon** | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 25d | [Apply](https://account.amazon.jobs/jobs/10583634/apply) |
 | **ByteDance** | New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US) | Seattle, WA +2 | 26d | [Apply](https://go.vansh.nyc/154) |
 | **[NVIDIA](https://www.nvidia.com)** | Compute System Arch Engineer - AI Infra - New College Grad 2027 | Shanghai, China | 28d | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) |
@@ -108,7 +113,7 @@ and autonomy set.
 | **ByteDance** | Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start | San Jose, California / Seattle, Washington | 57d | [Apply](https://joinbytedance.com/search/7673268418623293749) |
 | **ByteDance** | Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD) | San Jose, California | 57d | [Apply](https://joinbytedance.com/search/7668365756950137141) |
 | **[Adobe](https://www.adobe.com)** | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA +4 +2 | 63d | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
-| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore | 64d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
+| **[TikTok](https://www.tiktok.com)** | CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD | Singapore / Singapore, Singapore, Singapore | 64d | [Apply](https://lifeattiktok.com/search/7688653987118106933) |
 | **TikTok** | Model Optimization Specialist, DLO (KL) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | 65d | [Apply](https://lifeattiktok.com/search/7688608828722186501) |
 | **[Amazon](https://www.amazon.com)** | Applied Scientist I - Amazon Shipping | Gurugram, India | 65d | [Apply](https://www.amazon.jobs/jobs/10557374/apply) |
 | **TikTok** | Model Optimization Specialist, DLO | Singapore, Singapore, Singapore | 72d | [Apply](https://lifeattiktok.com/search/7685986093222136069) |
